@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Anurag Satpathy"
 title_separator          : "-"
 name                     : #"Anurag Satpathy"
-description              : "PhD student at the National Institute of Technology, Rourkela, India"
+description              : #"PhD student at the National Institute of Technology, Rourkela, India"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,9 +102,10 @@ analytics:
 author:
   name             : "Anurag Satpathy"
   avatar           : "/assets/images/anurag.jpg"
-  bio              : #"Anurag Satpathy"
-  location         : 
-  employer         : 
+  bio              : "PhD student at the National Institute of Technology, Rourkela, India"
+  location         : "National Institute of Technology, Rourkela"
+  location         : "Rourkela, India"
+  employer         : #
   email            : "anurag.satpathy@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -114,14 +115,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/anuragsatpathy"
+  github           : "https://github.com/anuragsatpathy"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :  "linkedin.com/in/anurag-satpathy-328b3387"
-  googlescholar    :  "scholar.google.com/citations?user=tqQX_g4AAAAJ&hl=en&oi=ao"
+  linkedin         :  "https://linkedin.com/in/anurag-satpathy-328b3387"
+  googlescholar    :  "https://scholar.google.com/citations?user=tqQX_g4AAAAJ&hl=en&oi=ao"
   pinterest        : #
   soundcloud       : #
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
