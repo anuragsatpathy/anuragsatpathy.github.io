@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", " aqua", "mint" "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -103,8 +103,8 @@ author:
   name             : "Anurag Satpathy"
   avatar           : "/assets/images/anurag.jpg"
   bio              : "PhD student at the National Institute of Technology, Rourkela, India"
-  employer         : "National Institute of Technology, Rourkela"
-  location         : "Rourkela, India"
+  employer         : #"National Institute of Technology, Rourkela"
+  location         : "National Institute of Technology, Rourkela, India"
   employer         : #
   email            : "anurag.satpathy@gmail.com"
   uri              :
