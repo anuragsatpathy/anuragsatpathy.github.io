@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" #"default" # "air", " aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", " aqua", "mint" "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -114,14 +114,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/anuragsatpathy"
+  github           : "github.com/anuragsatpathy"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :  "https://linkedin.com/in/anurag-satpathy-328b3387"
-  googlescholar    :  "https://scholar.google.com/citations?user=tqQX_g4AAAAJ&hl=en&oi=ao"
+  linkedin         :  "linkedin.com/in/anurag-satpathy-328b3387"
+  googlescholar    :  "scholar.google.com/citations?user=tqQX_g4AAAAJ&hl=en&oi=ao"
   pinterest        : #
   soundcloud       : #
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
