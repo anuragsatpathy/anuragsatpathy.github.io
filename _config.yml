@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
+#theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", " aqua", "mint" "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -36,7 +36,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light" #"dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -47,7 +47,7 @@ staticman:
   path                   : # "/_data/comments/{options.slug}" (default)
   requiredFields         : # ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                :  "anurag.satpathy@gmail.com"
   generatedFields:
     date:
       type               : # "date"
@@ -122,7 +122,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :  "anurag-satpathy-328b3387"
-  googlescholar    :  "citations?user=tqQX_g4AAAAJ&hl=en&oi=ao"
+  googlescholar    :  "scholar.google.com/citations?user=tqQX_g4AAAAJ&hl=en&oi=ao"
   pinterest        : #
   soundcloud       : #
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
