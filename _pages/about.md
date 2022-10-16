@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-Stuff & Things
+How are you Mr Pingu ? Bhala Achu?
 
-## Professional
+## MOTU SALA
 
 Look at all the work that I do, results that I have! 
 
 
-## Personal
+## MR PINGU
 Sometimes, I have free time and when I do I like to do things!
