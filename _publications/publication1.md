@@ -3,8 +3,8 @@ title: "ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on 
 collection: publications
 permalink: /publications/publication1
 date: 2022-06-15
-excerpt: "Developed a matching theory-based framework to dynamically relocate dyanmic virtual data center requets over a geo-distributed substrate network."
-venue: 'IEEE Transactions on Services Computing'
+excerpt: "Developed a matching theory-based framework with static prefernces to relocate dynamic virtual data center requets over a geo-distributed substrate network."
+venue: 'IEEE Transactions on Services Computing (**IF - 11.019**)'
 classes: wide
 ---
 ## Authors
