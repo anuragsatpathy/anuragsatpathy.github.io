@@ -2,7 +2,7 @@
 title: "ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory"
 collection: publications
 permalink: /publications/publication1
-excerpt:""
+excerpt:"We did some things and then published them."
 date: 2022-06-15
 venue: 'IEEE Transactions on Services Computing'
 classes: wide
