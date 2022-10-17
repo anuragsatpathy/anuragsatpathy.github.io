@@ -6,8 +6,6 @@ date: 2022-10-24
 venue: 'Computer Networks, Elsevier'
 ---
 
-### Summary
-Something, something.
 
 ### Contribution
 I did some MORE things!
