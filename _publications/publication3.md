@@ -2,7 +2,7 @@
 title: "CoMCLOUD: Virtual Machine Coalition for Multi-Tier Applications over Multi-Cloud Environments"
 collection: publications
 permalink: /publications/publication3
-excerpt: "We did some things and then published them."
+excerpt: "Proposed a multi-cloud broker model that selects a sub-optimal virtual machine coalition for multi-tier applications from an service provider catering to minimum coalition pricing and maximum quality-of-service for end users."
 date: 2021-10-26
 venue: 'IEEE Transactions on Cloud Computing'
 classes: wide
