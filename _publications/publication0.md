@@ -1,7 +1,7 @@
 ---
 title: "CoMap: An efficient virtual network re-mapping strategy based on coalitional matching theory"
 collection: publications
-permalink: /publications/publication2
+permalink: /publications/publication0
 date: 2022-10-24
 excerpt: "Developed a one-to-many matching framework with dynamic preferences to relocate virtual data center requests experiencing fluctuating resource demands over an interconnected substrate network.""
 venue: 'Computer Networks, Elsevier
