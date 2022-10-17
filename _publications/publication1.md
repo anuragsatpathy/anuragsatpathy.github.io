@@ -2,14 +2,9 @@
 title: "ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory"
 collection: publications
 permalink: /publications/publication1
-authors: 
-- "**Anurag Satpathy**" 
-- "Manmath Narayan Sahoo" 
-- "Lucky Behera" 
-- "Chittaranjan Swain"
-journal: "IEEE Transactions on Services Computing"
-pubslihser: "IEEE" 
 date: 2022-06-15
+venue: 'IEEE Transactions on Services Computing'
+authors: "**Anurag Satpathy**, Manmath Narayan Sahoo, Lucky Behera, and Chittaranjan Swain"
 classes: wide
 ---
 ## Abstract
