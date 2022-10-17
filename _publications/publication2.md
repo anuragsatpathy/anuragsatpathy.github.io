@@ -6,10 +6,6 @@ date: 2022-10-24
 venue: 'Computer Networks, Elsevier'
 ---
 
-
-### Contribution
-I did some MORE things!
-
 ### Abstract
 [~~Download paper here~~](http://link.to.paper2/)
 
