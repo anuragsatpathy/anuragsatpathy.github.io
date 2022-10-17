@@ -7,8 +7,8 @@ date: 2021-10-26
 venue: 'IEEE Transactions on Cloud Computing'
 classes: wide
 ---
-## Summary
-tl;dr
+## Authors
+Sourav Kanti Addya, **Anurag Satpathy**, Bishakh Chandra Ghosh, Sandip Chakraborty, Soumya K Ghosh, Sajal K Das.
 
 ## Contribution
 This is what I did!
