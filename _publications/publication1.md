@@ -1,22 +1,13 @@
 ---
-title: "Publication 1"
+title: "ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory"
 collection: publications
 permalink: /publications/publication1
-excerpt: "We did some things and then published them."
-date: 2012-03-20
-venue: 'Journal'
+date: 2022-06-15
+venue: 'IEEE Transactions on Services Computing'
 classes: wide
 ---
-## Summary
-tl;dr
-
-## Contribution
-This is what I did!
 
 ## Abstract
-Super details
+A virtual data center (VDC) comprises multiple virtual machines (VMs) with communication dependencies represented as virtual links (VLs). These virtual components, i.e., VMs and VLs, often experience fluctuating demands across different resource types. In this paper, we focus on addressing the issue of dynamic resource expansion that leads to the relocation of solution components (SCs), where a SC comprises a VM and its attached VLs, with either the VM and/or at least one of the VLs facing resource expansion. This is challenging because of the complexity involved in frequently relocating multiple dependent virtual components across the substrate network. This paper presents a model called ReMatch that aims at building an efficient remapping plan with reduced remapping cost and improved resource utilization for service providers (SPs) in polynomial time. The overall relocation problem is formulated as a one-to-many matching game with heterogeneous VM demands. Owing to the inapplicability of the classical deferred acceptance algorithm (DAA) and revised DA (RDA), we propose a modified version of the RDA (MRDA) to obtain a weakly stable assignment. Thorough simulation and analysis show that ReMatch outperforms the baseline algorithms considering multiple evaluation metrics.
 
-[Download paper here](https://www.paper.link/)
-
-## Recommended citation:
-Name2 et al. "Publication 1", 2012 (Journal 1)
+[Download paper here](10.1109/TSC.2022.3183259)
