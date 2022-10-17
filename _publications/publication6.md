@@ -1,7 +1,7 @@
 ---
 title: "A service sustainable live migration strategy for multiple virtual machines in cloud data centers"
 collection: publications
-permalink: /publications/publication5
+permalink: /publications/publication6
 excerpt: "This work proposes a modified serial migration strategy to schedule multiple virtual machines (VMs) migration based on the pre-copy live migration technique aimed at reducing migration overheads in terms of migration time and downtime."
 date: 2021-07-15
 venue: 'Big Data Research, Elsevier'
