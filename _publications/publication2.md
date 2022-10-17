@@ -5,8 +5,3 @@ permalink: /publications/publication2
 date: 2022-10-24
 venue: 'Computer Networks, Elsevier'
 ---
-
-### Abstract
-[~~Download paper here~~](http://link.to.paper2/)
-
-### Recommended citation
