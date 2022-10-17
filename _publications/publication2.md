@@ -1,11 +1,10 @@
 ---
-title: "Publication 2"
+title: "PCoMap: An efficient virtual network re-mapping strategy based on coalitional matching theory"
 collection: publications
 permalink: /publications/publication2
-excerpt: "This is an example of a paper in prep"
-date: 2018-05-03
-venue: 'In Prep'
-publ: "false"
+date: 2022-10-24
+venue: 'Computer Networks'
+publ: "Elsevier"
 ---
 
 ### Summary
