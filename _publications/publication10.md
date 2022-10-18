@@ -1,7 +1,7 @@
 ---
 title: "Evolution of Cloud-Fog-IoT Interconnection Networks"
 collection: publications
-permalink: /publications/publication9
+permalink: /publications/publication10
 excerpt: "This book chapter evolution of cloud networks starting from the traditional virtual machine (VM) based offerings to a more complex model that involves a fruitful interplay between the stratums."
 date: 2020-10-27
 venue: 'Cloud Network Management: An IoT Based Framework, Chapman and Hall CRC'
