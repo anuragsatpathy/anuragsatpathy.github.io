@@ -1,16 +1,16 @@
 ---
-title: "Evolution of Cloud-Fog-IoT Interconnection Networks"
+title: "METO: Matching-Theory-Based Efficient Task Offloading in IoT-Fog Interconnection Networks"
 collection: publications
 permalink: /publications/publication9
-excerpt: "This book chapter evolution of cloud networks starting from the traditional virtual machine (VM) based offerings to a more complex model that involves a fruitful interplay between the stratums."
-date: 2020-10-27
-venue: 'Cloud Network Management: An IoT Based Framework, Chapman and Hall CRC'
+excerpt: "This paper discusses an effective IoT offloading strategy for a densely connected IoT-Fog network that aims to reduce the total system energy and number of outages (number of tasks exceeding the deadline) in polynomial time."
+date: 2020-11-21
+venue: 'IEEE Internet of Things Journal'
 classes: wide
 ---
 ## Authors
-**Anurag Satpathy**
+Chittaranjan Swain, Manmath Narayan Sahoo, **Anurag Satpathy**, Khan Muhammad, Sambit Bakshi, Joel JPC Rodrigues, Victor Hugo C de Albuquerque
 
 ## Abstract
-This chapter discusses the evolution of cloud networks starting from the traditional virtual machine (VM) based offerings to a more complex model that involves a fruitful interplay between the stratums. It describes the strengths and weaknesses of each solution and highlights areas where open research can be conducted. The chapter deals with the evolution of traditional VM-based offering to virtual data centers and the challenges associated with it. It also discusses the need for fog computing and identifies the challenges associated with it. The chapter considers the challenges and applications of a more complicated cooperation between Internet of Things-Fog-Cloud. It elaborates the motivation behind such evolution and then discusses the roadblocks in the process. The chapter considers the pros and cons of the solution approaches and identifies areas where open research can be conducted.
+Typical cloud systems are often prone to inherent wide area network (WAN) latency. To address this issue fog computing is proposed that enables resource-constrained Internet-of-Things (IoT) devices, to execute deadline-sensitive tasks at the edge of the network. These devices can extend their battery lifespan by intelligently offloading computations as tasks to fog nodes (FNs) in their vicinity. However, finding an optimal offloading plan in a densely connected IoT-fog network is proven to be NP -Hard. Hence, in this article, we propose a matching theory-based efficient task offloading strategy called METO that aims to reduce the total system energy and number of outages (number of tasks exceeding the deadline) in an IoT-fog interconnection network. As resource allocation involves multiple criteria, their weights are derived using criteria importance though inter criteria correlation (CRITIC). Furthermore, to rank the alternatives we use the technique for order of preference by similarity to ideal solution (TOPSIS). Based on this ranking, we formulate the overall offloading problem as a one-to-many matching game and utilize the deferred acceptance algorithm (DAA) to produce a stable assignment. Simulation is performed in two different settings comprising offloading of homogeneous and heterogeneous tasks. Extensive simulations across both environments confirm that the proposed algorithm outperforms the existing schemes with respect to improved energy consumption, completion time, and execution time. Moreover, METO also shows the reduced number of outages across baselines used for comparison.
 
-[Download Paper Here](https://doi.org/10.1201/9780429288630)
+[Download Paper Here](https://ieeexplore.ieee.org/abstract/document/9201504)
