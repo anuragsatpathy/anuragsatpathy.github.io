@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/publicatio13
 excerpt: "This paper proposes a virtual machine (VM) migration model to reduce power consumption while migrating a set of VMs over geo-distributed clouds. As a solution strategy, we adopt an Ant Colony Optimization (ACO) inspired solution approach and formulate the overall problem as a bi-objective optimization that strikes a balance between the power consumption and the migration time to make the implementation realistic."
 date: 2019-08-29
-venue: '2019 IEEE 12th International Conference on Cloud Computing (CLOUD)'
+venue: '2019 IEEE 12th International Conference on Cloud Computing (CLOUD), Milan, Italy'
 classes: wide
 ---
 ## Authors
