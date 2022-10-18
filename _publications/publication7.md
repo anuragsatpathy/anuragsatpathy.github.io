@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/publication7
 excerpt: "This paper proposes a student project allocation (SPA) based efficient task offloading strategy that considers multiple parameters of stakeholders and aims to reduce the offloading energy and latency in a complex IoT Fog network."
 date: 2021-08-06
-venue: 'ICC 2021 - IEEE International Conference on Communications'
+venue: 'ICC 2021 - IEEE International Conference on Communications, Montreal, QC, Canada'
 classes: wide
 ---
 ## Authors
