@@ -1,7 +1,7 @@
 ---
 title: "Optimal vm coalition for multi-tier applications over multi-cloud broker environments"
 collection: publications
-permalink: /publications/publicatio14
+permalink: /publications/publicatio15
 excerpt: "This paper discusses a multi-cloud broker environment to select an optimal VM coalition for multi-tier applications from an SP with minimum coalition pricing and better quality of service. The coalition formation problem is modeled as a bi-objective optimization and is solved using an ant-colony meta-heuristic."
 date: 2019-05-13
 venue: '2019 11th International Conference on Communication Systems & Networks (COMSNETS), Bengaluru, India'
