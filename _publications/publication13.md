@@ -1,7 +1,7 @@
 ---
 title: "Power and time aware vm migration for multi-tier applications over geo-distributed clouds"
 collection: publications
-permalink: /publications/publicatio12
+permalink: /publications/publicatio13
 excerpt: "This paper proposes a virtual machine (VM) migration model to reduce power consumption while migrating a set of VMs over geo-distributed clouds. As a solution strategy, we adopt an Ant Colony Optimization (ACO) inspired solution approach and formulate the overall problem as a bi-objective optimization that strikes a balance between the power consumption and the migration time to make the implementation realistic."
 date: 2019-08-29
 venue: '2019 IEEE 12th International Conference on Cloud Computing (CLOUD)'
