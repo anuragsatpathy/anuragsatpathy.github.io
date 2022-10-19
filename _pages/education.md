@@ -6,7 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-## Education
 **In Progress**<br>
 Ph.D. in Knowledge<br>
 University<br>
