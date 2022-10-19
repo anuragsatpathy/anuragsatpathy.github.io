@@ -54,7 +54,7 @@ Visiting Researcher at National Institute of Technology, Rourkela, under the sup
 <ul>
 <li> <a href ="https://doi.org/10.1016/j.compeleceng.2017.12.032"> Crow search based virtual machine placement strategy in cloud data centers with live migration </a>
 </li>
-<ul>
+</ul>
 
 **Dec 2013 - May 2014**<br>
 Research Intern at the <a href="https://odisha.nic.in"> National Informatics Center, Bhubaneswar </a>, under the supervision of <a href="https://www.linkedin.com/in/c-r-kanungo-a9126038/?originalSubdomain=in">Mr. C.R. Kanungo </a> <br>
