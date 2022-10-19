@@ -50,7 +50,7 @@ Visiting Researcher at National Institute of Technology, Rourkela, under the sup
 
 *Research Contribution:* Worked on solving the virtual machine placement problem and developed an efficient strategy to solve the VMP problem using a meta-heuristic crow-search algorithm. Different live-migration techniques were also integrated with the placement model, and its comparative behavior was studied. <br>
 
-*Relevant Publications:* 
+*Relevant Publication:* 
 <ul>
 <li> <a href ="https://doi.org/10.1016/j.compeleceng.2017.12.032"> Crow search based virtual machine placement strategy in cloud data centers with live migration </a>
 </li>
