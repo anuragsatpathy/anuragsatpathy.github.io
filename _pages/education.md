@@ -32,4 +32,6 @@ B. Tech. in Information Technology<br>
 Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, India<br>
 Worked on developing efficient re-embedding stratgies for dynamic virtual data centers.<br>
 *Relevant Publications: 
-<a href ="https://ieeexplore.ieee.org/document/9796586"> ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory </a>*<br>
+<ol>
+<li> <a href ="https://ieeexplore.ieee.org/document/9796586"> ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory </a>*<br>
+</ol>>
