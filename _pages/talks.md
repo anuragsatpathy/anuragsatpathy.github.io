@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Talks and presentations"
-permalink: /talks/
+title: "Eduaction"
+permalink: /education/
 author_profile: true
 classes: wide
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Education"
 collection: education
-permalink: /education/edu
+permalink: /education/education1
 type: "Colloquium"
 venue: "University"
 date: 2018-02-16
