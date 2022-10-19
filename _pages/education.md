@@ -41,5 +41,5 @@ Worked on developing efficient re-embedding stratgies for dynamic virtual data c
 </li>
 <li>
 <a href ="https://ieeexplore.ieee.org/document/9284253"> VMatch: A Matching Theory Based VDC Reconfiguration Strategy </a>	
-</li>>
+</li>
 </ul>
