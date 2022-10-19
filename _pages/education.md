@@ -15,10 +15,10 @@ University: <a href="https://www.nitrkl.ac.in">National Institute of Technology,
 
 **2015-2017**<br>
 M.Tech. in Computer Science and Engineering<br>
-University: <a href= "https://www.bitmesra.ac.in"> Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India </a> <br>
+University: <a href= "https://www.bitmesra.ac.in"> Birla Institute of Technology Mesra, Ranchi, Jharkhand, India </a> <br>
 *GPA: 9.24/10*<br>
 *Thesis Title: Virtual Machine Placement in Cloud Data Centers*<br>
-*Advisor: Prof. Gadadhar Sahoo*
+*Advisor: <a href = "https://www.iitism.ac.in/index.php/Departments/faculties_detail_cse">Prof. Gadadhar Sahoo</a>a>*
 
 ## Research experience
 **2015 - Present**<br>
