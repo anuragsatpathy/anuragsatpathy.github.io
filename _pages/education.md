@@ -29,8 +29,8 @@ B. Tech. in Information Technology<br>
 
 ## Research Experience
 **2017 - Present**<br>
-Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, India<br>
-Worked on developing efficient re-embedding stratgies for dynamic virtual data centers.<br>
+Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, India under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom"> Prof. Manmath Narayan Sahoo</a><br>
+Worked on the issue of resource management– specifically, the focus is to develop efficient complete/selective re-embedding strategies for already embedded dynamic virtual data center requests experiencing demand fluctuations.<br>
 
 *Relevant Publications:* 
 <ul>
@@ -43,3 +43,7 @@ Worked on developing efficient re-embedding stratgies for dynamic virtual data c
 <a href ="https://ieeexplore.ieee.org/document/9284253"> VMatch: A Matching Theory Based VDC Reconfiguration Strategy </a>	
 </li>
 </ul>
+
+## Research Experience
+**May 2016 - April 2017**<br>
+Visiting Researcher at National Institute of Technology, Rourkela, under the supervision of <a href="https://www.vssut.ac.in/vice-chancellor-s-message.php"> Dr. Banshidhar Majhi </a> and <a href="https://cse.nitk.ac.in/faculty/sourav-kanti-addya"> Dr. Sourav Kanti Addya </a>
