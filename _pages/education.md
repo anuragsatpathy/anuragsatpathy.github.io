@@ -22,13 +22,14 @@ M.Tech. in Computer Science and Engineering<br>
 
 **2010-2014**<br>
 B. Tech. in Information Technology<br>
-<a href= "https://www.iiit-bh.ac.in"> International Institute of Information Technology, Bhubaneswar, Odisha, India </a> <br>
+<a href= "https://www.iiit-bh.ac.in"> International Institute of Information Technology Bhubaneswar, Odisha, India </a> <br>
 *GPA: 7.91/10*<br>
 *Project Title: Office network setup and analysis*<br>
 *Advisor: <a href = "https://sites.google.com/iiit-bh.ac.in/computer-science/people/faculty/hemanta?authuser=0">Prof. Hemanta Kumar Pati</a>*
 
-## Research experience
-**2015 - Present**<br>
-Position<br>
-I accomplished some things.<br>
-*Relevant Publications: <a href="../publications/publication1" class="uline">Name2 et al. 2016</a>*<br>
+## Research Experience
+**2017 - Present**<br>
+Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, India<br>
+Worked on developing efficient re-embedding stratgies for dynamic virtual data centers.<br>
+*Relevant Publications: 
+<a href ="https://ieeexplore.ieee.org/document/9796586"> ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory </a>*<br>
