@@ -56,6 +56,11 @@ Visiting Researcher at National Institute of Technology, Rourkela, under the sup
 </li>
 <ul>
 
+**Dec 2013 - May 2014**
+Research Intern at the <a href="https://odisha.nic.in"> National Informatics Center, Bhubaneswar </a>, under the supervision of <a href="https://www.linkedin.com/in/c-r-kanungo-a9126038/?originalSubdomain=in">Mr. C.R. Kanungo </a>> <br>
+
+*Project Details:* Worked on the various routing protocols using cisco-certified simulation tools. Setting up an entire network and router configuration and coming up with conclusions to suggest the routing protocols to be opted for depending on the network latency and traffic, respectively, for a particular setup scenario.
+
 
 
 
