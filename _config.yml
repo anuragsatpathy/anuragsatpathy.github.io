@@ -282,7 +282,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  talks:
+  education:
     output: true
     permalink: /:collection/:path/
   code:
@@ -313,10 +313,10 @@ defaults:
     values:
       layout: single-publication
       author_profile: true
-  # _talks
+  # _education
   - scope:
       path: ""
-      type: talks
+      type: education
     values:
       layout: single-talk
       author_profile: true
