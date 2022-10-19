@@ -318,7 +318,7 @@ defaults:
       path: ""
       type: education
     values:
-      layout: single-education
+      layout: single-talk
       author_profile: true
   # _code
   - scope:
