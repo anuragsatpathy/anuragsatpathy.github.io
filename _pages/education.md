@@ -6,10 +6,10 @@ author_profile: true
 classes: wide
 ---
 
-**In Progress**<br>
-Ph.D. in Ph.D. in Computer Science and Engineering (Thesis Submitted) <br>
-National Institute of Technology, Rourkela, Odisha India <br>
-*Thesis Title: Efficient Re-Embedding Strategies for Virtual Data Centers over Multi-Domain Substrate Networks*
+**In Progress (2017-Present)**<br>
+Ph.D. in Computer Science and Engineering (Thesis Submitted) <br>
+<a href="https://www.nitrkl.ac.in">National Institute of Technology, Rourkela, Odisha India</a><br>
+*Thesis Title: Efficient Re-Embedding Strategies for Virtual Data Centers over Multi-Domain Substrate Networks*<br>
 *Advisor: Prof. Manmath Narayan Sahoo*
 
 **1990-2010**<br>
