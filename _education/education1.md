@@ -3,10 +3,8 @@ title: "Education"
 collection: education
 permalink: /education/education1
 excerpt: "A package that calculates some numbers!"
-classes: wide
 ---
 ## Education
----
 **In Progress**<br>
 Ph.D. in Knowledge<br>
 University<br>
@@ -18,8 +16,6 @@ School<br>
 *Advisor: Prof. Paul Dirac*
 
 ## Research experience
----
-
 **2015 - Present**<br>
 Position<br>
 I accomplished some things.<br>
