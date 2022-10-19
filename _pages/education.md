@@ -31,11 +31,15 @@ B. Tech. in Information Technology<br>
 **2017 - Present**<br>
 Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, India<br>
 Worked on developing efficient re-embedding stratgies for dynamic virtual data centers.<br>
+
 *Relevant Publications:* 
 <ul>
 <li> <a href ="https://ieeexplore.ieee.org/document/9796586"> ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory </a>
 </li>
 <li>
 <a href ="https://doi.org/10.1016/j.comnet.2022.109248"> CoMap: An efficient virtual network re-mapping strategy based on coalitional matching theory </a>	
+</li>
+<li>
+<a href ="https://ieeexplore.ieee.org/document/9284253"> VMatch: A Matching Theory Based VDC Reconfiguration Strategy </a>	
 </li>>
-</ul>>
+</ul>
