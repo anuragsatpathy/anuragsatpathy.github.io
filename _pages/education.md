@@ -31,7 +31,7 @@ B. Tech. in Information Technology<br>
 **2017 - Present**<br>
 Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, India under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom"> Prof. Manmath Narayan Sahoo</a><br>
 
-*Research Area:* Worked on the issue of resource management– specifically, the focus was to develop efficient complete/selective re-embedding strategies for already embedded dynamic virtual data center requests experiencing demand fluctuations. <br>
+*Research Contributions:* Worked on the issue of resource management– specifically, the focus was to develop efficient complete/selective re-embedding strategies for already embedded dynamic virtual data center requests experiencing demand fluctuations. <br>
 
 *Relevant Publications:* 
 <ul>
@@ -45,11 +45,11 @@ Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, Ind
 </li>
 </ul>
 
-## Research Experience
 **May 2016 - April 2017**<br>
 Visiting Researcher at National Institute of Technology, Rourkela, under the supervision of <a href="https://www.vssut.ac.in/vice-chancellor-s-message.php"> Dr. Banshidhar Majhi </a> and <a href="https://cse.nitk.ac.in/faculty/sourav-kanti-addya"> Dr. Sourav Kanti Addya </a>
 
-*Research Area:* Worked on solving the virtual machine placement problem and developed an efficient strategy to solve the VMP problem using a meta-heuristic crow-search algorithm. Different live-migration techniques were also integrated with the placement model, and its comparative behavior was studied. <br>
+*Research Contribution:* Worked on solving the virtual machine placement problem and developed an efficient strategy to solve the VMP problem using a meta-heuristic crow-search algorithm. Different live-migration techniques were also integrated with the placement model, and its comparative behavior was studied. <br>
+
 *Relevant Publications:* 
 <ul>
 <li> <a href ="https://doi.org/10.1016/j.compeleceng.2017.12.032"> Crow search based virtual machine placement strategy in cloud data centers with live migration </a>
