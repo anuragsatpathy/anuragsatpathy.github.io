@@ -15,10 +15,17 @@ Ph.D. in Computer Science and Engineering (Thesis Submitted) <br>
 
 **2015-2017**<br>
 M.Tech. in Computer Science and Engineering<br>
-<a href= "https://www.bitmesra.ac.in"> Birla Institute of Technology Mesra, Ranchi, Jharkhand, India </a> <br>
+<a href= "https://www.bitmesra.ac.in"> Birla Institute of Technology Mesra, Jharkhand, India </a> <br>
 *GPA: 9.24/10*<br>
 *Thesis Title: Virtual Machine Placement in Cloud Data Centers*<br>
 *Advisor: <a href = "https://www.iitism.ac.in/index.php/Departments/faculties_detail_cse">Prof. Gadadhar Sahoo</a>*
+
+**2010-2014**<br>
+B. Tech. in Information Technology<br>
+<a href= "https://www.iiit-bh.ac.in"> International Institute of Information Technology, Bhubaneswar, Odisha, India </a> <br>
+*GPA: 7.91/10*<br>
+*Project Title: Office network setup and analysis*<br>
+*Advisor: <a href = "https://sites.google.com/iiit-bh.ac.in/computer-science/people/faculty/hemanta?authuser=0">Prof. Hemanta Kumar Pati</a>*
 
 ## Research experience
 **2015 - Present**<br>
