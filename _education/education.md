@@ -1,6 +1,6 @@
 ---
-title: "Super Awesome Talk"
-collection: talks
+title: "Education"
+collection: education
 type: "Colloquium"
 venue: "University"
 date: 2018-02-16
