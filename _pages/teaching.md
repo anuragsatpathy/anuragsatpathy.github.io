@@ -60,11 +60,11 @@ classes: wide
 **Undergraduate Students**
 <ul>
 	<li>
-		Lucky Behera (B.Tech., National Institute of Technology, Rourkela, 2019 - 2020)<br>, 
+		<a href="https://www.linkedin.com/in/lucky-behera-644284193">Lucky Behera </a> (B.Tech., National Institute of Technology, Rourkela, 2019 - 2020)<br>, 
 		<i>Project: Virtual Machine Selection Policy using Deep Q-Learning</i>
 	</li>
 	<li>
-		Lipsa Chhotray (B.Tech., National Institute of Technology, Rourkela, 2018 - 2019),<br> 
+		<a href="https://www.linkedin.com/in/lipsa-chhotray-nitr"> Lipsa Chhotray </a> (B.Tech., National Institute of Technology, Rourkela, 2018 - 2019),<br> 
 		<i>Project: Virtual Data Center Embedding in Cloud </i>
 	</li>
 	<li>
