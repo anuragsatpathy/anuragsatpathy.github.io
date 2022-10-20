@@ -11,7 +11,7 @@ classes: wide
  Chittaranjan Swain, Manmath Narayan Sahoo, **Anurag Satpathy**.
 
 ## Conference
-2021 IEEE International Conference on Web Services (ICWS) (**Core Rank - A**)
+2021 IEEE International Conference on Web Services (ICWS) **(Core Rank - A), Acceptance Rate - 23.7%**
 
 ## Abstract
 The resource-constrained IoT devices often offload tasks to Fog nodes (FNs) owing to the intermittent WAN delays and multi-hopping by executing at remote cloud servers. An efficient allocation strategy satisfies the users' requirements by ensuring minimum offloading delays and provides a balanced assignment from the service providers' (SPs) viewpoint. This paper presents a model called LETO that reduces the total offloading delay for real-time tasks and achieves a balanced assignment across FNs. The overall problem is modeled as a one-to-many matching game with maximum and minimum quotas. Owing to the deferred acceptance algorithm (DAA) inapplicability, we use a proficient version of the DAA called multi-stage deferred acceptance algorithm (MSDA) to obtain a fair and Pareto-optimal assignment of tasks to FNs. Extensive simulations confirm that LETO can achieve a more balanced assignment compared to the baseline algorithms.
