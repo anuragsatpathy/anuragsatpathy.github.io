@@ -42,16 +42,16 @@ classes: wide
 *National Institute of Technology, Rourkela* <br>
 *Responsibilities: Lab sessions, Demo sessions, Grading, Vivas* <br>
 
-### Mentoring
+## Mentoring
 **Graduate Students**<br>
 <ul>
 	<li>
 		Chittaranjan Swain (Ph.D., National Institute of Technology, Rourkela, 2018 - Present)
 	</li>
 	<li>
-		K. Kumar T G (Ph.D., National Institute of Technology, Karnataka Surathkal, 2020 - Present)
+		Keerthan Kumar T G (Ph.D., National Institute of Technology, Karnataka 2020 - Present)
 	</li>
 	<li>
-		Arpana Chakma (M. Tech., National Institute of Technology, Karnataka Surathkal, 2020 - 2021), <i> Thesis: MatchCloud: Service Matching For Multi Cloud Marketplace </i>
+		Arpana Chakma (M. Tech., National Institute of Technology, Karnataka, 2020 - 2021), <i> Thesis: MatchCloud: Service Matching For Multi Cloud Marketplace </i>
 	</li>
 </ul>	
