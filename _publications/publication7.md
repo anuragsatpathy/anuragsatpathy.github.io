@@ -11,7 +11,7 @@ classes: wide
  Chittaranjan Swain, Manmath Narayan Sahoo, **Anurag Satpathy**.
 
 ## Conference
-"ICC 2021 - IEEE International Conference on Communications' (**Core Rank - B**)
+*ICC 2021 - IEEE International Conference on Communications* (**Core Rank - B**)
 
 ## Abstract
 The Internet of Things (IoT) devices are highly reliant on cloud systems to meet their storage and computational demands. However, due to the remote location of cloud servers, IoT devices often suffer from intermittent Wide Area Network (WAN) latency which makes execution of delay-critical IoT applications inconceivable. To overcome this, service providers (SPs) often deploy multiple fog nodes (FNs) at the network edge that helps in executing offloaded computations from IoT devices with improved user experience. As the FNs have limited resources, matching IoT services to FNs while ensuring minimum latency and energy from an end-user’s perspective and maximizing revenue and tasks meeting deadlines from a SP’s standpoint is challenging. Therefore in this paper, we propose a student project allocation (SPA) based efficient task offloading strategy called SPATO that takes into account key parameters from different stakeholders. Thorough simulation analysis shows that SPATO is able to reduce the offloading energy and latency respectively by 29% and 40% and improves the revenue by 25% with 99.3% tasks executing within their deadline.

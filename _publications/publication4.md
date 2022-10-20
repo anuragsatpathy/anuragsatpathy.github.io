@@ -11,7 +11,7 @@ classes: wide
  Ashutosh Mishra,Manmath Narayan Sahoo, **Anurag Satpathy**.
 
 ## Journal
-'Transactions on Emerging Telecommunications Technologies, Wiley' (**IF - 3.310**)
+*Transactions on Emerging Telecommunications Technologies, Wiley* (**IF - 3.310**)
 
 ## Abstract
 Task scheduling is essential to enhance the performance of large scale collaborative and distributed e-business and e-science applications. A typical such application comprises multiple communicating tasks to be executed on virtualized resources also called as virtual machines (VMs). However, scheduling multiple tasks to VMs is non-trivial and is proven to be NP-Complete. The primary agenda of any scheduling technique is to reduce the makespan, which reflects the completion time of the exit task. Focusing on makespan reduction for scheduling multiple tasks across heterogeneous VMs, in this paper, we propose a model called H3CSA based on a meta-heuristic crow search algorithm (CSA). In order to assess the performance of H3CSA, its performance is compared with baselines such as HEFT-B, HEFT-T, HEFT-L, a genetic algorithm based technique (N-GA) and particle swarm optimization based technique (PPSO). Simulation results show improved performance of H3CSA with respect to N-GA and PPSO for smaller applications. However, considering sizeable applications H3CSA shows comparable performance with respect to N-GA and improved results for PPSO.

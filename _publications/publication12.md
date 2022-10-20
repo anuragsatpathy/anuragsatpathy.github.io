@@ -11,7 +11,7 @@ classes: wide
 **Anurag Satpathy**, Manmath Narayan Sahoo, Lucky Behera, Chittaranjan Swain, Ashutosh Mishra.
 
 ## Conference 
-'2020 IEEE 13th International Conference on Cloud Computing (CLOUD)' (**Core Rank - B), Acceptance Rate - 17%**
+*2020 IEEE 13th International Conference on Cloud Computing (CLOUD)* (**Core Rank - B), Acceptance Rate - 17%**
 
 **Received the YESC Student Paper Participation Award** [Link](https://conferences.computer.org/services/2020/news)
 

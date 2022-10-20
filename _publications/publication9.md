@@ -11,7 +11,7 @@ classes: wide
 Chittaranjan Swain, Manmath Narayan Sahoo, **Anurag Satpathy**, Khan Muhammad, Sambit Bakshi, Joel JPC Rodrigues, Victor Hugo C de Albuquerque.
 
 ## Journal 
-'IEEE Internet of Things Journal' (**IF - 10.238**)
+*IEEE Internet of Things Journal* (**IF - 10.238**)
 
 
 ## Abstract

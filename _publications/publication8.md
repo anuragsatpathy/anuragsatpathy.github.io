@@ -11,7 +11,7 @@ classes: wide
 Arpana Chakma, Shubham Kumar, Pradeep Kumar Mahato, **Anurag Satpathy**, Sourav Kanti Addya.
 
 ## Conference
-'2021 International Conference on COMmunication Systems & NETworkS (COMSNETS)' (**Core Rank - National India**)
+*2021 International Conference on COMmunication Systems & NETworkS (COMSNETS)* (**Core Rank - National India**)
 
 **Recieved the best poster award** [Link](https://www.comsnets.org/archive/2021/awards.html)
 
