@@ -1,11 +1,11 @@
 ---
-title: "Lecturer - Physics 101"
+title: "Teaching Assistant CS3071: Operating Systems Laboratory"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/course1
-university: "University"
+university: "National Institute of Technology, Rourkela"
 date: 2014-09-01
-semester: "Fall 2014"
+semester: "Fall 2021"
 ---
 
-I even taught a class! Here are some more details.
+Responsibilities: Lab sessions, Demo sessions, Grading, Vivas.
