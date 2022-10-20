@@ -19,18 +19,28 @@ classes: wide
 </ul>
 
 
-## Reviewer
+## Reviewer in Journals
 <ul>
 	<li>
-		Expert Systems with Applications, Elsevier
+		Expert Systems with Applications, Elsevier.
 	</li> 
 	<li>
-		Cluster Computing, Springer
+		Cluster Computing, Springer.
 	</li>
 	<li>
-		Journal of Ambient Intelligence and Humanized Computing, Springer
+		Journal of Ambient Intelligence and Humanized Computing, Springer.
 	</li>
 	<li>
-		Concurrency and Computation: Practice and Experience, Wiley
+		Concurrency and Computation: Practice and Experience, Wiley.
+	</li>
+</ul>
+
+## Society Memberships
+<ul>
+	<li>
+		Institute of Electrical and Electronics Engineers (IEEE), Graduate Student Member (2018-present)
+	</li> 
+	<li>
+		Association for Computing Machinery (ACM), Student Member (2018-present)
 	</li>
 </ul>
