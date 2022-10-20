@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-### Teaching Assistant
+## Teaching Assistant
 **Fall 2021**<br>
 **CS3071 - Operating Systems Laboratory** (Undergraduate Course) <br>
 *National Institute of Technology, Rourkela* <br>
@@ -43,7 +43,7 @@ classes: wide
 *Responsibilities: Lab sessions, Demo sessions, Grading, Vivas* <br>
 
 ## Mentoring
-**Graduate Students**<br>
+**Graduate Students**
 <ul>
 	<li>
 		Chittaranjan Swain (Ph.D., National Institute of Technology, Rourkela, 2018 - Present)
