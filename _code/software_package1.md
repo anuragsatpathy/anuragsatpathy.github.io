@@ -5,7 +5,7 @@ permalink: /code/
 author_profile: true
 classes: wide
 ---
-## Program committee Memberships
+## Program Committee Memberships
 <ul>
 	<li>
 		TPC Member of 7th International Conference on Recent Advances & Innovations in Engineering, 2022, (1-3 December, 2022), Surathakl, India [<a href="https://icraie.nitk.ac.in/progTechComm.html"> Link </a>].
