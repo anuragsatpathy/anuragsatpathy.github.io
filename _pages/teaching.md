@@ -52,6 +52,24 @@ classes: wide
 		Keerthan Kumar T G (Ph.D., National Institute of Technology, Karnataka 2020 - Present)
 	</li>
 	<li>
-		Arpana Chakma (M. Tech., National Institute of Technology, Karnataka, 2020 - 2021), <i> Thesis: MatchCloud: Service Matching For Multi Cloud Marketplace </i>
+		Arpana Chakma (M. Tech., National Institute of Technology, Karnataka, 2020 - 2021),<br> 
+		<i> Thesis: MatchCloud: Service Matching For Multi Cloud Marketplace </i>
 	</li>
 </ul>	
+
+**Undergraduate Students**
+<ul>
+	<li>
+		Lucky Behera (B.Tech., National Institute of Technology, Rourkela, 2019 - 2020)<br>, 
+		<i>Project: Virtual Machine Selection Policy using Deep Q-Learning</i>
+	</li>
+	<li>
+		Lipsa Chhotray (B.Tech., National Institute of Technology, Rourkela, 2018 - 2019),<br> 
+		<i>Project: Virtual Data Center Embedding in Cloud </i>
+	</li>
+	<li>
+		Kasturi Panda (B.Tech., National Institute of Technology, Rourkela, 2018 - 2019),<br> 
+		<i>Project: Virtual Machine Migration in Cloud</i>
+	</li>
+</ul>	
+
