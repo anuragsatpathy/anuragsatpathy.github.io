@@ -1,6 +1,6 @@
 ---
-title: "software_package1"
-collection: code
+layout: archive
+title: "Activities"
 permalink: /code/
 author_profile: true
 classes: wide
