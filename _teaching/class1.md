@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant Operating Systems Laboratory (Course Id: CS3071)"
+title: "Teaching Assistant: CS3071-Operating Systems Laboratory"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/course1
