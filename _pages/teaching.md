@@ -52,6 +52,6 @@ classes: wide
 		K. Kumar T G (Ph.D., National Institute of Technology, Karnataka Surathkal, 2020 - Present)
 	</li>
 	<li>
-		Arpana Chakma (M. Tech., National Institute of Technology, Karnataka Surathkal, 2020 - 2021), <i>Thesis: MatchCloud: Service Matching For Multi Cloud Marketplace<i>
+		Arpana Chakma (M. Tech., National Institute of Technology, Karnataka Surathkal, 2020 - 2021), <i> Thesis: MatchCloud: Service Matching For Multi Cloud Marketplace </i>
 	</li>
 </ul>	
