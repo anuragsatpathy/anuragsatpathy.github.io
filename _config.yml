@@ -323,9 +323,9 @@ defaults:
   # _code
   - scope:
       path: ""
-      type: code
+      type: activities
     values:
-      layout: single-code
+      layout: single-activities
       author_profile: true
 
 
