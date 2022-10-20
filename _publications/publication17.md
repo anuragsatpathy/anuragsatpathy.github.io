@@ -11,7 +11,7 @@ classes: wide
 **Anurag Satpathy**, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi, Gadadhar Sahoo.
 
 ## Journal
-Computers & Electrical Engineering, Elsevier **(IF - 4.152)**
+'Computers & Electrical Engineering, Elsevier' **(IF - 4.152)**
 
 ## Abstract
 Cloud computing has emerged as the most revolutionary technology in the field of computing. The cloud service providers (CSPs) have high computational facilities called data centers (DCs) at their disposal. CSPs provide services to the users through virtual machines (VMs). VM placement is the mapping of VMs onto physical machine called hosts. In this paper, we propose a two-tier virtual machine placement algorithm. Firstly, we propose a queueing structure to manage and schedule a large set of VMs. Secondly, a multi-objective VM placement algorithm called crow search based VM placement (CSAVMP) is proposed to reduce the resources wastage and power consumption at the data centers. VM migration is an indispensable part of any cloud platform for activities like maintenance, load balancing, fault tolerance etc. Three different migration strategies namely serial, parallel, improved serial have been tested and a comparative result has been produced.

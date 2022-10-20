@@ -11,8 +11,9 @@ classes: wide
 Arpana Chakma, Shubham Kumar, Pradeep Kumar Mahato, **Anurag Satpathy**, Sourav Kanti Addya.
 
 ## Conference
-2021 International Conference on COMmunication Systems & NETworkS (COMSNETS) (**Core Rank - National India**)
-Recieved the best poster award [Award Link](https://www.comsnets.org/archive/2021/awards.html)
+'2021 International Conference on COMmunication Systems & NETworkS (COMSNETS)' (**Core Rank - National India**)
+
+**Recieved the best poster award** [Link](https://www.comsnets.org/archive/2021/awards.html)
 
 ## Abstract
 The modern applications execute in the cloud via independent executable entities called virtual machines (VMs). In a typical multi-SP market with variable pricing and heterogeneous resource demands of VMs, resource allocation/placement is particularly challenging. To maximize the social welfare of the multi-SP markets, in this paper, we propose a resource allocation technique called MatchCloud formulated as a one-to-many matching game. Owing to the in-applicability of the classical deferred acceptance algorithm (DAA) due to size heterogeneity, we adopt a modified version of the algorithm. Moreover, preference generation is crucial for matching markets. Hence, we also present a simple yet efficient technique to assign preferences to two different stakeholders, i.e., VMs and SPs. Simulation results show that VM proposing RDA performs better compared to when SPs propose.
