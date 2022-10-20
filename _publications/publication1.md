@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/publicatio1
 excerpt: "Developed a one-to-many matching framework with dynamic preferences to relocate virtual data center requests experiencing fluctuating resource demands over an interconnected substrate network."
 date: 2022-08-04
-venue: 'Computer Networks, Elsevier'
+venue: 'Computer Networks, Elsevier' (IF - 5.493)
 classes: wide
 ---
 ## Authors
