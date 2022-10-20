@@ -6,8 +6,10 @@ author_profile: true
 classes: wide
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+title: "Teaching Assistant : CS3071 - Operating Systems Laboratory"
+collection: teaching
+type: "Undergraduate Course"
+university: "National Institute of Technology, Rourkela"
+date: 2014-09-01
+semester: "Fall 2021"
+*Responsibilities:* Lab sessions, Demo sessions, Grading, Vivas.
