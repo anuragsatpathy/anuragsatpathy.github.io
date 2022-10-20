@@ -52,7 +52,7 @@ classes: wide
 		Keerthan Kumar T G (Ph.D., National Institute of Technology, Karnataka 2020 - Present)
 	</li>
 	<li>
-		<a href="https://www.linkedin.com/in/arpana-chakma">Arpana Chakma </a> (M. Tech., National Institute of Technology, Karnataka, 2020 - 2021),<br> 
+		<a href="https://www.linkedin.com/in/arpana-chakma">Arpana Chakma </a> (M. Tech., National Institute of Technology, Karnataka, 2020 - 2021) <br> 
 		<i> Thesis: MatchCloud: Service Matching For Multi Cloud Marketplace </i>
 	</li>
 </ul>	
@@ -70,7 +70,7 @@ using Stable Matching
 		<i>Project: Virtual Machine Selection Policy using Deep Q-Learning</i>
 	</li>
 	<li>
-		<a href="https://www.linkedin.com/in/lipsa-chhotray-nitr"> Lipsa Chhotray </a>  (B.Tech., National Institute of Technology, Rourkela, 2018 - 2019) s<br> 
+		<a href="https://www.linkedin.com/in/lipsa-chhotray-nitr"> Lipsa Chhotray </a>  (B.Tech., National Institute of Technology, Rourkela, 2018 - 2019) <br> 
 		<i>Project: Virtual Data Center Embedding in Cloud </i>
 	</li>
 	<li>
