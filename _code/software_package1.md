@@ -5,11 +5,17 @@ permalink: /code/
 author_profile: true
 classes: wide
 ---
-## Technical Program committee Member
+## Program committee Memberships
 <ul>
 	<li>
-		7th International Conference on Recent Advances & Innovations in Engineering, 2022, (1-3 December, 2022), Surathakl, India [<a href="https://icraie.nitk.ac.in"> Link]</a>.
+		TPC Member of 7th International Conference on Recent Advances & Innovations in Engineering, 2022, (1-3 December, 2022), Surathakl, India [<a href="https://icraie.nitk.ac.in/progTechComm.html"> Link </a>].
 	</li> 
+	<li>
+		Poster Reviewer Committee Member of 24th International Conference On Distributed Computing And Networking, 2023, (4-7 January, 2023), Kharagpur, India [<a href="https://cse.iitkgp.ac.in/conf/ICDCN23/posters.html"> Link </a>]
+	</li>
+	<li>
+		TPC Member of 1st Workshop on Serverless To sErvE moRe at Scale, 2022 (STEERS),(10-13 May, 2021), Taormina (Messina), Italy [<a href="http://www.steers.iitkgp.ac.in/committee"> Link </a>]
+	</li>
 </ul>
 
 
