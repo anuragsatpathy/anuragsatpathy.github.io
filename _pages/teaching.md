@@ -60,17 +60,17 @@ classes: wide
 **Undergraduate Students**
 <ul>
 	<li>
-		<a href="https://www.linkedin.com/in/shubham-kumar-0a2930174"> Shubham Kumar </a> and <a href="https://www.linkedin.com/in/pradeepkmahato"> Pradeep Kumar Mahato </a> (B.Tech., Silicon Institute of Technology Sambalpur, 2020 - 2021)
+		<a href="https://www.linkedin.com/in/shubham-kumar-0a2930174"> Shubham Kumar </a> and <a href="https://www.linkedin.com/in/pradeepkmahato"> Pradeep Kumar Mahato </a>  (B.Tech., Silicon Institute of Technology Sambalpur, 2020 - 2021)
 		<br> 
 		<i> Project: VM Placement for Multi Cloud Marketplace </i>
 using Stable Matching
 	</li>
 	<li>
-		<a href="https://www.linkedin.com/in/lucky-behera-644284193">Lucky Behera </a> (B.Tech., National Institute of Technology, Rourkela, 2019 - 2020) <br>
+		<a href="https://www.linkedin.com/in/lucky-behera-644284193">Lucky Behera </a>  (B.Tech., National Institute of Technology, Rourkela, 2019 - 2020) <br>
 		<i>Project: Virtual Machine Selection Policy using Deep Q-Learning</i>
 	</li>
 	<li>
-		<a href="https://www.linkedin.com/in/lipsa-chhotray-nitr"> Lipsa Chhotray </a> (B.Tech., National Institute of Technology, Rourkela, 2018 - 2019)<br> 
+		<a href="https://www.linkedin.com/in/lipsa-chhotray-nitr"> Lipsa Chhotray </a>  (B.Tech., National Institute of Technology, Rourkela, 2018 - 2019) s<br> 
 		<i>Project: Virtual Data Center Embedding in Cloud </i>
 	</li>
 	<li>
