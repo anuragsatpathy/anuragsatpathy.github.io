@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant: CS3071 - Operating Systems Laboratory"
+title: "Teaching Assistant : CS3071 - Operating Systems Laboratory"
 collection: teaching
 type: "Undergraduate Course"
 university: "National Institute of Technology, Rourkela"
