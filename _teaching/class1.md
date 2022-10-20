@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant CS3071: Operating Systems Laboratory"
+title: "Teaching Assistant Operating Systems Laboratory (Course Id: CS3071)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/course1
@@ -8,4 +8,4 @@ date: 2014-09-01
 semester: "Fall 2021"
 ---
 
-Responsibilities: Lab sessions, Demo sessions, Grading, Vivas.
+*Responsibilities:* Lab sessions, Demo sessions, Grading, Vivas.
