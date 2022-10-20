@@ -9,7 +9,7 @@ redirect_from:
 classes: wide
 ---
 
-I have recently submitted my Ph.D. Thesis from the Computer Science and Engineering Department at the National Institute of Technology, Rourkela, India, and actively looking for post-doctoral positions in India and abroad. 
+I have submitted my Ph.D. Thesis on 7th September 2022 from the Computer Science and Engineering Department at the National Institute of Technology, Rourkela, India, and actively looking for post-doctoral positions in India and abroad. 
 I completed my master's degree in Computer Science and Engineering from Birla Institue of Technology, Mesra, Ranchi, India, in 2017.
 I obtained my Bachelor's degree in Information Technology from International Institute of Information Technology in Bhubaneswar, India, in 2014.
 
