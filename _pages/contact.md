@@ -7,4 +7,4 @@ classes: wide
 ---
 
 If you would like to get into contact, just shoot me an email at
-anuragsatpathy[AT]gmail[DOT]com
+anurag[DOT]satpathy[AT]gmail[DOT]com
