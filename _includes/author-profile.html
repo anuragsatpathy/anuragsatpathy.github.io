@@ -168,6 +168,13 @@
         </li>
       {% endif %}
 
+      {% endif %}
+       {% if author.researchgate %}
+        <li><a href="{{ author.researchgate }}">
+          <i class="fab fa-fw fa-researchgate" aria-hidden="true" style="padding-right: 1.5em;"></i>ResearchGate</a>
+        </li>
+      {% endif %}
+
       {% if author.stackoverflow %}
         <li>
           <a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}" itemprop="sameAs">
