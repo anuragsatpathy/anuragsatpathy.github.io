@@ -163,16 +163,16 @@
       {% if author.googlescholar %}
         <li>
           <a href="{{ author.googlescholar }}" itemprop="sameAs">
-            <i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar
+            <i class="ai ai-google-scholar-square ai-fw" aria-hidden="true"></i> Google Scholar
           </a>
         </li>
       {% endif %}
 
       {% endif %}
-       {% if author.researchgate %}
+       {% if author.orcid %}
         <li>
-          <a href="{{ author.researchgate }}" itemprop="sameAs">
-          <i class="fab fa-fw fa-researchgate"></i>ResearchGate</a>
+          <a href="{{ author.orcid }}" itemprop="sameAs">
+          <i class="fa fa-fw fa-chain" aria-hidden="true"></i>ORCID</a>
         </li>
       {% endif %}
 
