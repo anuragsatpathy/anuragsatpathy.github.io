@@ -129,6 +129,7 @@ author:
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   orcid            : "https://orcid.org/0000-0002-7201-3463"
   tumblr           :
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57195936277"
   twitter          :
   vine             :
   weibo            :

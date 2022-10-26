@@ -175,6 +175,13 @@
         </li>
       {% endif %}
 
+      {% if author.scopus %}
+        <li>
+          <a href="{{ author.scopus }}" itemprop="sameAs">
+          <i class="ai ai-scopus ai-fw" aria-hidden="true"></i> Scopus</a>
+        </li>
+      {% endif %}
+
       {% if author.researchgate %}
         <li>
           <a href="{{ author.researchgate }}" itemprop="sameAs">
