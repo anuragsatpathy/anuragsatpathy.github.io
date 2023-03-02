@@ -12,7 +12,7 @@ Sourav Kanti Addya, **Anurag Satpathy**, Ashok Kumar Turuk, and Bibhudatta Sahoo
  
 
 ## Conference
-* 2023 International Conference on COMmunication Systems & NETworkS (COMSNETS)* (**Core Rank - National India**)
+*2023 International Conference on COMmunication Systems & NETworkS (COMSNETS)* (**Core Rank - National India**)
 
 
 ## Abstract
