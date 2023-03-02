@@ -3,7 +3,7 @@ title: "NORD: NOde Ranking-based efficient virtual network embedding over single
 collection: publications
 permalink: /publications/publication0
 excerpt: "Developed a topology-aware and efficient virtual network embedding strategy to maximize the revenue-to-cost and embedding ratio."
-date: 2022-08-04
+date: 2023-02-22
 venue: 'Computer Networks, Elsevier'
 classes: wide
 ---
