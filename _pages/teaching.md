@@ -49,7 +49,8 @@ classes: wide
 		Chittaranjan Swain (Ph.D., National Institute of Technology, Rourkela, 2018 - Present)
 	</li>
 	<li>
-		Keerthan Kumar T G (Ph.D., National Institute of Technology, Karnataka 2020 - Present)
+		<a href="https://www.linkedin.com/in/keerthan-swamy"> Keerthan Kumar T G </a>
+		 (Ph.D., National Institute of Technology, Karnataka 2020 - Present)
 	</li>
 	<li>
 		<a href="https://www.linkedin.com/in/arpana-chakma">Arpana Chakma </a> (M. Tech., National Institute of Technology, Karnataka, 2020 - 2021) <br> 
