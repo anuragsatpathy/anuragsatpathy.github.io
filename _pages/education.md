@@ -28,7 +28,7 @@ B. Tech. in Information Technology<br>
 *Advisor: <a href = "https://sites.google.com/iiit-bh.ac.in/computer-science/people/faculty/hemanta?authuser=0">Prof. Hemanta Kumar Pati</a>*
 
 ## Research Experience
-**2017 - Present**<br>
+**2017 - 2023**<br>
 Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, India under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom"> Prof. Manmath Narayan Sahoo</a><br>
 
 *Research Contributions:* Worked on the issue of resource management– specifically, the focus was to develop efficient complete/selective re-embedding strategies for already embedded dynamic virtual data center requests experiencing demand fluctuations. <br>
