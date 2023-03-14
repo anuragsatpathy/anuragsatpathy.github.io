@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-**In Progress (2017 - 2023)**<br>
+**2017 - 2023**<br>
 Ph.D. in Computer Science and Engineering <br>
 <a href="https://www.nitrkl.ac.in">National Institute of Technology Rourkela, Odisha, India</a><br>
 *GPA: 9.34/10*<br>
