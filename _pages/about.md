@@ -9,8 +9,8 @@ redirect_from:
 classes: wide
 ---
 
-I completed my Ph.D. in February 2023 from the department of Computer Science and Engineering at the National Institute of Technology, Rourkela, India, and am actively looking for post-doctoral positions in the US. 
-I completed my master's degree in Computer Science and Engineering from Birla Institue of Technology, Mesra, Ranchi, India, in 2017.
+I completed my Ph.D. in February 2023 from the department of Computer Science and Engineering at the National Institute of Technology, Rourkela, India. After completing my Ph.D., I have relocated to the US and am actively looking for post-doctoral positions.
+Prior to my Ph.D., I completed my master's degree in Computer Science and Engineering from Birla Institue of Technology, Mesra, Ranchi, India, in 2017.
 I obtained my Bachelor's degree in Information Technology from International Institute of Information Technology in Bhubaneswar, India, in 2014.
 
 
