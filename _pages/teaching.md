@@ -49,7 +49,7 @@ classes: wide
 		Chittaranjan Swain (Ph.D., National Institute of Technology, Rourkela, 2018 - Present)
 	</li>
 	<li>
-		<a href="https://www.linkedin.com/in/keerthan-swamy"> Keerthan Kumar T G </a>
+		<a href="https://www.linkedin.com/in/keerthan-swamy-2b553788"> Keerthan Kumar T G </a>
 		 (Ph.D., National Institute of Technology, Karnataka 2020 - Present)
 	</li>
 	<li>
