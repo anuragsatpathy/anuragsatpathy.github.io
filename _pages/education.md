@@ -6,8 +6,8 @@ author_profile: true
 classes: wide
 ---
 
-**In Progress (2017 - Present)**<br>
-Ph.D. in Computer Science and Engineering (Thesis Submitted) <br>
+**In Progress (2017 - 2023)**<br>
+Ph.D. in Computer Science and Engineering <br>
 <a href="https://www.nitrkl.ac.in">National Institute of Technology Rourkela, Odisha, India</a><br>
 *GPA: 9.34/10*<br>
 *Thesis Title: Efficient Re-Embedding Strategies for Virtual Data Centers over Multi-Domain Substrate Networks*<br>
