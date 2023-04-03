@@ -22,6 +22,9 @@ classes: wide
 ## Reviewer in Journals
 <ul>
 	<li>
+		The Journal of Supercomputing, Springer.
+	</li>
+	<li>
 		Expert Systems with Applications, Elsevier.
 	</li> 
 	<li>
