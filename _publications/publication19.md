@@ -12,7 +12,7 @@ Chittaranjan Swain, Manmath Narayan Sahoo, **Anurag Satpathy**, Khan Muhammad, S
 
 ## Journal
 
-*IEEE Transactions on Consumer Electronics* (**IF - 4.414**)
+*IEEE Transactions on Consumer Electronics* (**IF - 4.3**)
 
 ## Abstract
 The rapid growth of the Consumer Internet of Things (CIoTs) has led to its adoption in next-generation applications, including interactive gaming, healthcare services, video streaming, etc. The limited computational resources of CIoTs often hinder providing timely responses to real-time consumer applications. A sensible option in this regard is to offload computations to nearby fog nodes (FNs) with enough resources to meet the application quality-of-service (QoS) requirements. However, an inconsiderate offloading policy can result in unusual traffic at the FNs, leading to congestion that can negatively impact the latency requirements of applications in a complex IoT-Fog network. Therefore, developing offloading policies that distribute the network load and effectively utilize the FN resources is essential. This paper proposes a matching theory-based protocol A-DAFTO, addressing the challenges above. A-DAFTO outputs an offloading plan which distributes the network and computational load respecting the application’s deadline. The offloading is modeled as matching and is solved using the artificial cap deferred acceptance (ACDA) algorithm. The generated offloading schedule is fair, as none of the stakeholders are incentivized to deviate from their assignments. Further, experimentation via simulation shows that A-DAFTO achieves zero outages with a 15.32% reduction in total offloading delay compared to the baselines.

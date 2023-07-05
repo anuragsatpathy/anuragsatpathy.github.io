@@ -8,6 +8,12 @@ classes: wide
 ## Program Committee Memberships
 <ul>
 	<li>
+		Workshop PC member of Machine Intelligence in Networked Data and Systems (MINDS), COMSNETS 2024, 3rd January, Bangalore, India [<a href="https://www.comsnets.org/minds_workshop.html"> Link </a>]
+	</li>
+	<li>
+		TPC Member of 2nd International Conference on Data, Decision and Systems, 2023 (ICDDS), (1-2 December, 2023), Surathkal, Mangalore, India [<a href="https://icdds.org"> Link </a>]
+	</li>
+	<li>
 		TPC Member of 7th International Conference on Recent Advances & Innovations in Engineering, 2022 (ICRAIE), (1-3 December, 2022), Surathkal, India [<a href="https://icraie.nitk.ac.in/progTechComm.html"> Link </a>].
 	</li> 
 	<li>

@@ -12,7 +12,7 @@ Sourav Kanti Addya, **Anurag Satpathy**, Bishakh Chandra Ghosh, Sandip Chakrabor
 
 ## Journal
 
-*IEEE Transactions on Services Computing* (**IF - 11.019**)
+*IEEE Transactions on Services Computing* (**IF - 8.1**)
 
 ## Abstract
 Virtual machine (VM) migration enables cloud service providers (CSPs) to balance workload, perform zero-downtime maintenance, and reduce applications' power consumption and response time. Migrating a VM consumes energy at the source, destination, and backbone networks, i.e., intermediate routers and switches, especially in a Geo-distributed setting. In this context, we propose a VM migration model called Low Energy Application Workload Migration (LEAWM) aimed at reducing the per-bit migration cost in migrating VMs over Geo-distributed clouds. With a Geo-distributed cloud connected through multiple Internet Service Providers (ISPs), we develop an approach to find out the migration path across ISPs leading to the most feasible destination.
