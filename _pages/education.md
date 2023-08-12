@@ -30,11 +30,11 @@ B. Tech. in Information Technology<br>
 ## Research Experience
 
 **Aug 2023 - Present**<br>
-Post Doctoral Fellow at the Missouri University of Science and Technology (S&T), Rolla, Missouri, USA under the  supervision of <a href="https://sites.google.com/a/mst.edu/sdas/"> Dr. Sajal K. Das</a>
+Post Doctoral Fellow at the Missouri University of Science and Technology (S&T), Rolla, Missouri, USA under the  supervision of <a href="https://sites.google.com/a/mst.edu/sdas/"> Dr. Sajal K. Das</a>.
 
 
 **July 2017 - Feb 2023**<br>
-Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, India under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom"> Prof. Manmath Narayan Sahoo</a><br>
+Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, India under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom"> Prof. Manmath Narayan Sahoo</a><br>.
 
 *Research Contributions:* Worked on the issue of resource management– specifically, the focus was to develop efficient complete/selective re-embedding strategies for already embedded dynamic virtual data center requests experiencing demand fluctuations. <br>
 
@@ -51,7 +51,7 @@ Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, Ind
 </ul>
 
 **May 2016 - April 2017**<br>
-Visiting Researcher at National Institute of Technology, Rourkela, under the supervision of <a href="https://www.vssut.ac.in/vice-chancellor-s-message.php"> Dr. Banshidhar Majhi </a> and <a href="https://cse.nitk.ac.in/faculty/sourav-kanti-addya"> Dr. Sourav Kanti Addya </a>
+Visiting Researcher at National Institute of Technology, Rourkela, under the supervision of <a href="https://www.vssut.ac.in/vice-chancellor-s-message.php"> Dr. Banshidhar Majhi </a> and <a href="https://cse.nitk.ac.in/faculty/sourav-kanti-addya"> Dr. Sourav Kanti Addya </a>.
 
 *Research Contribution:* Worked on solving the virtual machine placement problem and developed an efficient strategy to solve the VMP problem using a meta-heuristic crow-search algorithm. Different live-migration techniques were also integrated with the placement model, and its comparative behavior was studied. <br>
 

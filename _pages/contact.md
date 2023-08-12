@@ -6,5 +6,14 @@ author_profile: true
 classes: wide
 ---
 
-If you would like to get into contact, just shoot me an email at
-anurag[DOT]satpathy[AT]gmail[DOT]com
+Room No: 104E
+
+Department of Computer Science
+
+Missouri University of Science and Technology Rolla
+
+Missouri - 65401
+
+
+
+E-mail: anurag[DOT]satpathy[AT]mst[DOT]edu
