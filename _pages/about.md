@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 classes: wide
 ---
+Welcome to Webpage !
 
-I completed my Ph.D. in February 2023 from the department of Computer Science and Engineering at the National Institute of Technology, Rourkela, India. After completing my Ph.D., I have relocated to the US and am actively looking for post-doctoral positions.
+I, Dr. Anurag Satpathy, is currently working as a Post-Doctoral Fellow under the supervison of <a href="https://sites.google.com/a/mst.edu/sdas/"> Dr. Sajal K. Das</a>.
+
+completed my Ph.D. in February 2023 from the department of Computer Science and Engineering at the National Institute of Technology, Rourkela, India. After completing my Ph.D., I have relocated to the US and am actively looking for post-doctoral positions.
 Prior to my Ph.D., I completed my master's degree in Computer Science and Engineering from Birla Institue of Technology, Mesra, Ranchi, India, in 2017.
 I obtained my Bachelor's degree in Information Technology from International Institute of Information Technology in Bhubaneswar, India, in 2014.
 
