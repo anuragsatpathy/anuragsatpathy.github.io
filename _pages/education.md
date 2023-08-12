@@ -28,6 +28,11 @@ B. Tech. in Information Technology<br>
 *Advisor: <a href = "https://sites.google.com/iiit-bh.ac.in/computer-science/people/faculty/hemanta?authuser=0">Prof. Hemanta Kumar Pati</a>*
 
 ## Research Experience
+
+**Aug 2023 - Present**<br>
+Post Doctoral Fellow at the Missouri University of Science and Technology (S&T), Rolla, Missouri, USA under the  supervision of <a href="https://sites.google.com/a/mst.edu/sdas/"> Dr. Sajal K. Das</a>
+
+
 **July 2017 - Feb 2023**<br>
 Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, India under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom"> Prof. Manmath Narayan Sahoo</a><br>
 
