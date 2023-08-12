@@ -100,13 +100,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anurag Satpathy"
+  name             : "Dr. Anurag Satpathy"
   avatar           : "/assets/images/anurag.jpg"
-  bio              : "PhD from National Institute of Technology, Rourkela, India"
+  bio              : "Post Doctoral Fellow at Missouri University of Science and Technology (S&T), Rolla, USA"
   employer         : #"National Institute of Technology, Rourkela"
   location         : "Rourkela, India"
   employer         : #
-  email            : "anurag.satpathy@gmail.com"
+  email            : "anurag.satpathy@mst.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
