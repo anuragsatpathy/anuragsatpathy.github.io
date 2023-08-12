@@ -47,7 +47,7 @@ staticman:
   path                   : # "/_data/comments/{options.slug}" (default)
   requiredFields         : # ['name', 'email', 'message']
   transforms:
-    email                :  "anurag.satpathy@gmail.com"
+    email                :  "anurag.satpathy@mst.edu"
   generatedFields:
     date:
       type               : # "date"
@@ -104,7 +104,7 @@ author:
   avatar           : "/assets/images/anurag.jpg"
   bio              : "Post Doctoral Fellow at Missouri University of Science and Technology (S&T), Rolla, USA"
   employer         : #"National Institute of Technology, Rourkela"
-  location         : "Rourkela, India"
+  location         : "Rolla, United States"
   employer         : #
   email            : "anurag.satpathy@mst.edu"
   uri              :
