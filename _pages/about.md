@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-Welcome to Webpage !
+Welcome to Webpage!
 
-I, Dr. Anurag Satpathy, is currently working as a Post-Doctoral Fellow under the supervison of <a href="https://sites.google.com/a/mst.edu/sdas/"> Dr. Sajal K. Das</a>.
+I, Dr. Anurag Satpathy, am currently working as a Post Doctoral Fellow under the supervision of <a href="https://sites.google.com/a/mst.edu/sdas/"> Dr. Sajal K. Das</a> at the Missouri University of Science and Technology (S&T), Rolla, Missouri, USA.
 
-completed my Ph.D. in February 2023 from the department of Computer Science and Engineering at the National Institute of Technology, Rourkela, India. After completing my Ph.D., I have relocated to the US and am actively looking for post-doctoral positions.
-Prior to my Ph.D., I completed my master's degree in Computer Science and Engineering from Birla Institue of Technology, Mesra, Ranchi, India, in 2017.
-I obtained my Bachelor's degree in Information Technology from International Institute of Information Technology in Bhubaneswar, India, in 2014.
+Prior to this, I completed my Ph.D. in February 2023 from the Department of Computer Science and Engineering at the National Institute of Technology, Rourkela, India, under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom"> Dr. Manmath Narayan Sahoo </a>.
+My thesis, "Efficient Re-Embedding Strategies for Virtual Data Centers over Multi-Domain Substrate Networks," focused on developing effective resource management schemes to deal with fluctuating resource demands of virtual networks.
 
 
 ## Research Interests
