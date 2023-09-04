@@ -34,7 +34,7 @@ Post Doctoral Fellow at the Missouri University of Science and Technology (S&T),
 
 
 **July 2017 - Feb 2023**<br>
-Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, India under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom"> Prof. Manmath Narayan Sahoo</a><br>.
+Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, India under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom"> Prof. Manmath Narayan Sahoo</a><br>
 
 *Research Contributions:* Worked on the issue of resource management– specifically, the focus was to develop efficient complete/selective re-embedding strategies for already embedded dynamic virtual data center requests experiencing demand fluctuations. <br>
 
