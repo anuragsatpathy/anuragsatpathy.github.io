@@ -1,5 +1,5 @@
 ---
-title: "Matching-based Efficient Offloading in IoT-Fog Environments with Variable Resources"
+title: "VMAP: Matching-based Efficient Offloading in IoT-Fog Environments with Variable Resources"
 collection: publications
 permalink: /publications/publication_new2
 excerpt: "This paper proposes an offloading solution abstracted as a one-to-many matching game between two sets of entities - tasks and fog nodes (FNs) by considering preferences of both the emtities obtained via AHP."
