@@ -40,7 +40,7 @@ classes: wide
 		Expert Systems with Applications, Elsevier.
 	</li> 
 	<li>
-		Computer Network, Elsevier.
+		Computer Networks, Elsevier.
 	</li>
 	<li>
 		Engineering Science and Technology, an International Journal, Elsevier.
