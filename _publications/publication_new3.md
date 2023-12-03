@@ -2,7 +2,7 @@
 title: "LBA: Matching Theory Based Latency-Sensitive Binary Offloading in IoT-Fog Networks"
 collection: publications
 permalink: /publications/publication_new3
-excerpt: "This work studies the performance of spot instances via rigorous experimentation over commercial SPs such as Amazon AWS and Microsoft Azure. Real-world evaluations affirm that spot instances perform poorly compared to their on-demand counterpart concerning memory, CPU, disk read, and write operations."
+excerpt: "This work discusses a binary offloading scheme for fog networks using matching theory. The preferences are generated using Analytic Hierarchy Process (AHP) followed by the deferred acceptance algorithm (DAA)-based stable assignment. "
 date: 2023-11-07
 venue: 'Workshop on Machine Intelligence in Networked Data and Systems (MINDS)'
 classes: wide
