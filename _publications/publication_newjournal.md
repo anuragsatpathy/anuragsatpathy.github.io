@@ -8,7 +8,7 @@ venue: 'The Journal of Supercomputing, Springer'
 classes: wide
 ---
 ## Authors
-Rounak Saha, **Anurag Satpathy** and Sourav Kanti Addya.
+Rounak Saha, **Anurag Satpathy**, and Sourav Kanti Addya.
 
 ## Journal
 **The Journal of Supercomputing, Springer (IF (2022) - 3.3)**
