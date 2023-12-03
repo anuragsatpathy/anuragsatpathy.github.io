@@ -2,7 +2,7 @@
 title: "Matching-based Efficient Offloading in IoT-Fog Environments with Variable Resources"
 collection: publications
 permalink: /publications/publication_new2
-excerpt: "This paper proposes an offloading solution abstracted as a one-to-many matching game between two sets of entities - tasks and fog nodes (FNs) by considering both preferences."
+excerpt: "This paper proposes an offloading solution abstracted as a one-to-many matching game between two sets of entities - tasks and fog nodes (FNs) by considering preferences of both the emtities obtained via AHP."
 date: 2023-11-07
 venue: '2023 17th IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS)'
 classes: wide
