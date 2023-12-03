@@ -28,6 +28,9 @@ classes: wide
 ## Reviewer in Journals
 <ul>
 	<li>
+		IEEE Transactions on Mobile Computing.
+	</li>
+	<li>
 		IEEE/ACM Transactions on Networking.
 	</li>
 	<li>
@@ -37,10 +40,19 @@ classes: wide
 		Expert Systems with Applications, Elsevier.
 	</li> 
 	<li>
+		Computer Network, Elsevier.
+	</li>
+	<li>
+		Engineering Science and Technology, an International Journal, Elsevier.
+	</li>
+	<li>
 		Cluster Computing, Springer.
 	</li>
 	<li>
 		Journal of Ambient Intelligence and Humanized Computing, Springer.
+	</li>
+	<li>
+		Journal of Network and Systems Management, Springer.
 	</li>
 	<li>
 		Concurrency and Computation: Practice and Experience, Wiley.
