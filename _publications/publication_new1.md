@@ -3,7 +3,7 @@ title: "Performance Analysis of Disruptive Instances in Cloud Environment"
 collection: publications
 permalink: /publications/publication_new1
 excerpt: "This work studies the performance of spot instances via rigorous experimentation over commercial SPs such as Amazon AWS and Microsoft Azure. Real-world evaluations affirm that spot instances perform poorly compared to their on-demand counterpart concerning memory, CPU, disk read, and write operations."
-date: 2023-01-07
+date: 2023-11-07
 venue: '2024 16th International Conference on Communication Systems & Networks (COMSNETS), Bengaluru, India'
 classes: wide
 ---
