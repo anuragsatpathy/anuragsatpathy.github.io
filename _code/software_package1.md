@@ -34,9 +34,6 @@ classes: wide
 		IEEE/ACM Transactions on Networking.
 	</li>
 	<li>
-		The Journal of Supercomputing, Springer.
-	</li>
-	<li>
 		Expert Systems with Applications, Elsevier.
 	</li> 
 	<li>
@@ -46,6 +43,9 @@ classes: wide
 		Engineering Science and Technology, an International Journal, Elsevier.
 	</li>
 	<li>
+		Journal of King Saud University - Computer and Information Sciences, Elsevier.
+	</li>
+	<li>
 		Cluster Computing, Springer.
 	</li>
 	<li>
@@ -53,6 +53,9 @@ classes: wide
 	</li>
 	<li>
 		Journal of Network and Systems Management, Springer.
+	</li>
+	<li>
+		The Journal of Supercomputing, Springer.
 	</li>
 	<li>
 		Concurrency and Computation: Practice and Experience, Wiley.
