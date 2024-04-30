@@ -8,7 +8,7 @@ venue: '2024 IEEE International Conference on Pervasive Computing and Communicat
 classes: wide
 ---
 ## Authors
-Aastik Verma, **Anurag Satpathy**, Sajal K Das, Sourav Kanti Addya
+Aastik Verma, **Anurag Satpathy**, Sajal K Das, and Sourav Kanti Addya
 
 ## Conference
 *2024 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events* (PerCom Workshops), **(Core Ranking - A<sup> * </sup>)**
