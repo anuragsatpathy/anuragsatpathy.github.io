@@ -8,6 +8,9 @@ classes: wide
 ## Program Committee Memberships
 <ul>
 	<li>
+		TPC Member of 3rd International Conference on Data, Decision and Systems, 2024 (ICDDS), (5-7 December, 2024), PES University, Bengaluru, India [<a href="https://icdds.org/"> Link </a>]
+	</li>
+	<li>
 		Workshop PC member of Machine Intelligence in Networked Data and Systems (MINDS), COMSNETS 2024, 3rd January, Bangalore, India [<a href="https://www.comsnets.org/minds_workshop.html"> Link </a>]
 	</li>
 	<li>
