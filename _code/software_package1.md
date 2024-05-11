@@ -37,7 +37,7 @@ classes: wide
 		IEEE/ACM Transactions on Networking.
 	</li>
 	<li>
-		IEEE/ACM Transactions on Services Computing.
+		IEEE Transactions on Services Computing.
 	</li>
 	<li>
 		Expert Systems with Applications, Elsevier.
