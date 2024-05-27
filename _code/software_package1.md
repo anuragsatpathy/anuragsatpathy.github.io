@@ -40,6 +40,9 @@ classes: wide
 		IEEE Transactions on Services Computing.
 	</li>
 	<li>
+		ACM Transactions on Sensor Networks.
+	</li>
+	<li>
 		Expert Systems with Applications, Elsevier.
 	</li> 
 	<li>
