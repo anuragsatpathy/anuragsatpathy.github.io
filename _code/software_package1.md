@@ -52,6 +52,9 @@ classes: wide
 		Engineering Science and Technology, an International Journal, Elsevier.
 	</li>
 	<li>
+		Sustainable Computing: Informatics and Systems, Elsevier
+	</li>
+	<li>
 		Journal of King Saud University - Computer and Information Sciences, Elsevier.
 	</li>
 	<li>
