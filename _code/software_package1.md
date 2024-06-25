@@ -43,6 +43,9 @@ classes: wide
 		ACM Transactions on Sensor Networks.
 	</li>
 	<li>
+		Future Generation Computer Systems, Elsevier
+	</li>
+	<li>
 		Expert Systems with Applications, Elsevier.
 	</li> 
 	<li>
