@@ -8,6 +8,9 @@ classes: wide
 ## Program Committee Memberships
 <ul>
 	<li>
+		TPC Member of Workshop on Emerging Intelligent eDGE for WELLbeing (EDGE-Well) to be held in conjunction with PerCom 2025 at Washington DC, USA. [<a href="https://sites.google.com/view/edge-well-2025/"> Link </a>]
+	</li>
+	<li>
 		TPC Member of 3rd International Conference on Data, Decision and Systems, 2024 (ICDDS), (5-7 December, 2024), PES University, Bengaluru, India [<a href="https://icdds.org/"> Link </a>]
 	</li>
 	<li>
