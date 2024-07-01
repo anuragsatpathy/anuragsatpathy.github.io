@@ -8,9 +8,12 @@ classes: wide
 ## Notable Editorial Roles
 ### Special Issue on Edge and Serverless Computing, Ad Hoc Networks, Elsevier 
  **Theme**: The surge in edge computing's momentum has made it a primary choice for deploying widespread applications, while Serverless computing, favored for mobile apps, awaits full realization in ad-hoc networks. Integrating these decentralized and dynamic technologies spans various domains like military communication, healthcare, and entertainment, offering advantages such as reduced latency and enhanced scalability. Despite existing technologies excelling in traditional settings, their applicability must improve in emerging decentralized edge environments. Integrating edge serverless solutions holds promise, leveraging scalability, cost efficiency, and inherent security features, yet community reluctance persists. This special issue aims to bridge this gap, unlocking edge-serverless solutions' potential for ad hoc networks, fostering innovation, and facilitating seamless application deployment and management.
+
 **Role**: Guest Editor
+
 **Publication Timeline**: April, 2025
-**Web Link**:[<a href="https://www.sciencedirect.com/journal/ad-hoc-networks/about/call-for-papers#special-issue-on-edge-and-serverless-computing"> </a>]
+
+**Web Link**:[<a href="https://www.sciencedirect.com/journal/ad-hoc-networks/about/call-for-papers#special-issue-on-edge-and-serverless-computing"> Link</a>]
 
 ## Program Committee Memberships
 <ul>
