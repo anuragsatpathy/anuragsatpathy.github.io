@@ -12,7 +12,7 @@ classes: wide
 </ul> -->
 **Journal Publications**
 <ul style="list-style-type: none; padding-left: 0;">
-  <li></strong>[J8]</strong> Sourav Kanti Addya, <b> Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, Soumya K Ghosh, Sajal K Das, "<i> CoMCLOUD: Virtual Machine Coalition for Multi-Tier Applications over Multi-Cloud Environments</i> ", in <b> IEEE Transactions on Cloud Computing </b>, vol. 11, no. 1, pp. 956-970, 1 Jan.-March 2023, 
+  <li><strong>[J8]</strong> Sourav Kanti Addya, <b> Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, Soumya K Ghosh, Sajal K Das, "<i> CoMCLOUD: Virtual Machine Coalition for Multi-Tier Applications over Multi-Cloud Environments</i> ", in <b> IEEE Transactions on Cloud Computing </b>, vol. 11, no. 1, pp. 956-970, 1 Jan.-March 2023, 
   <a href="https://ieeexplore.ieee.org/abstract/document/9585379"> DOI: 10.1109/TCC.2021.3122445 </a> (<b>IF-5.3 </b>)
    </li> 
   <li><strong>[J7]</strong> <b>Anurag Satpathy </b>, Manmath Narayan Sahoo, Arun Kumar Sangaiah, Chittaranjan Swain, Sambit Bakshi, "<i>CoMap: An efficient virtual network re-mapping strategy based on coalitional matching theory</i>" in <b> Computer Networks, Elsevier </b>, Volume 216, 2022, <a href="https://doi.org/10.1016/j.comnet.2022.109248"> DOI: 10.1016/j.comnet.2022.109248 </a> (<b>IF-4.4 </b>)
