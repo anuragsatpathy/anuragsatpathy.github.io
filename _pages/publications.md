@@ -13,6 +13,9 @@ classes: wide
 **Journal Publications**
 <ul style="list-style-type: none; padding-left: 0;">
 <li>
+  <strong>[J2]</strong> <b> Sourav Kanti Addya, Ashok Kumar Turuk, Bibhudatta Sahoo, <b> Anurag Satpathy </b>, and Mahasweta Sarkar, " A Game Theoretic Approach to Estimate Fair Cost of VM Placement in Cloud Data Center" in <b> IEEE Systems Journal </b>,  vol. 12, no. 4, pp. 3509-3518, Dec. 2018, <a href="https://ieeexplore.ieee.org/document/8187628"> DOI: 10.1109/JSYST.2017.2776117 </a> (<b> IF - 4.0 </b>).
+</li>
+<li>
  <strong>[J1]</strong> <b> Anurag Satpathy </b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi, and Gadadhar Sahoo, " Crow search based virtual machine placement strategy in cloud data centers with live migration " in <b>Computers & Electrical Engineering, Elsevier, </b> Volume 69, Pages 334-350, 2018, <a href="https://doi.org/10.1016/j.compeleceng.2017.12.032"> DOI: 10.1016/j.compeleceng.2017.12.032 </a> (<b> IF - 4.0 </b>).
 </li>
 </ul>
