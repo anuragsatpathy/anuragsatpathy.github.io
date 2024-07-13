@@ -11,6 +11,7 @@ classes: wide
   <li><strong>J3.</strong> Third item</li>
 </ul> -->
 **Journal Publications**
+<small>
 <ul style="list-style-type: none; padding-left: 0;">
   <li> <strong>[J10]</strong> Keerthan Kumar TG, Sourav Kanti Addya, <b> Anurag Satpathy</b>, and S. G. Koolagudi, "<i> NORD: NOde Ranking-based efficient virtual network embedding over single Domain substrate networks </i>" in <b> Computer Networks, Elsevier</b>, Volume 216, 2023 <a href="https://doi.org/10.1016/j.comnet.2023.109661"> DOI: 10.1016/j.comnet.2023.109661 </a> (<b>IF-4.4 </b>)
   </li>
@@ -39,6 +40,7 @@ classes: wide
  <strong>[J1]</strong> <b> Anurag Satpathy </b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi, and Gadadhar Sahoo, "<i> Crow search based virtual machine placement strategy in cloud data centers with live migration</i>" in <b> Computers & Electrical Engineering, Elsevier, </b> Volume 69, Pages 334-350, 2018, <a href="https://doi.org/10.1016/j.compeleceng.2017.12.032"> DOI: 10.1016/j.compeleceng.2017.12.032 </a> (<b>IF-4.0</b>).
 </li>
 </ul>
+</small>
 
 **Conference Publications**
 
