@@ -13,6 +13,9 @@ classes: wide
 **Journal Publications**
 <ul style="list-style-type: none; padding-left: 0;">
  <li>
+ <strong>[J4]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy </b>, Khan Muhammad, Sambit Bakshi, Joel J. P. C. Rodrigues, and Victor Hugo C. de Albuquerque, "<i> METO: Matching Theory Based Efficient Task Offloading in IoT-Fog Interconnection Networks </i>", in IEEE Internet of Things Journal, vol. 8, no. 16, pp. 12705-12715, 15 Aug, 2021, <a href="https://ieeexplore.ieee.org/document/9201504"> DOI: 10.1109/JIOT.2020.3025631 </a> (<b> IF - 8.2 </b>).
+ </li> 
+ <li>
  <strong>[J3]</strong> Sourav Kanti Addya, Ashok Kumar Turuk, <b> Anurag Satpathy </b>, Bibhudatta Sahoo, and Mahasweta Sarkar, "<i> A Strategy for Live Migration of Virtual Machines in a Cloud Federation </i>" in <b> IEEE Systems Journal </b>, vol. 13, no. 3, pp. 2877-2887, Sept. 2019, <a href="https://ieeexplore.ieee.org/document/8486653"> DOI: 10.1109/JSYST.2018.2872580 </a> (<b> IF - 4.0 </b>).
  </li> 
 <li>
