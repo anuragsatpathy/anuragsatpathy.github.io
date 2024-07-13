@@ -12,6 +12,8 @@ classes: wide
 </ul> -->
 **<u>Journal Publications</u>**
 <ul style="list-style-type: none; padding-left: 0;">
+  <li> <strong>[J15]</strong> <b> Keerthan Kumar TG, Shivangi Tomar, Sourav Kanti Addya, <b> Anurag Satpathy</b>, SG Koolagudi, "<i> EFraS: Emulated framework to develop and analyze dynamic virtual network embedding strategies over SDN infrastructure</i>", in <b> Simulation Modelling Practice and Theory, Elsevier</b>, volume. 134, pp. 102952, 2024, <a href="https://www.sciencedirect.com/science/article/abs/pii/S1569190X24000662"> DOI: 10.1016/j.simpat.2024.102952 </a> (<b>IF-3.5</b>)
+  </li>
   <li> <strong>[J14]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Chittaranjan Swain, Muhammad Bilal, Sambit Bakshi, and Houbing Song, "<i>GAMap: A Genetic Algorithm-Based Effective Virtual Data Center Re-Embedding Strategy</i>", in <b> IEEE Transactions on Green Communications and Networking </b>, vol. 8, no. 2, pp. 791-801, June 2024, <a href="https://ieeexplore.ieee.org/document/10368080"> DOI: doi:10.1109/TGCN.2023.3345542 </a> (<b>IF-5.3</b>) 
    </li> 
   <li> <strong>[J13]</strong> Raunak Saha, <b> Anurag Satpathy </b>, and Sourav Kanti Addya, "<i> FASE: Fast Deployment for Dependent Applications in Serverless Environments</i>", in <b> Journal of Supercomputing, Springer</b>, vol. 80, no. 8, pp. 10394--10417, 2024, <a href="https://link.springer.com/article/10.1007/s11227-023-05840-w#citeas"> DOI: 10.1007/s11227-023-05840-w </a> (<b>IF-2.5</b>)
