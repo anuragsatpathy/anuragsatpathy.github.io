@@ -11,7 +11,7 @@ classes: wide
 Ph.D. in Computer Science and Engineering <br>
 <a href="https://www.nitrkl.ac.in">National Institute of Technology Rourkela, Odisha, India</a><br>
 *GPA: 9.34/10*<br>
-*Thesis Title: Efficient Re-Embedding Strategies for Virtual Data Centers over Multi-Domain Substrate Networks*
+*Thesis Title: Efficient Re-Embedding Strategies for Virtual Data Centers over Multi-Domain Substrate Networks* [<a href="http://ethesis.nitrkl.ac.in/10491/"> Thesis Link </a>]
 <br>
 *Advisor:<a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom"> Prof. Manmath Narayan Sahoo</a>*
 
@@ -19,7 +19,7 @@ Ph.D. in Computer Science and Engineering <br>
 M.Tech. in Computer Science and Engineering<br>
 <a href= "https://www.bitmesra.ac.in"> Birla Institute of Technology Mesra, Jharkhand, India </a> <br>
 *GPA: 9.24/10*<br>
-*Thesis Title: Virtual Machine Placement in Cloud Data Centers*<br>
+*Thesis Title: Virtual Machine Placement in Cloud Data Centers* <br>
 *Advisor: <a href = "https://www.iitism.ac.in/index.php/Departments/faculties_detail_cse">Prof. Gadadhar Sahoo</a>*
 
 **2010 - 2014**<br>
