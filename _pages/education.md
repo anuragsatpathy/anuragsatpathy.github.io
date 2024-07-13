@@ -31,7 +31,20 @@ B. Tech. in Information Technology<br>
 
 **Aug 2023 - Present**<br>
 Post Doctoral Fellow at the Missouri University of Science and Technology (S&T), Rolla, Missouri, USA under the  supervision of <a href="https://sites.google.com/a/mst.edu/sdas/"> Dr. Sajal K. Das</a>.
-
+<ul>
+	<li>
+		Working on an NSF-funded project ``\textit{SOTERIA: Satisfaction and Behavior-aware Dynamic Resource Allocation in Public Safety Systems}", focused on establishing game-theoretic solution to restore communication capabilities to assist the first responders in communicating with the emergency control center, assisting in search and rescue operations.
+	</li>
+	<li>
+		Working on adopting a game-theoretic solution to offloading in vehicular networks for mobile vehicles, focusing on minimizing latency and energy consumption.
+	</li>
+	<li>
+		Working on developing dynamic route-planning strategies to harness solar energy for personal air vehicles supporting urban air mobility.
+	</li>
+	<li>
+		Developing dynamic schedulers for assigning serverless functions for microservices operating under deadline constraints.
+	</li>
+</ul>
 
 **July 2017 - Feb 2023**<br>
 Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, India under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom"> Prof. Manmath Narayan Sahoo</a><br>
