@@ -33,7 +33,7 @@ B. Tech. in Information Technology<br>
 Post Doctoral Fellow at the Missouri University of Science and Technology (S&T), Rolla, Missouri, USA under the  supervision of <a href="https://sites.google.com/a/mst.edu/sdas/"> Dr. Sajal K. Das</a>.
 <ul>
 	<li>
-		Working on an NSF-funded project ``SOTERIA: Satisfaction and Behavior-aware Dynamic Resource Allocation in Public Safety Systems", focused on establishing game-theoretic solution to restore communication capabilities to assist the first responders in communicating with the emergency control center, assisting in search and rescue operations.
+		Working on an NSF-funded project <li>"SOTERIA: Satisfaction and Behavior-aware Dynamic Resource Allocation in Public Safety Systems"</li>, focused on establishing game-theoretic solution to restore communication capabilities to assist the first responders in communicating with the emergency control center, assisting in search and rescue operations.
 	<li>
 		Working on adopting a game-theoretic solution to offloading in vehicular networks for mobile vehicles, focusing on minimizing latency and energy consumption.
 	</li>
