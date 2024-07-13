@@ -12,6 +12,8 @@ classes: wide
 </ul> -->
 **Journal Publications**
 <ul style="list-style-type: none; padding-left: 0;">
+   <li> <strong>[J12]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy </b>, Khan Muhammad, Sambit Bakshi, and Joel J. P. C. Rodrigues, "<i>A-DAFTO: Artificial Cap Deferred Acceptance based Fair Task Offloading in Complex IoT-Fog Networks</i>" in <b> IEEE Transactions on Consumer Electronics</b>, vol. 69, no. 4, pp. 914-926, Nov. 2023, <a href="https://ieeexplore.ieee.org/document/10086698"> DOI: 10.1109/TCE.2023.3262995 </a> (<b>IF-4.3</b>)
+   </li>
   <li> <strong>[J11]</strong> Sourav Kanti Addya, <b>Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, Soumya K Ghosh, Sajal K Das, "<i>Geo-distributed Multi-tier Workload Migration over Multi-timescale Electricity Markets</i>" in <b> IEEE Transactions on Services Computing </b>, vol. 16, no. 5, pp. 3385-3396, Sept.-Oct. 2023, <a href="https://ieeexplore.ieee.org/document/10109840"> DOI: 10.1109/TSC.2023.3270921 </a> (<b>IF-5.5 </b>) 
   </li>
   <li> <strong>[J10]</strong> Keerthan Kumar TG, Sourav Kanti Addya, <b> Anurag Satpathy</b>, and S. G. Koolagudi, "<i> NORD: NOde Ranking-based efficient virtual network embedding over single Domain substrate networks </i>" in <b> Computer Networks, Elsevier</b>, Volume 216, 2023 <a href="https://doi.org/10.1016/j.comnet.2023.109661"> DOI: 10.1016/j.comnet.2023.109661 </a> (<b>IF-4.4 </b>)
