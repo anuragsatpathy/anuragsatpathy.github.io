@@ -11,8 +11,9 @@ classes: wide
   <li><strong>J3.</strong> Third item</li>
 </ul> -->
 **Journal Publications**
-<small>
 <ul style="list-style-type: none; padding-left: 0;">
+  <li> <strong>[J11]</strong> Sourav Kanti Addya, <b>Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, Soumya K Ghosh, Sajal K Das, "<i>Geo-distributed Multi-tier Workload Migration over Multi-timescale Electricity Markets</i>" in <b> IEEE Transactions on Services Computing </b>, vol. 16, no. 5, pp. 3385-3396, Sept.-Oct. 2023, <a href="https://ieeexplore.ieee.org/document/10109840"> DOI: 10.1109/TSC.2023.3270921 </a> (<b>IF-5.5 </b>) 
+  </li>
   <li> <strong>[J10]</strong> Keerthan Kumar TG, Sourav Kanti Addya, <b> Anurag Satpathy</b>, and S. G. Koolagudi, "<i> NORD: NOde Ranking-based efficient virtual network embedding over single Domain substrate networks </i>" in <b> Computer Networks, Elsevier</b>, Volume 216, 2023 <a href="https://doi.org/10.1016/j.comnet.2023.109661"> DOI: 10.1016/j.comnet.2023.109661 </a> (<b>IF-4.4 </b>)
   </li>
   <li><strong>[J9]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Lucky Behera, Chittaranjan Swain, "<i> ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory</i>" in <b> IEEE Transactions on Services Computing </b>, vol. 16, no. 2, pp. 1373-1386, 1 March-April 2023, <a href="https://ieeexplore.ieee.org/abstract/document/9796586"> DOI: 10.1109/TSC.2022.3183259 </a> (<b>IF-5.5 </b>)
@@ -40,7 +41,6 @@ classes: wide
  <strong>[J1]</strong> <b> Anurag Satpathy </b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi, and Gadadhar Sahoo, "<i> Crow search based virtual machine placement strategy in cloud data centers with live migration</i>" in <b> Computers & Electrical Engineering, Elsevier, </b> Volume 69, Pages 334-350, 2018, <a href="https://doi.org/10.1016/j.compeleceng.2017.12.032"> DOI: 10.1016/j.compeleceng.2017.12.032 </a> (<b>IF-4.0</b>).
 </li>
 </ul>
-</small>
 
 **Conference Publications**
 
