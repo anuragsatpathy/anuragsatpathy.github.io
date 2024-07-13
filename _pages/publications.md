@@ -12,6 +12,9 @@ classes: wide
 </ul> -->
 **Journal Publications**
 <ul style="list-style-type: none; padding-left: 0;">
+  <li> Ashutosh Mishra, Manmath Narayan Sahoo, <b>Anurag Satpathy </b>, "<i> H3CSA: A makespan aware task scheduling technique for cloud environments </i>" in <b> Transactions on Emerging Telecommunications Technologies, Wiley </b>, Volume 32, Number 10, 2021, 
+  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.4277"> DOI: 10.1002/ett.4277 </a> (<b>IF-2.5 </b>)
+  </li>
   <li><strong>[J5]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Ashutosh Mishra, Banshidhar Majhi, Joel J. P. C. Rodrigues, and Sambit Bakshi, "<i>A Service Sustainable Live Migration Strategy for multiple Virtual Machines in Cloud Data Centers</i>, in <b> Big Data Research, Elsevier</b>, Volume 25, 2021, <a href="https://doi.org/10.1016/j.bdr.2021.100213"> DOI: 10.1016/j.bdr.2021.100213 </a> (<b>IF-3.5 </b>)
   </li> 
  <li>
