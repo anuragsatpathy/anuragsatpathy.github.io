@@ -6,11 +6,13 @@ author_profile: true
 classes: wide
 ---
 
-**2017 - 2023**<br>
+**2017 - 2023**
+<br>
 Ph.D. in Computer Science and Engineering <br>
 <a href="https://www.nitrkl.ac.in">National Institute of Technology Rourkela, Odisha, India</a><br>
 *GPA: 9.34/10*<br>
-*Thesis Title: Efficient Re-Embedding Strategies for Virtual Data Centers over Multi-Domain Substrate Networks*<br>
+*Thesis Title: Efficient Re-Embedding Strategies for Virtual Data Centers over Multi-Domain Substrate Networks*
+<br>
 *Advisor:<a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom"> Prof. Manmath Narayan Sahoo</a>*
 
 **2015 - 2017**<br>
@@ -29,13 +31,16 @@ B. Tech. in Information Technology<br>
 
 ## Research Experience
 
-**Aug 2023 - Present**<br>
+**Aug 2023 - Present**
+<br>
 Post Doctoral Fellow at the Missouri University of Science and Technology (S&T), Rolla, Missouri, USA under the  supervision of <a href="https://sites.google.com/a/mst.edu/sdas/"> Dr. Sajal K. Das</a>.
+
 <ul>
 	<li>
 		Working on an NSF-funded project 
 		<i> "SOTERIA: Satisfaction and Behavior-aware Dynamic Resource Allocation in Public Safety Systems"
 		</i>, focused on establishing game-theoretic solution to restore communication capabilities to assist the first responders in communicating with the emergency control center, assisting in search and rescue operations.
+	</li>
 	<li>
 		Working on adopting a game-theoretic solution to offloading in vehicular networks for mobile vehicles, focusing on minimizing latency and energy consumption.
 	</li>
@@ -47,24 +52,26 @@ Post Doctoral Fellow at the Missouri University of Science and Technology (S&T),
 	</li>
 </ul>
 
-**July 2017 - Feb 2023**<br>
+**July 2017 - Feb 2023**
+<br>
 Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, India under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom"> Prof. Manmath Narayan Sahoo</a><br>
 
 *Research Contributions:* Worked on the issue of resource management– specifically, the focus was to develop efficient complete/selective re-embedding strategies for already embedded dynamic virtual data center requests experiencing demand fluctuations. <br>
 
 *Relevant Publications:* 
 <ul>
-<li> <a href ="https://ieeexplore.ieee.org/document/9796586"> ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory </a>
-</li>
-<li>
-<a href ="https://doi.org/10.1016/j.comnet.2022.109248"> CoMap: An efficient virtual network re-mapping strategy based on coalitional matching theory </a>	
-</li>
-<li>
-<a href ="https://ieeexplore.ieee.org/document/9284253"> VMatch: A Matching Theory Based VDC Reconfiguration Strategy </a>	
-</li>
+	<li> <a href ="https://ieeexplore.ieee.org/document/9796586"> ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory </a>
+	</li>
+	<li>
+	<a href ="https://doi.org/10.1016/j.comnet.2022.109248"> CoMap: An efficient virtual network re-mapping strategy based on coalitional matching theory </a>	
+	</li>
+	<li>
+	<a href ="https://ieeexplore.ieee.org/document/9284253"> VMatch: A Matching Theory Based VDC Reconfiguration Strategy </a>	
+	</li>
 </ul>
 
-**May 2016 - April 2017**<br>
+**May 2016 - April 2017**
+<br>
 Visiting Researcher at National Institute of Technology, Rourkela, under the supervision of <a href="https://www.vssut.ac.in/vice-chancellor-s-message.php"> Dr. Banshidhar Majhi </a> and <a href="https://cse.nitk.ac.in/faculty/sourav-kanti-addya"> Dr. Sourav Kanti Addya </a>.
 
 *Research Contribution:* Worked on solving the virtual machine placement problem and developed an efficient strategy to solve the VMP problem using a meta-heuristic crow-search algorithm. Different live-migration techniques were also integrated with the placement model, and its comparative behavior was studied. <br>
