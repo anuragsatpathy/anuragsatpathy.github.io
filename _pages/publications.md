@@ -12,6 +12,8 @@ classes: wide
 </ul> -->
 **Journal Publications**
 <ul style="list-style-type: none; padding-left: 0;">
+  <li><strong>[J9]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Lucky Behera, Chittaranjan Swain, "<i> ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory</i>" in <b> IEEE Transactions on Services Computing </b>, vol. 16, no. 2, pp. 1373-1386, 1 March-April 2023, <a href="https://ieeexplore.ieee.org/abstract/document/9796586"> DOI: 10.1109/TSC.2022.3183259 </a> (<b>IF-5.5 </b>)
+  </li> 
   <li><strong>[J8]</strong> Sourav Kanti Addya, <b> Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, Soumya K Ghosh, Sajal K Das, "<i> CoMCLOUD: Virtual Machine Coalition for Multi-Tier Applications over Multi-Cloud Environments</i> ", in <b> IEEE Transactions on Cloud Computing </b>, vol. 11, no. 1, pp. 956-970, 1 Jan.-March 2023, 
   <a href="https://ieeexplore.ieee.org/abstract/document/9585379"> DOI: 10.1109/TCC.2021.3122445 </a> (<b>IF-5.3 </b>)
    </li> 
