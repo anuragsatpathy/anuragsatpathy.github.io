@@ -12,7 +12,7 @@ classes: wide
 </ul> -->
 **<u>Refereed Conference Publications</u>**
 <ul style="list-style-type: none; padding-left: 0;">
-  <li> <strong>[C5]</strong> <b> Anurag Satpathy </b>, \normalfont Manmath Narayan Sahoo, Lucky Behera, Chittaranjan Swain, and Ashutosh Mishra, "<i> VMatch: A Matching Theory Based VDC Reconfiguration Strategy}</i>, 2020 <b> IEEE 13th International Conference on Cloud Computing (CLOUD)</b>, Beijing, 2020, pp. 133-140, <a href="https://ieeexplore.ieee.org/document/9284253"> DOI: 10.1109/CLOUD49709.2020.00031, (<b>Core Rank: B, Acceptance Rate: 17%</b>) (<b>YESC Student Paper Participation Award</b>) 
+  <li> <strong>[C5]</strong> <b> Anurag Satpathy </b>, \normalfont Manmath Narayan Sahoo, Lucky Behera, Chittaranjan Swain, and Ashutosh Mishra, "<i> VMatch: A Matching Theory Based VDC Reconfiguration Strategy}</i>, 2020 <b> IEEE 13th International Conference on Cloud Computing (CLOUD)</b>, Beijing, 2020, pp. 133-140, <a href="https://ieeexplore.ieee.org/document/9284253"> DOI: 10.1109/CLOUD49709.2020.00031 </a>, (<b>Core Rank: B, Acceptance Rate: 17%</b>) (<b>YESC Student Paper Participation Award</b>) 
    </li> 
   <li> <strong>[C4]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Lipsa Chottray, Banshidhar Majhi, Ashutosh Mishra, and Sambit Bakshi, "<i> VRMap: A Cost and Time Aware Remapping of Virtual Data Centres Over a Geo-distributed Infrastructure</i>", 2020 <b> International Conference on COMmunication Systems & NETworkS (COMSNETS)</b>, Bengaluru, India, 2020, pp. 427-434, <a href="https://ieeexplore.ieee.org/document/9027406"> DOI: 10.1109/COMSNETS48256.2020.9027406 </a> (<b>Core Rank: National India</b>)
   </li>
