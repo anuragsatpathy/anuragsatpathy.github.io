@@ -12,7 +12,7 @@ classes: wide
 </ul> -->
 **Journal Publications**
 <ul style="list-style-type: none; padding-left: 0;">
-  <li><strong>[J5]</strong> <b> Anurag Satpathy </b>, \normalfont Manmath Narayan Sahoo, Ashutosh Mishra, Banshidhar Majhi, Joel J. P. C. Rodrigues, and Sambit Bakshi, "<i>A Service Sustainable Live Migration Strategy for multiple Virtual Machines in Cloud Data Centers</i>, in <b> Big Data Research, Elsevier</b>, Volume 25, 2021, <a href="https://doi.org/10.1016/j.bdr.2021.100213"> DOI: 10.1016/j.bdr.2021.100213 </a> (<b>IF-3.5 </b>)
+  <li><strong>[J5]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Ashutosh Mishra, Banshidhar Majhi, Joel J. P. C. Rodrigues, and Sambit Bakshi, "<i>A Service Sustainable Live Migration Strategy for multiple Virtual Machines in Cloud Data Centers</i>, in <b> Big Data Research, Elsevier</b>, Volume 25, 2021, <a href="https://doi.org/10.1016/j.bdr.2021.100213"> DOI: 10.1016/j.bdr.2021.100213 </a> (<b>IF-3.5 </b>)
   </li> 
  <li>
  <strong>[J4]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy </b>, Khan Muhammad, Sambit Bakshi, Joel J. P. C. Rodrigues, and Victor Hugo C. de Albuquerque, "<i> METO: Matching Theory Based Efficient Task Offloading in IoT-Fog Interconnection Networks </i>", in IEEE Internet of Things Journal, vol. 8, no. 16, pp. 12705-12715, 15 Aug, 2021, <a href="https://ieeexplore.ieee.org/document/9201504"> DOI: 10.1109/JIOT.2020.3025631 </a> (<b>IF-8.2 </b>).
