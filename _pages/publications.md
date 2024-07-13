@@ -10,8 +10,10 @@ classes: wide
   <li><strong>J2.</strong> Second item</li>
   <li><strong>J3.</strong> Third item</li>
 </ul> -->
-**Journal Publications**
+**<u>Journal Publications</u>**
 <ul style="list-style-type: none; padding-left: 0;">
+  <li> <strong>[J14]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Chittaranjan Swain, Muhammad Bilal, Sambit Bakshi, and Houbing Song, "<i>GAMap: A Genetic Algorithm-Based Effective Virtual Data Center Re-Embedding Strategy</i>", in <b> IEEE Transactions on Green Communications and Networking </b>, vol. 8, no. 2, pp. 791-801, June 2024, <a href="https://ieeexplore.ieee.org/document/10368080"> DOI: doi:10.1109/TGCN.2023.3345542 </a> (<b>IF-5.3</b>) 
+   </li> 
   <li> <strong>[J13]</strong> Raunak Saha, <b> Anurag Satpathy </b>, and Sourav Kanti Addya, "<i> FASE: Fast Deployment for Dependent Applications in Serverless Environments</i>", in <b> Journal of Supercomputing, Springer</b>, vol. 80, no. 8, pp. 10394--10417, 2024, <a href="https://link.springer.com/article/10.1007/s11227-023-05840-w#citeas"> DOI: 10.1007/s11227-023-05840-w </a> (<b>IF-2.5</b>)
   </li>
    <li> <strong>[J12]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy </b>, Khan Muhammad, Sambit Bakshi, and Joel J. P. C. Rodrigues, "<i>A-DAFTO: Artificial Cap Deferred Acceptance based Fair Task Offloading in Complex IoT-Fog Networks</i>" in <b> IEEE Transactions on Consumer Electronics</b>, vol. 69, no. 4, pp. 914-926, Nov. 2023, <a href="https://ieeexplore.ieee.org/document/10086698"> DOI: 10.1109/TCE.2023.3262995 </a> (<b>IF-4.3</b>)
