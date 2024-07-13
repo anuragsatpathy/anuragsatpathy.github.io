@@ -12,6 +12,8 @@ classes: wide
 </ul> -->
 **<u>Refereed Conference Publications</u>**
 <ul style="list-style-type: none; padding-left: 0;">
+  <li> <strong>[C1]</strong> Bishakh Chandra Ghosh, Sourav Kanti Addya, <b> Anurag Satpathy </b>, Soumya K. Ghosh, and Sandip Chakraborty, "<i>Towards a Democratic Federation for Infrastructure Service Provisioning</i>" 2019 <b> IEEE International Conference on Services Computing (SCC)</b>, Milan, Italy, 2019, pp. 162-166, <a href="https://ieeexplore.ieee.org/document/8813913"> DOI: 10.1109/SCC.2019.00036 </a> (<b>Core Rank: A, Acceptance Rate: 17%/</b>)
+  </li>
   <li> <strong>[C1]</strong> Sourav Kanti Addya, <b>Anurag Satpathy </b>, Sandip Chakraborty, and Soumya K. Ghosh, "<i> Optimal VM Coalition for Multi-Tier Applications Over Multi-Cloud Broker Environments </i>" 2019 <b> 11th International Conference on Communication Systems & Networks (COMSNETS)</b>, Bengaluru, India, 2019, pp. 141-148, <a href="https://ieeexplore.ieee.org/abstract/document/8711038"> DOI: 10.1109/COMSNETS.2019.8711038 </a> (<b>Core Rank: National India</b>)
   </li>
 </ul>
