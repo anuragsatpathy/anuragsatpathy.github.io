@@ -10,6 +10,9 @@ classes: wide
   <li><strong>J2.</strong> Second item</li>
   <li><strong>J3.</strong> Third item</li>
 </ul> -->
+**Refereed Conference Publications**
+<ul style="list-style-type: none; padding-left: 0;">
+
 **<u>Refereed Journal Publications</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li> <strong>[J15]</strong> Keerthan Kumar TG, Shivangi Tomar, Sourav Kanti Addya, <b> Anurag Satpathy</b>, SG Koolagudi, "<i>EFraS: Emulated framework to develop and analyze dynamic virtual network embedding strategies over SDN infrastructure</i>", in <b> Simulation Modelling Practice and Theory, Elsevier</b>, volume. 134, pp. 102952, 2024, <a href="https://www.sciencedirect.com/science/article/abs/pii/S1569190X24000662"> DOI: 10.1016/j.simpat.2024.102952 </a> (<b>IF-3.5</b>)
@@ -50,9 +53,8 @@ classes: wide
 </li>
 </ul>
 
-**Conference Publications**
-
-
 **<u>Book Chapters</u>**
 <ul style="list-style-type: none; padding-left: 0;">
-  <li> <strong>[B1]</strong> <b> Anurag Satpathy </b>" <i> Evolution of Cloud-Fog-IoT Interconnection Networks</i>" in Cloud Network Management, CRC Press, Taylor & Francis Group, pages 3-14, 2020, <a href="https://doi.org/10.1201/9780429288630"> DOI: 10.1201/9780429288630 </a>
+  <li> <strong>[B1]</strong> <b> Anurag Satpathy </b>" <i>, Evolution of Cloud-Fog-IoT Interconnection Networks</i>" in Cloud Network Management, CRC Press, Taylor & Francis Group, pages 3-14, 2020, <a href="https://doi.org/10.1201/9780429288630"> DOI: 10.1201/9780429288630 </a>
+   </li>
+   </ul> 
