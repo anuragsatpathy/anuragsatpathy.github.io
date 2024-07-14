@@ -86,6 +86,8 @@ classes: wide
 <ul style="list-style-type: none; padding-left: 0;">
 <li><strong>[P1]</strong> Arpana Chakma, Shubham Kumar, Pradeep Kumar Mahato, <b> Anurag Satpathy </b>, and Sourav Kanti Addya, "<i> MatchCloud:Service Matching for Multi Cloud Marketplace</i>," 14th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bengaluru, India, 2021,  pp. 127-130, <a href="https://doi.org/10.1016/j.compeleceng.2017.12.032"> DOI: 10.1016/j.compeleceng.2017.12.032 </a>, (<b>Core Rank: National India </b>) (<b> Best Poster Award </b>) 
 </li>
+<li><strong>[P1]</strong> Keerthan Kumar. T G, Ankit Srivastava, <b> Anurag Satpathy </b>, Sourav Kanti Addya, and Shashidhar G Koolagudi, "<i> MatchVNE: A Stable Virtual Network Embedding Strategy Based on Matching Theory</i>," 15th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bangalore, India, 2023, pp. 355-359, <a href="https://ieeexplore.ieee.org/document/10041377"> DOI: 10.1109/COMSNETS56262.2023.10041377 </a>, (<b>Core Rank: National India </b>)
+ </li> 
 </ul> 
 **<u>Book Chapters</u>**
 <ul style="list-style-type: none; padding-left: 0;">
