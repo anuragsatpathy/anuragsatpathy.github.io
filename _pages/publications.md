@@ -30,10 +30,10 @@ classes: wide
   </li>
   <li> <strong>[C6]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy</b> " <i>SPATO: A Student Project Allocation Based Task Offloading in IoT-Fog Systems</i>," <b> IEEE International Conference on Communications (ICC)</b>Montreal, QC, Canada, 2021, pp. 1-6, <a href="https://ieeexplore.ieee.org/abstract/document/9500367"> DOI: 10.1109/ICC42927.2021.9500367 </a>, (<b>Core Rank: B</b>)
   </li>
-  <li> <strong>[C5]</strong> <b> Anurag Satpathy </b>, \normalfont Manmath Narayan Sahoo, Lucky Behera, Chittaranjan Swain, and Ashutosh Mishra, "<i> VMatch: A Matching Theory Based VDC Reconfiguration Strategy}</i>, 2020 <b> IEEE 13th International Conference on Cloud Computing (CLOUD)</b>, Beijing, 2020, pp. 133-140, <a href="https://ieeexplore.ieee.org/document/9284253"> DOI: 10.1109/CLOUD49709.2020.00031 </a>, (<b>Core Rank: B, Acceptance Rate: 17%</b>) (<b>YESC Student Paper Participation Award</b>) 
+  <!-- <li> <strong>[C5]</strong> <b> Anurag Satpathy </b>, \normalfont Manmath Narayan Sahoo, Lucky Behera, Chittaranjan Swain, and Ashutosh Mishra, "<i> VMatch: A Matching Theory Based VDC Reconfiguration Strategy}</i>, 2020 <b> IEEE 13th International Conference on Cloud Computing (CLOUD)</b>, Beijing, 2020, pp. 133-140, <a href="https://ieeexplore.ieee.org/document/9284253"> DOI: 10.1109/CLOUD49709.2020.00031 </a>, (<b>Core Rank: B, Acceptance Rate: 17%</b>) (<b>YESC Student Paper Participation Award</b>) 
    </li> 
   <li> <strong>[C4]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Lipsa Chottray, Banshidhar Majhi, Ashutosh Mishra, and Sambit Bakshi, "<i> VRMap: A Cost and Time Aware Remapping of Virtual Data Centres Over a Geo-distributed Infrastructure</i>", 2020 <b> International Conference on COMmunication Systems & NETworkS (COMSNETS)</b>, Bengaluru, India, 2020, pp. 427-434, <a href="https://ieeexplore.ieee.org/document/9027406"> DOI: 10.1109/COMSNETS48256.2020.9027406 </a> (<b>Core Rank: National India</b>)
-  </li>
+  </li> -->
  <!--  <li> <strong>[C3]</strong> Sourav Kanti Addya, <b>Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, and Soumya K. Ghosh, "<i> Power and Time Aware VM Migration for Multi-Tier Applications over Geo-Distributed Clouds</i>" 2019 <b> IEEE 12th International Conference on Cloud Computing(CLOUD) </b>, Milan, Italy, 2019, pp. 339-343, <a href="https://ieeexplore.ieee.org/document/8814578"> DOI: 10.1109/CLOUD.2019.00062 </a> (<b>Core Rank: B, Acceptance Rate: 20.8%</b>)
   </li> -->
   <!-- <li> <strong>[C2]</strong> Bishakh Chandra Ghosh, Sourav Kanti Addya, <b> Anurag Satpathy </b>, Soumya K. Ghosh, and Sandip Chakraborty, "<i>Towards a Democratic Federation for Infrastructure Service Provisioning</i>" 2019 <b> IEEE International Conference on Services Computing (SCC)</b>, Milan, Italy, 2019, pp. 162-166, <a href="https://ieeexplore.ieee.org/document/8813913"> DOI: 10.1109/SCC.2019.00036 </a> (<b>Core Rank: A, Acceptance Rate: 17%</b>)
@@ -93,9 +93,17 @@ classes: wide
 </ul> 
 <!-- **<u>Book Chapters</u>** -->
 <!-- <ul style="list-style-type: none; padding-left: 0;"> -->
-  <li> <strong>[B1]</strong> <b> Anurag Satpathy </b>" <i>, Evolution of Cloud-Fog-IoT Interconnection Networks</i>" in Cloud Network Management, CRC Press, Taylor & Francis Group, pages 3-14, 2020, <a href="https://doi.org/10.1201/9780429288630"> DOI: 10.1201/9780429288630 </a>
-   </li>
-   <!-- </ul>  -->
+ <!--  <li> <strong>[B1]</strong> <b> Anurag Satpathy </b>" <i>, Evolution of Cloud-Fog-IoT Interconnection Networks</i>" in Cloud Network Management, CRC Press, Taylor & Francis Group, pages 3-14, 2020, <a href="https://doi.org/10.1201/9780429288630"> DOI: 10.1201/9780429288630 </a>
+   </li> -->
+<!-- </ul>  -->
+**<u>2020</u>**
+<ul style="list-style-type: none; padding-left: 0;">
+ <li> <strong>[B1]</strong> <b> Anurag Satpathy </b>" <i>, Evolution of Cloud-Fog-IoT Interconnection Networks</i>" in Cloud Network Management, CRC Press, Taylor & Francis Group, pages 3-14, 2020, <a href="https://doi.org/10.1201/9780429288630"> DOI: 10.1201/9780429288630 </a>
+</li>
+<li> <strong>[C5]</strong> <b> Anurag Satpathy </b>, \normalfont Manmath Narayan Sahoo, Lucky Behera, Chittaranjan Swain, and Ashutosh Mishra, "<i> VMatch: A Matching Theory Based VDC Reconfiguration Strategy}</i>, 2020 <b> IEEE 13th International Conference on Cloud Computing (CLOUD)</b>, Beijing, 2020, pp. 133-140, <a href="https://ieeexplore.ieee.org/document/9284253"> DOI: 10.1109/CLOUD49709.2020.00031 </a>, (<b>Core Rank: B, Acceptance Rate: 17%</b>) (<b>YESC Student Paper Participation Award</b>) 
+</li> 
+<li> <strong>[C4]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Lipsa Chottray, Banshidhar Majhi, Ashutosh Mishra, and Sambit Bakshi, "<i> VRMap: A Cost and Time Aware Remapping of Virtual Data Centres Over a Geo-distributed Infrastructure</i>", 2020 <b> International Conference on COMmunication Systems & NETworkS (COMSNETS)</b>, Bengaluru, India, 2020, pp. 427-434, <a href="https://ieeexplore.ieee.org/document/9027406"> DOI: 10.1109/COMSNETS48256.2020.9027406 </a> (<b>Core Rank: National India</b>)
+</li>
 **<u>2019</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
