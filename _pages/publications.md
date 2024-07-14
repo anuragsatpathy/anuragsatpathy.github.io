@@ -9,9 +9,9 @@ classes: wide
 <ul style="list-style-type: none; padding-left: 0;">
   <li><strong>[C14]</strong> Mahmuda Akter, Debjyoti Sengupta, <b> Anurag Satpathy </b>, Sajal. K. Das, "<i> MIME: Mobility-Induced Dynamic Matching for Partial Offloading in Vehicular Edge Computing</i>" <b> 49th IEEE Conference on Local Computer Networks (LCN), </b> Caen, Normandy, France, Oct 2024 (Accepted) (<b>Core Rank: B</b>).
   </li> 
-  <li><strong>[C13]</strong> Debjyoti Sengupta, <b>Anurag Satpathy</b>, Sajal. K. Das, "<i> POSCA: Path Optimization for Solar Cover Amelioration in Urban Air Mobility"</i>, <b> IEEE International Conference on Smart Computing (SMARTCOMP)</b>, Osaka, Japan, June 2024 (Accepted).
+  <li><strong>[C13]</strong> Debjyoti Sengupta, <b>Anurag Satpathy</b>, Sajal. K. Das, "<i> POSCA: Path Optimization for Solar Cover Amelioration in Urban Air Mobility"</i>, <b> IEEE International Conference on Smart Computing (SMARTCOMP)</b>, Osaka, Japan, June 2024.
   </li>
-  <li><strong>[C12]</strong> Mahmuda Akter, Debjyoti Sengupta, <b> Anurag Satpathy</b>, Sajal. K. Das, " <i> MOVE: Matching Game for Partial Offloading in Vehicular Edge Computing</i>,"<b> IEEE International Conference on Communications (ICC), Next-Generation Networking and Internet Symposium (NGNI)</b>, Denver, Colorado, June 2024 (Accepted).
+  <li><strong>[C12]</strong> Mahmuda Akter, Debjyoti Sengupta, <b> Anurag Satpathy</b>, Sajal. K. Das, " <i> MOVE: Matching Game for Partial Offloading in Vehicular Edge Computing</i>,"<b> IEEE International Conference on Communications (ICC), Next-Generation Networking and Internet Symposium (NGNI)</b>, Denver, Colorado, June 2024.
   </li>
   <li><strong>[C11]</strong> Aastik Verma, <b> Anurag Satpathy</b>, Sajal. K. Das, and Sourav Kanti Addya, "<i> LEASE: Leveraging Energy-Awareness in Serverless Edge for Latency-Sensitive IoT Services</i>" <b> 3rd Workshop on Serverless computing for pervasive cloud-edge-device systems and services (STARLESS), in conjunction with IEEE PerCom</b>, Biarritz, France, Mar 2024, pp. 302-307, <a href="https://ieeexplore.ieee.org/document/10502788"> DOI: 10.1109/PerComWorkshops59983.2024.10502788 </a>(<b> Core Rank: A<sup>*</sup></b>).
   </li>
