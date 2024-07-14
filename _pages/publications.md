@@ -12,7 +12,7 @@ classes: wide
 </ul> -->
 **<u>Refereed Conference Publications</u>**
 <ul style="list-style-type: none; padding-left: 0;">
-  <li><strong>[C13]</strong> Debjyoti Sengupta, <b>Anurag Satpathy</b>, Sajal. K. Das, "<i> POSCA: Path Optimization for Solar Cover Amelioration in Urban Air Mobility"</i>, <b> IEEE International Conference on Smart Computing (SMARTCOMP)</b> Osaka, Japan, June 2024 (Accepted).
+  <li><strong>[C13]</strong> Debjyoti Sengupta, <b>Anurag Satpathy</b>, Sajal. K. Das, "<i> POSCA: Path Optimization for Solar Cover Amelioration in Urban Air Mobility"</i>, <b> IEEE International Conference on Smart Computing (SMARTCOMP)</b>, Osaka, Japan, June 2024 (Accepted).
   </li>
   <li><strong>[C12]</strong> Mahmuda Akter, Debjyoti Sengupta, <b> Anurag Satpathy</b>, Sajal. K. Das, " <i> MOVE: Matching Game for Partial Offloading in Vehicular Edge Computing</i>,"<b> IEEE International Conference on Communications (ICC), Next-Generation Networking and Internet Symposium (NGNI)</b>, Denver, Colorado, June 2024 (Accepted).
   </li>
