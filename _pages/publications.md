@@ -102,3 +102,9 @@ classes: wide
   <li> <strong>[J1]</strong> <b> Anurag Satpathy </b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi, and Gadadhar Sahoo, "<i> Crow search based virtual machine placement strategy in cloud data centers with live migration</i>" in <b> Computers & Electrical Engineering, Elsevier, </b> Volume 69, Pages 334-350, 2018, <a href="https://ieeexplore.ieee.org/document/9352821"> DOI: 10.1109/COMSNETS51098.2021.9352821 </a> (<b>IF-4.0 </b>).
    </li> 
 </ul>
+
+**<u>2017</u>**
+<ul style="list-style-type: none; padding-left: 0;">
+  <li><strong>[C1]</strong> <b> Anurag Satpathy </b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi and Gadadhar Sahoo, "<i> A resource aware VM placement strategy in cloud data centers based on crow search algorithm,</i>" <b> 4th International Conference on Advanced Computing and Communication Systems (ICACCS)</b>, Coimbatore, India, 2017, pp. 1-6, g, Elsevier, </b> Volume 69, Pages 334-350, 2018, <a href="https://ieeexplore.ieee.org/abstract/document/8014639"> DOI: 10.1109/ICACCS.2017.8014639 </a>
+  </li>
+ </ul> 
