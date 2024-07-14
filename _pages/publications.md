@@ -12,6 +12,7 @@ classes: wide
 </ul> -->
 **<u>Refereed Conference Publications</u>**
 <ul style="list-style-type: none; padding-left: 0;">
+  <li><strong>[C10]</strong> Priyanka Soni, Omkar Chand Deshlahre, <b> Anurag Satpathy </b>, and Sourav Kanti Addya, " <i> LBA: Matching Theory Based Latency-Sensitive Binary Offloading in IoT-Fog Networks</i>", <b> Workshop on Machine Intelligence in Networked Data and Systems (MINDS) at 2024 International Conference on COMmunication Systems & NETworkS (COMSNETS)</b>, Bengaluru, India, 2024, pp. 165-170, <a href="https://ieeexplore.ieee.org/document/10427455"> DOI: 10.1109/COMSNETS59351.2024.10427455</a> (<b>Core Rank: National India</b>).
   <li><strong>[C9]</strong> Pranab Nandy, Rounak Saha, <b> Anurag Satpathy </b>, Sandip Chakraborty, and Sourav Kanti Addya, " <i>Performance Analysis of Disruptive Instances in Cloud Environment</i>" 2024 <b> International Conference on COMmunication Systems & NETworkS (COMSNETS) </b> Bengaluru, India, 2024, pp. 370-378, <a href="https://ieeexplore.ieee.org/document/10427039"> DOI: 10.1109/COMSNETS59351.2024.10427039</a> (<b>Core Rank: National India</b>).
   </li>
   <li><strong>[C8]</strong> Jui V Morey, <b> Anurag Satpathy</b>, and Sourav Kanti Addya, "<i> VMAP: Matching-based Efficient Offloading in IoT-Fog Environments with Variable Resources </i>" 17th <b>IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS) </b> Jaipur, India, 2023, pp. 714-719, <a href="https://ieeexplore.ieee.org/document/10468986"> DOI: 10.1109/ANTS59832.2023.10468986</a>.
