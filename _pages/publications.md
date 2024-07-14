@@ -63,7 +63,7 @@ classes: wide
  </li> 
  <li><strong>[J5]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Ashutosh Mishra, Banshidhar Majhi, Joel J. P. C. Rodrigues, and Sambit Bakshi, "<i>A Service Sustainable Live Migration Strategy for multiple Virtual Machines in Cloud Data Centers</i>, in <b> Big Data Research, Elsevier</b>, Volume 25, 2021, <a href="https://doi.org/10.1016/j.bdr.2021.100213"> DOI: 10.1016/j.bdr.2021.100213 </a>(<b>IF-3.5 </b>)
  </li> 
-<li> <strong>[C6]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy</b> " <i>SPATO: A Student Project Allocation Based Task Offloading in IoT-Fog Systems</i>," <b> IEEE International Conference on Communications (ICC)</b>Montreal, QC, Canada, 2021, pp. 1-6, <a href="https://ieeexplore.ieee.org/abstract/document/9500367"> DOI: 10.1109/ICC42927.2021.9500367 </a>, (<b>Core Rank: B</b>)
+<li> <strong>[C6]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy</b>, " <i>SPATO: A Student Project Allocation Based Task Offloading in IoT-Fog Systems</i>," <b> IEEE International Conference on Communications (ICC)</b>Montreal, QC, Canada, 2021, pp. 1-6, <a href="https://ieeexplore.ieee.org/abstract/document/9500367"> DOI: 10.1109/ICC42927.2021.9500367 </a>, (<b>Core Rank: B</b>)
 </li> 
 <li> <strong>[J6]</strong> Ashutosh Mishra, Manmath Narayan Sahoo, <b>Anurag Satpathy </b>, "<i> H3CSA: A makespan aware task scheduling technique for cloud environments </i>" in <b> Transactions on Emerging Telecommunications Technologies, Wiley </b>, Volume 32, Number 10, 2021, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.4277"> DOI: 10.1002/ett.4277 </a> (<b>IF-2.5 </b>)
 </li>
@@ -73,9 +73,9 @@ classes: wide
 
 **<u>2020</u>**
 <ul style="list-style-type: none; padding-left: 0;">
-<li> <strong>[B1]</strong> <b> Anurag Satpathy </b>" <i>, Evolution of Cloud-Fog-IoT Interconnection Networks</i>" in Cloud Network Management, CRC Press, Taylor & Francis Group, pages 3-14, 2020, <a href="https://doi.org/10.1201/9780429288630"> DOI: 10.1201/9780429288630 </a>
+<li> <strong>[B1]</strong> <b> Anurag Satpathy,</b>" <i>Evolution of Cloud-Fog-IoT Interconnection Networks</i>" in Cloud Network Management, CRC Press, Taylor & Francis Group, pages 3-14, 2020, <a href="https://doi.org/10.1201/9780429288630"> DOI: 10.1201/9780429288630 </a>
 </li>
-<li> <strong>[C5]</strong> <b> Anurag Satpathy </b>, \normalfont Manmath Narayan Sahoo, Lucky Behera, Chittaranjan Swain, and Ashutosh Mishra, "<i> VMatch: A Matching Theory Based VDC Reconfiguration Strategy}</i>, 2020 <b> IEEE 13th International Conference on Cloud Computing (CLOUD)</b>, Beijing, 2020, pp. 133-140, <a href="https://ieeexplore.ieee.org/document/9284253"> DOI: 10.1109/CLOUD49709.2020.00031 </a>, (<b>Core Rank: B, Acceptance Rate: 17%</b>) (<b>YESC Student Paper Participation Award</b>) 
+<li> <strong>[C5]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Lucky Behera, Chittaranjan Swain, and Ashutosh Mishra, "<i> VMatch: A Matching Theory Based VDC Reconfiguration Strategy}</i>, 2020 <b> IEEE 13th International Conference on Cloud Computing (CLOUD)</b>, Beijing, 2020, pp. 133-140, <a href="https://ieeexplore.ieee.org/document/9284253"> DOI: 10.1109/CLOUD49709.2020.00031 </a>, (<b>Core Rank: B, Acceptance Rate: 17%</b>) (<b>YESC Student Paper Participation Award</b>) 
 </li> 
 <li> <strong>[C4]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Lipsa Chottray, Banshidhar Majhi, Ashutosh Mishra, and Sambit Bakshi, "<i> VRMap: A Cost and Time Aware Remapping of Virtual Data Centres Over a Geo-distributed Infrastructure</i>", 2020 <b> International Conference on COMmunication Systems & NETworkS (COMSNETS)</b>, Bengaluru, India, 2020, pp. 427-434, <a href="https://ieeexplore.ieee.org/document/9027406"> DOI: 10.1109/COMSNETS48256.2020.9027406 </a> (<b>Core Rank: National India</b>)
 </li>
