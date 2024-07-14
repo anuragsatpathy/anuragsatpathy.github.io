@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 classes: wide
 ---
+**<u>2022</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li><strong>[C14]</strong> Mahmuda Akter, Debjyoti Sengupta, <b> Anurag Satpathy </b>, Sajal. K. Das, "<i> MIME: Mobility-Induced Dynamic Matching for Partial Offloading in Vehicular Edge Computing</i>" <b> 49th IEEE Conference on Local Computer Networks (LCN), </b> Caen, Normandy, France, Oct 2024 (Accepted) (<b>Core Rank: B</b>).
   </li> 
@@ -18,15 +19,12 @@ classes: wide
   </li>  
   <li><strong>[C9]</strong> Pranab Nandy, Rounak Saha, <b> Anurag Satpathy </b>, Sandip Chakraborty, and Sourav Kanti Addya, " <i>Performance Analysis of Disruptive Instances in Cloud Environment</i>," <b> International Conference on COMmunication Systems & NETworkS (COMSNETS) </b> Bengaluru, India, 2024, pp. 370-378, <a href="https://ieeexplore.ieee.org/document/10427039"> DOI: 10.1109/COMSNETS59351.2024.10427039</a> (<b>Core Rank: National India</b>).
   </li>
-  <li><strong>[C8]</strong> Jui V Morey, <b> Anurag Satpathy</b>, and Sourav Kanti Addya, "<i> VMAP: Matching-based Efficient Offloading in IoT-Fog Environments with Variable Resources </i>" 17th <b>IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS) </b> Jaipur, India, 2023, pp. 714-719, <a href="https://ieeexplore.ieee.org/document/10468986"> DOI: 10.1109/ANTS59832.2023.10468986</a>.
-  </li>  
-  
-
   <li> <strong>[J15]</strong> Keerthan Kumar TG, Shivangi Tomar, Sourav Kanti Addya, <b> Anurag Satpathy</b>, SG Koolagudi, "<i>EFraS: Emulated framework to develop and analyze dynamic virtual network embedding strategies over SDN infrastructure</i>", in <b> Simulation Modelling Practice and Theory, Elsevier</b>, volume. 134, pp. 102952, 2024, <a href="https://www.sciencedirect.com/science/article/abs/pii/S1569190X24000662"> DOI: 10.1016/j.simpat.2024.102952 </a> (<b>IF-3.5</b>)
   </li>
   <li> <strong>[J14]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Chittaranjan Swain, Muhammad Bilal, Sambit Bakshi, and Houbing Song, "<i>GAMap: A Genetic Algorithm-Based Effective Virtual Data Center Re-Embedding Strategy</i>", in <b> IEEE Transactions on Green Communications and Networking </b>, vol. 8, no. 2, pp. 791-801, June 2024, <a href="https://ieeexplore.ieee.org/document/10368080"> DOI: doi:10.1109/TGCN.2023.3345542 </a> (<b>IF-5.3</b>) 
    </li> 
   <li> <strong>[J13]</strong> Raunak Saha, <b> Anurag Satpathy </b>, and Sourav Kanti Addya, "<i> FASE: Fast Deployment for Dependent Applications in Serverless Environments</i>", in <b> Journal of Supercomputing, Springer</b>, vol. 80, no. 8, pp. 10394--10417, 2024, <a href="https://link.springer.com/article/10.1007/s11227-023-05840-w#citeas"> DOI: 10.1007/s11227-023-05840-w </a> (<b>IF-2.5</b>)
+  </li>
 </ul>
 
 **<u>2023</u>**
@@ -45,7 +43,9 @@ classes: wide
 </li> 
 <li><strong>[J8]</strong> Sourav Kanti Addya, <b> Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, Soumya K Ghosh, Sajal K Das, "<i> CoMCLOUD: Virtual Machine Coalition for Multi-Tier Applications over Multi-Cloud Environments</i> ", in <b> IEEE Transactions on Cloud Computing </b>, vol. 11, no. 1, pp. 956-970, 1 Jan.-March 2023, 
 <a href="https://ieeexplore.ieee.org/abstract/document/9585379"> DOI: 10.1109/TCC.2021.3122445 </a> (<b>IF-5.3 </b>)
-</li> 
+</li>
+<li><strong>[C8]</strong> Jui V Morey, <b> Anurag Satpathy</b>, and Sourav Kanti Addya, "<i> VMAP: Matching-based Efficient Offloading in IoT-Fog Environments with Variable Resources </i>" 17th <b>IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS) </b> Jaipur, India, 2023, pp. 714-719, <a href="https://ieeexplore.ieee.org/document/10468986"> DOI: 10.1109/ANTS59832.2023.10468986</a>.
+</li>  
 </ul> 
 
 **<u>2022</u>**
@@ -59,21 +59,21 @@ classes: wide
 <li><strong>[P1]</strong> Arpana Chakma, Shubham Kumar, Pradeep Kumar Mahato, <b> Anurag Satpathy </b>, and Sourav Kanti Addya, "<i> MatchCloud:Service Matching for Multi Cloud Marketplace</i>," 14th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bengaluru, India, 2021,  pp. 127-130, <a href="https://doi.org/10.1016/j.compeleceng.2017.12.032"> DOI: 10.1016/j.compeleceng.2017.12.032 </a> (<b>Core Rank: National India </b>) (<b> Best Poster Award </b>) 
 </li>
 <li>
- <strong>[J4]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy </b>, Khan Muhammad, Sambit Bakshi, Joel J. P. C. Rodrigues, and Victor Hugo C. de Albuquerque, "<i> METO: Matching Theory Based Efficient Task Offloading in IoT-Fog Interconnection Networks </i>", in <b> IEEE Internet of Things Journal </b>, vol. 8, no. 16, pp. 12705-12715, 15 Aug, 2021, <a href="https://ieeexplore.ieee.org/document/9201504"> DOI: 10.1109/JIOT.2020.3025631 </a> (<b>IF-8.2 </b>).
+  <strong>[J4]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy </b>, Khan Muhammad, Sambit Bakshi, Joel J. P. C. Rodrigues, and Victor Hugo C. de Albuquerque, "<i> METO: Matching Theory Based Efficient Task Offloading in IoT-Fog Interconnection Networks </i>", in <b> IEEE Internet of Things Journal </b>, vol. 8, no. 16, pp. 12705-12715, 15 Aug, 2021, <a href="https://ieeexplore.ieee.org/document/9201504"> DOI: 10.1109/JIOT.2020.3025631 </a> (<b>IF-8.2 </b>).
  </li> 
  <li><strong>[J5]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Ashutosh Mishra, Banshidhar Majhi, Joel J. P. C. Rodrigues, and Sambit Bakshi, "<i>A Service Sustainable Live Migration Strategy for multiple Virtual Machines in Cloud Data Centers</i>, in <b> Big Data Research, Elsevier</b>, Volume 25, 2021, <a href="https://doi.org/10.1016/j.bdr.2021.100213"> DOI: 10.1016/j.bdr.2021.100213 </a>(<b>IF-3.5 </b>)
+ </li> 
 <li> <strong>[C6]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy</b> " <i>SPATO: A Student Project Allocation Based Task Offloading in IoT-Fog Systems</i>," <b> IEEE International Conference on Communications (ICC)</b>Montreal, QC, Canada, 2021, pp. 1-6, <a href="https://ieeexplore.ieee.org/abstract/document/9500367"> DOI: 10.1109/ICC42927.2021.9500367 </a>, (<b>Core Rank: B</b>)
-</li>
 </li> 
 <li> <strong>[J6]</strong> Ashutosh Mishra, Manmath Narayan Sahoo, <b>Anurag Satpathy </b>, "<i> H3CSA: A makespan aware task scheduling technique for cloud environments </i>" in <b> Transactions on Emerging Telecommunications Technologies, Wiley </b>, Volume 32, Number 10, 2021, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.4277"> DOI: 10.1002/ett.4277 </a> (<b>IF-2.5 </b>)
 </li>
 <li><strong>[C7]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy</b>, "<i> LETO: An Efficient Load Balanced Strategy for Task Offloading in IoT-Fog Systems</i>", <b> IEEE International Conference on Web Services (ICWS) </b> Chicago, IL, USA, 2021, pp. 459-464, <a href="https://ieeexplore.ieee.org/document/9590239"> DOI: 10.1109/ICWS53863.2021.00065</a>, (<b> Core Rank: A, Acceptance Rate: 23.7% </b>)
-  </li>
+</li>
 </ul>
 
 **<u>2020</u>**
 <ul style="list-style-type: none; padding-left: 0;">
- <li> <strong>[B1]</strong> <b> Anurag Satpathy </b>" <i>, Evolution of Cloud-Fog-IoT Interconnection Networks</i>" in Cloud Network Management, CRC Press, Taylor & Francis Group, pages 3-14, 2020, <a href="https://doi.org/10.1201/9780429288630"> DOI: 10.1201/9780429288630 </a>
+<li> <strong>[B1]</strong> <b> Anurag Satpathy </b>" <i>, Evolution of Cloud-Fog-IoT Interconnection Networks</i>" in Cloud Network Management, CRC Press, Taylor & Francis Group, pages 3-14, 2020, <a href="https://doi.org/10.1201/9780429288630"> DOI: 10.1201/9780429288630 </a>
 </li>
 <li> <strong>[C5]</strong> <b> Anurag Satpathy </b>, \normalfont Manmath Narayan Sahoo, Lucky Behera, Chittaranjan Swain, and Ashutosh Mishra, "<i> VMatch: A Matching Theory Based VDC Reconfiguration Strategy}</i>, 2020 <b> IEEE 13th International Conference on Cloud Computing (CLOUD)</b>, Beijing, 2020, pp. 133-140, <a href="https://ieeexplore.ieee.org/document/9284253"> DOI: 10.1109/CLOUD49709.2020.00031 </a>, (<b>Core Rank: B, Acceptance Rate: 17%</b>) (<b>YESC Student Paper Participation Award</b>) 
 </li> 
