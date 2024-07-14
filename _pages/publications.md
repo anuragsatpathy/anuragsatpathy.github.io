@@ -34,12 +34,12 @@ classes: wide
    </li> 
   <li> <strong>[C4]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Lipsa Chottray, Banshidhar Majhi, Ashutosh Mishra, and Sambit Bakshi, "<i> VRMap: A Cost and Time Aware Remapping of Virtual Data Centres Over a Geo-distributed Infrastructure</i>", 2020 <b> International Conference on COMmunication Systems & NETworkS (COMSNETS)</b>, Bengaluru, India, 2020, pp. 427-434, <a href="https://ieeexplore.ieee.org/document/9027406"> DOI: 10.1109/COMSNETS48256.2020.9027406 </a> (<b>Core Rank: National India</b>)
   </li>
-  <li> <strong>[C3]</strong> Sourav Kanti Addya, <b>Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, and Soumya K. Ghosh, "<i> Power and Time Aware VM Migration for Multi-Tier Applications over Geo-Distributed Clouds</i>" 2019 <b> IEEE 12th International Conference on Cloud Computing(CLOUD) </b>, Milan, Italy, 2019, pp. 339-343, <a href="https://ieeexplore.ieee.org/document/8814578"> DOI: 10.1109/CLOUD.2019.00062 </a> (<b>Core Rank: B, Acceptance Rate: 20.8%</b>)
-  </li>
-  <li> <strong>[C2]</strong> Bishakh Chandra Ghosh, Sourav Kanti Addya, <b> Anurag Satpathy </b>, Soumya K. Ghosh, and Sandip Chakraborty, "<i>Towards a Democratic Federation for Infrastructure Service Provisioning</i>" 2019 <b> IEEE International Conference on Services Computing (SCC)</b>, Milan, Italy, 2019, pp. 162-166, <a href="https://ieeexplore.ieee.org/document/8813913"> DOI: 10.1109/SCC.2019.00036 </a> (<b>Core Rank: A, Acceptance Rate: 17%</b>)
-  </li>
-  <li> <strong>[C1]</strong> Sourav Kanti Addya, <b>Anurag Satpathy </b>, Sandip Chakraborty, and Soumya K. Ghosh, "<i> Optimal VM Coalition for Multi-Tier Applications Over Multi-Cloud Broker Environments </i>" 2019 <b> 11th International Conference on Communication Systems & Networks (COMSNETS)</b>, Bengaluru, India, 2019, pp. 141-148, <a href="https://ieeexplore.ieee.org/abstract/document/8711038"> DOI: 10.1109/COMSNETS.2019.8711038 </a> (<b>Core Rank: National India</b>)
-  </li>
+ <!--  <li> <strong>[C3]</strong> Sourav Kanti Addya, <b>Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, and Soumya K. Ghosh, "<i> Power and Time Aware VM Migration for Multi-Tier Applications over Geo-Distributed Clouds</i>" 2019 <b> IEEE 12th International Conference on Cloud Computing(CLOUD) </b>, Milan, Italy, 2019, pp. 339-343, <a href="https://ieeexplore.ieee.org/document/8814578"> DOI: 10.1109/CLOUD.2019.00062 </a> (<b>Core Rank: B, Acceptance Rate: 20.8%</b>)
+  </li> -->
+  <!-- <li> <strong>[C2]</strong> Bishakh Chandra Ghosh, Sourav Kanti Addya, <b> Anurag Satpathy </b>, Soumya K. Ghosh, and Sandip Chakraborty, "<i>Towards a Democratic Federation for Infrastructure Service Provisioning</i>" 2019 <b> IEEE International Conference on Services Computing (SCC)</b>, Milan, Italy, 2019, pp. 162-166, <a href="https://ieeexplore.ieee.org/document/8813913"> DOI: 10.1109/SCC.2019.00036 </a> (<b>Core Rank: A, Acceptance Rate: 17%</b>)
+  </li> -->
+  <!-- <li> <strong>[C1]</strong> Sourav Kanti Addya, <b>Anurag Satpathy </b>, Sandip Chakraborty, and Soumya K. Ghosh, "<i> Optimal VM Coalition for Multi-Tier Applications Over Multi-Cloud Broker Environments </i>" 2019 <b> 11th International Conference on Communication Systems & Networks (COMSNETS)</b>, Bengaluru, India, 2019, pp. 141-148, <a href="https://ieeexplore.ieee.org/abstract/document/8711038"> DOI: 10.1109/COMSNETS.2019.8711038 </a> (<b>Core Rank: National India</b>)
+  </li> -->
 </ul>
 
 <!-- **<u>Refereed Journal Publications</u>** -->
@@ -101,6 +101,12 @@ classes: wide
   <li>
  <strong>[J3]</strong> Sourav Kanti Addya, Ashok Kumar Turuk, <b> Anurag Satpathy </b>, Bibhudatta Sahoo, and Mahasweta Sarkar, "<i> A Strategy for Live Migration of Virtual Machines in a Cloud Federation </i>" in <b> IEEE Systems Journal </b>, vol. 13, no. 3, pp. 2877-2887, Sept. 2019, <a href="https://ieeexplore.ieee.org/document/8486653"> DOI: 10.1109/JSYST.2018.2872580 </a> (<b>IF-4.0 </b>).
  </li> 
+ <li> <strong>[C1]</strong> Sourav Kanti Addya, <b>Anurag Satpathy </b>, Sandip Chakraborty, and Soumya K. Ghosh, "<i> Optimal VM Coalition for Multi-Tier Applications Over Multi-Cloud Broker Environments </i>" 2019 <b> 11th International Conference on Communication Systems & Networks (COMSNETS)</b>, Bengaluru, India, 2019, pp. 141-148, <a href="https://ieeexplore.ieee.org/abstract/document/8711038"> DOI: 10.1109/COMSNETS.2019.8711038 </a> (<b>Core Rank: National India</b>)
+  </li>
+  <li> <strong>[C2]</strong> Bishakh Chandra Ghosh, Sourav Kanti Addya, <b> Anurag Satpathy </b>, Soumya K. Ghosh, and Sandip Chakraborty, "<i>Towards a Democratic Federation for Infrastructure Service Provisioning</i>" 2019 <b> IEEE International Conference on Services Computing (SCC)</b>, Milan, Italy, 2019, pp. 162-166, <a href="https://ieeexplore.ieee.org/document/8813913"> DOI: 10.1109/SCC.2019.00036 </a> (<b>Core Rank: A, Acceptance Rate: 17%</b>)
+  </li>
+   <li> <strong>[C3]</strong> Sourav Kanti Addya, <b>Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, and Soumya K. Ghosh, "<i> Power and Time Aware VM Migration for Multi-Tier Applications over Geo-Distributed Clouds</i>" 2019 <b> IEEE 12th International Conference on Cloud Computing(CLOUD) </b>, Milan, Italy, 2019, pp. 339-343, <a href="https://ieeexplore.ieee.org/document/8814578"> DOI: 10.1109/CLOUD.2019.00062 </a> (<b>Core Rank: B, Acceptance Rate: 20.8%</b>)
+  </li>
 </ul>  
 
 **<u>2018</u>**
