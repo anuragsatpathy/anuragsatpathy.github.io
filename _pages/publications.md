@@ -105,6 +105,8 @@ classes: wide
 
 **<u>2017</u>**
 <ul style="list-style-type: none; padding-left: 0;">
+  <li><strong>[C2]</strong> Soumya Ranjan Moharana, Vijay Kumar Jha, <b> Anurag Satpathy </b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi, "<i>Secure key-distribution in IoT cloud networks,</i>" 3rd International Conference on Sensing, Signal Processing and Security (ICSSS), Chennai, India, 2017, pp. 197-202, <a href="https://ieeexplore.ieee.org/abstract/document/8071591/authors#authors"> DOI: 10.1109/SSPS.2017.8071591. </a>
+  </li>
   <li><strong>[C1]</strong> <b> Anurag Satpathy </b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi and Gadadhar Sahoo, "<i> A resource aware VM placement strategy in cloud data centers based on crow search algorithm,</i>" <b> 4th International Conference on Advanced Computing and Communication Systems (ICACCS)</b>, Coimbatore, India, 2017, pp. 1-6, <a href="https://ieeexplore.ieee.org/abstract/document/8014639"> DOI: 10.1109/ICACCS.2017.8014639 </a>
   </li>
  </ul> 
