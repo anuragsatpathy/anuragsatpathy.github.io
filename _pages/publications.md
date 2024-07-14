@@ -83,7 +83,10 @@ classes: wide
 </ul>
 
 **<u>Poster Publications</u>**
-<strong>[P1]</strong> Arpana Chakma, Shubham Kumar, Pradeep Kumar Mahato, <b> Anurag Satpathy </b>, and Sourav Kanti Addya, "<i> MatchCloud:Service Matching for Multi Cloud Marketplace</i>," 14th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bengaluru, India, 2021,  pp. 127-130, <a href="https://doi.org/10.1016/j.compeleceng.2017.12.032"> DOI: 10.1016/j.compeleceng.2017.12.032 </a>, (<b>Core Rank: National India </b>) (<b> Best Poster Award </b>) 
+<ul style="list-style-type: none; padding-left: 0;">
+<li><strong>[P1]</strong> Arpana Chakma, Shubham Kumar, Pradeep Kumar Mahato, <b> Anurag Satpathy </b>, and Sourav Kanti Addya, "<i> MatchCloud:Service Matching for Multi Cloud Marketplace</i>," 14th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bengaluru, India, 2021,  pp. 127-130, <a href="https://doi.org/10.1016/j.compeleceng.2017.12.032"> DOI: 10.1016/j.compeleceng.2017.12.032 </a>, (<b>Core Rank: National India </b>) (<b> Best Poster Award </b>) 
+</li>
+</ul> 
 **<u>Book Chapters</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li> <strong>[B1]</strong> <b> Anurag Satpathy </b>" <i>, Evolution of Cloud-Fog-IoT Interconnection Networks</i>" in Cloud Network Management, CRC Press, Taylor & Francis Group, pages 3-14, 2020, <a href="https://doi.org/10.1201/9780429288630"> DOI: 10.1201/9780429288630 </a>
