@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 classes: wide
 ---
-<span style="font-size: 10px;">
 **<u>2024</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li><strong>[C14]</strong> Mahmuda Akter, Debjyoti Sengupta, <b> Anurag Satpathy </b>, Sajal. K. Das, "<i> MIME: Mobility-Induced Dynamic Matching for Partial Offloading in Vehicular Edge Computing</i>" <b> 49th IEEE Conference on Local Computer Networks (LCN), </b> Caen, Normandy, France, Oct 2024 (Accepted) (<b>Core Rank: B</b>).
@@ -103,4 +102,3 @@ classes: wide
   <li> <strong>[J1]</strong> <b> Anurag Satpathy </b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi, and Gadadhar Sahoo, "<i> Crow search based virtual machine placement strategy in cloud data centers with live migration</i>" in <b> Computers & Electrical Engineering, Elsevier, </b> Volume 69, Pages 334-350, 2018, <a href="https://ieeexplore.ieee.org/document/9352821"> DOI: 10.1109/COMSNETS51098.2021.9352821 </a> (<b>IF-4.0 </b>).
    </li> 
 </ul>
-</span>
