@@ -41,7 +41,6 @@ classes: wide
 </li>
 <li><strong>[P2]</strong> Keerthan Kumar. T G, Ankit Srivastava, <b> Anurag Satpathy </b>, Sourav Kanti Addya, and Shashidhar G Koolagudi, "<i> MatchVNE: A Stable Virtual Network Embedding Strategy Based on Matching Theory</i>," 15th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bangalore, India, 2023, pp. 355-359, <a href="https://ieeexplore.ieee.org/document/10041377"> DOI: 10.1109/COMSNETS56262.2023.10041377 </a> (<b>Core Rank: National India </b>)
 </li> 
-</li>
 <li> <strong>[J12]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy </b>, Khan Muhammad, Sambit Bakshi, and Joel J. P. C. Rodrigues, "<i>A-DAFTO: Artificial Cap Deferred Acceptance based Fair Task Offloading in Complex IoT-Fog Networks</i>" in <b> IEEE Transactions on Consumer Electronics</b>, vol. 69, no. 4, pp. 914-926, Nov. 2023, <a href="https://ieeexplore.ieee.org/document/10086698"> DOI: 10.1109/TCE.2023.3262995 </a> (<b>IF-4.3</b>)
 </li>
 <li> <strong>[J11]</strong> Sourav Kanti Addya, <b>Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, Soumya K Ghosh, Sajal K Das, "<i>Geo-distributed Multi-tier Workload Migration over Multi-timescale Electricity Markets</i>" in <b> IEEE Transactions on Services Computing </b>, vol. 16, no. 5, pp. 3385-3396, Sept.-Oct. 2023, <a href="https://ieeexplore.ieee.org/document/10109840"> DOI: 10.1109/TSC.2023.3270921 </a> (<b>IF-5.5 </b>) 
