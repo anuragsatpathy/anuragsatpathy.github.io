@@ -12,7 +12,7 @@ classes: wide
 </ul> -->
 **<u>Refereed Conference Publications</u>**
 <ul style="list-style-type: none; padding-left: 0;">
-  <li><strong>[C10]</strong> Aastik Verma, <b> Anurag Satpathy</b>, Sajal. K. Das, and Sourav Kanti Addya, "<i> LEASE: Leveraging Energy-Awareness in Serverless Edge for Latency-Sensitive IoT Services</i>" <b> 3rd Workshop on Serverless computing for pervasive cloud-edge-device systems and services (STARLESS), in conjunction with IEEE PerCom</b>, Biarritz, France, Mar 2024, pp. 302-307, <a href="https://ieeexplore.ieee.org/document/10502788"> DOI: 10.1109/PerComWorkshops59983.2024.10502788</a> (<b>Core Rank: A<sup>* </b>).
+  <li><strong>[C10]</strong> Aastik Verma, <b> Anurag Satpathy</b>, Sajal. K. Das, and Sourav Kanti Addya, "<i> LEASE: Leveraging Energy-Awareness in Serverless Edge for Latency-Sensitive IoT Services</i>" <b> 3rd Workshop on Serverless computing for pervasive cloud-edge-device systems and services (STARLESS), in conjunction with IEEE PerCom</b>, Biarritz, France, Mar 2024, pp. 302-307, <a href="https://ieeexplore.ieee.org/document/10502788"> DOI: 10.1109/PerComWorkshops59983.2024.10502788 </a>(<b> Core Rank: A<sup>*</sup></b>).
   </li>
   <li><strong>[C10]</strong> Priyanka Soni, Omkar Chand Deshlahre, <b> Anurag Satpathy </b>, and Sourav Kanti Addya, " <i> LBA: Matching Theory Based Latency-Sensitive Binary Offloading in IoT-Fog Networks</i>", <b> Workshop on Machine Intelligence in Networked Data and Systems (MINDS) at International Conference on COMmunication Systems & NETworkS (COMSNETS)</b>, Bengaluru, India, 2024, pp. 165-170, <a href="https://ieeexplore.ieee.org/document/10427455"> DOI: 10.1109/COMSNETS59351.2024.10427455</a> (<b>Core Rank: National India</b>).
   </li>  
