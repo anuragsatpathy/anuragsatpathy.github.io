@@ -13,6 +13,7 @@ classes: wide
 **<u>Refereed Conference Publications</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li><strong>[C8]</strong> Jui V Morey, <b> Anurag Satpathy</b>, and Sourav Kanti Addya, "<i> VMAP: Matching-based Efficient Offloading in IoT-Fog Environments with Variable Resources </i>" 17th <b>IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS) </b> Jaipur, India, 2023, pp. 714-719, <a href="https://ieeexplore.ieee.org/document/10468986"> DOI: 10.1109/ANTS59832.2023.10468986</a>.
+  </li>  
   <li><strong>[C7]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy</b>, "<i> LETO: An Efficient Load Balanced Strategy for Task Offloading in IoT-Fog Systems</i>", 2021, <b> IEEE International Conference on Web Services (ICWS) </b> Chicago, IL, USA, pp. 459-464, <a href="https://ieeexplore.ieee.org/document/9590239"> DOI: 10.1109/ICWS53863.2021.00065</a>, (<b> Core Rank: A, Acceptance Rate: 23.7% </b>)
   </li>
   <li> <strong>[C6]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy</b> " <i>SPATO: A Student Project Allocation Based Task Offloading in IoT-Fog Systems</i>," 2021, <b> IEEE International Conference on Communications (ICC)</b>Montreal, QC, Canada, pp. 1-6, <a href="https://ieeexplore.ieee.org/abstract/document/9500367"> DOI: 10.1109/ICC42927.2021.9500367 </a>, (<b>Core Rank: B</b>)
