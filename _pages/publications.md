@@ -61,8 +61,8 @@ classes: wide
   <li><strong>[J8]</strong> Sourav Kanti Addya, <b> Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, Soumya K Ghosh, Sajal K Das, "<i> CoMCLOUD: Virtual Machine Coalition for Multi-Tier Applications over Multi-Cloud Environments</i> ", in <b> IEEE Transactions on Cloud Computing </b>, vol. 11, no. 1, pp. 956-970, 1 Jan.-March 2023, 
   <a href="https://ieeexplore.ieee.org/abstract/document/9585379"> DOI: 10.1109/TCC.2021.3122445 </a> (<b>IF-5.3 </b>)
    </li> 
-  <li><strong>[J7]</strong> <b>Anurag Satpathy </b>, Manmath Narayan Sahoo, Arun Kumar Sangaiah, Chittaranjan Swain, Sambit Bakshi, "<i>CoMap: An efficient virtual network re-mapping strategy based on coalitional matching theory</i>" in <b> Computer Networks, Elsevier </b>, Volume 216, 2022, <a href="https://doi.org/10.1016/j.comnet.2022.109248"> DOI: 10.1016/j.comnet.2022.109248 </a> (<b>IF-4.4 </b>)
-  </li>
+  <!-- <li><strong>[J7]</strong> <b>Anurag Satpathy </b>, Manmath Narayan Sahoo, Arun Kumar Sangaiah, Chittaranjan Swain, Sambit Bakshi, "<i>CoMap: An efficient virtual network re-mapping strategy based on coalitional matching theory</i>" in <b> Computer Networks, Elsevier </b>, Volume 216, 2022, <a href="https://doi.org/10.1016/j.comnet.2022.109248"> DOI: 10.1016/j.comnet.2022.109248 </a> (<b>IF-4.4 </b>)
+  </li> -->
   <!-- <li> <strong>[J6]</strong> Ashutosh Mishra, Manmath Narayan Sahoo, <b>Anurag Satpathy </b>, "<i> H3CSA: A makespan aware task scheduling technique for cloud environments </i>" in <b> Transactions on Emerging Telecommunications Technologies, Wiley </b>, Volume 32, Number 10, 2021, 
   <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.4277"> DOI: 10.1002/ett.4277 </a> (<b>IF-2.5 </b>)
   </li> -->
@@ -97,6 +97,11 @@ classes: wide
    </li> -->
 <!-- </ul>  -->
 
+**<u>2022</u>**
+<ul style="list-style-type: none; padding-left: 0;">
+<li><strong>[J7]</strong> <b>Anurag Satpathy </b>, Manmath Narayan Sahoo, Arun Kumar Sangaiah, Chittaranjan Swain, Sambit Bakshi, "<i>CoMap: An efficient virtual network re-mapping strategy based on coalitional matching theory</i>" in <b> Computer Networks, Elsevier </b>, Volume 216, 2022, <a href="https://doi.org/10.1016/j.comnet.2022.109248"> DOI: 10.1016/j.comnet.2022.109248 </a> (<b>IF-4.4 </b>)
+</li>
+</ul>
 **<u>2021</u>**
 <ul style="list-style-type: none; padding-left: 0;">
 <li><strong>[P1]</strong> Arpana Chakma, Shubham Kumar, Pradeep Kumar Mahato, <b> Anurag Satpathy </b>, and Sourav Kanti Addya, "<i> MatchCloud:Service Matching for Multi Cloud Marketplace</i>," 14th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bengaluru, India, 2021,  pp. 127-130, <a href="https://doi.org/10.1016/j.compeleceng.2017.12.032"> DOI: 10.1016/j.compeleceng.2017.12.032 </a> (<b>Core Rank: National India </b>) (<b> Best Poster Award </b>) 
