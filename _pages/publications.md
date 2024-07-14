@@ -78,10 +78,12 @@ classes: wide
   <strong>[J2]</strong> Sourav Kanti Addya, Ashok Kumar Turuk, Bibhudatta Sahoo, <b> Anurag Satpathy </b>, and Mahasweta Sarkar, "<i> A Game Theoretic Approach to Estimate Fair Cost of VM Placement in Cloud Data Center</i>" in <b> IEEE Systems Journal </b>, vol. 12, no. 4, pp. 3509-3518, Dec. 2018, <a href="https://ieeexplore.ieee.org/document/8187628"> DOI: 10.1109/JSYST.2017.2776117 </a> (<b>IF-4.0 </b>).
 </li>
 <li>
- <strong>[J1]</strong> <b> Anurag Satpathy </b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi, and Gadadhar Sahoo, "<i> Crow search based virtual machine placement strategy in cloud data centers with live migration</i>" in <b> Computers & Electrical Engineering, Elsevier, </b> Volume 69, Pages 334-350, 2018, <a href="https://doi.org/10.1016/j.compeleceng.2017.12.032"> DOI: 10.1016/j.compeleceng.2017.12.032 </a> (<b>IF-4.0</b>).
+ <strong>[J1]</strong> <b> Anurag Satpathy </b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi, and Gadadhar Sahoo, "<i> Crow search based virtual machine placement strategy in cloud data centers with live migration</i>" in <b> Computers & Electrical Engineering, Elsevier, </b> Volume 69, Pages 334-350, 2018, <a href="https://ieeexplore.ieee.org/document/9352821"> DOI: 10.1109/COMSNETS51098.2021.9352821 </a> ().
 </li>
 </ul>
 
+**<u>Poster Publications</u>**
+<strong>[P1]</strong> Arpana Chakma, Shubham Kumar, Pradeep Kumar Mahato, <b> Anurag Satpathy </b>, and Sourav Kanti Addya, "<i> MatchCloud:Service Matching for Multi Cloud Marketplace</i>," 14th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bengaluru, India, 2021,  pp. 127-130, <a href="https://doi.org/10.1016/j.compeleceng.2017.12.032"> DOI: 10.1016/j.compeleceng.2017.12.032 </a>, (<b>Core Rank: National India </b>) (<b> Best Poster Award </b>) 
 **<u>Book Chapters</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li> <strong>[B1]</strong> <b> Anurag Satpathy </b>" <i>, Evolution of Cloud-Fog-IoT Interconnection Networks</i>" in Cloud Network Management, CRC Press, Taylor & Francis Group, pages 3-14, 2020, <a href="https://doi.org/10.1201/9780429288630"> DOI: 10.1201/9780429288630 </a>
