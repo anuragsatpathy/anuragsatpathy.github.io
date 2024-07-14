@@ -10,7 +10,7 @@ classes: wide
   <li><strong>J2.</strong> Second item</li>
   <li><strong>J3.</strong> Third item</li>
 </ul> -->
-**<u>Refereed Conference Publications</u>**
+<!-- **<u>Refereed Conference Publications</u>** -->
 <ul style="list-style-type: none; padding-left: 0;">
   <li><strong>[C14]</strong> Mahmuda Akter, Debjyoti Sengupta, <b> Anurag Satpathy </b>, Sajal. K. Das, "<i> MIME: Mobility-Induced Dynamic Matching for Partial Offloading in Vehicular Edge Computing</i>" <b> 49th IEEE Conference on Local Computer Networks (LCN), </b> Caen, Normandy, France, Oct 2024 (Accepted) (<b>Core Rank: B</b>).
   </li> 
@@ -42,7 +42,7 @@ classes: wide
   </li>
 </ul>
 
-**<u>Refereed Journal Publications</u>**
+<!-- **<u>Refereed Journal Publications</u>** -->
 <ul style="list-style-type: none; padding-left: 0;">
   <li> <strong>[J15]</strong> Keerthan Kumar TG, Shivangi Tomar, Sourav Kanti Addya, <b> Anurag Satpathy</b>, SG Koolagudi, "<i>EFraS: Emulated framework to develop and analyze dynamic virtual network embedding strategies over SDN infrastructure</i>", in <b> Simulation Modelling Practice and Theory, Elsevier</b>, volume. 134, pp. 102952, 2024, <a href="https://www.sciencedirect.com/science/article/abs/pii/S1569190X24000662"> DOI: 10.1016/j.simpat.2024.102952 </a> (<b>IF-3.5</b>)
   </li>
@@ -78,11 +78,11 @@ classes: wide
   <strong>[J2]</strong> Sourav Kanti Addya, Ashok Kumar Turuk, Bibhudatta Sahoo, <b> Anurag Satpathy </b>, and Mahasweta Sarkar, "<i> A Game Theoretic Approach to Estimate Fair Cost of VM Placement in Cloud Data Center</i>" in <b> IEEE Systems Journal </b>, vol. 12, no. 4, pp. 3509-3518, Dec. 2018, <a href="https://ieeexplore.ieee.org/document/8187628"> DOI: 10.1109/JSYST.2017.2776117 </a> (<b>IF-4.0 </b>).
 </li>
 <li>
- <strong>[J1]</strong> <b> Anurag Satpathy </b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi, and Gadadhar Sahoo, "<i> Crow search based virtual machine placement strategy in cloud data centers with live migration</i>" in <b> Computers & Electrical Engineering, Elsevier, </b> Volume 69, Pages 334-350, 2018, <a href="https://ieeexplore.ieee.org/document/9352821"> DOI: 10.1109/COMSNETS51098.2021.9352821 </a> ().
+ <strong>[J1]</strong> <b> Anurag Satpathy </b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi, and Gadadhar Sahoo, "<i> Crow search based virtual machine placement strategy in cloud data centers with live migration</i>" in <b> Computers & Electrical Engineering, Elsevier, </b> Volume 69, Pages 334-350, 2018, <a href="https://ieeexplore.ieee.org/document/9352821"> DOI: 10.1109/COMSNETS51098.2021.9352821 </a> (<b>IF-4.0 </b>).
 </li>
 </ul>
 
-**<u>Poster Publications</u>**
+<!-- **<u>Poster Publications</u>** -->
 <ul style="list-style-type: none; padding-left: 0;">
 <li><strong>[P3]</strong> Sourav Kanti Addya, <b> Anurag Satpathy </b>, Ashok Kumar Turuk, and Bibhudatta Sahoo, "<i>Virtual Machine Placement in Non-Cooperative Cloud Federation-Alliance</i>" 15th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bangalore, India, 2023, pp. 355-359, <a href="https://ieeexplore.ieee.org/document/10041420"> DOI: 10.1109/COMSNETS56262.2023.10041420 </a> (<b>Core Rank: National India </b>)
 </li>
@@ -91,8 +91,13 @@ classes: wide
 <li><strong>[P1]</strong> Arpana Chakma, Shubham Kumar, Pradeep Kumar Mahato, <b> Anurag Satpathy </b>, and Sourav Kanti Addya, "<i> MatchCloud:Service Matching for Multi Cloud Marketplace</i>," 14th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bengaluru, India, 2021,  pp. 127-130, <a href="https://doi.org/10.1016/j.compeleceng.2017.12.032"> DOI: 10.1016/j.compeleceng.2017.12.032 </a> (<b>Core Rank: National India </b>) (<b> Best Poster Award </b>) 
 </li>
 </ul> 
-**<u>Book Chapters</u>**
-<ul style="list-style-type: none; padding-left: 0;">
+<!-- **<u>Book Chapters</u>** -->
+<!-- <ul style="list-style-type: none; padding-left: 0;"> -->
   <li> <strong>[B1]</strong> <b> Anurag Satpathy </b>" <i>, Evolution of Cloud-Fog-IoT Interconnection Networks</i>" in Cloud Network Management, CRC Press, Taylor & Francis Group, pages 3-14, 2020, <a href="https://doi.org/10.1201/9780429288630"> DOI: 10.1201/9780429288630 </a>
    </li>
    </ul> 
+**<u>2018</u>**
+<ul style="list-style-type: none; padding-left: 0;">
+  <li> <strong>[J1]</strong> <b> Anurag Satpathy </b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi, and Gadadhar Sahoo, "<i> Crow search based virtual machine placement strategy in cloud data centers with live migration</i>" in <b> Computers & Electrical Engineering, Elsevier, </b> Volume 69, Pages 334-350, 2018, <a href="https://ieeexplore.ieee.org/document/9352821"> DOI: 10.1109/COMSNETS51098.2021.9352821 </a> (<b>IF-4.0 </b>).
+   </li> 
+</ul>
