@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 classes: wide
 ---
-**<u>2022</u>**
+**<u>2024</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li><strong>[C14]</strong> Mahmuda Akter, Debjyoti Sengupta, <b> Anurag Satpathy </b>, Sajal. K. Das, "<i> MIME: Mobility-Induced Dynamic Matching for Partial Offloading in Vehicular Edge Computing</i>" <b> 49th IEEE Conference on Local Computer Networks (LCN), </b> Caen, Normandy, France, Oct 2024 (Accepted) (<b>Core Rank: B</b>).
   </li> 
