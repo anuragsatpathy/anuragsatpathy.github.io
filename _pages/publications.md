@@ -12,7 +12,9 @@ classes: wide
 </ul> -->
 **<u>Refereed Conference Publications</u>**
 <ul style="list-style-type: none; padding-left: 0;">
-  <li> <strong>[C5]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy</b> " <i>SPATO: A Student Project Allocation Based Task Offloading in IoT-Fog Systems</i>"2021 <b> IEEE International Conference on Communications (ICC)</b>Montreal, QC, Canada, pp. 1-6, <a href="https://ieeexplore.ieee.org/abstract/document/9500367"> DOI: 10.1109/ICC42927.2021.9500367 </a>, (<b>Core Rank: B</b>)
+  <li><strong>[C7]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy</b>, "<i> LETO: An Efficient Load Balanced Strategy for Task Offloading in IoT-Fog Systems</i>", 2021, <b> IEEE International Conference on Web Services (ICWS) </b> Chicago, IL, USA, pp. 459-464, <a href="https://ieeexplore.ieee.org/document/9590239"> DOI: 10.1109/ICWS53863.2021.00065</a>, (<b> Core Rank: A, Acceptance Rate: 23.7% </b>)
+  </li>
+  <li> <strong>[C6]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy</b> " <i>SPATO: A Student Project Allocation Based Task Offloading in IoT-Fog Systems</i>," 2021, <b> IEEE International Conference on Communications (ICC)</b>Montreal, QC, Canada, pp. 1-6, <a href="https://ieeexplore.ieee.org/abstract/document/9500367"> DOI: 10.1109/ICC42927.2021.9500367 </a>, (<b>Core Rank: B</b>)
   </li>
   <li> <strong>[C5]</strong> <b> Anurag Satpathy </b>, \normalfont Manmath Narayan Sahoo, Lucky Behera, Chittaranjan Swain, and Ashutosh Mishra, "<i> VMatch: A Matching Theory Based VDC Reconfiguration Strategy}</i>, 2020 <b> IEEE 13th International Conference on Cloud Computing (CLOUD)</b>, Beijing, 2020, pp. 133-140, <a href="https://ieeexplore.ieee.org/document/9284253"> DOI: 10.1109/CLOUD49709.2020.00031 </a>, (<b>Core Rank: B, Acceptance Rate: 17%</b>) (<b>YESC Student Paper Participation Award</b>) 
    </li> 
