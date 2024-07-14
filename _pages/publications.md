@@ -105,6 +105,7 @@ classes: wide
 <li> <strong>[C4]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Lipsa Chottray, Banshidhar Majhi, Ashutosh Mishra, and Sambit Bakshi, "<i> VRMap: A Cost and Time Aware Remapping of Virtual Data Centres Over a Geo-distributed Infrastructure</i>", 2020 <b> International Conference on COMmunication Systems & NETworkS (COMSNETS)</b>, Bengaluru, India, 2020, pp. 427-434, <a href="https://ieeexplore.ieee.org/document/9027406"> DOI: 10.1109/COMSNETS48256.2020.9027406 </a> (<b>Core Rank: National India</b>)
 </li>
 </ul>
+
 **<u>2019</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
