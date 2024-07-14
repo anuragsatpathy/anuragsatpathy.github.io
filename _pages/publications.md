@@ -95,6 +95,7 @@ classes: wide
  <!--  <li> <strong>[B1]</strong> <b> Anurag Satpathy </b>" <i>, Evolution of Cloud-Fog-IoT Interconnection Networks</i>" in Cloud Network Management, CRC Press, Taylor & Francis Group, pages 3-14, 2020, <a href="https://doi.org/10.1201/9780429288630"> DOI: 10.1201/9780429288630 </a>
    </li> -->
 <!-- </ul>  -->
+
 **<u>2023</u>**
 <ul style="list-style-type: none; padding-left: 0;">
 <li><strong>[P3]</strong> Sourav Kanti Addya, <b> Anurag Satpathy </b>, Ashok Kumar Turuk, and Bibhudatta Sahoo, "<i>Virtual Machine Placement in Non-Cooperative Cloud Federation-Alliance</i>" 15th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bangalore, India, 2023, pp. 355-359, <a href="https://ieeexplore.ieee.org/document/10041420"> DOI: 10.1109/COMSNETS56262.2023.10041420 </a> (<b>Core Rank: National India </b>)
