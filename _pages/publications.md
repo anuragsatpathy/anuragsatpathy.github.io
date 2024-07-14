@@ -49,7 +49,7 @@ classes: wide
   <li> <strong>[J14]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Chittaranjan Swain, Muhammad Bilal, Sambit Bakshi, and Houbing Song, "<i>GAMap: A Genetic Algorithm-Based Effective Virtual Data Center Re-Embedding Strategy</i>", in <b> IEEE Transactions on Green Communications and Networking </b>, vol. 8, no. 2, pp. 791-801, June 2024, <a href="https://ieeexplore.ieee.org/document/10368080"> DOI: doi:10.1109/TGCN.2023.3345542 </a> (<b>IF-5.3</b>) 
    </li> 
   <li> <strong>[J13]</strong> Raunak Saha, <b> Anurag Satpathy </b>, and Sourav Kanti Addya, "<i> FASE: Fast Deployment for Dependent Applications in Serverless Environments</i>", in <b> Journal of Supercomputing, Springer</b>, vol. 80, no. 8, pp. 10394--10417, 2024, <a href="https://link.springer.com/article/10.1007/s11227-023-05840-w#citeas"> DOI: 10.1007/s11227-023-05840-w </a> (<b>IF-2.5</b>)
-  </li>
+  <!-- </li>
    <li> <strong>[J12]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy </b>, Khan Muhammad, Sambit Bakshi, and Joel J. P. C. Rodrigues, "<i>A-DAFTO: Artificial Cap Deferred Acceptance based Fair Task Offloading in Complex IoT-Fog Networks</i>" in <b> IEEE Transactions on Consumer Electronics</b>, vol. 69, no. 4, pp. 914-926, Nov. 2023, <a href="https://ieeexplore.ieee.org/document/10086698"> DOI: 10.1109/TCE.2023.3262995 </a> (<b>IF-4.3</b>)
    </li>
   <li> <strong>[J11]</strong> Sourav Kanti Addya, <b>Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, Soumya K Ghosh, Sajal K Das, "<i>Geo-distributed Multi-tier Workload Migration over Multi-timescale Electricity Markets</i>" in <b> IEEE Transactions on Services Computing </b>, vol. 16, no. 5, pp. 3385-3396, Sept.-Oct. 2023, <a href="https://ieeexplore.ieee.org/document/10109840"> DOI: 10.1109/TSC.2023.3270921 </a> (<b>IF-5.5 </b>) 
@@ -60,7 +60,7 @@ classes: wide
   </li> 
   <li><strong>[J8]</strong> Sourav Kanti Addya, <b> Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, Soumya K Ghosh, Sajal K Das, "<i> CoMCLOUD: Virtual Machine Coalition for Multi-Tier Applications over Multi-Cloud Environments</i> ", in <b> IEEE Transactions on Cloud Computing </b>, vol. 11, no. 1, pp. 956-970, 1 Jan.-March 2023, 
   <a href="https://ieeexplore.ieee.org/abstract/document/9585379"> DOI: 10.1109/TCC.2021.3122445 </a> (<b>IF-5.3 </b>)
-   </li> 
+   </li>  -->
   <!-- <li><strong>[J7]</strong> <b>Anurag Satpathy </b>, Manmath Narayan Sahoo, Arun Kumar Sangaiah, Chittaranjan Swain, Sambit Bakshi, "<i>CoMap: An efficient virtual network re-mapping strategy based on coalitional matching theory</i>" in <b> Computer Networks, Elsevier </b>, Volume 216, 2022, <a href="https://doi.org/10.1016/j.comnet.2022.109248"> DOI: 10.1016/j.comnet.2022.109248 </a> (<b>IF-4.4 </b>)
   </li> -->
   <!-- <li> <strong>[J6]</strong> Ashutosh Mishra, Manmath Narayan Sahoo, <b>Anurag Satpathy </b>, "<i> H3CSA: A makespan aware task scheduling technique for cloud environments </i>" in <b> Transactions on Emerging Telecommunications Technologies, Wiley </b>, Volume 32, Number 10, 2021, 
@@ -80,22 +80,40 @@ classes: wide
 <!-- <li>
  <strong>[J1]</strong> <b> Anurag Satpathy </b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi, and Gadadhar Sahoo, "<i> Crow search based virtual machine placement strategy in cloud data centers with live migration</i>" in <b> Computers & Electrical Engineering, Elsevier, </b> Volume 69, Pages 334-350, 2018, <a href="https://ieeexplore.ieee.org/document/9352821"> DOI: 10.1109/COMSNETS51098.2021.9352821 </a> (<b>IF-4.0 </b>).
 </li> -->
-</ul>
-
+<!-- </ul> -->
 <!-- **<u>Poster Publications</u>** -->
-<ul style="list-style-type: none; padding-left: 0;">
+<!-- <ul style="list-style-type: none; padding-left: 0;">
 <li><strong>[P3]</strong> Sourav Kanti Addya, <b> Anurag Satpathy </b>, Ashok Kumar Turuk, and Bibhudatta Sahoo, "<i>Virtual Machine Placement in Non-Cooperative Cloud Federation-Alliance</i>" 15th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bangalore, India, 2023, pp. 355-359, <a href="https://ieeexplore.ieee.org/document/10041420"> DOI: 10.1109/COMSNETS56262.2023.10041420 </a> (<b>Core Rank: National India </b>)
 </li>
 <li><strong>[P2]</strong> Keerthan Kumar. T G, Ankit Srivastava, <b> Anurag Satpathy </b>, Sourav Kanti Addya, and Shashidhar G Koolagudi, "<i> MatchVNE: A Stable Virtual Network Embedding Strategy Based on Matching Theory</i>," 15th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bangalore, India, 2023, pp. 355-359, <a href="https://ieeexplore.ieee.org/document/10041377"> DOI: 10.1109/COMSNETS56262.2023.10041377 </a> (<b>Core Rank: National India </b>)
- </li> 
+ </li>  -->
 <!-- <li><strong>[P1]</strong> Arpana Chakma, Shubham Kumar, Pradeep Kumar Mahato, <b> Anurag Satpathy </b>, and Sourav Kanti Addya, "<i> MatchCloud:Service Matching for Multi Cloud Marketplace</i>," 14th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bengaluru, India, 2021,  pp. 127-130, <a href="https://doi.org/10.1016/j.compeleceng.2017.12.032"> DOI: 10.1016/j.compeleceng.2017.12.032 </a> (<b>Core Rank: National India </b>) (<b> Best Poster Award </b>) 
 </li> -->
-</ul> 
+<!-- </ul>  -->
 <!-- **<u>Book Chapters</u>** -->
 <!-- <ul style="list-style-type: none; padding-left: 0;"> -->
  <!--  <li> <strong>[B1]</strong> <b> Anurag Satpathy </b>" <i>, Evolution of Cloud-Fog-IoT Interconnection Networks</i>" in Cloud Network Management, CRC Press, Taylor & Francis Group, pages 3-14, 2020, <a href="https://doi.org/10.1201/9780429288630"> DOI: 10.1201/9780429288630 </a>
    </li> -->
 <!-- </ul>  -->
+**<u>2023</u>**
+<ul style="list-style-type: none; padding-left: 0;">
+<li><strong>[P3]</strong> Sourav Kanti Addya, <b> Anurag Satpathy </b>, Ashok Kumar Turuk, and Bibhudatta Sahoo, "<i>Virtual Machine Placement in Non-Cooperative Cloud Federation-Alliance</i>" 15th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bangalore, India, 2023, pp. 355-359, <a href="https://ieeexplore.ieee.org/document/10041420"> DOI: 10.1109/COMSNETS56262.2023.10041420 </a> (<b>Core Rank: National India </b>)
+</li>
+<li><strong>[P2]</strong> Keerthan Kumar. T G, Ankit Srivastava, <b> Anurag Satpathy </b>, Sourav Kanti Addya, and Shashidhar G Koolagudi, "<i> MatchVNE: A Stable Virtual Network Embedding Strategy Based on Matching Theory</i>," 15th <b> International Conference on Communication Systems & Networks (COMSNETS)</b>, Bangalore, India, 2023, pp. 355-359, <a href="https://ieeexplore.ieee.org/document/10041377"> DOI: 10.1109/COMSNETS56262.2023.10041377 </a> (<b>Core Rank: National India </b>)
+</li> 
+</li>
+<li> <strong>[J12]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy </b>, Khan Muhammad, Sambit Bakshi, and Joel J. P. C. Rodrigues, "<i>A-DAFTO: Artificial Cap Deferred Acceptance based Fair Task Offloading in Complex IoT-Fog Networks</i>" in <b> IEEE Transactions on Consumer Electronics</b>, vol. 69, no. 4, pp. 914-926, Nov. 2023, <a href="https://ieeexplore.ieee.org/document/10086698"> DOI: 10.1109/TCE.2023.3262995 </a> (<b>IF-4.3</b>)
+</li>
+<li> <strong>[J11]</strong> Sourav Kanti Addya, <b>Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, Soumya K Ghosh, Sajal K Das, "<i>Geo-distributed Multi-tier Workload Migration over Multi-timescale Electricity Markets</i>" in <b> IEEE Transactions on Services Computing </b>, vol. 16, no. 5, pp. 3385-3396, Sept.-Oct. 2023, <a href="https://ieeexplore.ieee.org/document/10109840"> DOI: 10.1109/TSC.2023.3270921 </a> (<b>IF-5.5 </b>) 
+</li>
+<li> <strong>[J10]</strong> Keerthan Kumar TG, Sourav Kanti Addya, <b> Anurag Satpathy</b>, and S. G. Koolagudi, "<i> NORD: NOde Ranking-based efficient virtual network embedding over single Domain substrate networks </i>" in <b> Computer Networks, Elsevier</b>, Volume 216, 2023 <a href="https://doi.org/10.1016/j.comnet.2023.109661"> DOI: 10.1016/j.comnet.2023.109661 </a> (<b>IF-4.4 </b>)
+</li>
+<li><strong>[J9]</strong> <b> Anurag Satpathy </b>, Manmath Narayan Sahoo, Lucky Behera, Chittaranjan Swain, "<i> ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory</i>" in <b> IEEE Transactions on Services Computing </b>, vol. 16, no. 2, pp. 1373-1386, 1 March-April 2023, <a href="https://ieeexplore.ieee.org/abstract/document/9796586"> DOI: 10.1109/TSC.2022.3183259 </a> (<b>IF-5.5 </b>)
+</li> 
+<li><strong>[J8]</strong> Sourav Kanti Addya, <b> Anurag Satpathy </b>, Bishakh Chandra Ghosh, Sandip Chakraborty, Soumya K Ghosh, Sajal K Das, "<i> CoMCLOUD: Virtual Machine Coalition for Multi-Tier Applications over Multi-Cloud Environments</i> ", in <b> IEEE Transactions on Cloud Computing </b>, vol. 11, no. 1, pp. 956-970, 1 Jan.-March 2023, 
+<a href="https://ieeexplore.ieee.org/abstract/document/9585379"> DOI: 10.1109/TCC.2021.3122445 </a> (<b>IF-5.3 </b>)
+</li> 
+</ul> 
 
 **<u>2022</u>**
 <ul style="list-style-type: none; padding-left: 0;">
