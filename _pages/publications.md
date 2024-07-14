@@ -113,6 +113,6 @@ classes: wide
   </li>
  </ul> 
 
-**Enumerators**
+------------------------------------------------------
 [<b>C*</b>] --> Conferences, [<b>J*</b>]--> Journals 
 [<b>B*</b>] --> Book Chapters, [<b>P*</b>]--> Poster 
