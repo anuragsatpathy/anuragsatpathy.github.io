@@ -112,3 +112,7 @@ classes: wide
   <li><strong>[C1]</strong> <b> Anurag Satpathy </b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi and Gadadhar Sahoo, "<i> A resource aware VM placement strategy in cloud data centers based on crow search algorithm,</i>" <b> 4th International Conference on Advanced Computing and Communication Systems (ICACCS)</b>, Coimbatore, India, 2017, pp. 1-6, <a href="https://ieeexplore.ieee.org/abstract/document/8014639"> DOI: 10.1109/ICACCS.2017.8014639 </a>
   </li>
  </ul> 
+
+**Enumerators**
+[<b>C*</b>] --> Conferences, [<b>J*</b>]--> Journals 
+[<b>B*</b>] --> Book Chapters, [<b>P*</b>]--> Poster 
