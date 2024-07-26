@@ -7,7 +7,7 @@ classes: wide
 ---
 **<u>2024</u>**
 <ul style="list-style-type: none; padding-left: 0;">
-  <li> <strong>[J16]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy </b>, Sambit Bakshi, and Soumya K Ghosh "<i>GM-DAFTO: Multi-Stage Deferred Acceptance based Fair Task Offloading in IoT-Fog Systems</i>" in <b> IEEE Transactions on Services Computing (Accepted).
+  <li> <strong>[J16]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy </b>, Sambit Bakshi, and Soumya K Ghosh "<i>M-DAFTO: Multi-Stage Deferred Acceptance based Fair Task Offloading in IoT-Fog Systems</i>" in <b> IEEE Transactions on Services Computing </b>(Accepted).
   </li> 
   <!-- </b>, vol. 16, no. 5, pp. 3385-3396, Sept.-Oct. 2023, <a href="https://ieeexplore.ieee.org/document/10109840"> DOI: 10.1109/TSC.2023.3270921 </a> (<b>IF-5.5 </b>) -->
   <li><strong>[C17]</strong> Mahmuda Akter, Debjyoti Sengupta, <b> Anurag Satpathy </b>, Sajal. K. Das, "<i> MIME: Mobility-Induced Dynamic Matching for Partial Offloading in Vehicular Edge Computing</i>" <b> 49th IEEE Conference on Local Computer Networks (LCN), </b> Caen, Normandy, France, Oct 2024 (Accepted) (<b>Core Rank: B</b>).
