@@ -44,6 +44,9 @@ classes: wide
 ## Reviewer in Journals
 <ul>
 	<li>
+		IEEE Transactions on Consumer Electronics.
+	</li>
+	<li>
 		IEEE Transactions on Mobile Computing.
 	</li>
 	<li>
@@ -69,6 +72,9 @@ classes: wide
 	</li>
 	<li>
 		Sustainable Computing: Informatics and Systems, Elsevier
+	</li>
+	<li>
+		Ad Hoc Networks, Elsevier
 	</li>
 	<li>
 		Journal of King Saud University - Computer and Information Sciences, Elsevier.
