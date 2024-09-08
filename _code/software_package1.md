@@ -18,7 +18,7 @@ classes: wide
 ## Program Committee Memberships
 <ul>
 	<li>
-		Reviewer in IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), 15–18 December 2024, IIT Guwahati, Assam, India.
+		Reviewer in IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), 15–18 December 2024, IIT Guwahati, Assam, India. [<a href="https://ants2024.ieee-ants.org/"> Link </a>]
 	</li>
 	<li>
 		TPC Member of Workshop on Emerging Intelligent eDGE for WELLbeing (EDGE-Well) to be held in conjunction with PerCom 2025 at Washington DC, USA. [<a href="https://sites.google.com/view/edge-well-2025/"> Link </a>]
@@ -87,6 +87,12 @@ classes: wide
 	</li>
 	<li>
 		Journal of Ambient Intelligence and Humanized Computing, Springer.
+	</li>
+	<li>
+		 Journal of Grid Computing, Springer
+	</li>
+	<li>
+		Journal of Cloud Computing, Springer
 	</li>
 	<li>
 		Journal of Network and Systems Management, Springer.
