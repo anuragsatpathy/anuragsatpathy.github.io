@@ -18,6 +18,9 @@ classes: wide
 ## Program Committee Memberships
 <ul>
 	<li>
+		Workshop TPC member of Machine Intelligence in Networked Data and Systems (MINDS), COMSNETS 2025, 6th January, Bangalore, India [<a href="https://www.comsnets.org/minds_workshop.html"> Link </a>]
+	</li>	
+	<li>
 		Reviewer in IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), 15–18 December 2024, IIT Guwahati, Assam, India. [<a href="https://ants2024.ieee-ants.org/"> Link </a>]
 	</li>
 	<li>
