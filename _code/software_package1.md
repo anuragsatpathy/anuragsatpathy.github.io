@@ -18,13 +18,16 @@ classes: wide
 ## Program Committee Memberships
 <ul>
 	<li>
+		PC member - Demos and Posters Member of 26th International Conference On Distributed Computing And Networking, 2025 (ICDCN), (4-7 January, 2025), IIT-Hyderabad, India [<a href="https://cse.iith.ac.in/icdcn-2025/call_for_poster.html/"> Link </a>]
+	</li>
+	<li>
 		Workshop TPC member of Machine Intelligence in Networked Data and Systems (MINDS), COMSNETS 2025, 6th January, Bangalore, India [<a href="https://www.comsnets.org/minds_workshop.html"> Link </a>]
 	</li>	
 	<li>
-		Reviewer in IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), 15–18 December 2024, IIT Guwahati, Assam, India. [<a href="https://ants2024.ieee-ants.org/"> Link </a>]
+		TPC Member of Workshop on Emerging Intelligent eDGE for WELLbeing (EDGE-Well) to be held in conjunction with PerCom 2025 at Washington DC, USA. [<a href="https://sites.google.com/view/edge-well-2025/"> Link </a>]
 	</li>
 	<li>
-		TPC Member of Workshop on Emerging Intelligent eDGE for WELLbeing (EDGE-Well) to be held in conjunction with PerCom 2025 at Washington DC, USA. [<a href="https://sites.google.com/view/edge-well-2025/"> Link </a>]
+		Reviewer in IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), 15–18 December 2024, IIT Guwahati, Assam, India. [<a href="https://ants2024.ieee-ants.org/"> Link </a>]
 	</li>
 	<li>
 		TPC Member of 3rd International Conference on Data, Decision and Systems, 2024 (ICDDS), (5-7 December, 2024), PES University, Bengaluru, India [<a href="https://icdds.org/"> Link </a>]
@@ -39,7 +42,7 @@ classes: wide
 		TPC Member of 7th International Conference on Recent Advances & Innovations in Engineering, 2022 (ICRAIE), (1-3 December, 2022), Surathkal, India [<a href="https://icraie.nitk.ac.in/progTechComm.html"> Link </a>].
 	</li> 
 	<li>
-		Poster Reviewer Committee Member of 24th International Conference On Distributed Computing And Networking, 2023 (ICDCN), (4-7 January, 2023), Kharagpur, India [<a href="https://cse.iitkgp.ac.in/conf/ICDCN23/posters.html"> Link </a>]
+		Poster Reviewer Committee Member of 24th International Conference On Distributed Computing And Networking, 2023 (ICDCN), (4-7 January, 2023), IIT-Kharagpur, India [<a href="https://cse.iitkgp.ac.in/conf/ICDCN23/posters.html"> Link </a>]
 	</li>
 	<li>
 		TPC Member of 2nd Workshop on Serverless To sErvE moRe at Scale, 2022 (STEERS),(10-13 May, 2021), Taormina (Messina), Italy [<a href="http://www.steers.iitkgp.ac.in/committee"> Link </a>]
