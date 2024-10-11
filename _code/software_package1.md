@@ -18,7 +18,7 @@ classes: wide
 ## Program Committee Memberships
 <ul>
 	<li>
-		PC member - Demos and Posters Member of 26th International Conference On Distributed Computing And Networking, 2025 (ICDCN), (4-7 January, 2025), IIT-Hyderabad, India [<a href="https://cse.iith.ac.in/icdcn-2025/call_for_poster.html/"> Link </a>]
+		PC member-Demos and Posters of 26th International Conference On Distributed Computing And Networking, 2025 (ICDCN), (4-7 January, 2025), IIT-Hyderabad, India [<a href="https://cse.iith.ac.in/icdcn-2025/call_for_poster.html/"> Link </a>]
 	</li>
 	<li>
 		Workshop TPC member of Machine Intelligence in Networked Data and Systems (MINDS), COMSNETS 2025, 6th January, Bangalore, India [<a href="https://www.comsnets.org/minds_workshop.html"> Link </a>]
