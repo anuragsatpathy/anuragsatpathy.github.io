@@ -10,6 +10,10 @@ classes: wide
   <li><strong>[C18]</strong> Arindam Khanda, <b> Anurag Satpathy</b>, Anusha Vangala, and Sajal K. Das, "<i> SMEVCA: Stable Matching-based EV Charging Assignment in Subscription-Based Models </i>" <b> in 26th International Conference on Distributed Computing and Networking (ICDCN 2025) </b>, IIT Hyderabad, India, 4 - 7 Jan 2025. (<b>Accepted for Publication</b>)
   </li>
 </ul>
+<ul style="list-style-type: none; padding-left: 0;">
+  <li><strong>[P4]</strong> Priyanka Ashok Birajdar, Harsha V, <b>Anurag Satpathy</b>, and Sourav Kanti Addya, "<i> Adaptive Workload Management for Enhanced Function Performance in Serverless Computings </i>" <b> in 26th International Conference on Distributed Computing and Networking (ICDCN 2025) Poster & Demo Track </b>, IIT Hyderabad, India, 4 - 7 Jan 2025. (<b>Accepted for Publication</b>)
+  </li>
+</ul>
 **<u>2024</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li><strong>[C17]</strong> Mahmuda Akter, Debjyoti Sengupta, <b> Anurag Satpathy </b>, Sajal. K. Das, "<i> MIME: Mobility-Induced Dynamic Matching for Partial Offloading in Vehicular Edge Computing</i>" <b> in 49th IEEE Conference on Local Computer Networks (LCN), </b>Caen, Normandy, France, Oct 2024, pp. 1-9, <a href ="https://ieeexplore.ieee.org/abstract/document/10639795"> DOI: 10.1109/LCN60385.2024.10639795 </a> (<b>Core Rank: B</b>).
