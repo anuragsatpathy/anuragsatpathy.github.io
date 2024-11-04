@@ -18,13 +18,16 @@ classes: wide
 ## Program Committee Memberships
 <ul>
 	<li>
+		TPC Member of Workshop The Eight International Workshop on Security, Privacy and Trust in the Internet of Things (SPT-IoT) to be held in conjunction with PerCom 2025 at Washington DC, USA. [<a href="https://sites.google.com/view/spt-iot-2025"> Link </a>]
+	</li>
+	<li>
 		PC member-Demos and Posters of 26th International Conference On Distributed Computing And Networking, 2025 (ICDCN), (4-7 January, 2025), IIT-Hyderabad, India [<a href="https://cse.iith.ac.in/icdcn-2025/call_for_poster.html/"> Link </a>]
 	</li>
 	<li>
 		Workshop TPC member of Machine Intelligence in Networked Data and Systems (MINDS), COMSNETS 2025, 6th January, Bangalore, India [<a href="https://www.comsnets.org/minds_workshop.html"> Link </a>]
 	</li>	
 	<li>
-		TPC Member of Workshop on Emerging Intelligent eDGE for WELLbeing (EDGE-Well) to be held in conjunction with PerCom 2025 at Washington DC, USA. [<a href="https://sites.google.com/view/edge-well-2025/"> Link </a>]
+		TPC Member of The First Workshop on Emerging Intelligent eDGE for WELLbeing (EDGE-Well) to be held in conjunction with PerCom 2025 at Washington DC, USA. [<a href="https://sites.google.com/view/edge-well-2025/"> Link </a>]
 	</li>
 	<li>
 		Reviewer in IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), 15–18 December 2024, IIT Guwahati, Assam, India. [<a href="https://ants2024.ieee-ants.org/"> Link </a>]
