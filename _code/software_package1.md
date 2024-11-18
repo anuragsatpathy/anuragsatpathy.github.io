@@ -110,6 +110,9 @@ classes: wide
 		The Journal of Supercomputing, Springer.
 	</li>
 	<li>
+		Artificial Intelligence Review, Springer.
+	</li>
+	<li>
 		Concurrency and Computation: Practice and Experience, Wiley.
 	</li>
 </ul>
