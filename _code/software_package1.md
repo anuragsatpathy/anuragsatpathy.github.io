@@ -17,6 +17,9 @@ classes: wide
 
 ## Program Committee Memberships
 <ul>
+	<li> 
+		TPC Member of the 7th International Workshop on Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2025 to be held in conjunction with 21st Annual International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT) 2025 at Lucca, Italy.[<a href="https://widroit2025.github.io/"> Link </a>] 
+	</li>
 	<li>
 		TPC Member of Workshop The Eight International Workshop on Security, Privacy and Trust in the Internet of Things (SPT-IoT) to be held in conjunction with PerCom 2025 at Washington DC, USA. [<a href="https://sites.google.com/view/spt-iot-2025"> Link </a>]
 	</li>
