@@ -7,7 +7,7 @@ classes: wide
 ---
 **<u>2025</u>**
 <ul style="list-style-type: none; padding-left: 0;">
-<li> <strong>[J17]</strong> Priyanka Ashok Birajdar, Divya Meena, <b> Anurag Satpathy</b>, Sourav Kanti Addya, "<i> DCRDA: Deadline-Constrained Function Scheduling in Serverless-Cloud Platform </i>", in <b> Journal of Cluster Computing, Springer </b>, Accepted For Publication (<b>IF-3.6</b>)
+<li> <strong>[J17]</strong> Priyanka Ashok Birajdar, Divya Meena, <b> Anurag Satpathy</b>, Sourav Kanti Addya, "<i> DCRDA: Deadline-Constrained Function Scheduling in Serverless-Cloud Platform </i>", in <b> Journal of Cluster Computing, Springer </b>, <b>(Accepted For Publication) </b> (<b>IF-3.6</b>)
 </li>
 </ul>
 <ul style="list-style-type: none; padding-left: 0;">
