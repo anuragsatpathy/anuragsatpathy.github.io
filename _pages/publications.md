@@ -11,7 +11,7 @@ classes: wide
 </li>
 </ul>
 <ul style="list-style-type: none; padding-left: 0;">
-  <li><strong>[C18]</strong> Arindam Khanda, <b> Anurag Satpathy</b>, Anusha Vangala, and Sajal K. Das, "<i> SMEVCA: Stable Matching-based EV Charging Assignment in Subscription-Based Models </i>" <b> in 26th International Conference on Distributed Computing and Networking (ICDCN 2025) </b>, IIT Hyderabad, India, 4 - 7 Jan 2025, pp. 46-55, <a href ="https://dl.acm.org/doi/10.1145/3700838.3700851"> DOI: 10.1145/3700838.3700851 </a> (<b>Core Rank: National, India</b>).
+  <li><strong>[C18]</strong> Arindam Khanda, <b> Anurag Satpathy</b>, Anusha Vangala, and Sajal K. Das, "<i> SMEVCA: Stable Matching-based EV Charging Assignment in Subscription-Based Models </i>" <b> in 26th International Conference on Distributed Computing and Networking (ICDCN 2025) </b>, IIT Hyderabad, India, 4 - 7 Jan 2025, pp. 46-55, <a href ="https://dl.acm.org/doi/10.1145/3700838.3700851"> DOI: 10.1145/3700838.3700851 </a> (<b>Core Rank: National, India</b>), (<b>Best Paper Nomination</b>).
   </li>
 </ul>
 <ul style="list-style-type: none; padding-left: 0;">
