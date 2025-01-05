@@ -7,12 +7,16 @@ classes: wide
 ---
 **<u>2025</u>**
 <ul style="list-style-type: none; padding-left: 0;">
+<li> <strong>[J17]</strong> Priyanka Ashok Birajdar, Divya Meena, <b> Anurag Satpathy</b>, Sourav Kanti Addya, "<i> DCRDA: Deadline-Constrained Function Scheduling in Serverless-Cloud Platform </i>", in <b> Journal of Cluster Computing, Springer </b>, Accepted For Publication (<b>IF-3.6</b>)
+</li>
+</ul>
+<ul style="list-style-type: none; padding-left: 0;">
   <li><strong>[C18]</strong> Arindam Khanda, <b> Anurag Satpathy</b>, Anusha Vangala, and Sajal K. Das, "<i> SMEVCA: Stable Matching-based EV Charging Assignment in Subscription-Based Models </i>" <b> in 26th International Conference on Distributed Computing and Networking (ICDCN 2025) </b>, IIT Hyderabad, India, 4 - 7 Jan 2025. (<b>Accepted for Publication</b>)
   </li>
 </ul>
 <ul style="list-style-type: none; padding-left: 0;">
   <li><strong>[P4]</strong> Priyanka Ashok Birajdar, Harsha V, <b>Anurag Satpathy</b>, and Sourav Kanti Addya, "<i> Adaptive Workload Management for Enhanced Function Performance in Serverless Computing </i>" <b> in 26th International Conference on Distributed Computing and Networking (ICDCN 2025) Poster & Demo Track </b>, IIT Hyderabad, India, 4 - 7 Jan 2025. (<b>Accepted for Publication</b>)
-  </li>
+</li>
 </ul>
 **<u>2024</u>**
 <ul style="list-style-type: none; padding-left: 0;">
