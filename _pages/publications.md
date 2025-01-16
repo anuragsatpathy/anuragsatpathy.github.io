@@ -7,7 +7,11 @@ classes: wide
 ---
 **<u>2025</u>**
 <ul style="list-style-type: none; padding-left: 0;">
-<li> <strong>[C19]</strong> Debjyoti Sengupta, <b>Anurag Satpathy</b>, Arindam Khanda, Sajal. K. Das, "<i>CITRUS: Cost and Ischemia Time Reduction using Urban Air Mobility Solutions for Organ Transport </i>", in <b>1st Workshop on Emerging Intelligent eDGE for WELLbeing (EDGE-Well), in conjunction with IEEE PerCom </b> at Washington DC, USA March 17-21, <b>(Accepted For Publication) </b>
+<li> <strong>[C19]</strong> <b>Anurag Satpathy</b>, Manmath Narayan Sahoo, Chittaranjan Swain, Paolo Bellavista, Mohsen Guizani, Khan Muhammad, and Sambit~Bakshi, "<i> Virtual Network Embedding: Literature Assessment, Recent Advancements, Opportunities, and Challenges </i>", in <b> IEEE Communications Surveys and Tutorials <b>(Accepted For Publication)</b> (<b>IF-35.6</b>).
+</li>
+</ul>
+<ul style="list-style-type: none; padding-left: 0;">
+<li> <strong>[C19]</strong> Debjyoti Sengupta, <b>Anurag Satpathy</b>, Arindam Khanda, Sajal. K. Das, "<i>CITRUS: Cost and Ischemia Time Reduction using Urban Air Mobility Solutions for Organ Transport </i>", in <b>1st Workshop on Emerging Intelligent eDGE for WELLbeing (EDGE-Well), in conjunction with IEEE PerCom </b> at Washington DC, USA March 17-21, <b>(Accepted For Publication)</b> (<b> Core Rank: A<sup>*</sup></b>).
 </li>
 </ul>
 <ul style="list-style-type: none; padding-left: 0;">
