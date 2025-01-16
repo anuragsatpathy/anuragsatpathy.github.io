@@ -7,7 +7,7 @@ classes: wide
 ---
 **<u>2025</u>**
 <ul style="list-style-type: none; padding-left: 0;">
-<li> <strong>[C19]</strong> <b>Anurag Satpathy</b>, Manmath Narayan Sahoo, Chittaranjan Swain, Paolo Bellavista, Mohsen Guizani, Khan Muhammad, and Sambit~Bakshi, "<i> Virtual Network Embedding: Literature Assessment, Recent Advancements, Opportunities, and Challenges </i>", in <b> IEEE Communications Surveys and Tutorials <b>(Accepted For Publication)</b> (<b>IF-35.6</b>).
+<li> <strong>[J18]</strong> <b>Anurag Satpathy</b>, Manmath Narayan Sahoo, Chittaranjan Swain, Paolo Bellavista, Mohsen Guizani, Khan Muhammad, and Sambit Bakshi, "<i> Virtual Network Embedding: Literature Assessment, Recent Advancements, Opportunities, and Challenges </i>", in <b> IEEE Communications Surveys and Tutorials</b> <b>(Accepted For Publication)</b> (<b>IF-35.6</b>).
 </li>
 </ul>
 <ul style="list-style-type: none; padding-left: 0;">
