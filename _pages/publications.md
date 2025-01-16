@@ -7,6 +7,10 @@ classes: wide
 ---
 **<u>2025</u>**
 <ul style="list-style-type: none; padding-left: 0;">
+<li> <strong>[C19]</strong> Debjyoti Sengupta, <b>Anurag Satpathy</b>, Arindam Khanda, Sajal. K. Das, "<i>CITRUS: Cost and Ischemia Time Reduction using Urban Air Mobility Solutions for Organ Transport </i>", in <b>1st Workshop on Emerging Intelligent eDGE for WELLbeing (EDGE-Well), in conjunction with IEEE PerCom </b> at Washington DC, USA March 17-21, <b>(Accepted For Publication) </b>
+</li>
+</ul>
+<ul style="list-style-type: none; padding-left: 0;">
 <li> <strong>[J17]</strong> Priyanka Ashok Birajdar, Divya Meena, <b> Anurag Satpathy</b>, Sourav Kanti Addya, "<i> DCRDA: Deadline-Constrained Function Scheduling in Serverless-Cloud Platform </i>", in <b> Journal of Cluster Computing, Springer </b>, <b>(Accepted For Publication) </b> (<b>IF-3.6</b>)
 </li>
 </ul>
