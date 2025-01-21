@@ -15,6 +15,13 @@ classes: wide
 
 **Web Link**:[<a href="https://www.sciencedirect.com/journal/ad-hoc-networks/about/call-for-papers#special-issue-on-edge-and-serverless-computing"> Link</a>]
 
+## Talks and Seminars
+
+<ul>
+	<li>
+		Delivered a Talk on <i> Smart and Intelligent Resource Assignment Schemes in Sustanibale Cloud using Matching Theory </i> at the ATAL FDP 2024-25 (Jan-20th to 25th 2025) on "Empowering Smart Cities with AI-Driven Edge and Fog Computing Architecture", organized by the Siddaganga Institute of Technology.
+	</li>
+</ul>
 ## Program Committee Memberships
 <ul>
 	<li> 
