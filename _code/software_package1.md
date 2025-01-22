@@ -21,6 +21,9 @@ classes: wide
 	<li>
 		Delivered a Talk on " <i> Smart and Intelligent Resource Assignment Schemes in Sustanibale Cloud using Matching Theory </i>" at the ATAL FDP 2024-25 (Jan-20th to 25th 2025) on "<b>Empowering Smart Cities with AI-Driven Edge and Fog Computing Architecture</b>", organized by the Siddaganga Institute of Technology, Tumkur, India.
 	</li>
+	<li>
+		Delivered a Talk on " <i> Game Theory Powered Intelligent Electric Vehicle to Charging Point Assignment for Sustainable Smart Cities </i>" at the ATAL FDP 2024-25 (Jan-20th to 25th 2025) on "<b>Empowering Smart Cities with AI-Driven Edge and Fog Computing Architecture</b>", organized by the Siddaganga Institute of Technology, Tumkur, India.
+	</li>
 </ul>
 ## Program Committee Memberships
 <ul>
