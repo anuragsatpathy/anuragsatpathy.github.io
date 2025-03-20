@@ -27,6 +27,9 @@ classes: wide
 </ul>
 ## Program Committee Memberships
 <ul>
+	<li>
+		TPC Member of The Nineteenth International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies, UBICOMM 2025, September 28 - October 02, 2025 at Lisbon, Portugal.[<a href="https://www.iaria.org/conferences2025/ComUBICOMM25.html"> Link </a>] 
+	</li>
 	<li> 
 		TPC Member of the 7th International Workshop on Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2025 to be held in conjunction with 21st Annual International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT) 2025 at Lucca, Italy.[<a href="https://widroit2025.github.io/"> Link </a>] 
 	</li>
