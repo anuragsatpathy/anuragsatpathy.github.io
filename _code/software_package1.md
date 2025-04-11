@@ -25,12 +25,14 @@ classes: wide
 		Delivered a Talk on " <i> Game Theory Powered Intelligent Electric Vehicle to Charging Point Assignment for Sustainable Smart Cities </i>" at the ATAL FDP 2024-25 (Jan-20th to 25th 2025) on "<b>Empowering Smart Cities with AI-Driven Edge and Fog Computing Architecture</b>", organized by the Siddaganga Institute of Technology, Tumkur, India.
 	</li>
 </ul>
-##Organizing Committee Memberships
+
+## Organizing Committee Memberships
 <ul>
 	<li>
 		Poster Chair, 2025 4th International Conference on Data, Decision and Systems (ICDDS), December 4-6, 2025 at Indian Institute of Information Technology, Dharwad, India.
 	</li>
 </ul>
+
 ## Program Committee Memberships
 <ul>
 	<li>
