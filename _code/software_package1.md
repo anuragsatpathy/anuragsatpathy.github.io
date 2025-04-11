@@ -29,14 +29,14 @@ classes: wide
 ## Organizing Committee Memberships
 <ul>
 	<li>
-		Poster Chair, 2025 4th International Conference on Data, Decision and Systems (ICDDS), December 4-6, 2025 at Indian Institute of Information Technology, Dharwad, India.
+		Poster Chair, 2025 4th International Conference on Data, Decision and Systems (ICDDS), December 4-6, 2025 at Indian Institute of Information Technology, Dharwad, India, [<a href="https://icdds.org/Organizing-Committee.html"> Link </a>].
 	</li>
 </ul>
 
 ## Program Committee Memberships
 <ul>
 	<li>
-		TPC Member of the 50th IEEE Conference on Local Computer Networks (LCN), October 14-16, 2025, Sydney, Australia.
+		TPC Member of the 50th IEEE Conference on Local Computer Networks (LCN), October 14-16, 2025, Sydney, Australia, [<a href="https://www.ieeelcn.org/Committees_TPC.html"> Link </a>].
 	</li>
 	<li>
 		TPC Member of The Nineteenth International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies, UBICOMM 2025, September 28 - October 02, 2025 at Lisbon, Portugal.[<a href="https://www.iaria.org/conferences2025/ComUBICOMM25.html"> Link </a>] 
