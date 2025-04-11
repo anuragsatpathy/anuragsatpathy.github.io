@@ -25,8 +25,17 @@ classes: wide
 		Delivered a Talk on " <i> Game Theory Powered Intelligent Electric Vehicle to Charging Point Assignment for Sustainable Smart Cities </i>" at the ATAL FDP 2024-25 (Jan-20th to 25th 2025) on "<b>Empowering Smart Cities with AI-Driven Edge and Fog Computing Architecture</b>", organized by the Siddaganga Institute of Technology, Tumkur, India.
 	</li>
 </ul>
+##Organizing Committee Memberships
+<ul>
+	<li>
+		Poster Chair, 2025 4th International Conference on Data, Decision and Systems (ICDDS), December 4-6, 2025 at Indian Institute of Information Technology, Dharwad, India.
+	</li>
+</ul>
 ## Program Committee Memberships
 <ul>
+	<li>
+		TPC Member of the 50th IEEE Conference on Local Computer Networks (LCN), October 14-16, 2025, Sydney, Australia.
+	</li>
 	<li>
 		TPC Member of The Nineteenth International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies, UBICOMM 2025, September 28 - October 02, 2025 at Lisbon, Portugal.[<a href="https://www.iaria.org/conferences2025/ComUBICOMM25.html"> Link </a>] 
 	</li>
@@ -109,6 +118,9 @@ classes: wide
 	</li>
 	<li>
 		Journal of King Saud University - Computer and Information Sciences, Elsevier.
+	</li>
+	<li>
+		Results in Engineering, Elsevier.
 	</li>
 	<li>
 		Cluster Computing, Springer.
