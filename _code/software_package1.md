@@ -83,6 +83,9 @@ classes: wide
 ## Reviewer in Journals
 <ul>
 	<li>
+		IEEE Transactions on Intelligent Transportation Systems.
+	</li>
+	<li>
 		IEEE Transactions on Sustainable Computing.
 	</li>
 	<li>
