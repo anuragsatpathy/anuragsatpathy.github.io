@@ -107,6 +107,9 @@ classes: wide
 		Future Generation Computer Systems, Elsevier
 	</li>
 	<li>
+		Simulation Modelling Practice and Theory, Elsevier
+	</li>
+	<li>
 		Expert Systems with Applications, Elsevier.
 	</li> 
 	<li>
