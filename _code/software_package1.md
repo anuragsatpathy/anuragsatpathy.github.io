@@ -36,6 +36,9 @@ classes: wide
 ## Program Committee Memberships
 <ul>
 	<li>
+		TPC Member of the 2025 IEEE International Conference on Electronics, Computing and Communication Technologies (CONNECT).
+	</li>
+	<li>
 		TPC Member of the 50th IEEE Conference on Local Computer Networks (LCN), October 14-16, 2025, Sydney, Australia, [<a href="https://www.ieeelcn.org/Committees_TPC.html"> Link </a>].
 	</li>
 	<li>
