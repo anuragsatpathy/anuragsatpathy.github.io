@@ -7,7 +7,19 @@ classes: wide
 ---
 **<u>2025</u>**
 <ul style="list-style-type: none; padding-left: 0;">
-<li> <strong>[J18]</strong> <b>Anurag Satpathy</b>, Manmath Narayan Sahoo, Chittaranjan Swain, Paolo Bellavista, Mohsen Guizani, Khan Muhammad, and Sambit Bakshi, "<i> Virtual Network Embedding: Literature Assessment, Recent Advancements, Opportunities, and Challenges </i>", in <b> IEEE Communications Surveys and Tutorials</b>, vol. 27, no. 6, pp. 3861-3914, Dec. 2025  Pages 1- 1, 2025, <a href="https://ieeexplore.ieee.org/document/10845765"> DOI: 10.1109/COMST.2025.3531724 </a>.
+ <li>
+  <strong>[J19]</strong>
+  T.G. Keerthan Kumar, Rahul Kumar, Anirudh Munnur Achal,
+  <b>Anurag Satpathy</b>, Sourav Kanti Addya,
+  "<i>SEDViN: Secure Embedding for Dynamic Virtual Network Requests Using a Multi-Attribute Matching Game</i>",
+  <b>Journal of Parallel and Distributed Computing</b>,
+  vol. 206, Article 105171, 2025.
+  <a href="https://doi.org/10.1016/j.jpdc.2025.105171">
+    DOI: 10.1016/j.jpdc.2025.105171
+  </a>.
+</li>
+ 
+<li> <strong>[J18]</strong> <b>Anurag Satpathy</b>, Manmath Narayan Sahoo, Chittaranjan Swain, Paolo Bellavista, Mohsen Guizani, Khan Muhammad, and Sambit Bakshi, "<i> Virtual Network Embedding: Literature Assessment, Recent Advancements, Opportunities, and Challenges </i>", in <b> IEEE Communications Surveys and Tutorials</b>, vol. 27, no. 6, pp. 3861-3914, Dec. 2025  Pages 1- 1, 2025, <a href="https://ieeexplore.ieee.org/document/10845765"> DOI: 10.1109/COMST.2025.3531724 </a> (<b>IF-46.7</b>).
 </li>
 </ul>
 <ul style="list-style-type: none; padding-left: 0;">
