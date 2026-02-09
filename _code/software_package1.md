@@ -12,8 +12,7 @@ classes: wide
 **Ad Hoc Networks, Elsevier**
 
 **Theme:**  
-The surge in edge computing has made it a primary platform for deploying large-scale applications, while serverless computing—despite its popularity in cloud and mobile settings—has yet to be fully realized in ad hoc and decentralized environments. Integrating edge and serverless paradigms spans domains such as military communications, healthcare, and entertainment, offering reduced latency, improved scalability, and cost efficiency. However, existing solutions remain largely tailored to traditional infrastructures.  
-This special issue aims to bridge this gap by fostering innovation in edge–serverless integration for ad hoc networks, enabling seamless application deployment and management.
+The surge in edge computing has made it a primary platform for deploying large-scale applications, while serverless computing despite its popularity in cloud and mobile settings—has yet to be fully realized in ad hoc and decentralized environments. Integrating edge and serverless paradigms spans domains such as military communications, healthcare, and entertainment, offering reduced latency, improved scalability, and cost efficiency. However, existing solutions remain largely tailored to traditional infrastructures. This special issue aims to bridge this gap by fostering innovation in edge–serverless integration for ad hoc networks, enabling seamless application deployment and management.
 
 **Role:** Guest Editor  
 **Publication Timeline:** April 2025  
