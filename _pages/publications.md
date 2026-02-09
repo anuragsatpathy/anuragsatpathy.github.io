@@ -7,6 +7,19 @@ classes: wide
 ---
 **<u>2025</u>**
 <ul style="list-style-type: none; padding-left: 0;">
+  <li>
+  <strong>[C20]</strong>
+  Arindam Khanda<sup>*</sup>, <b>Anurag Satpathy</b><sup>*</sup>, Amit Jha, and Sajal K. Das,
+  "<i>CARGO: A Co-Optimization Framework for EV Charging and Routing in Goods Delivery Logistics</i>",
+  in <b>Proceedings of the 2025 IEEE 50th Conference on Local Computer Networks (LCN)</b>,
+  pp. 1–9, 2025.
+  <a href="https://doi.org/10.1109/LCN65610.2025.11146292">
+    DOI: 10.1109/LCN65610.2025.11146292
+  </a>.
+  <br/>
+  <sup>*</sup>These authors contributed equally.
+</li>
+
  <li>
   <strong>[J20]</strong>
   Priyanka Ashok Birajdar, Kush Anchalia,
