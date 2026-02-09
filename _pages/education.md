@@ -6,87 +6,154 @@ author_profile: true
 classes: wide
 ---
 
-**2017 - 2023**
-<br>
-Ph.D. in Computer Science and Engineering <br>
-<a href="https://www.nitrkl.ac.in">National Institute of Technology Rourkela, Odisha, India</a><br>
-*GPA: 9.34/10*<br>
-*Thesis Title: Efficient Re-Embedding Strategies for Virtual Data Centers over Multi-Domain Substrate Networks* [<a href="http://ethesis.nitrkl.ac.in/10491/"> Thesis Link </a>].
-<br>
-*Advisor:<a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom"> Prof. Manmath Narayan Sahoo</a>*
+## Education
 
-**2015 - 2017**<br>
-M.Tech. in Computer Science and Engineering<br>
-<a href= "https://www.bitmesra.ac.in"> Birla Institute of Technology Mesra, Jharkhand, India </a> <br>
-*GPA: 9.24/10*<br>
-*Thesis Title: Virtual Machine Placement in Cloud Data Centers* <br>
-*Advisor: <a href = "https://www.iitism.ac.in/index.php/Departments/faculties_detail_cse">Prof. Gadadhar Sahoo</a>*
+### **Ph.D. in Computer Science and Engineering**  
+**2017 – 2023**  
+<a href="https://www.nitrkl.ac.in">National Institute of Technology Rourkela</a>, Odisha, India  
+*GPA: 9.34 / 10*
 
-**2010 - 2014**<br>
-B. Tech. in Information Technology<br>
-<a href= "https://www.iiit-bh.ac.in"> International Institute of Information Technology Bhubaneswar, Odisha, India </a> <br>
-*GPA: 7.91/10*<br>
-*Project Title: Office network setup and analysis*<br>
-*Advisor: <a href = "https://sites.google.com/iiit-bh.ac.in/computer-science/people/faculty/hemanta?authuser=0">Prof. Hemanta Kumar Pati</a>*
+**Doctoral Thesis:**  
+<i>Efficient Re-Embedding Strategies for Virtual Data Centers over Multi-Domain Substrate Networks</i>  
+[<a href="http://ethesis.nitrkl.ac.in/10491/">Thesis Link</a>]
+
+**Advisor:**  
+<a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom">Prof. Manmath Narayan Sahoo</a>
+
+---
+
+### **M.Tech. in Computer Science and Engineering**  
+**2015 – 2017**  
+<a href="https://www.bitmesra.ac.in">Birla Institute of Technology Mesra</a>, Jharkhand, India  
+*GPA: 9.24 / 10*
+
+**Master’s Thesis:**  
+<i>Virtual Machine Placement in Cloud Data Centers</i>
+
+**Advisor:**  
+<a href="https://www.iitism.ac.in/index.php/Departments/faculties_detail_cse">Prof. Gadadhar Sahoo</a>
+
+---
+
+### **B.Tech. in Information Technology**  
+**2010 – 2014**  
+<a href="https://www.iiit-bh.ac.in">International Institute of Information Technology Bhubaneswar</a>, Odisha, India  
+*GPA: 7.91 / 10*
+
+**Undergraduate Project:**  
+<i>Office Network Setup and Performance Analysis</i>
+
+**Advisor:**  
+<a href="https://sites.google.com/iiit-bh.ac.in/computer-science/people/faculty/hemanta">Prof. Hemanta Kumar Pati</a>
+
+---
 
 ## Research Experience
 
-**Aug 2023 - Present**
-<br>
-Post Doctoral Fellow at the Missouri University of Science and Technology (S&T), Rolla, Missouri, USA under the  supervision of <a href="https://sites.google.com/a/mst.edu/sdas/"> Dr. Sajal K. Das</a>.
+### **Postdoctoral Fellow**  
+**Aug 2023 – Present**  
+Missouri University of Science and Technology (Missouri S&T), Rolla, MO, USA  
+**Supervisor:** <a href="https://sites.google.com/a/mst.edu/sdas/">Prof. Sajal K. Das</a>
 
 <ul>
-	<li>
-		Working on an NSF-funded project 
-		<i> "SOTERIA: Satisfaction and Behavior-aware Dynamic Resource Allocation in Public Safety Systems"
-		</i>, focused on establishing game-theoretic solution to restore communication capabilities to assist the first responders in communicating with the emergency control center, assisting in search and rescue operations.
-	</li>
-	<li>
-		Working on adopting a game-theoretic solution to offloading in vehicular networks for mobile vehicles, focusing on minimizing latency and energy consumption.
-	</li>
-	<li>
-		Working on developing dynamic route-planning strategies to harness solar energy for personal air vehicles supporting urban air mobility.
-	</li>
-	<li>
-		Developing dynamic schedulers for assigning serverless functions for microservices operating under deadline constraints.
-	</li>
-</ul>
-
-**July 2017 - Feb 2023**
-<br>
-Ph.D. Research Scholar at National Institute of Technology Rourkela, Odisha, India under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom"> Prof. Manmath Narayan Sahoo</a>.<br>
-
-*Research Contributions:* Worked on the issue of resource management– specifically, the focus was to develop efficient complete/selective re-embedding strategies for already embedded dynamic virtual data center requests experiencing demand fluctuations. <br>
-
-*Relevant Publications:* 
-<ul>
-	<li> <a href ="https://ieeexplore.ieee.org/document/9796586"> ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory </a>
-	</li>
-	<li>
-	<a href ="https://doi.org/10.1016/j.comnet.2022.109248"> CoMap: An efficient virtual network re-mapping strategy based on coalitional matching theory </a>	
-	</li>
-	<li>
-	<a href ="https://ieeexplore.ieee.org/document/9284253"> VMatch: A Matching Theory Based VDC Reconfiguration Strategy </a>	
-	</li>
-</ul>
-
-**May 2016 - April 2017**
-<br>
-Visiting Researcher at National Institute of Technology, Rourkela, under the supervision of <a href="https://www.vssut.ac.in/vice-chancellor-s-message.php"> Dr. Banshidhar Majhi </a> and <a href="https://cse.nitk.ac.in/faculty/sourav-kanti-addya"> Dr. Sourav Kanti Addya </a>.
-
-*Research Contribution:* Worked on solving the virtual machine placement problem and developed an efficient strategy to solve the VMP problem using a meta-heuristic crow-search algorithm. Different live-migration techniques were also integrated with the placement model, and its comparative behavior was studied. <br>
-
-*Relevant Publication:* 
-<ul>
-<li> <a href ="https://doi.org/10.1016/j.compeleceng.2017.12.032"> Crow search based virtual machine placement strategy in cloud data centers with live migration </a>
+  <li>
+    Postdoctoral researcher in the <b>CReWMaN Lab</b>, conducting research in
+    cloud-edge systems, cyber-physical systems, and intelligent resource management.
+  </li>
+  <li>
+    Actively involved in the preparation and coordination of <b>NSF research proposals</b>,
+    contributing to problem formulation, technical approach, preliminary results,
+    evaluation plans, and broader impacts, with submissions targeting
+    <i>EPCN, CPS, and Smart and Connected Communities</i> programs.
+  </li>
+  <li>
+  Participated in the <b>NSF I-Corps ecosystem (Local, Regional, and BOOST)</b> as a Technical Lead, contributing to customer discovery, problem–solution fit analysis, and translation of research outcomes toward potential real-world and commercialization pathways.
 </li>
+
+  <li>
+    Lead contributor to the NSF-funded project
+    <i>“SOTERIA: Satisfaction- and Behavior-Aware Dynamic Resource Allocation in Public Safety Systems”</i>, focusing on game-theoretic and learning-enabled coordination for emergency response networks.
+  </li>
+  <li>
+    Conducted research on behavior-aware offloading and coordination in vehicular networks,
+    targeting latency minimization, energy efficiency, and robustness under dynamic mobility.
+  </li>
+  <li>
+    Developed dynamic route-planning and energy-aware optimization strategies for urban air mobility and solar-assisted aerial vehicles.
+  </li>
+  <li>
+    Designed and evaluated deadline-aware scheduling mechanisms for serverless and microservice-based computing platforms.
+  </li>
 </ul>
 
-**Dec 2013 - May 2014**<br>
-Research Intern at the <a href="https://odisha.nic.in"> National Informatics Center Bhubaneswar </a> under the supervision of <a href="https://www.linkedin.com/in/c-r-kanungo-a9126038/?originalSubdomain=in">Mr. C.R. Kanungo </a> <br>
+---
 
-*Project Details:* Worked on the various routing protocols using cisco-certified simulation tools. Setting up an entire network and router configuration and coming up with conclusions to suggest the routing protocols to be opted for depending on the network latency and traffic, respectively, for a particular setup scenario.
+### **Ph.D. Research Scholar**  
+**July 2017 – Feb 2023**  
+National Institute of Technology Rourkela, Odisha, India  
+**Supervisor:** <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom">Prof. Manmath Narayan Sahoo</a>
 
+<p>
+Doctoral research focused on <b>resource management and optimization in virtualized cloud infrastructures</b>,
+with emphasis on efficient <i>complete and selective re-embedding strategies</i> for dynamic
+virtual data center requests under demand fluctuations and multi-domain constraints.
+</p>
 
+**Selected Publications from Ph.D. Research:**
+<ul>
+  <li>
+    <a href="https://ieeexplore.ieee.org/document/9796586">
+      ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory
+    </a>
+  </li>
+  <li>
+    <a href="https://doi.org/10.1016/j.comnet.2022.109248">
+      CoMap: An Efficient Virtual Network Re-Mapping Strategy Based on Coalitional Matching Theory
+    </a>
+  </li>
+  <li>
+    <a href="https://ieeexplore.ieee.org/document/9284253">
+      VMatch: A Matching Theory Based VDC Reconfiguration Strategy
+    </a>
+  </li>
+</ul>
 
+---
 
+### **Visiting Researcher**  
+**May 2016 – April 2017**  
+National Institute of Technology Rourkela, Odisha, India
+
+**Supervisors:**  
+<a href="https://www.vssut.ac.in/vice-chancellor-s-message.php">Prof. Banshidhar Majhi</a>,  
+<a href="https://cse.nitk.ac.in/faculty/sourav-kanti-addya">Prof. Sourav Kanti Addya</a>
+
+<p>
+Worked on the <b>Virtual Machine Placement (VMP)</b> problem in cloud data centers,
+proposing a meta-heuristic solution based on the <i>crow search algorithm</i>.
+Integrated live-migration strategies and conducted comparative evaluations
+under varying workloads and infrastructure configurations.
+</p>
+
+**Resulting Publication:**
+<ul>
+  <li>
+    <a href="https://doi.org/10.1016/j.compeleceng.2017.12.032">
+      Crow Search Based Virtual Machine Placement Strategy in Cloud Data Centers with Live Migration
+    </a>
+  </li>
+</ul>
+
+---
+
+### **Research Intern**  
+**Dec 2013 – May 2014**  
+<a href="https://odisha.nic.in">National Informatics Centre (NIC)</a>, Bhubaneswar, India  
+**Supervisor:** <a href="https://www.linkedin.com/in/c-r-kanungo-a9126038/">Mr. C. R. Kanungo</a>
+
+<p>
+Worked on network design and performance evaluation using Cisco-certified simulation tools.
+Designed and configured enterprise-scale network topologies, analyzed routing protocols,
+and evaluated trade-offs between latency, throughput, and traffic patterns to recommend
+protocol selection under different deployment scenarios.
+</p>
