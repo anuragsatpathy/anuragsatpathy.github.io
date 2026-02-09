@@ -27,25 +27,14 @@ Special Issue Link
 ## Talks and Seminars
 
 <ul>
-  <li>
-    Invited Speaker,
-    <b>Online Faculty Development Program (FDP)</b>,
-    SRM University–AP, Andhra Pradesh, India, January 2026.<br>
-    <i>Talk: AI-Driven Distributed Ecosystems: Bridging Cloud, Fog, and Edge for Next-Generation Innovation</i>
+  <i>
+    Invited Speaker, <b>Online Faculty Development Program (FDP)</b>, SRM University–AP, Andhra Pradesh, India, January 2026.<br> <i>Talk: Introduction to Top Trading Cycles for Effective Resource Exchange in Offloading.
+  </i>
+<li>
+    Delivered a talk on "<i>Smart and Intelligent Resource Assignment Schemes in Sustainable Cloud using Matching Theory</i>" at the AICTE–ATAL Faculty Development Program (January 20–25, 2025) on "<b>Empowering Smart Cities with AI-Driven Edge and Fog Computing Architecture</b>", organized by Siddaganga Institute of Technology, Tumkur, India.
   </li>
   <li>
-    Delivered a talk on
-    "<i>Smart and Intelligent Resource Assignment Schemes in Sustainable Cloud using Matching Theory</i>"
-    at the AICTE–ATAL Faculty Development Program (January 20–25, 2025) on
-    "<b>Empowering Smart Cities with AI-Driven Edge and Fog Computing Architecture</b>",
-    organized by Siddaganga Institute of Technology, Tumkur, India.
-  </li>
-  <li>
-    Delivered a talk on
-    "<i>Game Theory Powered Intelligent Electric Vehicle to Charging Point Assignment for Sustainable Smart Cities</i>"
-    at the AICTE–ATAL Faculty Development Program (January 20–25, 2025) on
-    "<b>Empowering Smart Cities with AI-Driven Edge and Fog Computing Architecture</b>",
-    organized by Siddaganga Institute of Technology, Tumkur, India.
+    Delivered a talk on "<i>Game Theory Powered Intelligent Electric Vehicle to Charging Point Assignment for Sustainable Smart Cities</i>" at the AICTE–ATAL Faculty Development Program (January 20–25, 2025) on "<b>Empowering Smart Cities with AI-Driven Edge and Fog Computing Architecture</b>", organized by Siddaganga Institute of Technology, Tumkur, India.
   </li>
 </ul>
 
@@ -69,6 +58,7 @@ Special Issue Link
     Organizing Co-Chair,
     <b>ASCENT Workshop</b>, co-located with the
     International Conference on Distributed Computing and Networking (ICDCN 2026).
+    <a href="https://sites.google.com/view/ascent-icdcn2026/committee?authuser=0">Link</a>
   </li>
   <li>
     Posters Co-Chair,
