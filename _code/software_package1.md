@@ -14,7 +14,7 @@ classes: wide
 **Theme:**  
 The surge in edge computing has made it a primary platform for deploying large-scale applications, while serverless computing despite its popularity in cloud and mobile settings—has yet to be fully realized in ad hoc and decentralized environments. Integrating edge and serverless paradigms spans domains such as military communications, healthcare, and entertainment, offering reduced latency, improved scalability, and cost efficiency. However, existing solutions remain largely tailored to traditional infrastructures. This special issue aims to bridge this gap by fostering innovation in edge–serverless integration for ad hoc networks, enabling seamless application deployment and management.
 
-**Role:** Guest Editor  
+**Role:** Co-Guest Editor  
 **Publication Timeline:** April 2025  
 
 **Web Link:**  
@@ -27,16 +27,32 @@ Special Issue Link
 ## Talks and Seminars
 
 <ul>
-  <i>
-    Invited Speaker, <b>Online Faculty Development Program (FDP)</b>, SRM University–AP, Andhra Pradesh, India, January 2026.<br> <i>Theme:</i> AI-Driven Distributed Ecosystems: Bridging Cloud, Fog, and Edge for Next-Generation Innovation.<br> <i>Talk:</i> Introduction to Top Trading Cycles for Effective Resource Exchange in Offloading.
-  </i>
-<li>
-    Delivered a talk on "<i>Smart and Intelligent Resource Assignment Schemes in Sustainable Cloud using Matching Theory</i>" at the AICTE–ATAL Faculty Development Program (January 20–25, 2025) on "<b>Empowering Smart Cities with AI-Driven Edge and Fog Computing Architecture</b>", organized by Siddaganga Institute of Technology, Tumkur, India.
-  </li>
   <li>
-    Delivered a talk on "<i>Game Theory Powered Intelligent Electric Vehicle to Charging Point Assignment for Sustainable Smart Cities</i>" at the AICTE–ATAL Faculty Development Program (January 20–25, 2025) on "<b>Empowering Smart Cities with AI-Driven Edge and Fog Computing Architecture</b>", organized by Siddaganga Institute of Technology, Tumkur, India.
+    <i>
+      Invited Speaker, <b>Online Faculty Development Program (FDP)</b>,
+      SRM University–AP, Andhra Pradesh, India, January 2026.<br>
+      <i>Theme:</i> AI-Driven Distributed Ecosystems: Bridging Cloud, Fog, and Edge for Next-Generation Innovation.<br>
+      <i>Talk:</i> Introduction to Top Trading Cycles for Effective Resource Exchange in Offloading.
+    </i>
+  </li>
+
+  <li>
+    Invited Spekaer
+    "<i>Smart and Intelligent Resource Assignment Schemes in Sustainable Cloud using Matching Theory</i>"
+    at the AICTE–ATAL Faculty Development Program (January 20–25, 2025) on
+    "<b>Empowering Smart Cities with AI-Driven Edge and Fog Computing Architecture</b>",
+    organized by Siddaganga Institute of Technology, Tumkur, India.
+  </li>
+
+  <li>
+   Invited Speaker
+    "<i>Game Theory Powered Intelligent Electric Vehicle to Charging Point Assignment for Sustainable Smart Cities</i>"
+    at the AICTE–ATAL Faculty Development Program (January 20–25, 2025) on
+    "<b>Empowering Smart Cities with AI-Driven Edge and Fog Computing Architecture</b>",
+    organized by Siddaganga Institute of Technology, Tumkur, India.
   </li>
 </ul>
+
 
 ---
 
