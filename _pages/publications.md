@@ -11,7 +11,7 @@ classes: wide
 </li>
 </ul>
 <ul style="list-style-type: none; padding-left: 0;">
-<li> <strong>[C19]</strong> Debjyoti Sengupta, <b>Anurag Satpathy</b>, Arindam Khanda, Sajal. K. Das, "<i>CITRUS: Cost and Ischemia Time Reduction using Urban Air Mobility Solutions for Organ Transport </i>", in <b>1st Workshop on Emerging Intelligent eDGE for WELLbeing (EDGE-Well), in conjunction with IEEE PerCom </b> at Washington DC, USA March 17-21, <b>(Accepted For Publication)</b> (<b> Core Rank: A<sup>*</sup></b>).
+<li> <strong>[C19]</strong> Debjyoti Sengupta, <b>Anurag Satpathy</b>, Arindam Khanda, Sajal. K. Das, "<i>CITRUS: Cost and Ischemia Time Reduction using Urban Air Mobility Solutions for Organ Transport </i>", in <b>1st Workshop on Emerging Intelligent eDGE for WELLbeing (EDGE-Well), in conjunction with IEEE PerCom </b> at Washington DC, USA, 2025, pp. 170-175, <a href="https://ieeexplore.ieee.org/document/11038741"> DOI: 10.1109/PerComWorkshops65533.2025.00060 </a>
 </li>
 </ul>
 <ul style="list-style-type: none; padding-left: 0;">
