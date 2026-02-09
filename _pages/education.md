@@ -61,10 +61,8 @@ Missouri University of Science and Technology (Missouri S&T), Rolla, MO, USA
     cloud-edge systems, cyber-physical systems, and intelligent resource management.
   </li>
   <li>
-    Actively involved in the preparation and coordination of <b>NSF research proposals</b>,
-    contributing to problem formulation, technical approach, preliminary results,
-    evaluation plans, and broader impacts, with submissions targeting
-    <i>EPCN, CPS, and Smart and Connected Communities</i> programs.
+  Co-PI on an <b>NSF-EPCN</b> proposal on EV charging and energy-aware resource coordination, contributing to technical design, preliminary analysis, evaluation plans,
+  and broader impacts as part of NSF proposal development.
   </li>
   <li>
   Participated in the <b>NSF I-Corps ecosystem (Local, Regional, and BOOST)</b> as a Technical Lead, contributing to customer discovery, problem–solution fit analysis, and translation of research outcomes toward potential real-world and commercialization pathways.
