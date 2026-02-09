@@ -104,8 +104,7 @@ classes: wide
 
 ## Teaching Philosophy
 
-My teaching philosophy emphasizes **learning by doing**, **conceptual clarity**, and **research-driven problem solving**.  
-I strive to connect theoretical foundations with real-world systems by incorporating **hands-on labs**, **case studies**, and **open-ended projects** drawn from cloud computing, distributed systems, and edge computing.
+My teaching philosophy emphasizes **learning by doing**, **conceptual clarity**, and **research-driven problem solving**. I strive to connect theoretical foundations with real-world systems by incorporating **hands-on labs**, **case studies**, and **open-ended projects** drawn from cloud computing, distributed systems, and edge computing.
 
 Through mentoring and laboratory instruction, I focus on:
 - Developing strong algorithmic and systems intuition  
