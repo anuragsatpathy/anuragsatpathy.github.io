@@ -28,7 +28,7 @@ Special Issue Link
 
 <ul>
   <i>
-    Invited Speaker, <b>Online Faculty Development Program (FDP)</b>, at SRM University, Andhra Pradesh, India, January 2026.<br> <i>Talk: Introduction to Top Trading Cycles for Effective Resource Exchange in Offloading.
+    Invited Speaker, <b>Online Faculty Development Program (FDP)</b>, SRM University–AP, Andhra Pradesh, India, January 2026.<br> <i>Theme:</i> AI-Driven Distributed Ecosystems: Bridging Cloud, Fog, and Edge for Next-Generation Innovation.<br> <i>Talk:</i> Introduction to Top Trading Cycles for Effective Resource Exchange in Offloading.
   </i>
 <li>
     Delivered a talk on "<i>Smart and Intelligent Resource Assignment Schemes in Sustainable Cloud using Matching Theory</i>" at the AICTE–ATAL Faculty Development Program (January 20–25, 2025) on "<b>Empowering Smart Cities with AI-Driven Edge and Fog Computing Architecture</b>", organized by Siddaganga Institute of Technology, Tumkur, India.
