@@ -8,6 +8,29 @@ classes: wide
 **<u>2025</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
+    <li>
+  <strong>[C22]</strong>
+  <b>Anurag Satpathy</b><sup>*</sup>, Arindam Khanda<sup>*</sup>,
+  Chittaranjan Swain, and Sajal K. Das,
+  "<i>ReACT-TTC: Capacity-Aware Top Trading Cycles for Post-Choice Reassignment in Shared CPS</i>",
+  Accepted at <b>ICCPS 2026</b>.
+  <a href="https://arxiv.org/abs/2602.00859">
+    arXiv:2602.00859
+  </a>.
+  <sup>*</sup>These authors contributed equally.
+</li>
+  <strong>[C21]</strong>
+  Sowjanya Tammali, Arindam Khanda,
+  <b>Anurag Satpathy</b>, S. M. Shovan, and Sajal K. Das,
+  "<i>RESCUE: Routing under Evolving Stochastic Congestion and Uncertain Spread in Wildfire Emergencies</i>",
+  in <b>Proceedings of the 27th International Conference on Distributed Computing and Networking (ICDCN 2026)</b>,
+  pp. 168–172, 2026.
+  <a href="https://doi.org/10.1145/3772290.3772301">
+    DOI: 10.1145/3772290.3772301
+  </a>.
+</li>
+
+  <li>
   <strong>[C20]</strong>
   Arindam Khanda<sup>*</sup>, <b>Anurag Satpathy</b><sup>*</sup>, Amit Jha, and Sajal K. Das,
   "<i>CARGO: A Co-Optimization Framework for EV Charging and Routing in Goods Delivery Logistics</i>",
