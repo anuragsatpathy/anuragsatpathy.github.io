@@ -7,7 +7,7 @@ classes: wide
 ---
 **<u>2025</u>**
 <ul style="list-style-type: none; padding-left: 0;">
-<li> <strong>[J18]</strong> <b>Anurag Satpathy</b>, Manmath Narayan Sahoo, Chittaranjan Swain, Paolo Bellavista, Mohsen Guizani, Khan Muhammad, and Sambit Bakshi, "<i> Virtual Network Embedding: Literature Assessment, Recent Advancements, Opportunities, and Challenges </i>", in <b> IEEE Communications Surveys and Tutorials </b> Pages 1- 1, 2025, <a href="https://ieeexplore.ieee.org/document/10845765"> DOI: 10.1109/COMST.2025.3531724 </a>.
+<li> <strong>[J18]</strong> <b>Anurag Satpathy</b>, Manmath Narayan Sahoo, Chittaranjan Swain, Paolo Bellavista, Mohsen Guizani, Khan Muhammad, and Sambit Bakshi, "<i> Virtual Network Embedding: Literature Assessment, Recent Advancements, Opportunities, and Challenges </i>", in <b> IEEE Communications Surveys and Tutorials</b>, vol. 27, no. 6, pp. 3861-3914, Dec. 2025  Pages 1- 1, 2025, <a href="https://ieeexplore.ieee.org/document/10845765"> DOI: 10.1109/COMST.2025.3531724 </a>.
 </li>
 </ul>
 <ul style="list-style-type: none; padding-left: 0;">
@@ -40,7 +40,7 @@ classes: wide
   </li>  
   <li><strong>[C12]</strong> Pranab Nandy, Rounak Saha, <b> Anurag Satpathy </b>, Sandip Chakraborty, and Sourav Kanti Addya, " <i>Performance Analysis of Disruptive Instances in Cloud Environment</i>, in" <b> International Conference on COMmunication Systems & NETworkS (COMSNETS) </b> Bengaluru, India, 2024, pp. 370-378, <a href="https://ieeexplore.ieee.org/document/10427039"> DOI: 10.1109/COMSNETS59351.2024.10427039</a> (<b>Core Rank: National India</b>).
   </li>
-  <li> <strong>[J16]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy </b>, Sambit Bakshi, and Soumya K Ghosh "<i> M-DAFTO: Multi-Stage Deferred Acceptance based Fair Task Offloading in IoT-Fog Systems</i>" in <b> IEEE Transactions on Services Computing, volume. 17, pp. 3928-3941, no. 17, 2024,</b> Pages 1- 14, 2024, <a href="https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4629387"> DOI: 10.1109/TSC.2024.3436648 </a>.
+  <li> <strong>[J16]</strong> Chittaranjan Swain, Manmath Narayan Sahoo, <b> Anurag Satpathy </b>, Sambit Bakshi, and Soumya K Ghosh "<i> M-DAFTO: Multi-Stage Deferred Acceptance based Fair Task Offloading in IoT-Fog Systems</i>" in <b> IEEE Transactions on Services Computing</b>, volume. 17, pp. 3928-3941, no. 17, 2024 <a href="https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4629387"> DOI: 10.1109/TSC.2024.3436648 </a>.
   </li> 
   <li> <strong>[J15]</strong> Keerthan Kumar TG, Shivangi Tomar, Sourav Kanti Addya, <b> Anurag Satpathy</b>, SG Koolagudi, "<i>EFraS: Emulated framework to develop and analyze dynamic virtual network embedding strategies over SDN infrastructure</i>", in <b> Simulation Modelling Practice and Theory, Elsevier</b>, volume. 134, pp. 102952, 2024, <a href="https://www.sciencedirect.com/science/article/abs/pii/S1569190X24000662"> DOI: 10.1016/j.simpat.2024.102952 </a> (<b>IF-3.5</b>)
   </li>
