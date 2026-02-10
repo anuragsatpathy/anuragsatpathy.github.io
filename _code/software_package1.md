@@ -217,6 +217,7 @@ Special Issue Link
   - IEEE Transactions on Services Computing (T-SC)
   - IEEE Transactions on Computers (T-C)
   - IEEE Internet of Things Journal (IoT-J)
+  - IEEE Transactions on Sustainable Computing (TSUSC)
 
 - **ACM Transactions:**
   - ACM Transactions on Sensor Networks (ToSN)
@@ -228,12 +229,16 @@ Special Issue Link
   - Journal of Network and Computer Applications (JNCA)
   - Ad Hoc Networks
   - Simulation Modelling Practice and Theory (SIMPAT)
+  - Expert Systems With Applications
+  - Engineering Science and Technology, an International Journal
+
 
 - **Springer Journals:**
   - Cluster Computing
   - Journal of Grid Computing
   - The Journal of Supercomputing
   - Journal of Cloud Computing
+  - Journal of Ambient Intelligence and Humanized Computing
 
 - **Wiley Journals:**
   - Concurrency and Computation: Practice and Experience
