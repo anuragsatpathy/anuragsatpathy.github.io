@@ -217,7 +217,6 @@ Special Issue Link
   - IEEE Transactions on Services Computing (T-SC)
   - IEEE Transactions on Computers (T-C)
   - IEEE Internet of Things Journal (IoT-J)
-  - IEEE Transactions on Sustainable Computing (TSUSC)
 
 - **ACM Transactions:**
   - ACM Transactions on Sensor Networks (ToSN)
