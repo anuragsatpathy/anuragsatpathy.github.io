@@ -30,9 +30,7 @@ Special Issue Link
   <li>
     <i>
       Invited Speaker, <b>Online Faculty Development Program (FDP)</b>,
-      SRM University–AP, Andhra Pradesh, India, January 2026.<br>
-      <i>Theme:</i> AI-Driven Distributed Ecosystems: Bridging Cloud, Fog, and Edge for Next-Generation Innovation.<br>
-      <i>Talk:</i> Introduction to Top Trading Cycles for Effective Resource Exchange in Offloading.
+      SRM University–AP, Andhra Pradesh, India, January 2026.<br> <i>Theme:</i> AI-Driven Distributed Ecosystems: Bridging Cloud, Fog, and Edge for Next-Generation Innovation.<br><i>Talk:</i> Introduction to Top Trading Cycles for Effective Resource Exchange in Offloading.
     </i>
   </li>
   <li>
