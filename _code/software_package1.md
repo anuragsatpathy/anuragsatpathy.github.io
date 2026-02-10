@@ -204,6 +204,41 @@ Special Issue Link
 
 ---
 
+## Journal, Conference, and Proposal Reviewing
+
+- **External Reviewer:** NSERC Discovery Grant (Canada)
+
+- **IEEE Journals and Transactions:**
+  - IEEE Transactions on Sustainable Computing (T-SUSC)
+  - IEEE Transactions on Intelligent Transportation Systems (T-ITS)
+  - IEEE Transactions on Consumer Electronics (T-CE)
+  - IEEE Transactions on Mobile Computing (T-MC)
+  - IEEE/ACM Transactions on Networking (T-NET)
+  - IEEE Transactions on Services Computing (T-SC)
+  - IEEE Transactions on Computers (T-C)
+  - IEEE Internet of Things Journal (IoT-J)
+
+- **ACM Transactions:**
+  - ACM Transactions on Sensor Networks (ToSN)
+
+- **Elsevier Journals:**
+  - Future Generation Computer Systems (FGCS)
+  - Computer Networks
+  - Computer Communications
+  - Journal of Network and Computer Applications (JNCA)
+  - Ad Hoc Networks
+  - Simulation Modelling Practice and Theory (SIMPAT)
+
+- **Springer Journals:**
+  - Cluster Computing
+  - Journal of Grid Computing
+  - The Journal of Supercomputing
+  - Journal of Cloud Computing
+
+- **Wiley Journals:**
+  - Concurrency and Computation: Practice and Experience
+
+
 ## Society Memberships
 
 <ul>
