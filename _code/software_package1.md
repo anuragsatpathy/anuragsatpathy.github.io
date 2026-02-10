@@ -90,87 +90,114 @@ Special Issue Link
 
 <ul>
   <li>
-  Program Committee Member, <b>Machine Intelligence in Networked Data and Systems (MINDS) Workshop</b>, co-located with the International Conference on Communication Systems & Networks (COMSNETS).<a href="https://www.comsnets.org/minds_workshop.html#head">Link</a>
-</li>
+    Program Committee Member, <b>Machine Intelligence in Networked Data and Systems (MINDS) Workshop</b>,
+    co-located with the International Conference on Communication Systems & Networks (COMSNETS).
+    [<a href="https://www.comsnets.org/minds_workshop.html#head">Link</a>]
+  </li>
+
   <li>
-  Program Committee Member,
-  <b>8th International Workshop on Security, Privacy, and Trust in the Internet of Things (SPT-IoT 2026)</b>, co-located with IEEE PerCom 2026. <a href="https://sites.google.com/view/spt-iot-2026/organizing-committee_1?authuser=0">Link</a>
-</li>
+    Program Committee Member, <b>8th International Workshop on Security, Privacy, and Trust in the Internet of Things (SPT-IoT 2026)</b>,
+    co-located with IEEE PerCom 2026.
+    [<a href="https://sites.google.com/view/spt-iot-2026/organizing-committee_1?authuser=0">Link</a>]
+  </li>
+
   <li>
-  TPC Member, <b>8th International Workshop on Wireless Sensors and Drones in Internet of Things (Wi-DroIT 2026)</b>, co-located with the 22nd International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2026).
-  [<a href="https://widroit2026.github.io/#committees">Link</a>]
-</li>
+    TPC Member, <b>8th International Workshop on Wireless Sensors and Drones in Internet of Things (Wi-DroIT 2026)</b>,
+    co-located with the 22nd International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2026).
+    [<a href="https://widroit2026.github.io/#committees">Link</a>]
+  </li>
+
   <li>
-  Reviewer, <b>Conference on Game Theory and AI for Security (GameSec 2026)</b>,
-  October 26–28, 2026, Ann Arbor, Michigan, USA.[<a href="https://www.gamesec-conf.org/tpc.php">Link</a>]
-</li>
-  <<li>
-  TPC Member, <b>2nd Workshop on LPWAN-Based Terrestrial–Non-Terrestrial Integration for Vehicular Networks</b>, co-located with the <b>IEEE 103rd Vehicular Technology Conference (VTC2026-Spring)</b>, June 9–12, 2026, Nice, France. [<a href="https://events.vtsociety.org/vtc2026-spring/conference-sessions/workshops-currently-available/w16-lpwan-based-terrestrial-non-terrestrial-integration-for-vehicular-networks-ai-driven-hardware-platforms-testbeds-and-6g-directions/">Link</a>]
-</li>
+    Reviewer, <b>Conference on Game Theory and AI for Security (GameSec 2026)</b>,
+    October 26–28, 2026, Ann Arbor, Michigan, USA.
+    [<a href="https://www.gamesec-conf.org/">Link</a>]
+  </li>
+
+  <li>
+    TPC Member, <b>2nd Workshop on LPWAN-Based Terrestrial–Non-Terrestrial Integration for Vehicular Networks</b>,
+    co-located with the <b>IEEE 103rd Vehicular Technology Conference (VTC2026-Spring)</b>,
+    June 9–12, 2026, Nice, France.
+    [<a href="https://lnkd.in/gDT-_mTc">Link</a>]
+  </li>
+
   <li>
     TPC Member, IEEE International Conference on Electronics, Computing and Communication Technologies (CONNECT 2025).
   </li>
+
   <li>
     TPC Member, 50th IEEE Conference on Local Computer Networks (LCN 2025),
     October 14–16, 2025, Sydney, Australia.
     [<a href="https://www.ieeelcn.org/Committees_TPC.html">Link</a>]
   </li>
+
   <li>
     TPC Member, 19th International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies (UBICOMM 2025),
     September 28 – October 2, 2025, Lisbon, Portugal.
     [<a href="https://www.iaria.org/conferences2025/ComUBICOMM25.html">Link</a>]
   </li>
+
   <li>
     TPC Member, 7th International Workshop on Wireless Sensors and Drones in IoT (Wi-DroIT 2025),
     co-located with DCOSS-IoT 2025, Lucca, Italy.
     [<a href="https://widroit2025.github.io/">Link</a>]
   </li>
+
   <li>
     TPC Member, 8th International Workshop on Security, Privacy and Trust in IoT (SPT-IoT 2025),
     co-located with IEEE PerCom 2025, Washington DC, USA.
     [<a href="https://sites.google.com/view/spt-iot-2025">Link</a>]
   </li>
+
   <li>
     PC Member (Demos & Posters), 26th International Conference on Distributed Computing and Networking (ICDCN 2025),
     January 4–7, 2025, IIT Hyderabad, India.
     [<a href="https://cse.iith.ac.in/icdcn-2025/call_for_poster.html/">Link</a>]
   </li>
+
   <li>
     Workshop TPC Member, Machine Intelligence in Networked Data and Systems (MINDS),
     COMSNETS 2025, January 6, 2025, Bengaluru, India.
     [<a href="https://www.comsnets.org/minds_workshop.html">Link</a>]
   </li>
+
   <li>
     TPC Member, First Workshop on Emerging Intelligent eDGE for WELLbeing (EDGE-Well 2025),
     co-located with IEEE PerCom 2025, Washington DC, USA.
     [<a href="https://sites.google.com/view/edge-well-2025/">Link</a>]
   </li>
+
   <li>
     Reviewer, IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS 2024),
     December 15–18, 2024, IIT Guwahati, India.
     [<a href="https://ants2024.ieee-ants.org/">Link</a>]
   </li>
+
   <li>
     TPC Member, 3rd International Conference on Data, Decision and Systems (ICDDS 2024),
     December 5–7, 2024, PES University, Bengaluru, India.
     [<a href="https://icdds.org/">Link</a>]
   </li>
+
   <li>
     Workshop PC Member, Machine Intelligence in Networked Data and Systems (MINDS),
     COMSNETS 2024, January 3, 2024, Bengaluru, India.
   </li>
+
   <li>
     TPC Member, 2nd International Conference on Data, Decision and Systems (ICDDS 2023),
     December 1–2, 2023, Surathkal, India.
   </li>
+
   <li>
     TPC Member, 7th International Conference on Recent Advances & Innovations in Engineering (ICRAIE 2022),
     December 1–3, 2022, Surathkal, India.
   </li>
+
   <li>
     Poster Reviewer, 24th International Conference on Distributed Computing and Networking (ICDCN 2023),
     January 4–7, 2023, IIT Kharagpur, India.
   </li>
+
   <li>
     TPC Member, 2nd Workshop on Serverless To sErvE moRe at Scale (STEERS 2022),
     May 10–13, 2022, Taormina, Italy.
