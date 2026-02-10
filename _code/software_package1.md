@@ -231,6 +231,9 @@ Special Issue Link
   - Simulation Modelling Practice and Theory (SIMPAT)
   - Expert Systems With Applications
   - Engineering Science and Technology, an International Journal
+  - Cleaner Engineering and Technology
+  - Sustainable Computing: Informatics and Systems (SUSCOM)
+  - Journal of King Saud University (JKSUCIS)
 
 
 - **Springer Journals:**
@@ -239,6 +242,7 @@ Special Issue Link
   - The Journal of Supercomputing
   - Journal of Cloud Computing
   - Journal of Ambient Intelligence and Humanized Computing
+  - Artificial Intelligence Review
 
 - **Wiley Journals:**
   - Concurrency and Computation: Practice and Experience
