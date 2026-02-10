@@ -35,7 +35,6 @@ Special Issue Link
       <i>Talk:</i> Introduction to Top Trading Cycles for Effective Resource Exchange in Offloading.
     </i>
   </li>
-
   <li>
     Invited Spekaer
     "<i>Smart and Intelligent Resource Assignment Schemes in Sustainable Cloud using Matching Theory</i>"
@@ -93,7 +92,6 @@ Special Issue Link
   <li>
   Program Committee Member, <b>Machine Intelligence in Networked Data and Systems (MINDS) Workshop</b>, co-located with the International Conference on Communication Systems & Networks (COMSNETS).<a href="https://www.comsnets.org/minds_workshop.html#head">Link</a>
 </li>
-
   <li>
   Program Committee Member,
   <b>8th International Workshop on Security, Privacy, and Trust in the Internet of Things (SPT-IoT 2026)</b>, co-located with IEEE PerCom 2026. <a href="https://sites.google.com/view/spt-iot-2026/organizing-committee_1?authuser=0">Link</a>
@@ -104,7 +102,7 @@ Special Issue Link
 </li>
   <li>
   Reviewer, <b>Conference on Game Theory and AI for Security (GameSec 2026)</b>,
-  October 26–28, 2026, Ann Arbor, Michigan, USA. [<a href="https://www.gamesec-conf.org/tpc.php">Link</a>]
+  October 26–28, 2026, Ann Arbor, Michigan, USA.[<a href="https://www.gamesec-conf.org/tpc.php">Link</a>]
 </li>
   <<li>
   TPC Member, <b>2nd Workshop on LPWAN-Based Terrestrial–Non-Terrestrial Integration for Vehicular Networks</b>, co-located with the <b>IEEE 103rd Vehicular Technology Conference (VTC2026-Spring)</b>, June 9–12, 2026, Nice, France. [<a href="https://events.vtsociety.org/vtc2026-spring/conference-sessions/workshops-currently-available/w16-lpwan-based-terrestrial-non-terrestrial-integration-for-vehicular-networks-ai-driven-hardware-platforms-testbeds-and-6g-directions/">Link</a>]
