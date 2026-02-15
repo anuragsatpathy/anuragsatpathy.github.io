@@ -88,6 +88,9 @@ Special Issue Link
 
 <ul>
   <li>
+    TPC Member of 2026 IEEE Global Communications Conference: Selected Areas in Communications: Machine Learning for Communications and Networking.
+  </li>
+  <li>
     Program Committee Member, <b>Machine Intelligence in Networked Data and Systems (MINDS) Workshop</b>,
     co-located with the International Conference on Communication Systems & Networks (COMSNETS).
     [<a href="https://www.comsnets.org/minds_workshop.html#head">Link</a>]
