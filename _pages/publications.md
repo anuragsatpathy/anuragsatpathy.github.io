@@ -9,7 +9,7 @@ classes: wide
 **<u>2026</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
-    <strong>[J12]</strong>
+    <strong>[J21]</strong>
     Chittaranjan Swain, Manmath Narayan Sahoo, <b>Anurag Satpathy</b>, and Sambit Bakshi", <i>Fair-Match: Fairness-aware Matching Framework for Task Offloading in {IoT--Fog} Systems</i>" Accepted for publication in <b>IEEE Transactions on Consumer Electronics</b>, 2026, (<b>IF-10.9</b>.
   </li>
   <li>
