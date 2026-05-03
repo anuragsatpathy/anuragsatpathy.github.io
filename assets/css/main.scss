@@ -31,3 +31,102 @@
 .cv_font {
   font-size: .65em;
 }
+
+.faculty-hero {
+  border-bottom: 1px solid #e6e8eb;
+  margin-bottom: 1.6rem;
+  padding: 0.4rem 0 1.6rem;
+}
+
+.faculty-hero .eyebrow {
+  color: #4f6475;
+  font-size: 0.86rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-bottom: 0.45rem;
+  text-transform: uppercase;
+}
+
+.faculty-hero h1 {
+  color: #102133;
+  font-size: 2.05rem;
+  line-height: 1.15;
+  margin: 0 0 0.8rem;
+}
+
+.faculty-hero .lead {
+  color: #273849;
+  font-size: 1.08rem;
+  line-height: 1.58;
+  max-width: 52rem;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 1rem;
+}
+
+.focus-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 1rem 0 1.6rem;
+}
+
+.focus-grid > div {
+  background: #f7f9fb;
+  border-top: 3px solid #2f6f8f;
+  padding: 1rem;
+}
+
+.focus-grid h3 {
+  font-size: 1rem;
+  margin-top: 0;
+}
+
+.project-list {
+  display: grid;
+  gap: 1rem;
+  margin: 1rem 0 1.8rem;
+}
+
+.project-list section {
+  background: #fbfcfd;
+  border-left: 4px solid #2f6f8f;
+  padding: 1rem 1.15rem;
+}
+
+.project-list h3 {
+  color: #102133;
+  font-size: 1.08rem;
+  margin-top: 0;
+}
+
+.project-list p:last-child {
+  margin-bottom: 0;
+}
+
+.archive p,
+.archive li {
+  line-height: 1.62;
+}
+
+@media (max-width: 800px) {
+  .faculty-hero h1 {
+    font-size: 1.55rem;
+  }
+
+  .faculty-hero .lead {
+    font-size: 1rem;
+  }
+
+  .focus-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-actions .btn {
+    margin-bottom: 0;
+  }
+}

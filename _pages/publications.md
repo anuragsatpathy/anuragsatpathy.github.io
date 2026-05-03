@@ -6,6 +6,8 @@ author_profile: true
 classes: wide
 ---
 
+My publications span Cyber-Physical Systems, intelligent transportation, EV charging, emergency response, UAV-assisted logistics, vehicular edge computing, cloud-edge systems, and resource management. Selected recent work is listed first by year below.
+
 **<u>2026</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li>

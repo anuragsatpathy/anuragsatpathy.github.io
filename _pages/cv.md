@@ -13,53 +13,69 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
+This page provides a concise web CV for faculty-search readers. The existing PDF CV link is preserved here:
+
 <a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
+## Current Position
+
+**Postdoctoral Fellow**<br>
+Department of Computer Science<br>
+Missouri University of Science and Technology, Rolla, MO, USA<br>
+**Aug 2023 - Present**<br>
+Supervisor: <a href="https://sites.google.com/a/mst.edu/sdas/">Prof. Sajal K. Das</a>
+
+## Research Interests
+
+- Cyber-Physical Systems
+- Game-theoretic and optimization-based decision-making
+- Learning-enabled resource allocation under uncertainty
+- Intelligent transportation and EV charging coordination
+- UAV-assisted healthcare logistics
+- Emergency response and public safety systems
+- Vehicular edge, IoT, cloud-edge, and serverless computing
+
 ## Education
----
-**In Progress**<br>
-Ph.D. in Knowledge<br>
-University<br>
-*Advisor: Prof. Albert Einstein*
 
-**1990-2010**<br>
-B.S. in Partying<br>
-School<br>
-*Advisor: Prof. Paul Dirac*
+**Ph.D. in Computer Science and Engineering**<br>
+National Institute of Technology Rourkela, India<br>
+**2017 - 2023**<br>
+Thesis: <i>Efficient Re-Embedding Strategies for Virtual Data Centers over Multi-Domain Substrate Networks</i><br>
+Advisor: <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom">Prof. Manmath Narayan Sahoo</a>
 
-## Research experience
----
+**M.Tech. in Computer Science and Engineering**<br>
+Birla Institute of Technology Mesra, India<br>
+**2015 - 2017**
 
-**2015 - Present**<br>
-Position<br>
-I accomplished some things.<br>
-*Relevant Publications: <a href="../publications/publication1" class="uline">Name2 et al. 2016</a>*<br>
+**B.Tech. in Information Technology**<br>
+International Institute of Information Technology Bhubaneswar, India<br>
+**2010 - 2014**
 
+## Research Experience
 
-## Service and Outreach
----
-**2013 - Present**<br>
-Outreach<br>
+**Postdoctoral Research, Missouri S&T**<br>
+Research on Cyber-Physical Systems, public safety systems, EV charging coordination, intelligent transportation, UAV-assisted logistics, vehicular edge computing, and cloud-edge systems.
 
+**Ph.D. Research, NIT Rourkela**<br>
+Research on resource management, virtual data center embedding, matching theory, and optimization for dynamic cloud infrastructures.
+
+**Visiting Researcher, NIT Rourkela**<br>
+Research on virtual machine placement in cloud data centers, including meta-heuristic optimization and live migration.
+
+## Teaching and Mentoring
+
+Teaching assistant experience in Operating Systems Laboratory and Advanced Data Structure Laboratory. Mentoring experience includes Ph.D., master's, and undergraduate students working on CPS, vehicular edge computing, cloud-edge systems, matching theory, and optimization.
+
+## Selected Service
+
+- Technical Lead participation in NSF I-Corps Local, Regional, and BOOST activities.
+- Contributions to NSF proposal development on EV charging and energy-aware resource coordination.
+- Scholarly reviewing and professional service in computer networks, distributed systems, CPS, cloud-edge computing, and IoT.
 
 ## Publications
----
-**Name2** et al. "Title of paper 1", 2016.
 
+Please see the <a href="/publications/">publications page</a> for the full list.
 
+## Contact
 
-## Awards and Honors
----
-Best Jekyll Theme, *Spring 2018*<br>
-
-
-## Talks and Presentations
----
-"Seminar 17", University Colloquium, *March 2018*
-
-
-## Teaching
----
-**Summer 1900**<br>
-Primary Instructor<br>
-*Quantum Field Theory 101*
+Email: anurag[DOT]satpathy[AT]mst[DOT]edu
