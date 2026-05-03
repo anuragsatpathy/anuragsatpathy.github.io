@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Projects and Activities"
+title: "Research Projects"
 permalink: /code/
 author_profile: true
 classes: wide
 ---
 
-This page highlights research projects connected to my faculty research agenda in intelligent Cyber-Physical Systems, mechanism design, optimization, learning-enabled resource coordination, mobility, EV charging, UAV logistics, public safety, and edge/IoT computing.
+This page highlights research projects connected to my faculty research agenda in intelligent Cyber-Physical Systems, mechanism design, optimization, learning-enabled resource coordination, mobility, EV charging, UAV logistics, public safety, and edge/IoT computing. Funding and proposal details are summarized separately on the <a href="/funding/">Funding</a> page, while committee work and leadership roles are listed on the <a href="/service/">Service</a> page.
 
 ## Current and Recent Research Projects
 
@@ -79,9 +79,3 @@ This page highlights research projects connected to my faculty research agenda i
     <p><strong>Research themes:</strong> virtual data centers, cloud-edge systems, serverless computing, resource reallocation.</p>
   </section>
 </div>
-
-## Professional Activities
-
-{% for post in site.code reversed %}
-  {% include archive-single.html %}
-{% endfor %}
