@@ -17,6 +17,7 @@ classes: wide
   <p class="hero-actions">
     <a class="btn btn--primary" href="/research/">Research</a>
     <a class="btn btn--primary" href="/publications/">Publications</a>
+    <a class="btn btn--inverse" href="/funding/">Funding</a>
     <a class="btn btn--inverse" href="/cv/">CV</a>
     <a class="btn btn--inverse" href="/contact/">Contact</a>
   </p>

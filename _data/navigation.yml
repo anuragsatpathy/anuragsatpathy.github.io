@@ -8,6 +8,8 @@ main:
     url: /teaching/
   - title: "Projects"
     url: /code/
+  - title: "Funding"
+    url: /funding/
   - title: "Service"
     url: /service/
   - title: "CV"

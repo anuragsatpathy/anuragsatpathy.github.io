@@ -108,6 +108,10 @@
   margin-bottom: 0;
 }
 
+.project-list + .project-list {
+  margin-top: 1.2rem;
+}
+
 .archive p,
 .archive li {
   line-height: 1.62;
