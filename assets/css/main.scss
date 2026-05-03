@@ -112,12 +112,50 @@
   margin-top: 1.2rem;
 }
 
+.page__title {
+  font-size: 1.55rem;
+  line-height: 1.22;
+}
+
+.archive {
+  font-size: 0.9rem;
+}
+
+.archive h2 {
+  font-size: 1.18rem;
+  margin-top: 1.55rem;
+}
+
+.archive h3 {
+  font-size: 1rem;
+}
+
 .archive p,
 .archive li {
-  line-height: 1.62;
+  line-height: 1.52;
+}
+
+.archive ul {
+  margin-bottom: 0.9rem;
+}
+
+.archive li {
+  margin-bottom: 0.45rem;
+}
+
+.archive sup {
+  font-size: 0.72em;
 }
 
 @media (max-width: 800px) {
+  .page__title {
+    font-size: 1.35rem;
+  }
+
+  .archive {
+    font-size: 0.88rem;
+  }
+
   .faculty-hero h1 {
     font-size: 1.55rem;
   }
