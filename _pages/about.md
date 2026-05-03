@@ -23,6 +23,28 @@ classes: wide
   </p>
 </section>
 
+<section class="search-snapshot">
+  <h2>Faculty Search Snapshot</h2>
+  <div class="snapshot-grid">
+    <div>
+      <h3>Research</h3>
+      <p>CPS, mechanism design, intelligent infrastructure, public safety systems, EV charging, and UAV-assisted logistics.</p>
+    </div>
+    <div>
+      <h3>Methods</h3>
+      <p>Game theory, optimization, matching, equilibrium analysis, learning-enabled coordination, and simulation-based evaluation.</p>
+    </div>
+    <div>
+      <h3>Applications</h3>
+      <p>Intelligent transportation, shared charging infrastructure, emergency response, healthcare logistics, vehicular edge, and IoT.</p>
+    </div>
+    <div>
+      <h3>Teaching</h3>
+      <p>Operating Systems, Computer Networks, Distributed Systems, Cloud/Edge Computing, Algorithms, IoT, and Cyber-Physical Systems.</p>
+    </div>
+  </div>
+</section>
+
 I am a Postdoctoral Fellow at the Missouri University of Science and Technology, working with <a href="https://sites.google.com/a/mst.edu/sdas/">Prof. Sajal K. Das</a>. My research develops game-theoretic, optimization-based, and learning-enabled frameworks for distributed resource coordination in Cyber-Physical Systems (CPS), with applications in intelligent transportation, EV charging coordination, UAV-assisted healthcare logistics, emergency response, public safety systems, vehicular edge computing, and IoT systems.
 
 Before joining Missouri S&T, I completed my Ph.D. in Computer Science and Engineering at the National Institute of Technology Rourkela under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom">Prof. Manmath Narayan Sahoo</a>. My doctoral work focused on resource management and re-embedding strategies for virtual data centers over multi-domain substrate networks.

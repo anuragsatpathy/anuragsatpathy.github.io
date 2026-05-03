@@ -19,6 +19,7 @@ These papers represent the main threads of my research program.
     "<i>ReACT-TTC: Capacity-Aware Top Trading Cycles for Post-Choice Reassignment in Shared CPS</i>,"
     accepted at <b>ICCPS 2026</b>.
     <a href="https://arxiv.org/abs/2602.00859">arXiv</a>.
+    <br><em>Contribution:</em> Introduces capacity-aware post-choice reassignment for shared CPS resources using a Top Trading Cycles-based mechanism.
   </li>
 
   <li>
@@ -27,6 +28,7 @@ These papers represent the main threads of my research program.
     "<i>SMEVCA: Stable Matching-based EV Charging Assignment in Subscription-Based Models</i>,"
     <b>ICDCN 2025</b>.
     <a href="https://dl.acm.org/doi/10.1145/3700838.3700851">DOI</a>.
+    <br><em>Contribution:</em> Models subscription-based EV charging assignment with stable matching under constrained charging infrastructure.
   </li>
 
   <li>
@@ -35,6 +37,7 @@ These papers represent the main threads of my research program.
     "<i>CARGO: A Co-Optimization Framework for EV Charging and Routing in Goods Delivery Logistics</i>,"
     <b>IEEE LCN 2025</b>.
     <a href="https://doi.org/10.1109/LCN65610.2025.11146292">DOI</a>.
+    <br><em>Contribution:</em> Co-optimizes charging and routing decisions for goods-delivery logistics under mobility and energy constraints.
   </li>
 
   <li>
@@ -43,6 +46,7 @@ These papers represent the main threads of my research program.
     "<i>RESCUE: Routing under Evolving Stochastic Congestion and Uncertain Spread in Wildfire Emergencies</i>,"
     <b>ICDCN 2026</b>.
     <a href="https://doi.org/10.1145/3772290.3772301">DOI</a>.
+    <br><em>Contribution:</em> Studies evacuation routing under evolving stochastic congestion and uncertain wildfire spread.
   </li>
 
   <li>
@@ -51,6 +55,7 @@ These papers represent the main threads of my research program.
     "<i>Virtual Network Embedding: Literature Assessment, Recent Advancements, Opportunities, and Challenges</i>,"
     <b>IEEE Communications Surveys and Tutorials</b>, 2025.
     <a href="https://ieeexplore.ieee.org/document/10845765">DOI</a>.
+    <br><em>Contribution:</em> Provides a broad technical foundation for virtual network embedding, resource allocation, and future cloud-edge research directions.
   </li>
 
   <li>
@@ -59,6 +64,7 @@ These papers represent the main threads of my research program.
     "<i>ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory</i>,"
     <b>IEEE Transactions on Services Computing</b>, 2023.
     <a href="https://ieeexplore.ieee.org/document/9796586">DOI</a>.
+    <br><em>Contribution:</em> Develops a matching-theoretic virtual data center reassignment strategy for dynamic cloud infrastructure.
   </li>
 </ul>
 
