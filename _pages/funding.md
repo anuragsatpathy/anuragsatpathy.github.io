@@ -20,6 +20,7 @@ This page summarizes active funding, awarded innovation programs, submitted prop
     <p>
       Leading national customer discovery, market validation, and technology-readiness planning for autonomous organ-transport logistics. The effort expands stakeholder discovery across organ procurement organizations, transplant centers, FAA/UAS regulatory bodies, UAV logistics providers, and clinical users while preparing SBIR/STTR translation pathways.
     </p>
+    <p><strong>My contribution:</strong> Leading stakeholder discovery, defining technology-readiness milestones, and connecting the organ-transport logistics problem to CPS routing, UAV coordination, and translational funding pathways.</p>
   </section>
 
   <section>
@@ -30,6 +31,7 @@ This page summarizes active funding, awarded innovation programs, submitted prop
     <p>
       Led commercialization strategy for autonomous organ-transport drones, including 75+ stakeholder interviews with organ procurement organizations, transplant centers, surgeons, courier companies, UAV manufacturers, researchers, and FAA stakeholders. This effort supported provisional patent activity for I-Haul.
     </p>
+    <p><strong>My contribution:</strong> Directed customer discovery, organized the commercialization narrative, and translated technical UAV logistics constraints into stakeholder-validated product requirements.</p>
   </section>
 
   <section>
@@ -40,6 +42,7 @@ This page summarizes active funding, awarded innovation programs, submitted prop
     <p>
       Led early customer discovery with clinicians, transplant teams, researchers, and UAV logistics partners to identify clinical workflow constraints, cold-chain requirements, regulatory risks, and UAV logistics barriers for emergency organ delivery.
     </p>
+    <p><strong>My contribution:</strong> Led interviews and converted clinical, regulatory, and logistics feedback into the project’s initial technical and translational roadmap.</p>
   </section>
 </div>
 
@@ -55,6 +58,7 @@ This page summarizes active funding, awarded innovation programs, submitted prop
     <p>
       Designed behavior-aware EV charging assignment policies for fair and predictable charging access under congestion. The proposal models uncertainty, strategic user behavior, and misuse in shared charging infrastructure, and studies how charging delays propagate through mobility and logistics systems.
     </p>
+    <p><strong>My contribution:</strong> Developed the research thrust on behavior-aware charging assignment, strategic user behavior, misuse modeling, and propagation of charging delays through mobility and logistics systems.</p>
   </section>
 </div>
 
@@ -70,6 +74,7 @@ This page summarizes active funding, awarded innovation programs, submitted prop
     <p>
       Developing reassignment mechanisms for strategic agents sharing constrained resources under noncompliance, uncertainty, and dynamic preferences. The proposal focuses on stability and equilibrium conditions for multi-quota resource exchange and parallel resolution of resource reassignments in large systems.
     </p>
+    <p><strong>My contribution:</strong> Shaping the core algorithmic agenda on strategic reassignment, multi-quota exchange, stability, equilibrium analysis, and scalable parallel resolution in shared-resource CPS.</p>
   </section>
 </div>
 

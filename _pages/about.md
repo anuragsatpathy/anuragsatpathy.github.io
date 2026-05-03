@@ -27,6 +27,14 @@ I am a Postdoctoral Fellow at the Missouri University of Science and Technology,
 
 Before joining Missouri S&T, I completed my Ph.D. in Computer Science and Engineering at the National Institute of Technology Rourkela under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom">Prof. Manmath Narayan Sahoo</a>. My doctoral work focused on resource management and re-embedding strategies for virtual data centers over multi-domain substrate networks.
 
+## Faculty Research Agenda
+
+My future research group will build decision-making systems for shared infrastructure where transportation, energy, healthcare logistics, emergency response, and edge/IoT computing intersect. The agenda is organized around three pillars:
+
+- Strategic resource coordination in Cyber-Physical Systems
+- Human-aware mobility, energy, and emergency response systems
+- Learning-enabled mechanisms for uncertain shared infrastructure
+
 ## Research Focus
 
 <div class="focus-grid">
@@ -56,4 +64,4 @@ Before joining Missouri S&T, I completed my Ph.D. in Computer Science and Engine
 
 My faculty research agenda centers on principled algorithmic foundations for socially responsible CPS: systems that are efficient, adaptive, and fair while operating with uncertain demand, dynamic mobility, and limited infrastructure. I am interested in building an independent research group at the intersection of distributed systems, optimization, game theory, machine learning, and real-world CPS deployments.
 
-Please see my <a href="/research/">research overview</a>, <a href="/publications/">publications</a>, <a href="/teaching/">teaching profile</a>, and <a href="/cv/">CV</a>.
+Please see my <a href="/research/">research overview</a>, <a href="/publications/">publications</a>, <a href="/teaching/">teaching profile</a>, <a href="/funding/">funding and proposal activities</a>, and <a href="/cv/">CV</a>.

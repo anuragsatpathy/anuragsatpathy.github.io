@@ -12,6 +12,33 @@ Using game-theoretic, optimization-based, and learning-enabled methods, I design
 
 ## Research Agenda
 
+### Future faculty research program
+
+My independent research program is organized around three fundable thrusts:
+
+<div class="project-list">
+  <section>
+    <h3>Thrust 1: Mechanism design for shared CPS infrastructure</h3>
+    <p><strong>Problem:</strong> Shared CPS resources such as charging stations, UAV fleets, roadside units, edge servers, and emergency communication assets are limited, congested, and used by strategic agents.</p>
+    <p><strong>Approach:</strong> I develop matching, exchange, reassignment, coalition-formation, and equilibrium-based mechanisms that remain stable under uncertainty, noncompliance, and heterogeneous user preferences.</p>
+    <p><strong>Impact:</strong> This thrust supports fair and reliable coordination for transportation, energy, public safety, and edge/IoT infrastructure.</p>
+  </section>
+
+  <section>
+    <h3>Thrust 2: Human-aware intelligent mobility and EV charging</h3>
+    <p><strong>Problem:</strong> EV charging, goods delivery, and urban mobility systems are affected by congestion, uncertain demand, subscription behavior, and user incentives.</p>
+    <p><strong>Approach:</strong> I design behavior-aware assignment, charging-routing, and scheduling models that integrate strategic decisions with operational constraints.</p>
+    <p><strong>Impact:</strong> This thrust advances sustainable and equitable mobility systems for smart cities and logistics networks.</p>
+  </section>
+
+  <section>
+    <h3>Thrust 3: UAV-assisted emergency and healthcare logistics</h3>
+    <p><strong>Problem:</strong> Emergency response and healthcare logistics require time-sensitive decisions under uncertain hazards, network conditions, regulations, and clinical constraints.</p>
+    <p><strong>Approach:</strong> I develop learning-enabled routing, resource allocation, and coordination frameworks for UAV-assisted communication, organ transport, evacuation, and medical logistics.</p>
+    <p><strong>Impact:</strong> This thrust connects algorithmic CPS research with public safety, healthcare delivery, and translational technology pathways.</p>
+  </section>
+</div>
+
 ### Behavior-aware and equitable Cyber-Physical Systems
 
 I design algorithms that incorporate user behavior, satisfaction, fairness, and resource constraints into CPS decision-making. This includes matching, scheduling, reassignment, routing, and allocation mechanisms for shared public infrastructure and safety-critical systems.
@@ -56,3 +83,7 @@ My earlier and ongoing work includes resource management for virtualized cloud s
 ## Long-Term Vision
 
 My long-term goal is to build intelligent CPS that make reliable, adaptive, and socially responsible decisions in real time. I aim to develop an independent research program that combines rigorous algorithmic foundations with deployable systems for transportation, healthcare logistics, emergency response, and public infrastructure.
+
+## Research Projects
+
+Representative project directions are summarized on the <a href="/code/">Research Projects</a> page.

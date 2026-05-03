@@ -6,6 +6,39 @@ author_profile: true
 classes: wide
 ---
 
+I am prepared to teach core Computer Science courses as well as advanced courses connected to Cyber-Physical Systems, distributed systems, cloud/edge computing, optimization, and intelligent infrastructure.
+
+## Courses Ready to Teach
+
+### Core Computer Science
+
+- Operating Systems
+- Data Structures and Algorithms
+- Computer Networks
+- Distributed Systems
+- Cloud and Edge Computing
+- Internet of Things
+- Cyber-Physical Systems
+
+### Special Topics and New Courses
+
+- Strategic Interaction in Cyber-Physical Systems
+- Mechanism Design and Game Theory for Computing Systems
+- Resource Coordination in Intelligent Transportation and Smart Infrastructure
+- Cloud-Edge-Serverless Systems for Latency-Sensitive Applications
+- Optimization and Learning for Networked Systems
+
+## Teaching Philosophy
+
+My teaching philosophy emphasizes learning by doing, conceptual clarity, and research-driven problem solving. I connect theoretical foundations with real-world systems through hands-on labs, case studies, and open-ended projects drawn from operating systems, distributed systems, cloud-edge computing, IoT, Cyber-Physical Systems, and intelligent infrastructure.
+
+Through mentoring and classroom instruction, I focus on:
+
+- Developing strong algorithmic and systems intuition
+- Helping students connect abstractions to deployable systems
+- Encouraging independent thinking, experimentation, and reproducible evaluation
+- Guiding students toward research-oriented problem formulation
+
 ## Teaching Assistant Experience
 
 **Fall 2021**  
@@ -99,30 +132,3 @@ classes: wide
     <i>Project: Virtual Machine Migration in Cloud</i>
   </li>
 </ul>
-
----
-
-## Teaching Philosophy
-
-My teaching philosophy emphasizes **learning by doing**, **conceptual clarity**, and **research-driven problem solving**. I strive to connect theoretical foundations with real-world systems by incorporating **hands-on labs**, **case studies**, and **open-ended projects** drawn from cloud computing, distributed systems, and edge computing.
-
-Through mentoring and laboratory instruction, I focus on:
-- Developing strong algorithmic and systems intuition  
-- Encouraging independent thinking and experimentation  
-- Guiding students toward research-oriented problem formulation  
-
----
-
-## Teaching Interests
-
-I am interested in teaching and developing courses in the following areas:
-
-- Operating Systems  
-- Data Structures and Algorithms  
-- Distributed Systems  
-- Cloud and Edge Computing  
-- Serverless Computing  
-- Optimization and Game Theory for Systems  
-- Networked and Cyber-Physical Systems  
-
----

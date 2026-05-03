@@ -8,6 +8,62 @@ classes: wide
 
 My publications span Cyber-Physical Systems, intelligent transportation, EV charging, emergency response, UAV-assisted logistics, vehicular edge computing, cloud-edge systems, and resource management. Selected recent work is listed first by year below.
 
+## Selected Publications
+
+These papers represent the main threads of my research program.
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <strong>[CPS / Mechanism Design]</strong>
+    <b>Anurag Satpathy</b>, Arindam Khanda, Chittaranjan Swain, and Sajal K. Das,
+    "<i>ReACT-TTC: Capacity-Aware Top Trading Cycles for Post-Choice Reassignment in Shared CPS</i>,"
+    accepted at <b>ICCPS 2026</b>.
+    <a href="https://arxiv.org/abs/2602.00859">arXiv</a>.
+  </li>
+
+  <li>
+    <strong>[EV Charging / Intelligent Transportation]</strong>
+    Arindam Khanda, <b>Anurag Satpathy</b>, Anusha Vangala, and Sajal K. Das,
+    "<i>SMEVCA: Stable Matching-based EV Charging Assignment in Subscription-Based Models</i>,"
+    <b>ICDCN 2025</b>.
+    <a href="https://dl.acm.org/doi/10.1145/3700838.3700851">DOI</a>.
+  </li>
+
+  <li>
+    <strong>[EV Charging and Routing]</strong>
+    Arindam Khanda, <b>Anurag Satpathy</b>, Amit Jha, and Sajal K. Das,
+    "<i>CARGO: A Co-Optimization Framework for EV Charging and Routing in Goods Delivery Logistics</i>,"
+    <b>IEEE LCN 2025</b>.
+    <a href="https://doi.org/10.1109/LCN65610.2025.11146292">DOI</a>.
+  </li>
+
+  <li>
+    <strong>[Public Safety CPS]</strong>
+    Sowjanya Tammali, Arindam Khanda, <b>Anurag Satpathy</b>, S. M. Shovan, and Sajal K. Das,
+    "<i>RESCUE: Routing under Evolving Stochastic Congestion and Uncertain Spread in Wildfire Emergencies</i>,"
+    <b>ICDCN 2026</b>.
+    <a href="https://doi.org/10.1145/3772290.3772301">DOI</a>.
+  </li>
+
+  <li>
+    <strong>[Survey / Research Foundation]</strong>
+    <b>Anurag Satpathy</b>, Manmath Narayan Sahoo, Chittaranjan Swain, Paolo Bellavista, Mohsen Guizani, Khan Muhammad, and Sambit Bakshi,
+    "<i>Virtual Network Embedding: Literature Assessment, Recent Advancements, Opportunities, and Challenges</i>,"
+    <b>IEEE Communications Surveys and Tutorials</b>, 2025.
+    <a href="https://ieeexplore.ieee.org/document/10845765">DOI</a>.
+  </li>
+
+  <li>
+    <strong>[Cloud / Strategic Reallocation]</strong>
+    <b>Anurag Satpathy</b>, Manmath Narayan Sahoo, Lucky Behera, and Chittaranjan Swain,
+    "<i>ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory</i>,"
+    <b>IEEE Transactions on Services Computing</b>, 2023.
+    <a href="https://ieeexplore.ieee.org/document/9796586">DOI</a>.
+  </li>
+</ul>
+
+## Full Publication List
+
 **<u>2026</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li>

@@ -13,9 +13,9 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-This page provides a concise web CV for faculty-search readers. The existing PDF CV link is preserved here:
+This page provides a concise web CV for faculty-search readers. A full PDF version is available here:
 
-<a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a>
+<a href="/files/cv.pdf" class="uline">Download my full CV</a>
 
 ## Current Position
 

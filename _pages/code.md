@@ -13,7 +13,6 @@ This page highlights research projects connected to my faculty research agenda i
 <div class="project-list">
   <section>
     <h3>I-Haul: Intelligent Aerial Logistics for Organ Transport</h3>
-    <p><strong>Role:</strong> Technical Lead, NSF I-Corps Local, Regional, BOOST, and accepted National I-Corps program.</p>
     <p>
       This project studies autonomous aerial logistics for emergency organ transport. The work combines UAV routing, clinical workflow constraints, cold-chain requirements, regulatory considerations, stakeholder discovery, and technology-readiness planning for time-sensitive healthcare logistics.
     </p>
@@ -22,7 +21,6 @@ This page highlights research projects connected to my faculty research agenda i
 
   <section>
     <h3>SPICE: Subscription-based Platform for Intelligent Charging of Electric Vehicles</h3>
-    <p><strong>Role:</strong> Co-PI on submitted NSF ENG/ECCS/EPCN proposal.</p>
     <p>
       SPICE develops behavior-aware EV charging assignment policies for fair and predictable charging access under congestion. The project models uncertainty, strategic user behavior, misuse, and the way charging delays propagate through mobility and logistics systems.
     </p>
@@ -31,7 +29,6 @@ This page highlights research projects connected to my faculty research agenda i
 
   <section>
     <h3>Strategic Lightweight Reassignment of Shared Resources in Large-Scale CPS</h3>
-    <p><strong>Role:</strong> Co-PI on NSF CISE/CCF Algorithmic Foundations proposal in development.</p>
     <p>
       This project designs scalable reassignment mechanisms for strategic agents sharing constrained resources under noncompliance, uncertainty, and dynamic preferences. The work studies stability, equilibrium conditions, multi-quota exchange, and parallel reassignment in large CPS deployments.
     </p>
