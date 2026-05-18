@@ -45,6 +45,19 @@ classes: wide
   </div>
 </section>
 
+<section class="featured-paper">
+  <p class="eyebrow">Latest Spotlight</p>
+  <h2>ReACT-TTC at ICCPS 2026</h2>
+  <p>
+    My latest ICCPS/CPS-IoT Week work introduces a capacity-aware Top Trading Cycles mechanism for post-choice reassignment in shared Cyber-Physical Systems, with an EV charging case study and at least 43% improvement in user satisfaction under non-compliant behavior.
+  </p>
+  <p class="hero-actions">
+    <a class="btn btn--primary" href="/publications/react-ttc-iccps-2026/">Read Spotlight</a>
+    <a class="btn btn--inverse" href="/files/react-ttc-iccps-2026.pdf">Paper PDF</a>
+    <a class="btn btn--inverse" href="/files/react-ttc-iccps-2026-slides.pptx">Slides</a>
+  </p>
+</section>
+
 I am a Postdoctoral Fellow at the Missouri University of Science and Technology, working with <a href="https://sites.google.com/a/mst.edu/sdas/">Prof. Sajal K. Das</a>. My research develops game-theoretic, optimization-based, and learning-enabled frameworks for distributed resource coordination in Cyber-Physical Systems (CPS), with applications in intelligent transportation, EV charging coordination, UAV-assisted healthcare logistics, emergency response, public safety systems, vehicular edge computing, and IoT systems.
 
 Before joining Missouri S&T, I completed my Ph.D. in Computer Science and Engineering at the National Institute of Technology Rourkela under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom">Prof. Manmath Narayan Sahoo</a>. My doctoral work focused on resource management and re-embedding strategies for virtual data centers over multi-domain substrate networks.

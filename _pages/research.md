@@ -22,6 +22,7 @@ My independent research program is organized around three fundable thrusts:
     <p><strong>Problem:</strong> Shared CPS resources such as charging stations, UAV fleets, roadside units, edge servers, and emergency communication assets are limited, congested, and used by strategic agents.</p>
     <p><strong>Approach:</strong> I develop matching, exchange, reassignment, coalition-formation, and equilibrium-based mechanisms that remain stable under uncertainty, noncompliance, and heterogeneous user preferences.</p>
     <p><strong>Impact:</strong> This thrust supports fair and reliable coordination for transportation, energy, public safety, and edge/IoT infrastructure.</p>
+    <p><strong>Representative work:</strong> <a href="/publications/react-ttc-iccps-2026/">ReACT-TTC, ICCPS 2026</a>.</p>
   </section>
 
   <section>

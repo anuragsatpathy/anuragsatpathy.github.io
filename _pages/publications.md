@@ -16,9 +16,9 @@ These papers represent the main threads of my research program.
   <li>
     <strong>[CPS / Mechanism Design]</strong>
     <b>Anurag Satpathy</b>, Arindam Khanda, Chittaranjan Swain, and Sajal K. Das,
-    "<i>ReACT-TTC: Capacity-Aware Top Trading Cycles for Post-Choice Reassignment in Shared CPS</i>,"
+    "<a href='/publications/react-ttc-iccps-2026/'><i>ReACT-TTC: Capacity-Aware Top Trading Cycles for Post-Choice Reassignment in Shared CPS</i></a>,"
     accepted at <b>ICCPS 2026</b>.
-    <a href="https://arxiv.org/abs/2602.00859">arXiv</a>.
+    <a href="https://arxiv.org/abs/2602.00859">arXiv</a> | <a href="/files/react-ttc-iccps-2026.pdf">PDF</a> | <a href="/files/react-ttc-iccps-2026-slides.pptx">Slides</a>.
     <br><em>Contribution:</em> Introduces capacity-aware post-choice reassignment for shared CPS resources using a Top Trading Cycles-based mechanism.
   </li>
 
@@ -80,9 +80,11 @@ These papers represent the main threads of my research program.
     <strong>[C22]</strong>
     <b>Anurag Satpathy</b><sup>*</sup>, Arindam Khanda<sup>*</sup>,
     Chittaranjan Swain, and Sajal K. Das,
-    "<i>ReACT-TTC: Capacity-Aware Top Trading Cycles for Post-Choice Reassignment in Shared CPS</i>",
+    "<a href='/publications/react-ttc-iccps-2026/'><i>ReACT-TTC: Capacity-Aware Top Trading Cycles for Post-Choice Reassignment in Shared CPS</i></a>",
     Accepted at <b>ICCPS 2026</b>.
-    <a href="https://arxiv.org/abs/2602.00859">arXiv:2602.00859</a>.
+    <a href="https://arxiv.org/abs/2602.00859">arXiv:2602.00859</a> |
+    <a href="/files/react-ttc-iccps-2026.pdf">PDF</a> |
+    <a href="/files/react-ttc-iccps-2026-slides.pptx">Slides</a>.
     <sup>*</sup>These authors contributed equally.
   </li>
 
