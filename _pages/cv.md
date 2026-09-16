@@ -1,65 +1,53 @@
 ---
-layout: cv-archive
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+classes: wide
 ---
 
-<style>
-a.uline {text-decoration:underline;}
-</style>
+<section class="page-intro">
+  <p class="eyebrow">Curriculum vitae</p>
+  <h1>Research, teaching, service, and translational activity.</h1>
+  <p class="lead">
+    Selected highlights are listed below. The full CV PDF includes complete publication, mentoring, service, and funding details.
+  </p>
+  <div class="hero-actions">
+    <a class="btn-primary" href="/files/cv.pdf">Download CV PDF</a>
+    <a class="btn-secondary" href="/contact/">Contact</a>
+  </div>
+</section>
 
-{% include base_path %}
+## Current Position
 
-<a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a>
+**Post Doctoral Fellow**<br>
+Department of Computer Science, Missouri University of Science and Technology<br>
+Advisor: Dr. Sajal K. Das
 
-## Education
----
-**In Progress**<br>
-Ph.D. in Knowledge<br>
-University<br>
-*Advisor: Prof. Albert Einstein*
+## Research Focus
 
-**1990-2010**<br>
-B.S. in Partying<br>
-School<br>
-*Advisor: Prof. Paul Dirac*
+Cyber-Physical Systems, intelligent transportation, EV charging coordination, UAV-assisted healthcare logistics, emergency response and public safety systems, vehicular edge/IoT computing, and game-theoretic decision-making under uncertainty.
 
-## Research experience
----
+## Selected Highlights
 
-**2015 - Present**<br>
-Position<br>
-I accomplished some things.<br>
-*Relevant Publications: <a href="../publications/publication1" class="uline">Name2 et al. 2016</a>*<br>
+- Accepted ICCPS 2026 paper on ReACT-TTC for post-choice reassignment in shared CPS.
+- Active NSF National I-Corps support as Co-PI and Technical Lead for I-HAUL.
+- Recent research activity across EV charging, UAV-assisted organ transportation, wildfire emergency routing, vehicular edge computing, and IoT/Fog systems.
+- Leadership roles including workshop organizing chair, publication chair, posters chair, guest editor, panelist, and program committee member.
 
+## Funding and Translation
 
-## Service and Outreach
----
-**2013 - Present**<br>
-Outreach<br>
+- NSF National I-Corps Program, Co-PI and Technical Lead, 2026-2027.
+- NSF I-Corps BOOST, Technical Lead, 2025.
+- NSF I-Corps Local and Regional, Technical Lead, 2024.
+- Provisional patent activity related to intelligent hauling and aerial logistics.
 
+## Quick Links
 
-## Publications
----
-**Name2** et al. "Title of paper 1", 2016.
-
-
-
-## Awards and Honors
----
-Best Jekyll Theme, *Spring 2018*<br>
-
-
-## Talks and Presentations
----
-"Seminar 17", University Colloquium, *March 2018*
-
-
-## Teaching
----
-**Summer 1900**<br>
-Primary Instructor<br>
-*Quantum Field Theory 101*
+- <a href="/research/">Research</a>
+- <a href="/publications/">Publications</a>
+- <a href="/funding/">Funding</a>
+- <a href="/service/">Service</a>
+- <a href="/contact/">Contact</a>

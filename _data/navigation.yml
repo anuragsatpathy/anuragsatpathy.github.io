@@ -1,14 +1,18 @@
 # main links
 main:
-  - title: "Education"
-    url: /education/
+  - title: "Research"
+    url: /research/
   - title: "Publications"
     url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "Funding"
+    url: /funding/
+  - title: "Service"
+    url: /service/
   - title: "Activities"
     url: /code/
-  #- title: "CV"
-   # url: /cv/
+  - title: "CV"
+    url: /cv/
   - title: "Contact"
     url: /contact/

@@ -31,3 +31,253 @@
 .cv_font {
   font-size: .65em;
 }
+
+body {
+  color: #263238;
+}
+
+.page__content {
+  font-size: 0.92em;
+  line-height: 1.62;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  letter-spacing: 0;
+}
+
+.page__content h1 {
+  font-size: 1.9em;
+}
+
+.page__content h2 {
+  font-size: 1.35em;
+  margin-top: 1.8em;
+}
+
+.page__content h3 {
+  font-size: 1.08em;
+}
+
+.faculty-hero,
+.page-intro,
+.spotlight-card,
+.research-thread {
+  margin: 0 0 1.6rem;
+}
+
+.faculty-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.45fr) minmax(260px, 0.75fr);
+  gap: 1.25rem;
+  align-items: stretch;
+  padding: 1.35rem;
+  border: 1px solid #d8e2e7;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #f8fbfc 0%, #eef5f7 100%);
+}
+
+.faculty-hero h1,
+.page-intro h1 {
+  margin: 0.2rem 0 0.65rem;
+  line-height: 1.15;
+}
+
+.lead {
+  font-size: 1.04em;
+  color: #42525a;
+}
+
+.eyebrow,
+.tag,
+.panel-label {
+  display: inline-block;
+  color: #075a6a;
+  font-size: 0.74em;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.faculty-hero__panel,
+.quick-grid > div,
+.mechanism-grid article,
+.timeline-list article,
+.spotlight-card {
+  border: 1px solid #dbe5ea;
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 8px 22px rgba(35, 55, 65, 0.06);
+}
+
+.faculty-hero__panel {
+  padding: 1.05rem;
+  border-left: 5px solid #0b7285;
+}
+
+.faculty-hero__panel h2 {
+  margin-top: 0.35rem;
+}
+
+.hero-actions,
+.spotlight-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 1rem;
+}
+
+.btn-primary,
+.btn-secondary {
+  display: inline-block;
+  border-radius: 6px;
+  padding: 0.55rem 0.82rem;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
+.btn-primary {
+  background: #0b7285;
+  color: #ffffff !important;
+}
+
+.btn-secondary {
+  border: 1px solid #b9ccd4;
+  background: #ffffff;
+  color: #0b4f5e !important;
+}
+
+.quick-grid,
+.mechanism-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.85rem;
+  margin: 1.2rem 0 1.6rem;
+}
+
+.quick-grid > div,
+.mechanism-grid article,
+.timeline-list article {
+  padding: 1rem;
+}
+
+.metric {
+  display: block;
+  color: #0b7285;
+  font-size: 1.25em;
+  font-weight: 800;
+}
+
+.spotlight-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1rem;
+  align-items: center;
+  padding: 1.1rem;
+}
+
+.publication-spotlight {
+  border-left: 5px solid #0b7285;
+}
+
+.thread-flow {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.6rem;
+  margin: 1rem 0;
+}
+
+.thread-flow div {
+  position: relative;
+  min-height: 104px;
+  padding: 0.85rem;
+  border: 1px solid #cad9df;
+  border-radius: 8px;
+  background: #f8fbfc;
+}
+
+.thread-flow strong {
+  display: block;
+  color: #12343b;
+}
+
+.thread-flow span {
+  display: block;
+  margin-top: 0.45rem;
+  color: #52656e;
+  font-size: 0.88em;
+}
+
+.topic-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0.8rem 0 1.4rem;
+}
+
+.topic-cloud span {
+  border: 1px solid #c7d8df;
+  border-radius: 999px;
+  padding: 0.35rem 0.62rem;
+  background: #f8fbfc;
+  color: #24434d;
+  font-size: 0.86em;
+}
+
+.timeline-list {
+  display: grid;
+  gap: 0.85rem;
+  margin: 1rem 0 1.6rem;
+}
+
+.timeline-list h3,
+.mechanism-grid h3,
+.spotlight-card h2 {
+  margin-top: 0.35rem;
+}
+
+.paper-facts {
+  display: grid;
+  gap: 0.55rem;
+  min-width: 250px;
+}
+
+.paper-facts div {
+  padding: 0.7rem;
+  border-radius: 8px;
+  background: #f2f7f8;
+}
+
+.paper-facts strong,
+.paper-facts span {
+  display: block;
+}
+
+.paper-facts span {
+  color: #52656e;
+  font-size: 0.88em;
+}
+
+.publication-list {
+  font-size: 0.88em;
+  line-height: 1.55;
+}
+
+.publication-list li {
+  margin-bottom: 0.85rem;
+}
+
+@media (max-width: 900px) {
+  .faculty-hero,
+  .spotlight-card,
+  .quick-grid,
+  .mechanism-grid,
+  .thread-flow {
+    grid-template-columns: 1fr;
+  }
+
+  .paper-facts {
+    min-width: 0;
+  }
+}

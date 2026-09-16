@@ -6,11 +6,36 @@ author_profile: true
 classes: wide
 ---
 
+<section class="page-intro">
+  <p class="eyebrow">Selected scholarship</p>
+  <h1>Publications across CPS, edge/IoT, transportation, and cloud systems.</h1>
+  <p class="lead">
+    My recent publications emphasize mechanism design, optimization, and learning-enabled decision-making for shared cyber-physical and networked systems.
+  </p>
+</section>
+
+<section class="spotlight-card publication-spotlight">
+  <div>
+    <span class="tag">Latest spotlight</span>
+    <h2>ReACT-TTC at ICCPS 2026</h2>
+    <p>
+      Capacity-aware top trading cycles for post-choice reassignment in shared CPS. This paper anchors my current research thread on ReACT-TTC, W-TTC, and KATCH.
+    </p>
+  </div>
+  <div class="spotlight-actions">
+    <a class="btn-primary" href="/react-ttc-iccps-2026/">Spotlight</a>
+    <a class="btn-secondary" href="https://arxiv.org/abs/2602.00859">arXiv</a>
+    <a class="btn-secondary" href="/files/react-ttc-iccps-2026-slides.pptx">Slides</a>
+  </div>
+</section>
+
+<div class="publication-list">
+
 **<u>2026</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
     <strong>[J21]</strong>
-    Chittaranjan Swain, Manmath Narayan Sahoo, <b>Anurag Satpathy</b>, and Sambit Bakshi", <i>Fair-Match: Fairness-aware Matching Framework for Task Offloading in IoT--Fog Systems</i>" Accepted for publication in <b>IEEE Transactions on Consumer Electronics</b>, 2026, (<b>IF-10.9</b>).
+    Chittaranjan Swain, Manmath Narayan Sahoo, <b>Anurag Satpathy</b>, and Sambit Bakshi, "<i>Fair-Match: Fairness-aware Matching Framework for Task Offloading in IoT--Fog Systems</i>" Accepted for publication in <b>IEEE Transactions on Consumer Electronics</b>, 2026, (<b>IF-10.9</b>).
   </li>
   <li>
     <strong>[C22]</strong>
@@ -490,3 +515,5 @@ classes: wide
 ------------------------------------------------------
 [<b>C*</b>] --> Conferences, [<b>J*</b>]--> Journals, 
 [<b>B*</b>] --> Book Chapters, [<b>P*</b>]--> Poster
+
+</div>
