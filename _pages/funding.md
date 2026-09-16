@@ -12,15 +12,16 @@ This page summarizes active funding, awarded innovation programs, submitted prop
 
 <div class="project-list">
   <section>
-    <h3>NSF National I-Corps Program: I-Haul</h3>
-    <p><strong>Role:</strong> Technical Lead</p>
-    <p><strong>Status:</strong> Accepted for Fall 2026</p>
-    <p><strong>Project:</strong> I-Haul: Intelligent Aerial Logistics for Organ Transport</p>
+    <h3>NSF National I-Corps Program: I-HAUL</h3>
+    <p><strong>Role:</strong> Co-PI and Technical Lead</p>
+    <p><strong>Status:</strong> Awarded; Sept 2026 - Aug 2027</p>
+    <p><strong>Project:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2632124">I-Corps: Translation Potential of Intelligent Aerial Logistics for Time-Critical Organ Transportation</a></p>
+    <p><strong>Award ID:</strong> NSF 2632124</p>
     <p><strong>Award:</strong> $50,000</p>
     <p>
       Leading national customer discovery, market validation, and technology-readiness planning for autonomous organ-transport logistics. The effort expands stakeholder discovery across organ procurement organizations, transplant centers, FAA/UAS regulatory bodies, UAV logistics providers, and clinical users while preparing SBIR/STTR translation pathways.
     </p>
-    <p><strong>My contribution:</strong> Leading stakeholder discovery, defining technology-readiness milestones, and connecting the organ-transport logistics problem to CPS routing, UAV coordination, and translational funding pathways.</p>
+    <p><strong>My contribution:</strong> Serving as Co-PI and Technical Lead by leading stakeholder discovery, defining technology-readiness milestones, and connecting the organ-transport logistics problem to CPS routing, UAV coordination, and translational funding pathways.</p>
   </section>
 
   <section>

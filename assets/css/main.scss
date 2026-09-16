@@ -186,6 +186,84 @@
   margin-bottom: 0.2rem;
 }
 
+.research-diagram {
+  align-items: stretch;
+  display: grid;
+  gap: 0.55rem;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr) auto minmax(0, 1fr) auto minmax(0, 1fr);
+  margin: 1.2rem 0 1.7rem;
+}
+
+.diagram-stage {
+  background: #fbfcfd;
+  border: 1px solid #d8e3e8;
+  border-top: 4px solid #2f6f8f;
+  padding: 0.85rem;
+}
+
+.diagram-stage span {
+  color: #4f6475;
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-bottom: 0.35rem;
+  text-transform: uppercase;
+}
+
+.diagram-stage strong {
+  color: #102133;
+  display: block;
+  line-height: 1.25;
+  margin-bottom: 0.35rem;
+}
+
+.diagram-stage p {
+  color: #324657;
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.diagram-arrow {
+  align-self: center;
+  color: #2f6f8f;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.diagram-problem {
+  border-top-color: #6f7f8f;
+}
+
+.diagram-signal {
+  border-top-color: #587f9f;
+}
+
+.diagram-mechanism {
+  border-top-color: #2f6f8f;
+}
+
+.diagram-impact {
+  border-top-color: #2f8f73;
+}
+
+.agenda-map {
+  display: grid;
+  gap: 0.8rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 1rem 0 1.5rem;
+}
+
+.agenda-map > div {
+  background: #f7f9fb;
+  border-left: 3px solid #2f6f8f;
+  padding: 0.85rem;
+}
+
+.agenda-map h3 {
+  margin-top: 0;
+}
+
 .focus-grid {
   display: grid;
   gap: 1rem;
@@ -291,8 +369,14 @@
   }
 
   .spotlight-flow,
-  .contribution-grid {
+  .contribution-grid,
+  .research-diagram,
+  .agenda-map {
     grid-template-columns: 1fr;
+  }
+
+  .diagram-arrow {
+    display: none;
   }
 
   .hero-actions .btn {

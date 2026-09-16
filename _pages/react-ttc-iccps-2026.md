@@ -42,6 +42,32 @@ Imagine an EV driver is assigned to one charging station but decides to go elsew
   <div>Improved reassignment</div>
 </div>
 
+<div class="research-diagram" aria-label="ReACT-TTC research workflow diagram">
+  <div class="diagram-stage diagram-problem">
+    <span>Problem</span>
+    <strong>Shared CPS assignment breaks</strong>
+    <p>EV drivers, mobile users, or agents deviate from assigned resources because local conditions or preferences change.</p>
+  </div>
+  <div class="diagram-arrow">&rarr;</div>
+  <div class="diagram-stage diagram-signal">
+    <span>Signals</span>
+    <strong>Updated preferences and capacity</strong>
+    <p>The system observes affected users, remaining quotas, occupied slots, and available resource capacity.</p>
+  </div>
+  <div class="diagram-arrow">&rarr;</div>
+  <div class="diagram-stage diagram-mechanism">
+    <span>Mechanism</span>
+    <strong>ReACT-TTC reassignment layer</strong>
+    <p>Capacity-aware exchange cycles identify voluntary reassignments without recomputing the whole allocation.</p>
+  </div>
+  <div class="diagram-arrow">&rarr;</div>
+  <div class="diagram-stage diagram-impact">
+    <span>Impact</span>
+    <strong>Reliable human-aware recovery</strong>
+    <p>Users improve satisfaction while the CPS preserves feasibility, incentives, and fast post-deviation recovery.</p>
+  </div>
+</div>
+
 ## What We Did
 
 We extend classical Top Trading Cycles (TTC) from one-to-one exchange settings to capacity-constrained shared-resource CPS. The framework works as a post-deviation layer on top of any base allocation algorithm and activates only when users deviate from prescribed assignments.
@@ -96,6 +122,21 @@ I presented this work at CPS-IoT Week 2026 as part of ICCPS. The talk introduces
 ReACT-TTC is part of my broader research program on mechanism design for human-aware Cyber-Physical Systems. It connects algorithmic foundations with practical shared infrastructure problems where strategic behavior, capacity constraints, uncertainty, and user satisfaction interact.
 
 This work directly supports my faculty research thrust on mechanism design for shared CPS infrastructure and motivates follow-on work in EV charging, intelligent transportation, public safety systems, and UAV-assisted logistics.
+
+<div class="agenda-map">
+  <div>
+    <h3>ReACT-TTC</h3>
+    <p>Capacity-aware recovery after non-compliance.</p>
+  </div>
+  <div>
+    <h3>W-TTC</h3>
+    <p>Weighted utility and priority-aware resource exchange.</p>
+  </div>
+  <div>
+    <h3>KATCH</h3>
+    <p>Open-slot and capacity-aware reassignment for shared CPS.</p>
+  </div>
+</div>
 
 ## Abstract
 
