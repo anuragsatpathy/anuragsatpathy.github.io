@@ -24,11 +24,11 @@ These papers represent the main threads of my research program.
 
   <li>
     <strong>[EV Charging / Intelligent Transportation]</strong>
-    Arindam Khanda, <b>Anurag Satpathy</b>, Anusha Vangala, and Sajal K. Das,
-    "<i>SMEVCA: Stable Matching-based EV Charging Assignment in Subscription-Based Models</i>,"
-    <b>ICDCN 2025</b>.
-    <a href="https://dl.acm.org/doi/10.1145/3700838.3700851">DOI</a>.
-    <br><em>Contribution:</em> Models subscription-based EV charging assignment with stable matching under constrained charging infrastructure.
+    Arindam Khanda, <b>Anurag Satpathy</b>, and Sajal K. Das,
+    "<i>SMART-CHARGE: Stable Matching Algorithm for Electric Vehicle Charging in Subscription-Based Models</i>,"
+    <b>Pervasive and Mobile Computing</b>, 2026.
+    <a href="https://doi.org/10.1016/j.pmcj.2026.102197">DOI</a>.
+    <br><em>Contribution:</em> Develops an SLA-aware stable matching framework for EV charging under subscription-based service models.
   </li>
 
   <li>
@@ -47,6 +47,14 @@ These papers represent the main threads of my research program.
     <b>ICDCN 2026</b>.
     <a href="https://doi.org/10.1145/3772290.3772301">DOI</a>.
     <br><em>Contribution:</em> Studies evacuation routing under evolving stochastic congestion and uncertain wildfire spread.
+  </li>
+
+  <li>
+    <strong>[Healthcare Logistics / Urban Air Mobility]</strong>
+    Debjyoti Sengupta, <b>Anurag Satpathy</b>, Arindam Khanda, and Sajal K. Das,
+    "<i>TrOOPER: Transport of Organs and Personnel in Emergency Response using Urban Air Mobility</i>,"
+    accepted at <b>IEEE MASS 2026</b>.
+    <br><em>Contribution:</em> Studies emergency organ and personnel transport using urban air mobility for time-critical healthcare logistics.
   </li>
 
   <li>
@@ -73,9 +81,30 @@ These papers represent the main threads of my research program.
 **<u>2026</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
-    <strong>[J21]</strong>
-    Chittaranjan Swain, Manmath Narayan Sahoo, <b>Anurag Satpathy</b>, and Sambit Bakshi", <i>Fair-Match: Fairness-aware Matching Framework for Task Offloading in IoT--Fog Systems</i>" Accepted for publication in <b>IEEE Transactions on Consumer Electronics</b>, 2026, (<b>IF-10.9</b>).
+    <strong>[J22]</strong>
+    Arindam Khanda<sup>*</sup>, <b>Anurag Satpathy</b><sup>*</sup>, and Sajal K. Das,
+    "<i>SMART-CHARGE: Stable Matching Algorithm for Electric Vehicle Charging in Subscription-Based Models</i>",
+    in <b>Pervasive and Mobile Computing</b>, vol. 118, article 102197, 2026.
+    <a href="https://doi.org/10.1016/j.pmcj.2026.102197">DOI: 10.1016/j.pmcj.2026.102197</a>.
+    <sup>*</sup>These authors contributed equally.
   </li>
+
+  <li>
+    <strong>[J21]</strong>
+    Chittaranjan Swain, Manmath Narayan Sahoo, <b>Anurag Satpathy</b>, and Sambit Bakshi,
+    "<i>Fair-Match: Fairness-aware Matching Framework for Task Offloading in IoT--Fog Systems</i>",
+    accepted for publication in <b>IEEE Transactions on Consumer Electronics</b>, 2026
+    (<b>IF-10.9</b>).
+  </li>
+
+  <li>
+    <strong>[C23]</strong>
+    Debjyoti Sengupta, <b>Anurag Satpathy</b>, Arindam Khanda, and Sajal K. Das,
+    "<i>TrOOPER: Transport of Organs and Personnel in Emergency Response using Urban Air Mobility</i>",
+    accepted at <b>IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2026)</b>,
+    Hong Kong SAR, China, Oct. 2026.
+  </li>
+
   <li>
     <strong>[C22]</strong>
     <b>Anurag Satpathy</b><sup>*</sup>, Arindam Khanda<sup>*</sup>,
@@ -96,6 +125,14 @@ These papers represent the main threads of my research program.
     in <b>Proceedings of the 27th International Conference on Distributed Computing and Networking (ICDCN 2026)</b>,
     pp. 168–172, 2026.
     <a href="https://doi.org/10.1145/3772290.3772301">DOI: 10.1145/3772290.3772301</a>.
+  </li>
+
+  <li>
+    <strong>[B2]</strong>
+    <b>Anurag Satpathy</b> and Chittaranjan Swain,
+    "<i>Strategic Decision-Making Architectures for 6G-Enabled Cyber-Physical Systems</i>",
+    in <b>Secure and Responsible AI in 6G Technology-Enabled IoT Systems</b>,
+    CRC Press, Taylor &amp; Francis Group, 2026.
   </li>
 </ul>
 
