@@ -1,50 +1,78 @@
 ---
 layout: archive
-title: "Activities"
+title: "Research Projects"
 permalink: /code/
 author_profile: true
 classes: wide
 ---
 
-<section class="page-intro">
-  <p class="eyebrow">Projects and activities</p>
-  <h1>Current research systems, translational work, and community activities.</h1>
-  <p class="lead">
-    This page groups selected activities that complement my research agenda without duplicating the Service and Funding pages.
-  </p>
-</section>
+This page highlights research projects connected to my faculty research agenda in intelligent Cyber-Physical Systems, mechanism design, optimization, learning-enabled resource coordination, mobility, EV charging, UAV logistics, public safety, and edge/IoT computing. Funding and proposal details are summarized separately on the <a href="/funding/">Funding</a> page, while committee work and leadership roles are listed on the <a href="/service/">Service</a> page.
 
-## Current Research Systems
+## Current and Recent Research Projects
 
-<div class="mechanism-grid">
-  <article>
-    <span class="tag">Research thread</span>
-    <h3>ReACT-TTC, W-TTC, and KATCH</h3>
+<div class="project-list">
+  <section>
+    <h3>I-Haul: Intelligent Aerial Logistics for Organ Transport</h3>
     <p>
-      A connected line of mechanisms for resilient reassignment in shared CPS, moving from capacity-aware recovery to weighted and open-slot aware exchange frameworks.
+      This project studies autonomous aerial logistics for emergency organ transport. The work combines UAV routing, clinical workflow constraints, cold-chain requirements, regulatory considerations, stakeholder discovery, and technology-readiness planning for time-sensitive healthcare logistics.
     </p>
-    <a href="/research/">View research direction</a>
-  </article>
-  <article>
-    <span class="tag">Healthcare CPS</span>
-    <h3>I-HAUL</h3>
+    <p><strong>Research themes:</strong> UAV-assisted healthcare logistics, public safety CPS, time-critical routing, commercialization translation.</p>
+  </section>
+
+  <section>
+    <h3>SPICE: Subscription-based Platform for Intelligent Charging of Electric Vehicles</h3>
     <p>
-      Intelligent aerial logistics for time-critical organ transportation, combining UAV-assisted logistics, stakeholder discovery, and translation-focused CPS research.
+      SPICE develops behavior-aware EV charging assignment policies for fair and predictable charging access under congestion. The project models uncertainty, strategic user behavior, misuse, and the way charging delays propagate through mobility and logistics systems.
     </p>
-    <a href="/funding/">View funding</a>
-  </article>
-  <article>
-    <span class="tag">Public safety</span>
-    <h3>Emergency response systems</h3>
+    <p><strong>Research themes:</strong> EV charging coordination, strategic behavior, fairness, intelligent transportation.</p>
+  </section>
+
+  <section>
+    <h3>Strategic Lightweight Reassignment of Shared Resources in Large-Scale CPS</h3>
     <p>
-      Decision support for evacuation, emergency routing, and public safety systems operating under uncertain congestion, evolving hazards, and resource constraints.
+      This project designs scalable reassignment mechanisms for strategic agents sharing constrained resources under noncompliance, uncertainty, and dynamic preferences. The work studies stability, equilibrium conditions, multi-quota exchange, and parallel reassignment in large CPS deployments.
     </p>
-  </article>
+    <p><strong>Research themes:</strong> mechanism design, equilibrium analysis, Top Trading Cycles, shared-resource CPS.</p>
+  </section>
+
+  <section>
+    <h3>SOTERIA: Satisfaction- and Behavior-Aware Dynamic Resource Allocation in Public Safety Systems</h3>
+    <p><strong>Role:</strong> Lead contributor during postdoctoral research.</p>
+    <p>
+      This NSF-supported research develops coalition-formation and regret-learning methods for UAV-assisted emergency communication under uncertain demand and network conditions. The goal is to support adaptive, behavior-aware coordination for public safety systems.
+    </p>
+    <p><strong>Research themes:</strong> emergency response, public safety systems, UAV-assisted communication, learning under uncertainty.</p>
+  </section>
+
+  <section>
+    <h3>EV Charging, Routing, and Mobility Coordination</h3>
+    <p>
+      This research line includes stable matching and co-optimization frameworks for EV charging assignment and goods-delivery logistics, including SMART-CHARGE, SMEVCA, and CARGO. The work studies subscription-based charging, strategic user choices, charging-point assignment, and integrated charging-routing decisions.
+    </p>
+    <p><strong>Research themes:</strong> intelligent transportation, EV charging, routing, matching theory, sustainable mobility.</p>
+  </section>
+
+  <section>
+    <h3>Emergency Routing and Wildfire Evacuation</h3>
+    <p>
+      This project direction studies routing under evolving stochastic congestion, uncertain hazard spread, and selfish mobility behavior. The work targets emergency response settings where routing decisions must be robust, timely, and sensitive to changing network conditions.
+    </p>
+    <p><strong>Research themes:</strong> wildfire evacuation, stochastic congestion, emergency response, public safety CPS.</p>
+  </section>
+
+  <section>
+    <h3>Vehicular Edge and IoT-Fog Offloading</h3>
+    <p>
+      This work develops mobility-aware and fairness-aware offloading mechanisms for vehicular edge, IoT, and fog systems. Representative projects include MIME, MOVE, LBA, LETO, A-DAFTO, M-DAFTO, and Fair-Match.
+    </p>
+    <p><strong>Research themes:</strong> vehicular edge computing, IoT-fog systems, task offloading, fairness-aware matching.</p>
+  </section>
+
+  <section>
+    <h3>Cloud, Edge, and Serverless Resource Management</h3>
+    <p>
+      My earlier research developed matching-theoretic, coalition-based, and meta-heuristic methods for virtual data center re-embedding, virtual network remapping, virtual machine placement, workload migration, and serverless-edge resource orchestration.
+    </p>
+    <p><strong>Research themes:</strong> virtual data centers, cloud-edge systems, serverless computing, resource reallocation.</p>
+  </section>
 </div>
-
-## Selected Research Activities
-
-- CPS-IoT Week / ICCPS 2026 presentation for ReACT-TTC.
-- NSF I-Corps customer discovery and translational planning for UAV-assisted healthcare logistics.
-- Workshop and conference organization in pervasive computing, distributed systems, and networked CPS.
-- Mentoring graduate research on wildfire evacuation routing, UAV medical logistics, and vehicular edge computing.

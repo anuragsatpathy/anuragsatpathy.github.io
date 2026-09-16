@@ -6,44 +6,85 @@ author_profile: true
 classes: wide
 ---
 
-<section class="page-intro">
-  <p class="eyebrow">Selected scholarship</p>
-  <h1>Publications across CPS, edge/IoT, transportation, and cloud systems.</h1>
-  <p class="lead">
-    My recent publications emphasize mechanism design, optimization, and learning-enabled decision-making for shared cyber-physical and networked systems.
-  </p>
-</section>
+My publications span Cyber-Physical Systems, intelligent transportation, EV charging, emergency response, UAV-assisted logistics, vehicular edge computing, cloud-edge systems, and resource management. Selected recent work is listed first by year below.
 
-<section class="spotlight-card publication-spotlight">
-  <div>
-    <span class="tag">Latest spotlight</span>
-    <h2>ReACT-TTC at ICCPS 2026</h2>
-    <p>
-      Capacity-aware top trading cycles for post-choice reassignment in shared CPS. This paper anchors my current research thread on ReACT-TTC, W-TTC, and KATCH.
-    </p>
-  </div>
-  <div class="spotlight-actions">
-    <a class="btn-primary" href="/react-ttc-iccps-2026/">Spotlight</a>
-    <a class="btn-secondary" href="https://arxiv.org/abs/2602.00859">arXiv</a>
-    <a class="btn-secondary" href="/files/react-ttc-iccps-2026-slides.pptx">Slides</a>
-  </div>
-</section>
+## Selected Publications
 
-<div class="publication-list">
+These papers represent the main threads of my research program.
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <strong>[CPS / Mechanism Design]</strong>
+    <b>Anurag Satpathy</b>, Arindam Khanda, Chittaranjan Swain, and Sajal K. Das,
+    "<a href='/publications/react-ttc-iccps-2026/'><i>ReACT-TTC: Capacity-Aware Top Trading Cycles for Post-Choice Reassignment in Shared CPS</i></a>,"
+    accepted at <b>ICCPS 2026</b>.
+    <a href="https://arxiv.org/abs/2602.00859">arXiv</a> | <a href="/files/react-ttc-iccps-2026.pdf">PDF</a> | <a href="/files/react-ttc-iccps-2026-slides.pptx">Slides</a>.
+    <br><em>Contribution:</em> Introduces capacity-aware post-choice reassignment for shared CPS resources using a Top Trading Cycles-based mechanism.
+  </li>
+
+  <li>
+    <strong>[EV Charging / Intelligent Transportation]</strong>
+    Arindam Khanda, <b>Anurag Satpathy</b>, Anusha Vangala, and Sajal K. Das,
+    "<i>SMEVCA: Stable Matching-based EV Charging Assignment in Subscription-Based Models</i>,"
+    <b>ICDCN 2025</b>.
+    <a href="https://dl.acm.org/doi/10.1145/3700838.3700851">DOI</a>.
+    <br><em>Contribution:</em> Models subscription-based EV charging assignment with stable matching under constrained charging infrastructure.
+  </li>
+
+  <li>
+    <strong>[EV Charging and Routing]</strong>
+    Arindam Khanda, <b>Anurag Satpathy</b>, Amit Jha, and Sajal K. Das,
+    "<i>CARGO: A Co-Optimization Framework for EV Charging and Routing in Goods Delivery Logistics</i>,"
+    <b>IEEE LCN 2025</b>.
+    <a href="https://doi.org/10.1109/LCN65610.2025.11146292">DOI</a>.
+    <br><em>Contribution:</em> Co-optimizes charging and routing decisions for goods-delivery logistics under mobility and energy constraints.
+  </li>
+
+  <li>
+    <strong>[Public Safety CPS]</strong>
+    Sowjanya Tammali, Arindam Khanda, <b>Anurag Satpathy</b>, S. M. Shovan, and Sajal K. Das,
+    "<i>RESCUE: Routing under Evolving Stochastic Congestion and Uncertain Spread in Wildfire Emergencies</i>,"
+    <b>ICDCN 2026</b>.
+    <a href="https://doi.org/10.1145/3772290.3772301">DOI</a>.
+    <br><em>Contribution:</em> Studies evacuation routing under evolving stochastic congestion and uncertain wildfire spread.
+  </li>
+
+  <li>
+    <strong>[Survey / Research Foundation]</strong>
+    <b>Anurag Satpathy</b>, Manmath Narayan Sahoo, Chittaranjan Swain, Paolo Bellavista, Mohsen Guizani, Khan Muhammad, and Sambit Bakshi,
+    "<i>Virtual Network Embedding: Literature Assessment, Recent Advancements, Opportunities, and Challenges</i>,"
+    <b>IEEE Communications Surveys and Tutorials</b>, 2025.
+    <a href="https://ieeexplore.ieee.org/document/10845765">DOI</a>.
+    <br><em>Contribution:</em> Provides a broad technical foundation for virtual network embedding, resource allocation, and future cloud-edge research directions.
+  </li>
+
+  <li>
+    <strong>[Cloud / Strategic Reallocation]</strong>
+    <b>Anurag Satpathy</b>, Manmath Narayan Sahoo, Lucky Behera, and Chittaranjan Swain,
+    "<i>ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory</i>,"
+    <b>IEEE Transactions on Services Computing</b>, 2023.
+    <a href="https://ieeexplore.ieee.org/document/9796586">DOI</a>.
+    <br><em>Contribution:</em> Develops a matching-theoretic virtual data center reassignment strategy for dynamic cloud infrastructure.
+  </li>
+</ul>
+
+## Full Publication List
 
 **<u>2026</u>**
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
     <strong>[J21]</strong>
-    Chittaranjan Swain, Manmath Narayan Sahoo, <b>Anurag Satpathy</b>, and Sambit Bakshi, "<i>Fair-Match: Fairness-aware Matching Framework for Task Offloading in IoT--Fog Systems</i>" Accepted for publication in <b>IEEE Transactions on Consumer Electronics</b>, 2026, (<b>IF-10.9</b>).
+    Chittaranjan Swain, Manmath Narayan Sahoo, <b>Anurag Satpathy</b>, and Sambit Bakshi", <i>Fair-Match: Fairness-aware Matching Framework for Task Offloading in IoT--Fog Systems</i>" Accepted for publication in <b>IEEE Transactions on Consumer Electronics</b>, 2026, (<b>IF-10.9</b>).
   </li>
   <li>
     <strong>[C22]</strong>
     <b>Anurag Satpathy</b><sup>*</sup>, Arindam Khanda<sup>*</sup>,
     Chittaranjan Swain, and Sajal K. Das,
-    "<i>ReACT-TTC: Capacity-Aware Top Trading Cycles for Post-Choice Reassignment in Shared CPS</i>",
+    "<a href='/publications/react-ttc-iccps-2026/'><i>ReACT-TTC: Capacity-Aware Top Trading Cycles for Post-Choice Reassignment in Shared CPS</i></a>",
     Accepted at <b>ICCPS 2026</b>.
-    <a href="https://arxiv.org/abs/2602.00859">arXiv:2602.00859</a>.
+    <a href="https://arxiv.org/abs/2602.00859">arXiv:2602.00859</a> |
+    <a href="/files/react-ttc-iccps-2026.pdf">PDF</a> |
+    <a href="/files/react-ttc-iccps-2026-slides.pptx">Slides</a>.
     <sup>*</sup>These authors contributed equally.
   </li>
 
@@ -515,5 +556,3 @@ classes: wide
 ------------------------------------------------------
 [<b>C*</b>] --> Conferences, [<b>J*</b>]--> Journals, 
 [<b>B*</b>] --> Book Chapters, [<b>P*</b>]--> Poster
-
-</div>

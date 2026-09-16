@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Activities"
-permalink: /code/
+title: "Professional Activities Archive"
+permalink: /activities-archive/
 author_profile: true
 classes: wide
 ---

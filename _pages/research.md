@@ -6,97 +6,85 @@ author_profile: true
 classes: wide
 ---
 
-<section class="page-intro">
-  <p class="eyebrow">Research agenda</p>
-  <h1>Decision-making mechanisms for shared cyber-physical systems.</h1>
-  <p class="lead">
-    My research asks how infrastructure systems should allocate, exchange, and recover scarce resources when users are strategic, conditions are uncertain, and real-time decisions matter.
-  </p>
-</section>
+My research focuses on intelligent Cyber-Physical Systems (CPS) for distributed resource coordination in dynamic, resource-constrained edge/IoT environments. I model strategic interactions among self-interested agents accessing shared resources under real-time constraints, uncertain network conditions, heterogeneous user behavior, and application-specific operational challenges.
 
-<section class="spotlight-card">
-  <div>
-    <span class="tag">Latest spotlight</span>
-    <h2>ReACT-TTC: Capacity-Aware Top Trading Cycles for Post-Choice Reassignment in Shared CPS</h2>
-    <p>
-      ReACT-TTC studies how a shared CPS can recover after agents make initial choices and some of those choices become infeasible or undesirable. The work focuses on capacity-aware reassignment while preserving desirable market-design properties.
-    </p>
-  </div>
-  <div class="spotlight-actions">
-    <a class="btn-primary" href="/react-ttc-iccps-2026/">Read spotlight</a>
-    <a class="btn-secondary" href="https://arxiv.org/abs/2602.00859">arXiv</a>
-  </div>
-</section>
+Using game-theoretic, optimization-based, and learning-enabled methods, I design resource-allocation mechanisms, establish stability and equilibrium conditions, and validate performance across mobility-driven, safety-critical, and human-in-the-loop CPS applications. My work contributes to mechanism design and equilibrium analysis for distributed CPS while addressing practical problems in intelligent mobility, EV charging, UAV-enabled healthcare logistics, and public safety.
 
-## Mechanism Suite: ReACT-TTC, W-TTC, and KATCH
+## Research Agenda
 
-<div class="mechanism-grid">
-  <article>
-    <span class="tag">Published / accepted</span>
-    <h3>ReACT-TTC</h3>
-    <p>
-      Capacity-aware top trading cycles for post-choice reassignment in shared CPS. The central question is how to repair assignments when users deviate, preferences shift, or capacity constraints bind.
-    </p>
-    <ul>
-      <li>Application: EV charging and shared infrastructure</li>
-      <li>Core idea: post-choice reassignment through exchange cycles</li>
-      <li>Focus: feasibility, individual incentives, and efficient recovery</li>
-    </ul>
-  </article>
+### Future faculty research program
 
-  <article>
-    <span class="tag">Ongoing extension</span>
-    <h3>W-TTC</h3>
-    <p>
-      Weighted TTC extends the exchange view by accounting for utility, priority, and heterogeneous value across possible trades. This helps model settings where not every reassignment has the same system benefit.
-    </p>
-    <ul>
-      <li>Application: preference and priority-aware coordination</li>
-      <li>Core idea: weighted exchange decisions</li>
-      <li>Focus: utility-aware reassignment under competing objectives</li>
-    </ul>
-  </article>
+My independent research program is organized around three fundable thrusts:
 
-  <article>
-    <span class="tag">Experimental framework</span>
-    <h3>KATCH</h3>
-    <p>
-      KATCH studies capacity-aware reassignment when open resource slots, vertex weights, and edge weights all shape the exchange outcome. It provides a broader experimental framework for comparing TTC-style mechanisms.
-    </p>
-    <ul>
-      <li>Application: EV charging, mobility, logistics, and edge/IoT resources</li>
-      <li>Core idea: capacity and open-slot aware trading</li>
-      <li>Focus: flexible resource recovery under dynamic system conditions</li>
-    </ul>
-  </article>
+<div class="project-list">
+  <section>
+    <h3>Thrust 1: Mechanism design for shared CPS infrastructure</h3>
+    <p><strong>Problem:</strong> Shared CPS resources such as charging stations, UAV fleets, roadside units, edge servers, and emergency communication assets are limited, congested, and used by strategic agents.</p>
+    <p><strong>Approach:</strong> I develop matching, exchange, reassignment, coalition-formation, and equilibrium-based mechanisms that remain stable under uncertainty, noncompliance, and heterogeneous user preferences.</p>
+    <p><strong>Impact:</strong> This thrust supports fair and reliable coordination for transportation, energy, public safety, and edge/IoT infrastructure.</p>
+    <p><strong>Representative work:</strong> <a href="/publications/react-ttc-iccps-2026/">ReACT-TTC, ICCPS 2026</a>.</p>
+  </section>
+
+  <section>
+    <h3>Thrust 2: Human-aware intelligent mobility and EV charging</h3>
+    <p><strong>Problem:</strong> EV charging, goods delivery, and urban mobility systems are affected by congestion, uncertain demand, subscription behavior, and user incentives.</p>
+    <p><strong>Approach:</strong> I design behavior-aware assignment, charging-routing, and scheduling models that integrate strategic decisions with operational constraints.</p>
+    <p><strong>Impact:</strong> This thrust advances sustainable and equitable mobility systems for smart cities and logistics networks.</p>
+  </section>
+
+  <section>
+    <h3>Thrust 3: UAV-assisted emergency and healthcare logistics</h3>
+    <p><strong>Problem:</strong> Emergency response and healthcare logistics require time-sensitive decisions under uncertain hazards, network conditions, regulations, and clinical constraints.</p>
+    <p><strong>Approach:</strong> I develop learning-enabled routing, resource allocation, and coordination frameworks for UAV-assisted communication, organ transport, evacuation, and medical logistics.</p>
+    <p><strong>Impact:</strong> This thrust connects algorithmic CPS research with public safety, healthcare delivery, and translational technology pathways.</p>
+  </section>
 </div>
 
-<section class="research-thread">
-  <h2>Research Arc</h2>
-  <div class="thread-flow">
-    <div><strong>Problem</strong><span>agents share scarce CPS resources</span></div>
-    <div><strong>Disruption</strong><span>non-compliance, uncertainty, capacity changes</span></div>
-    <div><strong>Mechanism</strong><span>exchange, reassignment, weighted utility</span></div>
-    <div><strong>Impact</strong><span>reliable public-facing infrastructure</span></div>
-  </div>
-</section>
+### Behavior-aware and equitable Cyber-Physical Systems
 
-## Application Areas
+I design algorithms that incorporate user behavior, satisfaction, fairness, and resource constraints into CPS decision-making. This includes matching, scheduling, reassignment, routing, and allocation mechanisms for shared public infrastructure and safety-critical systems.
 
-<div class="topic-cloud">
-  <span>Cyber-Physical Systems</span>
-  <span>Intelligent transportation</span>
-  <span>EV charging coordination</span>
-  <span>UAV-assisted healthcare logistics</span>
-  <span>Emergency response</span>
-  <span>Public safety systems</span>
-  <span>Vehicular edge computing</span>
-  <span>IoT resource coordination</span>
-</div>
+### Intelligent transportation and EV charging coordination
 
-## Broader Research Themes
+My work studies how transportation, energy, and computing systems can coordinate under uncertain demand, strategic user behavior, and changing network conditions. Recent directions include EV charging assignment, charging-and-routing co-optimization, subscription-based charging models, and energy-aware mobility services.
 
-- **Game-theoretic and matching-based CPS:** incentive-aware mechanisms for resource allocation, reassignment, and recovery.
-- **Optimization under uncertainty:** real-time decision models for dynamic networks, mobility, logistics, and infrastructure systems.
-- **Learning-enabled decision support:** data-driven adaptation for uncertain user behavior and changing system conditions.
-- **Public-interest CPS:** transportation, emergency response, healthcare logistics, and public safety systems.
+### Emergency response and public safety systems
+
+I develop methods for emergency routing, congestion-aware evacuation, public safety resource allocation, and dynamic response coordination. These systems require robust decisions despite uncertainty in mobility, hazards, congestion, and communication availability.
+
+### UAV-assisted healthcare and logistics
+
+I study UAV-enabled logistics for time-sensitive healthcare applications, including medical and organ transport, where routing, energy, timing, and resource limits must be jointly optimized.
+
+### Vehicular edge, IoT, and cloud-edge systems
+
+My earlier and ongoing work includes resource management for virtualized cloud systems, serverless platforms, vehicular edge computing, IoT-fog task offloading, and cloud-edge coordination.
+
+## Methods
+
+- Mechanism design for distributed resource coordination in CPS
+- Equilibrium analysis of strategic agents sharing constrained resources
+- Game theory and matching theory
+- Combinatorial optimization and resource allocation
+- Learning-enabled decision-making under uncertainty
+- Stable matching, scheduling, and reassignment in CPS
+- Fairness-aware and behavior-aware system design
+- Simulation, performance evaluation, and data-driven analysis
+
+## Application Domains
+
+- Cyber-Physical Systems
+- Intelligent transportation systems
+- EV charging and energy-aware mobility
+- UAV-assisted healthcare logistics
+- Emergency response and public safety systems
+- Vehicular edge and IoT computing
+- Cloud, edge, and serverless computing
+
+## Long-Term Vision
+
+My long-term goal is to build intelligent CPS that make reliable, adaptive, and socially responsible decisions in real time. I aim to develop an independent research program that combines rigorous algorithmic foundations with deployable systems for transportation, healthcare logistics, emergency response, and public infrastructure.
+
+## Research Projects
+
+Representative project directions are summarized on the <a href="/code/">Research Projects</a> page.
