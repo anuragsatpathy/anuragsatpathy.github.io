@@ -68,39 +68,6 @@
   margin-top: 1rem;
 }
 
-.home-direction-strip {
-  display: grid;
-  gap: 0.75rem;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  margin: 1rem 0 1.4rem;
-}
-
-.home-direction-strip a {
-  background: #fbfcfd;
-  border: 1px solid #d8e3e8;
-  color: #102133;
-  display: block;
-  font-weight: 700;
-  text-decoration: none;
-}
-
-.home-direction-strip a:hover {
-  border-color: #2f6f8f;
-  color: #102133;
-}
-
-.home-direction-strip img {
-  aspect-ratio: 16 / 9;
-  display: block;
-  object-fit: cover;
-  width: 100%;
-}
-
-.home-direction-strip span {
-  display: block;
-  padding: 0.55rem 0.65rem;
-}
-
 .search-snapshot {
   border-bottom: 1px solid #e6e8eb;
   margin-bottom: 1.5rem;
@@ -133,38 +100,62 @@
   margin-bottom: 0;
 }
 
-.direction-grid {
+.research-question {
+  background: #f7f9fb;
+  border-left: 4px solid #2f6f8f;
+  color: #102133;
+  font-size: 1.02rem;
+  line-height: 1.45;
+  margin: 1rem 0 1.5rem;
+  padding: 0.95rem 1.1rem;
+}
+
+.research-map {
   display: grid;
-  gap: 1rem;
+  gap: 0.85rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   margin: 1rem 0 1.8rem;
 }
 
-.direction-grid article {
+.research-map > div {
   background: #fbfcfd;
   border: 1px solid #d8e3e8;
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: minmax(220px, 0.85fr) minmax(0, 1.15fr);
-  padding: 0.9rem;
+  border-left: 4px solid #2f6f8f;
+  padding: 0.95rem 1rem;
 }
 
-.direction-grid img {
-  align-self: stretch;
-  background: #f7f9fb;
+.research-map .research-map__center {
+  background: #102133;
+  border-color: #102133;
+  color: #ffffff;
+  grid-column: 1 / -1;
+}
+
+.research-map span {
+  color: #4f6475;
   display: block;
-  height: 100%;
-  min-height: 190px;
-  object-fit: cover;
-  width: 100%;
+  font-size: 0.75rem;
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+  text-transform: uppercase;
 }
 
-.direction-grid h3 {
-  color: #102133;
+.research-map__center span {
+  color: #c7d7df;
+}
+
+.research-map strong {
+  display: block;
   font-size: 1.08rem;
-  margin-top: 0.25rem;
 }
 
-.direction-grid p:last-child {
+.research-map h3 {
+  color: #102133;
+  font-size: 1.02rem;
+  margin: 0 0 0.35rem;
+}
+
+.research-map p:last-child {
   margin-bottom: 0;
 }
 
@@ -436,11 +427,7 @@
     grid-template-columns: 1fr;
   }
 
-  .home-direction-strip {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .direction-grid article {
+  .research-map {
     grid-template-columns: 1fr;
   }
 
