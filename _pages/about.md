@@ -72,6 +72,25 @@ My future research group will build decision-making systems for shared infrastru
 
 ## Research Focus
 
+<div class="home-direction-strip">
+  <a href="/research/#cps-research-directions">
+    <img src="/assets/images/research/ev-charging-cps.svg" alt="EV charging CPS research direction">
+    <span>EV charging coordination</span>
+  </a>
+  <a href="/research/#cps-research-directions">
+    <img src="/assets/images/research/reassignment-cps.svg" alt="Shared CPS reassignment research direction">
+    <span>Reassignment mechanisms</span>
+  </a>
+  <a href="/research/#cps-research-directions">
+    <img src="/assets/images/research/public-safety-healthcare.svg" alt="Public safety and healthcare CPS direction">
+    <span>Public safety and healthcare</span>
+  </a>
+  <a href="/research/#cps-research-directions">
+    <img src="/assets/images/research/edge-iot-cps.svg" alt="Vehicular edge and IoT CPS direction">
+    <span>Vehicular edge and IoT</span>
+  </a>
+</div>
+
 <div class="focus-grid">
   <div>
     <h3>Decision-making under uncertainty</h3>

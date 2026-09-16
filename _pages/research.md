@@ -10,6 +10,58 @@ My research focuses on intelligent Cyber-Physical Systems (CPS) for distributed 
 
 Using game-theoretic, optimization-based, and learning-enabled methods, I design resource-allocation mechanisms, establish stability and equilibrium conditions, and validate performance across mobility-driven, safety-critical, and human-in-the-loop CPS applications. My work contributes to mechanism design and equilibrium analysis for distributed CPS while addressing practical problems in intelligent mobility, EV charging, UAV-enabled healthcare logistics, and public safety.
 
+## CPS Research Directions
+
+<div class="direction-grid">
+  <article>
+    <img src="/assets/images/research/ev-charging-cps.svg" alt="Connected EV charging coordination with vehicles, charging stations, and roadside infrastructure">
+    <div>
+      <p class="eyebrow">Direction 1</p>
+      <h3>Strategic coordination for connected electric transportation</h3>
+      <p>
+        I study fair and stable coordination of EV charging access, subscription-based charging commitments, routing and charging for delivery fleets, and learning-enabled recommendations under congestion and uncertainty.
+      </p>
+      <p><strong>Representative themes:</strong> SMART-CHARGE, CARGO, CONVOY, behavior-aware EV charging, and SPICE.</p>
+    </div>
+  </article>
+
+  <article>
+    <img src="/assets/images/research/reassignment-cps.svg" alt="Capacity-aware reassignment workflow for shared cyber-physical systems">
+    <div>
+      <p class="eyebrow">Direction 2</p>
+      <h3>Capacity-aware reassignment in shared CPS</h3>
+      <p>
+        My recent work develops reassignment mechanisms for settings where users reject recommendations, information is incomplete, or preferences contain ties. The goal is to recover quickly while preserving fairness, stability, and incentives.
+      </p>
+      <p><strong>Representative themes:</strong> ReACT-TTC, KATCH, W-TTC, non-compliance, incomplete information, and weak preferences.</p>
+    </div>
+  </article>
+
+  <article>
+    <img src="/assets/images/research/public-safety-healthcare.svg" alt="Wildfire evacuation and drone-based healthcare logistics">
+    <div>
+      <p class="eyebrow">Direction 3</p>
+      <h3>Intelligent transportation for public safety and healthcare</h3>
+      <p>
+        I design adaptive routing and logistics methods for time-critical settings where delays directly affect human safety, including wildfire evacuation and UAV-assisted organ transportation.
+      </p>
+      <p><strong>Representative themes:</strong> RESCUE, I-HAUL, UAV medical logistics, organ transport, and emergency response systems.</p>
+    </div>
+  </article>
+
+  <article>
+    <img src="/assets/images/research/edge-iot-cps.svg" alt="Vehicular edge computing with moving vehicles and roadside units">
+    <div>
+      <p class="eyebrow">Direction 4</p>
+      <h3>Strategic edge resource coordination for connected transportation</h3>
+      <p>
+        Connected transportation depends on low-latency computation, communication, and sensing. I study matching, fairness, mobility-aware scheduling, and sojourn-aware offloading across vehicles, RSUs, edge servers, and IoT systems.
+      </p>
+      <p><strong>Representative themes:</strong> vehicular edge computing, IoT-fog task offloading, serverless edge, and cloud-edge coordination.</p>
+    </div>
+  </article>
+</div>
+
 ## Research Agenda
 
 ### Future faculty research program
