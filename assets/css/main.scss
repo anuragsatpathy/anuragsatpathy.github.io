@@ -100,6 +100,46 @@
   margin-bottom: 0;
 }
 
+.committee-read {
+  border-bottom: 1px solid #e6e8eb;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.25rem;
+}
+
+.committee-read h2 {
+  margin-top: 0;
+}
+
+.committee-grid,
+.course-grid {
+  display: grid;
+  gap: 0.85rem;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.committee-grid > div,
+.course-grid > div {
+  background: #fbfcfd;
+  border: 1px solid #d8e3e8;
+  border-top: 3px solid #2f6f8f;
+  padding: 0.85rem;
+}
+
+.committee-grid span,
+.course-grid span {
+  color: #2f6f8f;
+  display: block;
+  font-size: 0.76rem;
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+  text-transform: uppercase;
+}
+
+.committee-grid p,
+.course-grid p {
+  margin-bottom: 0;
+}
+
 .research-question {
   background: #f7f9fb;
   border-left: 4px solid #2f6f8f;
@@ -341,6 +381,41 @@
   margin-top: 0;
 }
 
+.agenda-list {
+  display: grid;
+  gap: 0.85rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 1rem 0 1.6rem;
+}
+
+.agenda-list section {
+  background: #fbfcfd;
+  border-left: 4px solid #2f6f8f;
+  padding: 0.95rem 1rem;
+}
+
+.agenda-list h3 {
+  color: #102133;
+  font-size: 1rem;
+  margin-top: 0;
+}
+
+.agenda-list p {
+  margin-bottom: 0;
+}
+
+.teaching-fit {
+  margin: 1rem 0 1.6rem;
+}
+
+.teaching-fit h2 {
+  margin-top: 0;
+}
+
+.course-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
 .project-list {
   display: grid;
   gap: 1rem;
@@ -423,7 +498,10 @@
     grid-template-columns: 1fr;
   }
 
-  .snapshot-grid {
+  .snapshot-grid,
+  .committee-grid,
+  .course-grid,
+  .agenda-list {
     grid-template-columns: 1fr;
   }
 

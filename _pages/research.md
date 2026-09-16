@@ -45,7 +45,7 @@ My research develops **game-theoretic, optimization-based, and learning-enabled 
   </div>
 </div>
 
-## What A Search Committee Should See
+## Faculty Program Snapshot
 
 <div class="focus-grid">
   <div>
@@ -60,6 +60,27 @@ My research develops **game-theoretic, optimization-based, and learning-enabled 
     <h3>Translation path</h3>
     <p>The work connects theory to stakeholder-informed systems, including I-HAUL and UAV-assisted organ transportation.</p>
   </div>
+</div>
+
+## Near-Term Faculty Agenda
+
+<div class="agenda-list">
+  <section>
+    <h3>Behavior-aware EV charging and logistics</h3>
+    <p>Design coordination mechanisms that account for charger scarcity, uncertain demand, driver behavior, fleet movement, and service-level constraints.</p>
+  </section>
+  <section>
+    <h3>Reassignment mechanisms for shared CPS</h3>
+    <p>Extend ReACT-TTC, KATCH, and W-TTC into a broader theory of fast, fair reassignment for capacity-limited infrastructure.</p>
+  </section>
+  <section>
+    <h3>Public safety and healthcare logistics</h3>
+    <p>Develop decision-support systems for emergency response, UAV-assisted medical logistics, evacuation, and time-critical public services.</p>
+  </section>
+  <section>
+    <h3>Mobility-aware edge and IoT systems</h3>
+    <p>Coordinate computation, communication, and sensing resources across vehicles, roadside units, edge servers, and mobile IoT devices.</p>
+  </section>
 </div>
 
 ## Methods

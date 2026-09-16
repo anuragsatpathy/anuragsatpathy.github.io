@@ -8,22 +8,27 @@ classes: wide
 
 I am prepared to teach core Computer Science courses as well as advanced courses connected to Cyber-Physical Systems, distributed systems, cloud/edge computing, optimization, and intelligent infrastructure.
 
-## Courses Ready to Teach
+<section class="teaching-fit">
+  <h2>Courses Ready to Teach</h2>
+  <div class="course-grid">
+    <div>
+      <span>Core CS</span>
+      <p>Operating Systems, Data Structures and Algorithms, Computer Networks, Distributed Systems.</p>
+    </div>
+    <div>
+      <span>Systems</span>
+      <p>Cloud and Edge Computing, Internet of Things, Serverless Computing, Networked Systems.</p>
+    </div>
+    <div>
+      <span>Research electives</span>
+      <p>Cyber-Physical Systems, Intelligent Transportation, Smart Infrastructure, Optimization and Game Theory for Systems.</p>
+    </div>
+  </div>
+</section>
 
-### Core Computer Science
-
-- Operating Systems
-- Data Structures and Algorithms
-- Computer Networks
-- Distributed Systems
-- Cloud and Edge Computing
-- Internet of Things
-- Cyber-Physical Systems
-
-### Special Topics and New Courses
+## New Courses I Could Develop
 
 - Strategic Interaction in Cyber-Physical Systems
-- Mechanism Design and Game Theory for Computing Systems
 - Resource Coordination in Intelligent Transportation and Smart Infrastructure
 - Cloud-Edge-Serverless Systems for Latency-Sensitive Applications
 - Optimization and Learning for Networked Systems

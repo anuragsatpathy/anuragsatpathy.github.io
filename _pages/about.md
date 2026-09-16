@@ -45,6 +45,28 @@ classes: wide
   </div>
 </section>
 
+<section class="committee-read">
+  <h2>Search Committee Quick Read</h2>
+  <div class="committee-grid">
+    <div>
+      <span>Research identity</span>
+      <p>CPS mechanism design for shared infrastructure: EV charging, reassignment, public safety, healthcare logistics, and edge/IoT.</p>
+    </div>
+    <div>
+      <span>Independent thread</span>
+      <p>ReACT-TTC, KATCH, and W-TTC study capacity-aware reassignment when users deviate, preferences change, or information arrives late.</p>
+    </div>
+    <div>
+      <span>Funding trajectory</span>
+      <p>Co-PI and Technical Lead on NSF I-Corps I-HAUL, with active proposal activity in EV charging and shared CPS infrastructure.</p>
+    </div>
+    <div>
+      <span>Teaching fit</span>
+      <p>Operating systems, networks, distributed systems, cloud/edge, algorithms, IoT, CPS, and optimization/game theory for systems.</p>
+    </div>
+  </div>
+</section>
+
 <section class="featured-paper">
   <p class="eyebrow">Latest Spotlight</p>
   <h2>ReACT-TTC at ICCPS 2026</h2>
@@ -86,14 +108,6 @@ My future research group will build decision-making systems for shared infrastru
     <p>EV charging, intelligent transportation, UAV-enabled logistics, vehicular edge computing, and emergency response networks.</p>
   </div>
 </div>
-
-## Selected Directions
-
-- Cyber-Physical Systems and intelligent transportation
-- EV charging and routing coordination
-- UAV-assisted healthcare and medical logistics
-- Emergency response and public safety systems
-- Vehicular edge, IoT, cloud-edge, and resource-constrained computing
 
 ## For Search Committees
 
