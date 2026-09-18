@@ -16,7 +16,7 @@ classes: wide homepage-modern
     <h1>Cyber-Physical Systems for equitable, reliable decision-making under uncertainty.</h1>
     <p class="home-lead">I develop game-theoretic, optimization-based, and learning-enabled methods for coordinating shared cyber-physical infrastructure under uncertainty, mobility, limited resources, and heterogeneous human behavior.</p>
     <div class="home-actions">
-      <a class="home-btn home-btn--primary" href="/research/">Research</a>
+      <a class="home-btn" href="/research/">Research</a>
       <a class="home-btn" href="/publications/">Publications</a>
       <a class="home-btn" href="/cv/">CV</a>
     </div>
