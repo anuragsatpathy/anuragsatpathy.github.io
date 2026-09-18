@@ -938,3 +938,42 @@
   margin: 0;
   padding: 0;
 }
+
+
+/* ===== Masthead polish ===== */
+
+.masthead {
+  border-bottom: 1px solid #e7edf1;
+  box-shadow: none;
+  background: rgba(255, 255, 255, .96);
+}
+
+.masthead__inner-wrap {
+  max-width: 1180px;
+  padding: .78rem 1.5rem;
+}
+
+.greedy-nav {
+  background: transparent;
+}
+
+.greedy-nav .site-title {
+  color: #102133;
+  font-weight: 800;
+  letter-spacing: -.02em;
+}
+
+.greedy-nav .visible-links a {
+  color: #425466;
+  font-size: .88rem;
+  font-weight: 650;
+}
+
+.greedy-nav .visible-links a::before {
+  height: 2px;
+  background: #2f6f8f;
+}
+
+.greedy-nav .visible-links a:hover {
+  color: #102133;
+}
