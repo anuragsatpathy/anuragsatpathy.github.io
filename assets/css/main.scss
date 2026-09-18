@@ -2131,3 +2131,253 @@
     gap: .45rem 1rem;
   }
 }
+
+
+/* ===== Teaching & mentoring page ===== */
+.teaching-modern .page__title { display: none; }
+.teaching-modern #main { max-width: none; padding-left: 0; padding-right: 0; }
+.teaching-modern .archive { float: none; width: 100%; max-width: none; margin: 0; padding: 0; font-size: 1rem; }
+
+.teaching-hero,
+.teaching-body {
+  width: min(980px, calc(100% - 3rem));
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.teaching-hero {
+  padding: 3.8rem 0 2rem;
+  border-bottom: 1px solid #dfe6ea;
+}
+
+.teaching-kicker {
+  margin: 0 0 .65rem;
+  color: #315c72;
+  font-size: .76rem;
+  font-weight: 800;
+  letter-spacing: .095em;
+  text-transform: uppercase;
+}
+
+.teaching-hero h1 {
+  margin: 0 0 .85rem;
+  color: #102133;
+  font-size: clamp(2.5rem, 4.5vw, 4rem);
+  line-height: 1;
+  letter-spacing: -.04em;
+}
+
+.teaching-lead {
+  max-width: 780px;
+  margin: 0;
+  color: #5d6e79;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.teaching-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem 1.35rem;
+  margin-top: 1.35rem;
+}
+
+.teaching-nav a {
+  color: #486272;
+  font-size: .84rem;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
+.teaching-nav a:hover {
+  color: #173f56;
+  text-decoration: underline !important;
+  text-underline-offset: 3px;
+}
+
+.teaching-body { padding-bottom: 4rem; }
+
+.teaching-section {
+  padding: 2.6rem 0 .7rem;
+  border-bottom: 1px solid #e7ecef;
+  scroll-margin-top: 90px;
+}
+
+.teaching-section:last-child { border-bottom: 0; }
+
+.teaching-section__heading {
+  margin-bottom: 1.15rem;
+}
+
+.teaching-section__heading h2 {
+  margin: 0 !important;
+  color: #18384d;
+  font-size: 1.7rem !important;
+  line-height: 1.1;
+  letter-spacing: -.025em;
+}
+
+.teaching-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.teaching-grid--three {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.teaching-grid--two {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.teaching-stack {
+  display: grid;
+  gap: .95rem;
+}
+
+.teaching-card {
+  padding: 1.25rem 1.35rem;
+  border: 1px solid #e0e7eb;
+  border-radius: 14px;
+  background: #fff;
+}
+
+.teaching-card h3 {
+  margin: 0 0 .42rem !important;
+  color: #102133;
+  font-size: 1.08rem !important;
+  line-height: 1.35;
+}
+
+.teaching-card p {
+  margin-top: .3rem;
+  color: #5d6e79;
+  font-size: .9rem;
+  line-height: 1.6;
+}
+
+.teaching-card p:last-child {
+  margin-bottom: 0;
+}
+
+.teaching-label {
+  display: inline-flex;
+  margin-bottom: .62rem;
+  padding: .24rem .5rem;
+  border-radius: 999px;
+  background: #eef4f7;
+  color: #315f75;
+  font-size: .67rem;
+  font-weight: 800;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+
+.teaching-course-top {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.2rem;
+  align-items: flex-start;
+}
+
+.teaching-meta {
+  margin: .1rem 0 .45rem !important;
+  color: #76848d !important;
+  font-size: .82rem !important;
+}
+
+.teaching-years {
+  flex: 0 0 auto;
+  color: #34566b;
+  font-size: .8rem;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.mentoring-group {
+  margin-top: 1.7rem;
+}
+
+.mentoring-group:first-of-type {
+  margin-top: 0;
+}
+
+.mentoring-group > h3 {
+  margin: 0 0 .75rem !important;
+  color: #24485e;
+  font-size: 1rem !important;
+  letter-spacing: -.01em;
+}
+
+.mentoring-list {
+  border-top: 1px solid #e7ecef;
+}
+
+.mentoring-item {
+  display: grid;
+  gap: .16rem;
+  padding: .85rem 0;
+  border-bottom: 1px solid #edf0f2;
+}
+
+.mentoring-item strong {
+  color: #102133;
+  font-size: .94rem;
+}
+
+.mentoring-item strong a {
+  color: inherit;
+  text-decoration: none !important;
+}
+
+.mentoring-item strong a:hover {
+  color: #1f6386;
+  text-decoration: underline !important;
+  text-underline-offset: 2px;
+}
+
+.mentoring-item span {
+  color: #70808a;
+  font-size: .82rem;
+}
+
+.mentoring-item em {
+  color: #566a77;
+  font-size: .82rem;
+}
+
+@media (max-width: 800px) {
+  .teaching-grid--three,
+  .teaching-grid--two {
+    grid-template-columns: 1fr;
+  }
+
+  .teaching-course-top {
+    display: block;
+  }
+
+  .teaching-years {
+    display: inline-block;
+    margin-top: .3rem;
+    white-space: normal;
+  }
+}
+
+@media (max-width: 720px) {
+  .teaching-hero,
+  .teaching-body {
+    width: min(100% - 2rem, 980px);
+  }
+
+  .teaching-hero {
+    padding-top: 2.8rem;
+  }
+
+  .teaching-nav {
+    gap: .45rem 1rem;
+  }
+
+  .teaching-card {
+    padding: 1.1rem;
+  }
+}
