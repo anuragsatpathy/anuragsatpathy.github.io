@@ -1,88 +1,113 @@
 ---
 layout: archive
-title: "Funding and Proposal Activities"
+title: ""
 permalink: /funding/
-author_profile: true
-classes: wide
+author_profile: false
+classes: wide funding-modern
 ---
 
-This page summarizes active funding, awarded innovation programs, submitted proposals, and proposal activities connected to my research agenda in intelligent Cyber-Physical Systems, EV charging, UAV-assisted healthcare logistics, public safety systems, and distributed resource coordination.
+<section class="funding-hero">
+  <p class="funding-kicker">Research Support & Translation</p>
+  <h1>Research Funding</h1>
+  <p class="funding-lead">Externally funded research, translational awards, and proposals supporting my work in cyber-physical systems, intelligent infrastructure, and resource coordination.</p>
 
-## Funded Grants and Awards
+  <div class="funding-stats">
+    <div><strong>$54K+</strong><span>Awarded funding</span></div>
+    <div><strong>Co-PI</strong><span>NSF National I-Corps</span></div>
+    <div><strong>Technical Lead</strong><span>I-HAUL translation</span></div>
+  </div>
 
-<div class="project-list">
-  <section>
-    <h3>NSF National I-Corps Program: I-HAUL</h3>
-    <p><strong>Role:</strong> Co-PI and Technical Lead</p>
-    <p><strong>Status:</strong> Awarded; Sept 2026 - Aug 2027</p>
-    <p><strong>Project:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2632124">I-Corps: Translation Potential of Intelligent Aerial Logistics for Time-Critical Organ Transportation</a></p>
-    <p><strong>Award ID:</strong> NSF 2632124</p>
-    <p><strong>Award:</strong> $50,000</p>
-    <p>
-      Leading national customer discovery, market validation, and technology-readiness planning for autonomous organ-transport logistics. The effort expands stakeholder discovery across organ procurement organizations, transplant centers, FAA/UAS regulatory bodies, UAV logistics providers, and clinical users while preparing SBIR/STTR translation pathways.
-    </p>
-    <p><strong>My contribution:</strong> Serving as Co-PI and Technical Lead by leading stakeholder discovery, defining technology-readiness milestones, and connecting the organ-transport logistics problem to CPS routing, UAV coordination, and translational funding pathways.</p>
-  </section>
+  <nav class="funding-nav" aria-label="Funding sections">
+    <a href="#funded">Funded Projects</a>
+    <a href="#innovation">Innovation & I-Corps</a>
+    <a href="#submitted">Submitted Proposals</a>
+    <a href="#development">Proposal Development</a>
+  </nav>
+</section>
 
-  <section>
-    <h3>NSF I-Corps BOOST Program: I-Haul</h3>
-    <p><strong>Role:</strong> Technical Lead</p>
-    <p><strong>Period:</strong> Oct 2025 - Dec 2025</p>
-    <p><strong>Award:</strong> $3,000</p>
-    <p>
-      Led commercialization strategy for autonomous organ-transport drones, including 75+ stakeholder interviews with organ procurement organizations, transplant centers, surgeons, courier companies, UAV manufacturers, researchers, and FAA stakeholders. This effort supported provisional patent activity for I-Haul.
-    </p>
-    <p><strong>My contribution:</strong> Directed customer discovery, organized the commercialization narrative, and translated technical UAV logistics constraints into stakeholder-validated product requirements.</p>
-  </section>
+<div class="funding-body">
 
-  <section>
-    <h3>NSF I-Corps Local and Regional Programs: I-Haul</h3>
-    <p><strong>Role:</strong> Technical Lead</p>
-    <p><strong>Period:</strong> Sep 2024 - Nov 2024</p>
-    <p><strong>Award:</strong> $1,000</p>
-    <p>
-      Led early customer discovery with clinicians, transplant teams, researchers, and UAV logistics partners to identify clinical workflow constraints, cold-chain requirements, regulatory risks, and UAV logistics barriers for emergency organ delivery.
-    </p>
-    <p><strong>My contribution:</strong> Led interviews and converted clinical, regulatory, and logistics feedback into the project’s initial technical and translational roadmap.</p>
-  </section>
-</div>
+<section class="funding-section" id="funded">
+  <div class="funding-section__heading">
+    <p class="funding-kicker">Awarded</p>
+    <h2>Funded Projects</h2>
+  </div>
 
-## Submitted Proposal
+  <article class="funding-card funding-card--featured">
+    <div class="funding-card__topline">
+      <span class="funding-badge">NSF National I-Corps</span>
+      <span class="funding-amount">$50,000</span>
+    </div>
+    <h3>I-HAUL</h3>
+    <p class="funding-title">I-Corps: Translation Potential of Intelligent Aerial Logistics for Time-Critical Organ Transportation</p>
+    <p class="funding-meta"><strong>Co-PI &amp; Technical Lead</strong> · Sept. 2026–Aug. 2027 · NSF Award 2632124</p>
+    <p>National customer discovery, market validation, and technology-readiness planning for autonomous organ-transport logistics, with emphasis on transplant workflows, UAV coordination, regulatory constraints, and translation pathways.</p>
+    <p class="funding-link"><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2632124">View NSF award →</a></p>
+  </article>
+</section>
 
-<div class="project-list">
-  <section>
-    <h3>SPICE: Subscription-based Platform for Intelligent Charging of Electric Vehicles</h3>
-    <p><strong>Program:</strong> NSF ENG/ECCS/EPCN</p>
-    <p><strong>Role:</strong> Co-PI</p>
-    <p><strong>Status:</strong> Submitted Feb 2026</p>
-    <p><strong>Requested amount:</strong> $675,597</p>
-    <p>
-      Designed behavior-aware EV charging assignment policies for fair and predictable charging access under congestion. The proposal models uncertainty, strategic user behavior, and misuse in shared charging infrastructure, and studies how charging delays propagate through mobility and logistics systems.
-    </p>
-    <p><strong>My contribution:</strong> Developed the research thrust on behavior-aware charging assignment, strategic user behavior, misuse modeling, and propagation of charging delays through mobility and logistics systems.</p>
-  </section>
-</div>
+<section class="funding-section" id="innovation">
+  <div class="funding-section__heading">
+    <p class="funding-kicker">Translation</p>
+    <h2>Innovation &amp; I-Corps</h2>
+  </div>
 
-## Proposal in Development
+  <div class="funding-grid">
+    <article class="funding-card">
+      <div class="funding-card__topline">
+        <span class="funding-badge">NSF I-Corps BOOST</span>
+        <span class="funding-amount">$3,000</span>
+      </div>
+      <h3>I-HAUL Commercialization</h3>
+      <p class="funding-meta"><strong>Technical Lead</strong> · Oct.–Dec. 2025</p>
+      <p>Led commercialization strategy and 75+ stakeholder interviews spanning organ procurement organizations, transplant centers, surgeons, courier companies, UAV manufacturers, researchers, and FAA stakeholders.</p>
+    </article>
 
-<div class="project-list">
-  <section>
+    <article class="funding-card">
+      <div class="funding-card__topline">
+        <span class="funding-badge">Local &amp; Regional I-Corps</span>
+        <span class="funding-amount">$1,000</span>
+      </div>
+      <h3>I-HAUL Customer Discovery</h3>
+      <p class="funding-meta"><strong>Technical Lead</strong> · Sept.–Nov. 2024</p>
+      <p>Early customer discovery with clinicians, transplant teams, researchers, and UAV logistics partners to identify workflow, cold-chain, regulatory, and deployment constraints.</p>
+    </article>
+  </div>
+</section>
+
+<section class="funding-section" id="submitted">
+  <div class="funding-section__heading">
+    <p class="funding-kicker">Under Review / Submitted</p>
+    <h2>Submitted Proposals</h2>
+  </div>
+
+  <article class="funding-card">
+    <div class="funding-card__topline">
+      <span class="funding-badge">NSF ENG / ECCS / EPCN</span>
+      <span class="funding-amount">$675,597 requested</span>
+    </div>
+    <h3>SPICE</h3>
+    <p class="funding-title">Subscription-based Platform for Intelligent Charging of Electric Vehicles</p>
+    <p class="funding-meta"><strong>Co-PI</strong> · Submitted Feb. 2026</p>
+    <p>Behavior-aware EV charging assignment for fair and predictable access under congestion, strategic user behavior, uncertainty, and mobility-dependent delays.</p>
+  </article>
+</section>
+
+<section class="funding-section funding-section--secondary" id="development">
+  <div class="funding-section__heading">
+    <p class="funding-kicker">In Development</p>
+    <h2>Selected Proposal Development</h2>
+  </div>
+
+  <article class="funding-card funding-card--muted">
+    <div class="funding-card__topline">
+      <span class="funding-badge">NSF CISE / CCF</span>
+      <span class="funding-amount">~$600,000 planned</span>
+    </div>
     <h3>Strategic Lightweight Reassignment of Shared Resources in Large-Scale CPS</h3>
-    <p><strong>Program:</strong> NSF CISE/CCF Algorithmic Foundations</p>
-    <p><strong>Role:</strong> Co-PI</p>
-    <p><strong>Planned submission:</strong> Aug 2026</p>
-    <p><strong>Estimated requested amount:</strong> $600,000</p>
-    <p>
-      Developing reassignment mechanisms for strategic agents sharing constrained resources under noncompliance, uncertainty, and dynamic preferences. The proposal focuses on stability and equilibrium conditions for multi-quota resource exchange and parallel resolution of resource reassignments in large systems.
-    </p>
-    <p><strong>My contribution:</strong> Shaping the core algorithmic agenda on strategic reassignment, multi-quota exchange, stability, equilibrium analysis, and scalable parallel resolution in shared-resource CPS.</p>
-  </section>
+    <p class="funding-meta"><strong>Co-PI</strong> · Algorithmic Foundations</p>
+    <p>Reassignment mechanisms for strategic agents sharing constrained resources under noncompliance, uncertainty, and dynamic preferences, with emphasis on stability, equilibrium, and scalable resolution.</p>
+  </article>
+</section>
+
 </div>
-
-## Proposal and Translation Themes
-
-- Mechanism design for strategic resource coordination in shared CPS
-- Behavior-aware EV charging and mobility infrastructure
-- UAV-assisted healthcare logistics and organ transport
-- Emergency response and public safety systems
-- SBIR/STTR-oriented technology translation and stakeholder discovery
