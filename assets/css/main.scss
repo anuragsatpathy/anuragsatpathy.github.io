@@ -1392,3 +1392,354 @@
     width: min(100%, 390px);
   }
 }
+
+
+/* ===== Publications: clean year-wise academic list ===== */
+
+.publications-vishesh .page__title {
+  display: none;
+}
+
+.publications-vishesh #main {
+  max-width: none;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.publications-vishesh .archive {
+  float: none;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+}
+
+.vish-pubs-header,
+.vish-pubs-body,
+.vish-pubs-note {
+  width: min(980px, calc(100% - 3rem));
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.vish-pubs-header {
+  padding: 3.8rem 0 2.3rem;
+  border-bottom: 1px solid #dfe6ea;
+}
+
+.vish-pubs-header h1 {
+  margin: 0 0 .8rem;
+  color: #102133;
+  font-size: clamp(2.4rem, 4vw, 3.7rem);
+  line-height: 1;
+  letter-spacing: -.035em;
+}
+
+.vish-pubs-header p {
+  max-width: 760px;
+  margin: 0;
+  color: #60717d;
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+.vish-year-links {
+  margin-top: 1rem;
+  color: #94a0a8;
+  font-size: .82rem;
+}
+
+.vish-year-links a {
+  color: #496477;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
+.vish-year-links a:hover {
+  color: #1f5c7c;
+  text-decoration: underline !important;
+}
+
+.vish-pubs-body {
+  padding: 1rem 0 2.5rem;
+}
+
+.vish-year {
+  display: grid;
+  grid-template-columns: 115px minmax(0, 1fr);
+  gap: 2rem;
+  padding: 2.35rem 0 1.4rem;
+  border-bottom: 1px solid #e7ecef;
+  scroll-margin-top: 90px;
+}
+
+.vish-year:last-child {
+  border-bottom: 0;
+}
+
+.vish-year > h2 {
+  margin: .1rem 0 0 !important;
+  color: #18384d;
+  font-size: 1.7rem !important;
+  line-height: 1;
+  letter-spacing: -.025em;
+}
+
+.vish-pub-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: publication;
+}
+
+.vish-pub {
+  position: relative;
+  counter-increment: publication;
+  padding: 0 0 1.45rem 2.25rem;
+  margin: 0 0 1.45rem;
+  border-bottom: 1px solid #edf0f2;
+}
+
+.vish-pub:last-child {
+  margin-bottom: 0;
+  padding-bottom: .8rem;
+  border-bottom: 0;
+}
+
+.vish-pub::before {
+  content: counter(publication, decimal-leading-zero);
+  position: absolute;
+  left: 0;
+  top: .12rem;
+  color: #a0acb4;
+  font-size: .72rem;
+  font-weight: 800;
+  letter-spacing: .03em;
+}
+
+.vish-pub__title {
+  margin: 0 0 .38rem;
+  color: #102133;
+  font-size: 1.03rem;
+  font-weight: 760;
+  line-height: 1.42;
+}
+
+.vish-pub__title a {
+  color: inherit;
+  text-decoration: none !important;
+}
+
+.vish-pub__title a:hover {
+  color: #1f6386;
+  text-decoration: underline !important;
+  text-underline-offset: 3px;
+}
+
+.vish-pub__authors {
+  color: #536570;
+  font-size: .88rem;
+  line-height: 1.55;
+}
+
+.vish-pub__authors b,
+.vish-pub__authors strong {
+  color: #183d55;
+  font-weight: 800;
+}
+
+.vish-pub__venue {
+  margin-top: .28rem;
+  color: #72808a;
+  font-size: .84rem;
+  line-height: 1.55;
+}
+
+.vish-pub__venue b,
+.vish-pub__venue strong {
+  color: #556975;
+  font-weight: 700;
+}
+
+.vish-pub__venue a {
+  color: #276887;
+  font-weight: 700;
+  text-decoration: none !important;
+  white-space: nowrap;
+}
+
+.vish-pub__venue a:hover {
+  text-decoration: underline !important;
+  text-underline-offset: 2px;
+}
+
+.vish-pub__kind {
+  margin-top: .32rem;
+  color: #9aa5ad;
+  font-size: .68rem;
+  font-weight: 750;
+  letter-spacing: .055em;
+  text-transform: uppercase;
+}
+
+.vish-pubs-note {
+  margin-top: 0;
+  margin-bottom: 4rem;
+  padding-top: 1.3rem;
+  border-top: 1px solid #e4e9ec;
+  color: #7c8991;
+  font-size: .78rem;
+}
+
+@media (max-width: 720px) {
+  .vish-pubs-header,
+  .vish-pubs-body,
+  .vish-pubs-note {
+    width: min(100% - 2rem, 980px);
+  }
+
+  .vish-pubs-header {
+    padding-top: 2.8rem;
+  }
+
+  .vish-year {
+    grid-template-columns: 1fr;
+    gap: 1.1rem;
+    padding-top: 2rem;
+  }
+
+  .vish-year > h2 {
+    font-size: 1.5rem !important;
+  }
+
+  .vish-pub {
+    padding-left: 2rem;
+  }
+
+  .vish-pub__title {
+    font-size: .98rem;
+  }
+}
+
+
+/* ===== Homepage mobile-first correction ===== */
+@media (max-width: 640px) {
+  .homepage-modern #main,
+  .homepage-modern .archive {
+    overflow-x: hidden;
+  }
+
+  .home-hero {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: .85rem;
+    padding: 1.45rem 1rem 1.9rem;
+  }
+
+  .home-hero__copy {
+    display: contents;
+  }
+
+  .home-hero .home-kicker {
+    order: 1;
+    margin: 0 0 .05rem;
+    font-size: .66rem;
+    line-height: 1.45;
+    letter-spacing: .075em;
+  }
+
+  .home-hero h1 {
+    order: 2;
+    max-width: 100%;
+    margin: 0;
+    font-size: clamp(2rem, 10.5vw, 2.45rem);
+    line-height: 1.01;
+    letter-spacing: -.038em;
+    overflow-wrap: normal;
+    word-break: normal;
+  }
+
+  .home-hero__portrait-wrap {
+    order: 3;
+    justify-content: flex-start;
+    margin: .35rem 0 .2rem;
+  }
+
+  .home-hero__portrait {
+    width: min(64vw, 245px);
+    aspect-ratio: 4 / 5;
+    margin: 0;
+    border-radius: 18px;
+    object-fit: cover;
+    object-position: center 18%;
+    box-shadow: 0 16px 36px rgba(16, 33, 51, .14);
+  }
+
+  .home-lead {
+    order: 4;
+    margin: .25rem 0 0;
+    max-width: 100%;
+    font-size: .94rem;
+    line-height: 1.55;
+  }
+
+  .home-actions {
+    order: 5;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: .45rem;
+    width: 100%;
+    margin-top: .55rem;
+  }
+
+  .home-btn {
+    min-width: 0;
+    padding: .68rem .45rem;
+    font-size: .82rem;
+  }
+
+  .home-metrics {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin-top: 0;
+    margin-bottom: 2.75rem;
+    padding: .85rem 1rem;
+  }
+
+  .home-metrics > div {
+    padding: .7rem .45rem;
+  }
+
+  .home-metrics strong {
+    font-size: 1.18rem;
+  }
+
+  .home-metrics span {
+    font-size: .72rem;
+    line-height: 1.35;
+  }
+
+  .home-section {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .masthead__inner-wrap {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+@media (max-width: 390px) {
+  .home-hero h1 {
+    font-size: 1.92rem;
+  }
+
+  .home-hero__portrait {
+    width: min(66vw, 230px);
+  }
+
+  .home-btn {
+    font-size: .78rem;
+  }
+}
