@@ -19,10 +19,10 @@ classes: wide service-modern
     <h2>Selected leadership &amp; editorial roles</h2>
   </div>
   <div class="service-highlight-grid">
-    <article class="academic-card"><span class="academic-label">2027</span><h3>Publication Co-Chair</h3><p>ICDCN 2027</p></article>
+    <article class="academic-card"><span class="academic-label">2027</span><h3>Publication Co-Chair</h3><p><a href="https://cs3-lab.github.io/icdcn/organization.html" target="_blank" rel="noopener">ICDCN 2027</a></p></article>
     <article class="academic-card"><span class="academic-label">2026</span><h3>Organizing Co-Chair</h3><p>ASCENT Workshop, co-located with ICDCN 2026</p></article>
     <article class="academic-card"><span class="academic-label">2025</span><h3>Posters Co-Chair</h3><p>4th International Conference on Data, Decision and Systems (ICDDS)</p></article>
-    <article class="academic-card"><span class="academic-label">2025</span><h3>Co-Guest Editor</h3><p><em>Ad Hoc Networks</em> special issue on Edge and Serverless Computing</p></article>
+    <article class="academic-card"><span class="academic-label">2025</span><h3>Co-Guest Editor</h3><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1570870525002239" target="_blank" rel="noopener"><em>Ad Hoc Networks</em> special issue on Edge and Serverless Computing</a></p></article>
   </div>
 </section>
 
@@ -35,7 +35,7 @@ classes: wide service-modern
   <div class="service-year">
     <h3>2026</h3>
     <div class="service-chip-list">
-      <span>IEEE/ACM IWQoS</span><span>IEEE MASS</span><span>IEEE SmartGridComm</span><span>IEEE GlobeCom SAC</span><span>GameSec</span><span>IEEE LCN</span><span>IEEE CONNECT</span><span>IEEE COMSNETS</span><span>IEEE PerCom Workshops</span><span>DCOSS-IoT Wi-DroIT</span><span>IFIP Networking CREATIVE</span><span>VTC Workshops</span><span>ICCCN Workshop</span><span>UBICOMM</span><span>ICFAT</span>
+      <span>IEEE/ACM IWQoS</span><span>IEEE MASS</span><span>IEEE SmartGridComm</span><span>IEEE GlobeCom SAC</span><span>GameSec</span><span>IEEE LCN</span><span>IEEE CONNECT</span><span><a href="https://archive.comsnets.org/archive/2026/poster_session.php" target="_blank" rel="noopener">IEEE COMSNETS</a></span><span>IEEE PerCom Workshops</span><span><a href="https://widroit2026.github.io/" target="_blank" rel="noopener">DCOSS-IoT Wi-DroIT</a></span><span><a href="https://networking.ifip.org/2026/index.php/workshops/creative.html" target="_blank" rel="noopener">IFIP Networking CREATIVE</a></span><span><a href="https://events.vtsociety.org/vtc2026-spring/conference-sessions/workshops-currently-available/w16-lpwan-based-terrestrial-non-terrestrial-integration-for-vehicular-networks-ai-driven-hardware-platforms-testbeds-and-6g-directions/" target="_blank" rel="noopener">VTC Workshops</a></span><span>ICCCN Workshop</span><span>UBICOMM</span><span>ICFAT</span>
     </div>
   </div>
 
