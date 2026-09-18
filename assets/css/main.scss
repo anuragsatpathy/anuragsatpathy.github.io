@@ -2967,3 +2967,12 @@
     padding: 0 !important;
   }
 }
+
+
+/* Research thrust HQ image */
+.research-figure img {
+  display: block;
+  width: min(100%, 1100px);
+  height: auto;
+  margin: 0 auto;
+}
