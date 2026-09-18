@@ -118,19 +118,19 @@ classes: wide teaching-modern
     <h3>Ph.D. Students</h3>
     <div class="mentoring-list">
       <article class="mentoring-item">
-        <strong>Sowjanya Tammali</strong>
+        <strong><a href="https://www.linkedin.com/in/sowjanya-tammali">Sowjanya Tammali</a></strong>
         <span>Ph.D. Candidate · Computer Science · Missouri University of Science and Technology</span>
       </article>
       <article class="mentoring-item">
-        <strong>Debjyoti Sengupta</strong>
+        <strong><a href="https://www.linkedin.com/in/debjyoti-sengupta-117410291">Debjyoti Sengupta</a></strong>
         <span>Ph.D. Candidate · Computer Science · Missouri University of Science and Technology</span>
       </article>
       <article class="mentoring-item">
-        <strong>Mahmuda Akter</strong>
+        <strong><a href="https://www.linkedin.com/in/makter0505">Mahmuda Akter</a></strong>
         <span>Ph.D. Candidate · Computer Science · Missouri University of Science and Technology</span>
       </article>
       <article class="mentoring-item">
-        <strong>Chittaranjan Swain</strong>
+        <strong><a href="https://scholar.google.com/citations?user=KsYqhmoAAAAJ&hl=en&oi=ao">Chittaranjan Swain</a></strong>
         <span>Ph.D. · National Institute of Technology, Rourkela · 2018–2024</span>
       </article>
       <article class="mentoring-item">
