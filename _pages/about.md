@@ -23,7 +23,7 @@ classes: wide homepage-modern
   </div>
 
   <div class="home-hero__portrait-wrap">
-    <img class="home-hero__portrait" src="/assets/images/New_anurag.jpeg" alt="Anurag Satpathy">
+    <img class="home-hero__portrait" src="/assets/images/WhatsApp%20Image%202026-06-22%20at%203.57.18%20PM.jpeg" alt="Anurag Satpathy">
   </div>
 </section>
 
