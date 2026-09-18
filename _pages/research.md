@@ -15,11 +15,11 @@ classes: wide research-modern
 
 <section class="research-figure-block" aria-labelledby="research-thrusts-caption">
   <figure class="research-figure">
-    <picture>
-      <source media="(max-width: 720px)" srcset="/assets/images/research-thrusts-strategic-mobile.svg">
-      <img src="/assets/images/research-thrusts-strategic.svg" alt="Research thrusts centered on strategic decision-making, with strategic questions for EV charging and mobility, resource reassignment, public safety and healthcare CPS, and edge and IoT systems.">
-    </picture>
-    <figcaption id="research-thrusts-caption">Strategic decisions across my research thrusts: who gets which resource, where, and when.</figcaption>
+    <img
+      src="data:image/webp;base64,{% include research-thrusts/chunk-00.txt %}{% include research-thrusts/chunk-01.txt %}{% include research-thrusts/chunk-02.txt %}{% include research-thrusts/chunk-03.txt %}{% include research-thrusts/chunk-04.txt %}{% include research-thrusts/chunk-05.txt %}{% include research-thrusts/chunk-06.txt %}"
+      alt="Research thrusts in cyber-physical systems covering EV charging and intelligent mobility, mechanism design and reassignment, public safety and healthcare CPS, and edge, IoT, and distributed systems."
+    >
+    <figcaption id="research-thrusts-caption">Strategic decisions across my research thrusts: charging, reassignment, public-safety coordination, and edge-cloud offloading.</figcaption>
   </figure>
 </section>
 
