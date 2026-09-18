@@ -1358,3 +1358,37 @@
     font-size: 1.02rem !important;
   }
 }
+
+
+/* Homepage portrait refinement */
+.home-hero {
+  grid-template-columns: minmax(0, 1.28fr) minmax(330px, .72fr);
+  gap: 4rem;
+}
+
+.home-hero__portrait-wrap {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.home-hero__portrait {
+  width: min(100%, 420px);
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center 18%;
+  border-radius: 24px;
+}
+
+.home-hero__portrait-note {
+  display: none;
+}
+
+@media (max-width: 800px) {
+  .home-hero__portrait-wrap {
+    justify-content: center;
+  }
+
+  .home-hero__portrait {
+    width: min(100%, 390px);
+  }
+}
