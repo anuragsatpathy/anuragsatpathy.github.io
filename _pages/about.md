@@ -1,116 +1,122 @@
 ---
 permalink: /
 layout: archive
-title: "Anurag Satpathy"
+title: ""
 excerpt: "Cyber-Physical Systems researcher"
-author_profile: true
-redirect_from: 
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
-classes: wide
+classes: wide homepage-modern
 ---
 
-<section class="faculty-hero">
-  <p class="eyebrow">Postdoctoral Fellow | Computer Science | Missouri S&T</p>
-  <h1>Cyber-Physical Systems for equitable, reliable decision-making under uncertainty.</h1>
-  <p class="lead">I design mechanisms and equilibria for distributed resource coordination in intelligent Cyber-Physical Systems operating under uncertainty, resource limits, mobility, and heterogeneous human behavior.</p>
-  <p class="hero-actions">
-    <a class="btn btn--primary" href="/research/">Research</a>
-    <a class="btn btn--primary" href="/publications/">Publications</a>
-    <a class="btn btn--inverse" href="/funding/">Funding</a>
-    <a class="btn btn--inverse" href="/cv/">CV</a>
-    <a class="btn btn--inverse" href="/contact/">Contact</a>
-  </p>
-</section>
+<section class="home-hero">
+  <div class="home-hero__copy">
+    <p class="home-kicker">Postdoctoral Fellow · Computer Science · Missouri S&T</p>
+    <h1>Cyber-Physical Systems for equitable, reliable decision-making under uncertainty.</h1>
+    <p class="home-lead">I develop game-theoretic, optimization-based, and learning-enabled methods for coordinating shared cyber-physical infrastructure under uncertainty, mobility, limited resources, and heterogeneous human behavior.</p>
+    <div class="home-actions">
+      <a class="home-btn home-btn--primary" href="/research/">Research</a>
+      <a class="home-btn" href="/publications/">Publications</a>
+      <a class="home-btn" href="/cv/">CV</a>
+    </div>
+  </div>
 
-<section class="search-snapshot">
-  <h2>Faculty Search Snapshot</h2>
-  <div class="snapshot-grid">
-    <div>
-      <h3>Research</h3>
-      <p>CPS, mechanism design, intelligent infrastructure, public safety systems, EV charging, and UAV-assisted logistics.</p>
-    </div>
-    <div>
-      <h3>Methods</h3>
-      <p>Game theory, optimization, matching, equilibrium analysis, learning-enabled coordination, and simulation-based evaluation.</p>
-    </div>
-    <div>
-      <h3>Applications</h3>
-      <p>Intelligent transportation, shared charging infrastructure, emergency response, healthcare logistics, vehicular edge, and IoT.</p>
-    </div>
-    <div>
-      <h3>Teaching</h3>
-      <p>Operating Systems, Computer Networks, Distributed Systems, Cloud/Edge Computing, Algorithms, IoT, and Cyber-Physical Systems.</p>
+  <div class="home-hero__portrait-wrap">
+    <img class="home-hero__portrait" src="/assets/images/New_anurag.jpeg" alt="Anurag Satpathy">
+    <div class="home-hero__portrait-note">
+      <strong>Anurag Satpathy</strong>
+      <span>Cyber-Physical Systems · Game Theory · Distributed Systems</span>
     </div>
   </div>
 </section>
 
-<section class="committee-read">
-  <h2>Search Committee Quick Read</h2>
-  <div class="committee-grid">
-    <div>
-      <span>Research identity</span>
-      <p>CPS mechanism design for shared infrastructure: EV charging, reassignment, public safety, healthcare logistics, and edge/IoT.</p>
-    </div>
-    <div>
-      <span>Independent thread</span>
-      <p>ReACT-TTC, KATCH, and W-TTC study capacity-aware reassignment when users deviate, preferences change, or information arrives late.</p>
-    </div>
-    <div>
-      <span>Funding trajectory</span>
-      <p>Co-PI and Technical Lead on NSF I-Corps I-HAUL, with active proposal activity in EV charging and shared CPS infrastructure.</p>
-    </div>
-    <div>
-      <span>Teaching fit</span>
-      <p>Operating systems, networks, distributed systems, cloud/edge, algorithms, IoT, CPS, and optimization/game theory for systems.</p>
-    </div>
+<section class="home-metrics" aria-label="Research highlights">
+  <div><strong>40+</strong><span>Publications</span></div>
+  <div><strong>600+</strong><span>Citations</span></div>
+  <div><strong>$50K</strong><span>NSF I-Corps award</span></div>
+  <div><strong>ICCPS 2026</strong><span>Featured recent work</span></div>
+</section>
+
+<section class="home-section">
+  <div class="home-section__heading">
+    <p class="home-kicker">Research themes</p>
+    <h2>Building intelligent shared infrastructure</h2>
+    <p>My work combines mechanisms, optimization, and learning to design systems that remain efficient, adaptive, and fair when real-world users and resources behave unpredictably.</p>
+  </div>
+
+  <div class="home-card-grid home-card-grid--three">
+    <article class="home-card home-card--theme">
+      <div class="home-card__icon">01</div>
+      <h3>Mechanisms & Decision Making</h3>
+      <p>Resource allocation, matching, routing, scheduling, and reassignment using game theory, equilibrium analysis, and optimization.</p>
+      <a href="/research/">Explore methods →</a>
+    </article>
+
+    <article class="home-card home-card--theme">
+      <div class="home-card__icon">02</div>
+      <h3>Human-Aware CPS</h3>
+      <p>Fairness, strategic behavior, non-compliance, and real-time coordination in large-scale cyber-physical and public-safety systems.</p>
+      <a href="/research/">Explore systems →</a>
+    </article>
+
+    <article class="home-card home-card--theme">
+      <div class="home-card__icon">03</div>
+      <h3>Intelligent Infrastructure</h3>
+      <p>EV charging, intelligent transportation, UAV-enabled logistics, vehicular edge computing, emergency response, and IoT.</p>
+      <a href="/research/">Explore applications →</a>
+    </article>
   </div>
 </section>
 
-<section class="featured-paper">
-  <p class="eyebrow">Latest Spotlight</p>
-  <h2>ReACT-TTC at ICCPS 2026</h2>
-  <p>
-    My latest ICCPS/CPS-IoT Week work introduces a capacity-aware Top Trading Cycles mechanism for post-choice reassignment in shared Cyber-Physical Systems, with an EV charging case study and at least 43% improvement in user satisfaction under non-compliant behavior.
-  </p>
-  <p class="hero-actions">
-    <a class="btn btn--primary" href="/publications/react-ttc-iccps-2026/">Read Spotlight</a>
-    <a class="btn btn--inverse" href="/files/react-ttc-iccps-2026.pdf">Paper PDF</a>
-    <a class="btn btn--inverse" href="/files/react-ttc-iccps-2026-slides.pptx">Slides</a>
-  </p>
+<section class="home-section">
+  <div class="home-section__heading">
+    <p class="home-kicker">Featured research</p>
+    <h2>Recent work with real-world impact</h2>
+  </div>
+
+  <div class="home-card-grid home-card-grid--three">
+    <article class="home-card home-card--project">
+      <span class="home-tag">ICCPS 2026</span>
+      <h3>ReACT-TTC</h3>
+      <p>Capacity-aware Top Trading Cycles for post-choice reassignment in shared Cyber-Physical Systems, demonstrated through EV charging coordination.</p>
+      <p class="home-project-result">≥43% improvement in user satisfaction under non-compliant behavior.</p>
+      <a href="/publications/react-ttc-iccps-2026/">View spotlight →</a>
+    </article>
+
+    <article class="home-card home-card--project">
+      <span class="home-tag">NSF I-Corps</span>
+      <h3>I-HAUL</h3>
+      <p>UAV-assisted healthcare logistics for time-sensitive transport, combining cyber-physical coordination with practical deployment constraints.</p>
+      <p class="home-project-result">Co-PI & Technical Lead · $50K award.</p>
+      <a href="/funding/">View funding →</a>
+    </article>
+
+    <article class="home-card home-card--project">
+      <span class="home-tag">Public Safety</span>
+      <h3>Emergency Response CPS</h3>
+      <p>Decision-making and coordination frameworks for responders, UAVs, mobile resources, and edge/IoT infrastructure under uncertainty.</p>
+      <p class="home-project-result">Mechanism design + learning + distributed systems.</p>
+      <a href="/research/">View research →</a>
+    </article>
+  </div>
 </section>
 
-I am a Postdoctoral Fellow at the Missouri University of Science and Technology, working with <a href="https://sites.google.com/a/mst.edu/sdas/">Prof. Sajal K. Das</a>. My research develops game-theoretic, optimization-based, and learning-enabled frameworks for distributed resource coordination in Cyber-Physical Systems (CPS), with applications in intelligent transportation, EV charging coordination, UAV-assisted healthcare logistics, emergency response, public safety systems, vehicular edge computing, and IoT systems.
-
-Before joining Missouri S&T, I completed my Ph.D. in Computer Science and Engineering at the National Institute of Technology Rourkela under the supervision of <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom">Prof. Manmath Narayan Sahoo</a>. My doctoral work focused on resource management and re-embedding strategies for virtual data centers over multi-domain substrate networks.
-
-## Faculty Research Agenda
-
-My future research group will build decision-making systems for shared infrastructure where transportation, energy, healthcare logistics, emergency response, and edge/IoT computing intersect. The agenda is organized around three pillars:
-
-- Strategic resource coordination in Cyber-Physical Systems
-- Human-aware mobility, energy, and emergency response systems
-- Learning-enabled mechanisms for uncertain shared infrastructure
-
-## Research Focus
-
-<div class="focus-grid">
+<section class="home-section home-section--about">
   <div>
-    <h3>Decision-making under uncertainty</h3>
-    <p>Mechanism design, equilibrium analysis, and learning-enabled models for resource allocation, matching, routing, scheduling, and reassignment.</p>
+    <p class="home-kicker">About</p>
+    <h2>Research at the intersection of algorithms and cyber-physical systems</h2>
   </div>
+
   <div>
-    <h3>Human-aware CPS</h3>
-    <p>Fairness, behavior-aware coordination, and real-time constraints in large-scale cyber-physical and public safety systems.</p>
+    <p>I am a Postdoctoral Fellow at Missouri University of Science and Technology, working with <a href="https://sites.google.com/a/mst.edu/sdas/">Prof. Sajal K. Das</a>. My research develops principled methods for distributed resource coordination across transportation, energy, healthcare logistics, emergency response, vehicular edge computing, and IoT systems.</p>
+    <p>Before joining Missouri S&T, I completed my Ph.D. in Computer Science and Engineering at the National Institute of Technology Rourkela under <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom">Prof. Manmath Narayan Sahoo</a>.</p>
+    <p class="home-inline-links">
+      <a href="/research/">Research overview</a>
+      <a href="/publications/">Publications</a>
+      <a href="/teaching/">Teaching</a>
+      <a href="/service/">Service</a>
+      <a href="/contact/">Contact</a>
+    </p>
   </div>
-  <div>
-    <h3>Mobility and infrastructure</h3>
-    <p>EV charging, intelligent transportation, UAV-enabled logistics, vehicular edge computing, and emergency response networks.</p>
-  </div>
-</div>
-
-## For Search Committees
-
-My faculty research agenda centers on principled algorithmic foundations for socially responsible CPS: systems that are efficient, adaptive, and fair while operating with uncertain demand, dynamic mobility, and limited infrastructure. I am interested in building an independent research group at the intersection of distributed systems, optimization, game theory, machine learning, and real-world CPS deployments.
-
-Please see my <a href="/research/">research overview</a>, <a href="/publications/">publications</a>, <a href="/teaching/">teaching profile</a>, <a href="/funding/">funding and proposal activities</a>, and <a href="/cv/">CV</a>.
+</section>
