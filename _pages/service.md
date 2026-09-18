@@ -20,7 +20,7 @@ classes: wide service-modern
   </div>
   <div class="service-highlight-grid">
     <article class="academic-card"><span class="academic-label">2027</span><h3>Publication Co-Chair</h3><p><a href="https://cs3-lab.github.io/icdcn/organization.html" target="_blank" rel="noopener">ICDCN 2027</a></p></article>
-    <article class="academic-card"><span class="academic-label">2026</span><h3>Organizing Co-Chair</h3><p>ASCENT Workshop, co-located with ICDCN 2026</p></article>
+    <article class="academic-card"><span class="academic-label">2026</span><h3>Organizing Co-Chair</h3><p><a href="https://sites.google.com/view/ascent-icdcn2026/" target="_blank" rel="noopener">ASCENT Workshop, co-located with ICDCN 2026</a></p></article>
     <article class="academic-card"><span class="academic-label">2025</span><h3>Posters Co-Chair</h3><p>4th International Conference on Data, Decision and Systems (ICDDS)</p></article>
     <article class="academic-card"><span class="academic-label">2025</span><h3>Co-Guest Editor</h3><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1570870525002239" target="_blank" rel="noopener"><em>Ad Hoc Networks</em> special issue on Edge and Serverless Computing</a></p></article>
   </div>
