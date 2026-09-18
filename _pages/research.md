@@ -16,7 +16,7 @@ classes: wide research-modern
 <section class="research-figure-block" aria-labelledby="research-thrusts-caption">
   <figure class="research-figure">
     <img
-      src="/assets/images/research-thrusts-final.webp?v=20260918-1153"
+      src="/images/research-thrusts-hq.svg?v=20260918-1205"
       alt="Research thrusts in cyber-physical systems covering EV charging and intelligent mobility, mechanism design and reassignment, public safety and healthcare CPS, and edge, IoT, and distributed systems."
     >
     <figcaption id="research-thrusts-caption">Strategic decisions across my research thrusts: charging, reassignment, public-safety coordination, and edge-cloud offloading.</figcaption>
