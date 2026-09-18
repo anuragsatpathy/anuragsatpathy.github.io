@@ -922,3 +922,19 @@
     padding-bottom: 3.5rem;
   }
 }
+
+
+/* Homepage-only breakout from the legacy Minimal Mistakes content column */
+.homepage-modern #main {
+  max-width: none;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.homepage-modern .archive {
+  float: none;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
