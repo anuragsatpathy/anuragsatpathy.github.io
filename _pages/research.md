@@ -13,6 +13,13 @@ classes: wide research-modern
   <div class="research-core-question"><strong>Core question:</strong> How can competing agents share—and when needed reassign—limited resources efficiently, fairly, and robustly as conditions change?</div>
 </section>
 
+<section class="research-figure-block" aria-labelledby="research-thrusts-caption">
+  <figure class="research-figure">
+    <img src="/assets/images/research-thrusts-strategic.svg" alt="Research thrusts centered on strategic decision-making, with strategic questions for EV charging and mobility, resource reassignment, public safety and healthcare CPS, and edge and IoT systems.">
+    <figcaption id="research-thrusts-caption">Strategic decisions across my research thrusts: who gets which resource, where, and when.</figcaption>
+  </figure>
+</section>
+
 <div class="academic-body">
 <section class="academic-section">
   <div class="academic-section__heading">
