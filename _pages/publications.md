@@ -8,7 +8,7 @@ classes: wide publications-vishesh
 
 <section class="vish-pubs-header">
   <h1>Publications</h1>
-  <p>Peer-reviewed journal articles, conference papers, book chapters, and posters. Listed from newest to oldest by year.</p>
+  <p>Peer-reviewed journal articles, conference papers, book chapters, and posters, listed from newest to oldest by year.</p>
   <div class="vish-year-links"><a href="#year-2026">2026</a> · <a href="#year-2025">2025</a> · <a href="#year-2024">2024</a> · <a href="#year-2023">2023</a> · <a href="#year-2022">2022</a> · <a href="#year-2021">2021</a> · <a href="#year-2020">2020</a> · <a href="#year-2019">2019</a> · <a href="#year-2018">2018</a> · <a href="#year-2017">2017</a></div>
 </section>
 
@@ -121,7 +121,7 @@ classes: wide publications-vishesh
     <li class="vish-pub">
       <div class="vish-pub__title">MOVE: Matching Game for Partial Offloading in Vehicular Edge Computing</div>
       <div class="vish-pub__authors">Mahmuda Akter, Debjyoti Sengupta, <b>Anurag Satpathy</b>, Sajal. K. Das</div>
-      <div class="vish-pub__venue">" <b>in IEEE International Conference on Communications (ICC), Next-Generation Networking and Internet Symposium (NGNI)</b>, Denver, Colorado, June 2024, pp. 3670-3675, <a href="https://ieeexplore.ieee.org/document/10622282">DOI: 10.1109/ICC51166.2024.10622282</a>.</div>
+      <div class="vish-pub__venue">, <b>in IEEE International Conference on Communications (ICC), Next-Generation Networking and Internet Symposium (NGNI)</b>, Denver, Colorado, June 2024, pp. 3670-3675, <a href="https://ieeexplore.ieee.org/document/10622282">DOI: 10.1109/ICC51166.2024.10622282</a>.</div>
       <div class="vish-pub__kind">Conference · C16</div>
     </li>
     <li class="vish-pub">
@@ -145,7 +145,7 @@ classes: wide publications-vishesh
     <li class="vish-pub">
       <div class="vish-pub__title">Performance Analysis of Disruptive Instances in Cloud Environment</div>
       <div class="vish-pub__authors">Pranab Nandy, Rounak Saha, <b>Anurag Satpathy</b>, Sandip Chakraborty, and Sourav Kanti Addya</div>
-      <div class="vish-pub__venue">in" <b>International Conference on COMmunication Systems & NETworkS (COMSNETS)</b>, Bengaluru, India, 2024, pp. 370-378, <a href="https://ieeexplore.ieee.org/document/10427039">DOI: 10.1109/COMSNETS59351.2024.10427039</a> (<b>Core Rank: National India</b>).</div>
+      <div class="vish-pub__venue">, in <b>International Conference on COMmunication Systems & NETworkS (COMSNETS)</b>, Bengaluru, India, 2024, pp. 370-378, <a href="https://ieeexplore.ieee.org/document/10427039">DOI: 10.1109/COMSNETS59351.2024.10427039</a> (<b>Core Rank: National India</b>).</div>
       <div class="vish-pub__kind">Conference · C12</div>
     </li>
     <li class="vish-pub">
@@ -187,7 +187,7 @@ classes: wide publications-vishesh
     <li class="vish-pub">
       <div class="vish-pub__title">MatchVNE: A Stable Virtual Network Embedding Strategy Based on Matching Theory</div>
       <div class="vish-pub__authors">Keerthan Kumar. T G, Ankit Srivastava, <b>Anurag Satpathy</b>, Sourav Kanti Addya, and Shashidhar G Koolagudi</div>
-      <div class="vish-pub__venue">" in 15th <b>International Conference on Communication Systems & Networks (COMSNETS)</b>, Bangalore, India, 2023, pp. 355-359, <a href="https://ieeexplore.ieee.org/document/10041377">DOI: 10.1109/COMSNETS56262.2023.10041377</a> (<b>Core Rank: National India</b>).</div>
+      <div class="vish-pub__venue">, in 15th <b>International Conference on Communication Systems & Networks (COMSNETS)</b>, Bangalore, India, 2023, pp. 355-359, <a href="https://ieeexplore.ieee.org/document/10041377">DOI: 10.1109/COMSNETS56262.2023.10041377</a> (<b>Core Rank: National India</b>).</div>
       <div class="vish-pub__kind">Poster / Demo · P2</div>
     </li>
     <li class="vish-pub">
@@ -239,7 +239,7 @@ classes: wide publications-vishesh
       <div class="vish-pub__kind">Journal · J7</div>
     </li>
     <li class="vish-pub">
-      <div class="vish-pub__title">A Preliminary Study of Serverless Platforms for Latency Sensitive Applications,</div>
+      <div class="vish-pub__title">A Preliminary Study of Serverless Platforms for Latency Sensitive Applications</div>
       <div class="vish-pub__authors">Thirukovela Venkata Sarathi, Julakanti Sai Nischal Reddy, Peddaboinolu Shiva, Rounak Saha, Anurag Satpathy, and Sourav Kanti Addya</div>
       <div class="vish-pub__venue">in <b>IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)</b>, Bangalore, India, 2022, pp. 1-6, <a href="https://ieeexplore.ieee.org/abstract/document/9865790">DOI: 10.1109/CONECCT55679.2022.9865790</a>.</div>
       <div class="vish-pub__kind">Conference · C10</div>
@@ -253,7 +253,7 @@ classes: wide publications-vishesh
     <li class="vish-pub">
       <div class="vish-pub__title">MatchCloud:Service Matching for Multi Cloud Marketplace</div>
       <div class="vish-pub__authors">Arpana Chakma, Shubham Kumar, Pradeep Kumar Mahato, <b>Anurag Satpathy</b>, and Sourav Kanti Addya</div>
-      <div class="vish-pub__venue">in " 14th <b>International Conference on Communication Systems & Networks (COMSNETS)</b>, Bengaluru, India, 2021, pp. 127-130, <a href="https://doi.org/10.1016/j.compeleceng.2017.12.032">DOI: 10.1016/j.compeleceng.2017.12.032</a> (<b>Core Rank: National India</b>) (<b>Best Poster Award</b>).</div>
+      <div class="vish-pub__venue">, in " 14th <b>International Conference on Communication Systems & Networks (COMSNETS)</b>, Bengaluru, India, 2021, pp. 127-130, <a href="https://doi.org/10.1016/j.compeleceng.2017.12.032">DOI: 10.1016/j.compeleceng.2017.12.032</a> (<b>Core Rank: National India</b>) (<b>Best Poster Award</b>).</div>
       <div class="vish-pub__kind">Poster / Demo · P1</div>
     </li>
     <li class="vish-pub">
@@ -265,7 +265,7 @@ classes: wide publications-vishesh
     <li class="vish-pub">
       <div class="vish-pub__title">A Service Sustainable Live Migration Strategy for multiple Virtual Machines in Cloud Data Centers</div>
       <div class="vish-pub__authors"><b>Anurag Satpathy</b>, Manmath Narayan Sahoo, Ashutosh Mishra, Banshidhar Majhi, Joel J. P. C. Rodrigues, and Sambit Bakshi</div>
-      <div class="vish-pub__venue">" in <b>Big Data Research, Elsevier</b>, Volume 25, 2021, <a href="https://doi.org/10.1016/j.bdr.2021.100213">DOI: 10.1016/j.bdr.2021.100213</a> (<b>IF-3.5</b>).</div>
+      <div class="vish-pub__venue">, in <b>Big Data Research, Elsevier</b>, Volume 25, 2021, <a href="https://doi.org/10.1016/j.bdr.2021.100213">DOI: 10.1016/j.bdr.2021.100213</a> (<b>IF-3.5</b>).</div>
       <div class="vish-pub__kind">Journal · J5</div>
     </li>
     <li class="vish-pub">
@@ -283,7 +283,7 @@ classes: wide publications-vishesh
     <li class="vish-pub">
       <div class="vish-pub__title">SPATO: A Student Project Allocation Based Task Offloading in IoT-Fog Systems</div>
       <div class="vish-pub__authors">Chittaranjan Swain, Manmath Narayan Sahoo, <b>Anurag Satpathy</b></div>
-      <div class="vish-pub__venue">" in <b>IEEE International Conference on Communications (ICC)</b>, Montreal, QC, Canada, 2021, pp. 1-6, <a href="https://ieeexplore.ieee.org/abstract/document/9500367">DOI: 10.1109/ICC42927.2021.9500367</a>, (<b>Core Rank: B</b>).</div>
+      <div class="vish-pub__venue">, in <b>IEEE International Conference on Communications (ICC)</b>, Montreal, QC, Canada, 2021, pp. 1-6, <a href="https://ieeexplore.ieee.org/abstract/document/9500367">DOI: 10.1109/ICC42927.2021.9500367</a>, (<b>Core Rank: B</b>).</div>
       <div class="vish-pub__kind">Conference · C8</div>
     </li>
   </ol>
@@ -294,7 +294,7 @@ classes: wide publications-vishesh
   <ol class="vish-pub-list">
     <li class="vish-pub">
       <div class="vish-pub__title">Evolution of Cloud-Fog-IoT Interconnection Networks</div>
-      <div class="vish-pub__authors"><b>Anurag Satpathy,</b> "</div>
+      <div class="vish-pub__authors"><b>Anurag Satpathy,</b></div>
       <div class="vish-pub__venue">in Cloud Network Management, CRC Press, Taylor & Francis Group, pages 3-14, 2020, <a href="https://doi.org/10.1201/9780429288630">DOI: 10.1201/9780429288630</a>.</div>
       <div class="vish-pub__kind">Book Chapter · B1</div>
     </li>
@@ -365,13 +365,13 @@ classes: wide publications-vishesh
   <h2>2017</h2>
   <ol class="vish-pub-list">
     <li class="vish-pub">
-      <div class="vish-pub__title">Secure key-distribution in IoT cloud networks,</div>
+      <div class="vish-pub__title">Secure key-distribution in IoT cloud networks</div>
       <div class="vish-pub__authors">Soumya Ranjan Moharana, Vijay Kumar Jha, <b>Anurag Satpathy</b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi</div>
       <div class="vish-pub__venue">in <b>3rd International Conference on Sensing, Signal Processing and Security (ICSSS)</b>, Chennai, India, 2017, pp. 197-202, <a href="https://ieeexplore.ieee.org/abstract/document/8071591/authors#authors">DOI: 10.1109/SSPS.2017.8071591</a>.</div>
       <div class="vish-pub__kind">Conference · C2</div>
     </li>
     <li class="vish-pub">
-      <div class="vish-pub__title">A resource aware VM placement strategy in cloud data centers based on crow search algorithm,</div>
+      <div class="vish-pub__title">A resource aware VM placement strategy in cloud data centers based on crow search algorithm</div>
       <div class="vish-pub__authors"><b>Anurag Satpathy</b>, Sourav Kanti Addya, Ashok Kumar Turuk, Banshidhar Majhi and Gadadhar Sahoo</div>
       <div class="vish-pub__venue">in <b>4th International Conference on Advanced Computing and Communication Systems (ICACCS)</b>, Coimbatore, India, 2017, pp. 1-6, <a href="https://ieeexplore.ieee.org/abstract/document/8014639">DOI: 10.1109/ICACCS.2017.8014639</a>.</div>
       <div class="vish-pub__kind">Conference · C1</div>
@@ -380,4 +380,4 @@ classes: wide publications-vishesh
 </section>
 </div>
 
-<p class="vish-pubs-note"><strong>Anurag Satpathy</strong> is highlighted in the author list. Publication links, awards, and equal-contribution notes are retained with each entry.</p>
+<p class="vish-pubs-note"><strong>Anurag Satpathy</strong> is highlighted in the author list. Equal-contribution notes, awards, and publication links are retained with the corresponding entry.</p>
