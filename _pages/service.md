@@ -19,6 +19,8 @@ classes: wide service-modern
     <h2>Selected leadership &amp; editorial roles</h2>
   </div>
   <div class="service-highlight-grid">
+    <article class="academic-card"><span class="academic-label">2027</span><h3>Organizing Co-Chair</h3><p><a href="https://anuragsatpathy.github.io/ascent-icdcn2027/" target="_blank" rel="noopener">ASCENT 2027, co-located with ICDCN 2027</a></p></article>
+    <article class="academic-card"><span class="academic-label">2027</span><h3>Organizing Co-Chair</h3><p><a href="https://anuragsatpathy.github.io/perrobotics-2027/" target="_blank" rel="noopener">PerRobotics 2027, co-located with IEEE PerCom 2027</a></p></article>
     <article class="academic-card"><span class="academic-label">2027</span><h3>Publication Co-Chair</h3><p><a href="https://cs3-lab.github.io/icdcn/organization.html" target="_blank" rel="noopener">ICDCN 2027</a></p></article>
     <article class="academic-card"><span class="academic-label">2026</span><h3>Organizing Co-Chair</h3><p><a href="https://sites.google.com/view/ascent-icdcn2026/" target="_blank" rel="noopener">ASCENT Workshop, co-located with ICDCN 2026</a></p></article>
     <article class="academic-card"><span class="academic-label">2025</span><h3>Posters Co-Chair</h3><p>4th International Conference on Data, Decision and Systems (ICDDS)</p></article>
