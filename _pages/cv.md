@@ -1,81 +1,39 @@
 ---
 layout: cv-archive
-title: "CV"
+title: ""
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
+classes: wide cv-modern
 ---
 
-<style>
-a.uline {text-decoration:underline;}
-</style>
+<section class="academic-hero cv-hero">
+  <p class="academic-kicker">Curriculum Vitae</p>
+  <h1>CV</h1>
+  <p class="academic-lead">A concise overview of my current position, research areas, training, and selected professional activity.</p>
+  <p class="cv-download"><a href="/files/cv.pdf">Download full CV →</a></p>
+</section>
 
-{% include base_path %}
+<div class="academic-body">
+<section class="academic-section cv-summary-grid">
+  <article class="academic-card"><span class="academic-label">Current Position</span><h3>Postdoctoral Fellow</h3><p>Department of Computer Science · Missouri University of Science and Technology · Aug. 2023–Present</p><p>Supervisor: <a href="https://sites.google.com/a/mst.edu/sdas/">Prof. Sajal K. Das</a></p></article>
+  <article class="academic-card"><span class="academic-label">Research</span><h3>Cyber-Physical &amp; Distributed Systems</h3><p>Game theory, optimization, resource allocation, intelligent transportation, EV charging, UAV-assisted healthcare logistics, public safety, edge/IoT, and cloud/serverless systems.</p></article>
+</section>
 
-This page provides a concise web CV for faculty-search readers. A full PDF version is available here:
+<section class="academic-section">
+  <div class="academic-section__heading"><p class="academic-kicker">Education</p><h2>Academic training</h2></div>
+  <div class="cv-lines">
+    <p><strong>Ph.D., Computer Science and Engineering</strong> · NIT Rourkela · 2017–2023</p>
+    <p><strong>M.Tech., Computer Science and Engineering</strong> · BIT Mesra · 2015–2017</p>
+    <p><strong>B.Tech., Information Technology</strong> · IIIT Bhubaneswar · 2010–2014</p>
+  </div>
+</section>
 
-<a href="/files/cv.pdf" class="uline">Download my full CV</a>
-
-## Current Position
-
-**Postdoctoral Fellow**<br>
-Department of Computer Science<br>
-Missouri University of Science and Technology, Rolla, MO, USA<br>
-**Aug 2023 - Present**<br>
-Supervisor: <a href="https://sites.google.com/a/mst.edu/sdas/">Prof. Sajal K. Das</a>
-
-## Research Interests
-
-- Cyber-Physical Systems
-- Game-theoretic and optimization-based decision-making
-- Learning-enabled resource allocation under uncertainty
-- Intelligent transportation and EV charging coordination
-- UAV-assisted healthcare logistics
-- Emergency response and public safety systems
-- Vehicular edge, IoT, cloud-edge, and serverless computing
-
-## Education
-
-**Ph.D. in Computer Science and Engineering**<br>
-National Institute of Technology Rourkela, India<br>
-**2017 - 2023**<br>
-Thesis: <i>Efficient Re-Embedding Strategies for Virtual Data Centers over Multi-Domain Substrate Networks</i><br>
-Advisor: <a href="https://website.nitrkl.ac.in/FProfile.aspx?e=sahoom">Prof. Manmath Narayan Sahoo</a>
-
-**M.Tech. in Computer Science and Engineering**<br>
-Birla Institute of Technology Mesra, India<br>
-**2015 - 2017**
-
-**B.Tech. in Information Technology**<br>
-International Institute of Information Technology Bhubaneswar, India<br>
-**2010 - 2014**
-
-## Research Experience
-
-**Postdoctoral Research, Missouri S&T**<br>
-Research on Cyber-Physical Systems, public safety systems, EV charging coordination, intelligent transportation, UAV-assisted logistics, vehicular edge computing, and cloud-edge systems.
-
-**Ph.D. Research, NIT Rourkela**<br>
-Research on resource management, virtual data center embedding, matching theory, and optimization for dynamic cloud infrastructures.
-
-**Visiting Researcher, NIT Rourkela**<br>
-Research on virtual machine placement in cloud data centers, including meta-heuristic optimization and live migration.
-
-## Teaching and Mentoring
-
-Teaching assistant experience in Operating Systems Laboratory and Advanced Data Structure Laboratory. Mentoring experience includes Ph.D., master's, and undergraduate students working on CPS, vehicular edge computing, cloud-edge systems, matching theory, and optimization.
-
-## Selected Service
-
-- Technical Lead participation in NSF I-Corps Local, Regional, and BOOST activities.
-- Contributions to NSF proposal development on EV charging and energy-aware resource coordination.
-- Scholarly reviewing and professional service in computer networks, distributed systems, CPS, cloud-edge computing, and IoT.
-
-## Publications
-
-Please see the <a href="/publications/">publications page</a> for the full list.
-
-## Contact
-
-Email: anurag[DOT]satpathy[AT]mst[DOT]edu
+<section class="academic-section">
+  <div class="academic-section__heading"><p class="academic-kicker">Highlights</p><h2>Selected profile links</h2></div>
+  <div class="cv-link-grid">
+    <a href="/research/">Research</a><a href="/publications/">Publications</a><a href="/funding/">Funding</a><a href="/teaching/">Teaching &amp; Mentoring</a><a href="/service/">Service</a><a href="/education/">Education &amp; Experience</a>
+  </div>
+</section>
+</div>
