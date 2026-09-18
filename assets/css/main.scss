@@ -1825,3 +1825,76 @@
     gap: .45rem !important;
   }
 }
+
+
+/* ===== Publications type tabs ===== */
+.vish-pub-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.6rem;
+  margin-top: 1.7rem;
+  border-bottom: 1px solid #dfe6ea;
+}
+
+.vish-pub-tab {
+  appearance: none;
+  position: relative;
+  margin: 0 0 -1px;
+  padding: .7rem 0 .78rem;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  background: transparent;
+  color: #6f7f8a;
+  font: inherit;
+  font-size: .88rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.vish-pub-tab:hover {
+  color: #183d55;
+}
+
+.vish-pub-tab.is-active {
+  border-bottom-color: #183d55;
+  color: #183d55;
+}
+
+.vish-year-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .38rem .85rem;
+}
+
+.vish-year-links a[hidden],
+.vish-year[hidden],
+.vish-pub[hidden] {
+  display: none !important;
+}
+
+@media (max-width: 720px) {
+  .vish-pub-tabs {
+    gap: .35rem .95rem;
+    margin-top: 1.35rem;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .vish-pub-tabs::-webkit-scrollbar {
+    display: none;
+  }
+
+  .vish-pub-tab {
+    flex: 0 0 auto;
+    padding-top: .58rem;
+    padding-bottom: .65rem;
+    font-size: .82rem;
+    white-space: nowrap;
+  }
+
+  .vish-year-links {
+    gap: .35rem .7rem;
+  }
+}
