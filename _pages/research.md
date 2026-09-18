@@ -15,7 +15,10 @@ classes: wide research-modern
 
 <section class="research-figure-block" aria-labelledby="research-thrusts-caption">
   <figure class="research-figure">
-    <img src="/assets/images/research-thrusts-strategic.svg" alt="Research thrusts centered on strategic decision-making, with strategic questions for EV charging and mobility, resource reassignment, public safety and healthcare CPS, and edge and IoT systems.">
+    <picture>
+      <source media="(max-width: 720px)" srcset="/assets/images/research-thrusts-strategic-mobile.svg">
+      <img src="/assets/images/research-thrusts-strategic.svg" alt="Research thrusts centered on strategic decision-making, with strategic questions for EV charging and mobility, resource reassignment, public safety and healthcare CPS, and edge and IoT systems.">
+    </picture>
     <figcaption id="research-thrusts-caption">Strategic decisions across my research thrusts: who gets which resource, where, and when.</figcaption>
   </figure>
 </section>
