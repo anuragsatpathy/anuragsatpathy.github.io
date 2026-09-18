@@ -1,70 +1,77 @@
 ---
 layout: archive
-title: "Service"
+title: ""
 permalink: /service/
-author_profile: true
-classes: wide
+author_profile: false
+classes: wide service-modern
 ---
 
-My service spans conference leadership, program committee memberships, editorial work, panels, proposal reviewing, journal reviewing, and student-facing professional community building. I prioritize service roles connected to Cyber-Physical Systems, networking, distributed systems, IoT, edge computing, intelligent transportation, and public safety technologies.
+<section class="academic-hero">
+  <p class="academic-kicker">Professional Service</p>
+  <h1>Service</h1>
+  <p class="academic-lead">Conference leadership, editorial service, program committees, reviewing, panels, and research-community engagement across networking, distributed systems, CPS, IoT, edge computing, and intelligent transportation.</p>
+</section>
 
-## Recent Leadership Roles
+<div class="academic-body">
+<section class="academic-section">
+  <div class="academic-section__heading">
+    <p class="academic-kicker">Leadership</p>
+    <h2>Selected leadership &amp; editorial roles</h2>
+  </div>
+  <div class="service-highlight-grid">
+    <article class="academic-card"><span class="academic-label">2027</span><h3>Publication Co-Chair</h3><p>ICDCN 2027</p></article>
+    <article class="academic-card"><span class="academic-label">2026</span><h3>Organizing Co-Chair</h3><p>ASCENT Workshop, co-located with ICDCN 2026</p></article>
+    <article class="academic-card"><span class="academic-label">2025</span><h3>Posters Co-Chair</h3><p>4th International Conference on Data, Decision and Systems (ICDDS)</p></article>
+    <article class="academic-card"><span class="academic-label">2025</span><h3>Co-Guest Editor</h3><p><em>Ad Hoc Networks</em> special issue on Edge and Serverless Computing</p></article>
+  </div>
+</section>
 
-- Publication Co-Chair, ICDCN 2027.
-- Organizing Co-Chair, ASCENT Workshop, co-located with ICDCN 2026.
-- Posters Co-Chair, 4th International Conference on Data, Decision and Systems (ICDDS 2025).
-- Co-Guest Editor, <i>Ad Hoc Networks</i> special issue on Edge and Serverless Computing, Elsevier, 2025.
-- Panelist, NSF I-Corps Conference Panel on Customer Discovery Conversations, Feb 2026.
-- Panelist, Entrepreneur Week 2026 at Missouri S&T on the pathway to National I-Corps, Apr 2026.
+<section class="academic-section">
+  <div class="academic-section__heading">
+    <p class="academic-kicker">Program Committees</p>
+    <h2>Recent committee service</h2>
+  </div>
 
-## Program Committee Memberships
+  <div class="service-year">
+    <h3>2026</h3>
+    <div class="service-chip-list">
+      <span>IEEE/ACM IWQoS</span><span>IEEE MASS</span><span>IEEE SmartGridComm</span><span>IEEE GlobeCom SAC</span><span>GameSec</span><span>IEEE LCN</span><span>IEEE CONNECT</span><span>IEEE COMSNETS</span><span>IEEE PerCom Workshops</span><span>DCOSS-IoT Wi-DroIT</span><span>IFIP Networking CREATIVE</span><span>VTC Workshops</span><span>ICCCN Workshop</span><span>UBICOMM</span><span>ICFAT</span>
+    </div>
+  </div>
 
-### 2026
+  <div class="service-year">
+    <h3>2025</h3>
+    <div class="service-chip-list">
+      <span>IEEE LCN</span><span>IEEE CONNECT</span><span>UBICOMM</span><span>IEEE ICDCN Posters &amp; Demos</span><span>IEEE PerCom Workshops</span><span>IEEE COMSNETS MINDS</span><span>HiPC Student Research Symposium</span><span>DCOSS-IoT Wi-DroIT</span><span>IEEE ICDDS</span>
+    </div>
+  </div>
 
-- IEEE/ACM International Symposium on Quality of Service (IWQoS).
-- IEEE MASS, Systems and Applications Track.
-- IEEE SmartGridComm, Symposium on Communication and Networking.
-- VTC-Fall Workshop on Federated Learning for Autonomous and Connected Vehicles.
-- ICCCN Workshop on Distributed Communication, Sensing, and Computing in Space-Air-Ground Networks for 6G.
-- IFIP Networking CREATIVE Workshop.
-- ICFAT.
-- IEEE GlobeCom SAC Machine Learning for Communications and Networking.
-- VTC-Spring Workshop on LPWAN-Based Terrestrial-Non-Terrestrial Integration for Vehicular Networks.
-- Conference on Game Theory and AI for Security (GameSec).
-- IEEE COMSNETS Posters and Graduate Forum.
-- IEEE LCN.
-- IEEE CONNECT.
-- UBICOMM.
-- IEEE PerCom SPT-IoT and EDGE-Well workshops.
-- IEEE COMSNETS MINDS workshop.
-- DCOSS-IoT Wi-DroIT workshop.
+  <div class="service-year service-year--compact">
+    <h3>Earlier</h3>
+    <p>IEEE COMSNETS MINDS (2024), IEEE ICDDS (2024), IEEE ICDCN Posters &amp; Demos (2023), IEEE/ACM CCGRID STEERS Workshop (2022), and IEEE ICRAIE (2022).</p>
+  </div>
+</section>
 
-### 2025
+<section class="academic-section">
+  <div class="academic-section__heading">
+    <p class="academic-kicker">Reviewing</p>
+    <h2>Journal, conference &amp; proposal reviewing</h2>
+  </div>
+  <div class="service-review-grid">
+    <article class="academic-card"><h3>Proposal Reviewing</h3><p>External reviewer, NSERC Discovery Grant, Canada.</p></article>
+    <article class="academic-card"><h3>Journal Reviewing</h3><p>IEEE T-ITS, TMC, TNET, TSC, TCE, IoT Journal, ACM TOSN, FGCS, Computer Networks, Computer Communications, JNCA, Ad Hoc Networks, and related Springer/Wiley venues.</p></article>
+    <article class="academic-card"><h3>Conference Reviewing</h3><p>IEEE ANTS, IEEE INDICON, IEEE BHTC, SCI, and related systems/networking venues.</p></article>
+  </div>
+</section>
 
-- IEEE LCN.
-- IEEE CONNECT.
-- UBICOMM.
-- IEEE ICDCN Posters and Demos PC.
-- IEEE PerCom SPT-IoT and EDGE-Well workshops.
-- IEEE COMSNETS MINDS workshop.
-- HiPC Student Research Symposium.
-- DCOSS-IoT Wi-DroIT workshop.
-- IEEE ICDDS.
-
-### Earlier Service
-
-- IEEE COMSNETS MINDS, 2024.
-- IEEE ICDDS, 2024.
-- IEEE ICDCN Posters and Demos PC, 2023.
-- IEEE/ACM CCGRID STEERS Workshop, 2022.
-- IEEE ICRAIE, 2022.
-
-## Journal, Conference, and Proposal Reviewing
-
-- External reviewer, NSERC Discovery Grant, Canada.
-- Journal reviewing for IEEE Transactions on Intelligent Transportation Systems, Mobile Computing, Networking, Services Computing, Computers, Consumer Electronics, IoT Journal, ACM Transactions on Sensor Networks, Elsevier Future Generation Computer Systems, Computer Networks, Computer Communications, Journal of Network and Computer Applications, Ad Hoc Networks, Simulation Modelling Practice and Theory, Springer Cluster/Grid/Supercomputing/Cloud Computing venues, and Wiley Concurrency and Computation.
-- Conference reviewing for IEEE ANTS, IEEE INDICON, IEEE BHTC, and SCI.
-
-## Mentoring and Outreach
-
-I have mentored Ph.D., master's, and undergraduate students on projects spanning CPS, wildfire evacuation routing, UAV-assisted medical logistics, vehicular edge computing, cloud-edge systems, virtual machine placement, matching theory, and optimization. My mentoring style emphasizes clear problem formulation, reproducible evaluation, technical writing, and independent research judgment.
+<section class="academic-section">
+  <div class="academic-section__heading">
+    <p class="academic-kicker">Panels &amp; Outreach</p>
+    <h2>Community engagement</h2>
+  </div>
+  <div class="service-timeline">
+    <article><span>Apr. 2026</span><p><strong>Panelist</strong> · Entrepreneur Week 2026 at Missouri S&amp;T, pathway to National I-Corps.</p></article>
+    <article><span>Feb. 2026</span><p><strong>Panelist</strong> · NSF I-Corps conference panel on customer discovery conversations.</p></article>
+  </div>
+</section>
+</div>
