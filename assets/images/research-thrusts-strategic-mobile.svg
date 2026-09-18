@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 1420" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 1585" role="img" aria-labelledby="t d">
 <title id="t">Research thrusts for mobile</title>
 <desc id="d">A vertical mobile layout of four research thrusts and their strategic questions.</desc>
 <style>
@@ -10,7 +10,9 @@
   .c{font:700 30px Arial,sans-serif;fill:#102133}
   .cs{font:400 19px Arial,sans-serif;fill:#536779}
 </style>
-<rect width="760" height="1420" fill="#fff"/>
+
+<rect width="760" height="1585" fill="#fff"/>
+
 <text x="380" y="62" text-anchor="middle" class="t">Research Thrusts</text>
 <text x="380" y="100" text-anchor="middle" class="s">Strategic coordination in cyber-physical systems</text>
 
@@ -19,46 +21,54 @@
 <text x="380" y="220" text-anchor="middle" class="cs">Allocation · Matching · Routing · Scheduling</text>
 <text x="380" y="250" text-anchor="middle" class="cs">Reassignment · Offloading</text>
 
-<rect x="32" y="305" width="696" height="220" rx="20" fill="#f3fbf6" stroke="#b7dbc6" stroke-width="2"/>
+<!-- EV charging -->
+<rect x="32" y="305" width="696" height="250" rx="20" fill="#f3fbf6" stroke="#b7dbc6" stroke-width="2"/>
 <text x="55" y="350" class="h" fill="#0f6b50">EV Charging &amp; Intelligent Mobility</text>
 <path d="M78 410 h150 l28 18 h28 v36 H68 v-36z" fill="#fff" stroke="#315c72" stroke-width="4"/>
-<circle cx="105" cy="466" r="14" fill="#315c72"/><circle cx="240" cy="466" r="14" fill="#315c72"/>
+<circle cx="105" cy="466" r="14" fill="#315c72"/>
+<circle cx="240" cy="466" r="14" fill="#315c72"/>
 <rect x="305" y="390" width="46" height="86" rx="5" fill="#1b7f5c"/>
 <path d="M340 432 C410 390 485 395 555 432" fill="none" stroke="#17885f" stroke-width="4" stroke-dasharray="8 8"/>
 <circle cx="555" cy="432" r="9" fill="#17885f"/>
-<text x="55" y="505" class="q" fill="#0f6b50">Strategic question:</text>
-<text x="245" y="505" class="qt">Who charges where and when?</text>
+<text x="55" y="525" class="q" fill="#0f6b50">Strategic question:</text>
+<text x="245" y="525" class="qt">Who charges where and when?</text>
 
-<rect x="32" y="545" width="696" height="220" rx="20" fill="#f4f8fd" stroke="#bdd2ee" stroke-width="2"/>
-<text x="55" y="590" class="h" fill="#164f96">Mechanism Design &amp; Reassignment</text>
-<circle cx="110" cy="655" r="16" fill="#2780c8"/><circle cx="110" cy="700" r="16" fill="#2ca66a"/>
-<path d="M145 655 C235 655 265 620 365 620" fill="none" stroke="#2780c8" stroke-width="4"/>
-<path d="M145 700 C235 700 265 665 365 665" fill="none" stroke="#2ca66a" stroke-width="4"/>
-<path d="M365 602 l58 32 v55 h-116 v-55z" fill="#315c72"/>
-<text x="55" y="745" class="q" fill="#164f96">Strategic question:</text>
-<text x="245" y="745" class="qt">Who gets what, and when to reassign?</text>
+<!-- Mechanism design -->
+<rect x="32" y="575" width="696" height="250" rx="20" fill="#f4f8fd" stroke="#bdd2ee" stroke-width="2"/>
+<text x="55" y="620" class="h" fill="#164f96">Mechanism Design &amp; Reassignment</text>
+<circle cx="110" cy="690" r="16" fill="#2780c8"/>
+<circle cx="110" cy="735" r="16" fill="#2ca66a"/>
+<path d="M145 690 C235 690 265 655 365 655" fill="none" stroke="#2780c8" stroke-width="4"/>
+<path d="M145 735 C235 735 265 700 365 700" fill="none" stroke="#2ca66a" stroke-width="4"/>
+<path d="M365 637 l58 32 v55 h-116 v-55z" fill="#315c72"/>
+<text x="55" y="795" class="q" fill="#164f96">Strategic question:</text>
+<text x="245" y="795" class="qt">Who gets what, and when to reassign?</text>
 
-<rect x="32" y="785" width="696" height="220" rx="20" fill="#fff5f5" stroke="#efbcbc" stroke-width="2"/>
-<text x="55" y="830" class="h" fill="#9e2222">Public Safety &amp; Healthcare CPS</text>
-<path d="M85 890 h110 M110 890 l-25 20 M170 890 l25 20" fill="none" stroke="#315c72" stroke-width="5" stroke-linecap="round"/>
-<rect x="123" y="882" width="36" height="18" rx="6" fill="#315c72"/>
-<path d="M250 930 h150 l25 20 h30 v34H240v-34z" fill="#fff" stroke="#315c72" stroke-width="4"/>
-<rect x="470" y="875" width="95" height="95" fill="#fff" stroke="#315c72" stroke-width="4"/>
-<rect x="508" y="892" width="20" height="60" fill="#d94848"/><rect x="488" y="912" width="60" height="20" fill="#d94848"/>
-<text x="55" y="985" class="q" fill="#9e2222">Strategic question:</text>
-<text x="245" y="985" class="qt">Which resource goes where and when?</text>
+<!-- Public safety -->
+<rect x="32" y="845" width="696" height="250" rx="20" fill="#fff5f5" stroke="#efbcbc" stroke-width="2"/>
+<text x="55" y="890" class="h" fill="#9e2222">Public Safety &amp; Healthcare CPS</text>
+<path d="M85 950 h110 M110 950 l-25 20 M170 950 l25 20" fill="none" stroke="#315c72" stroke-width="5" stroke-linecap="round"/>
+<rect x="123" y="942" width="36" height="18" rx="6" fill="#315c72"/>
+<path d="M250 975 h150 l25 20 h30 v34 H240 v-34z" fill="#fff" stroke="#315c72" stroke-width="4"/>
+<rect x="470" y="935" width="95" height="95" fill="#fff" stroke="#315c72" stroke-width="4"/>
+<rect x="508" y="952" width="20" height="60" fill="#d94848"/>
+<rect x="488" y="972" width="60" height="20" fill="#d94848"/>
+<text x="55" y="1065" class="q" fill="#9e2222">Strategic question:</text>
+<text x="245" y="1065" class="qt">Which resource goes where and when?</text>
 
-<rect x="32" y="1025" width="696" height="220" rx="20" fill="#f7f4fd" stroke="#cfbee9" stroke-width="2"/>
-<text x="55" y="1070" class="h" fill="#5c2a95">Edge, IoT &amp; Distributed Systems</text>
-<path d="M280 1120 C310 1085 365 1090 375 1130 C405 1132 420 1156 410 1178 H245 C235 1150 250 1128 280 1120z" fill="#65a9de"/>
-<line x1="330" y1="1180" x2="330" y2="1215" stroke="#315c72" stroke-width="5"/>
-<rect x="300" y="1215" width="60" height="32" rx="6" fill="#315c72"/>
-<path d="M330 1247 C260 1247 220 1262 175 1288 M330 1247 C400 1247 445 1262 490 1288" fill="none" stroke="#6f42c1" stroke-width="4" stroke-dasharray="8 8"/>
-<text x="55" y="1225" class="q" fill="#5c2a95">Strategic question:</text>
-<text x="245" y="1225" class="qt">What to offload, where, and when?</text>
+<!-- Edge/IoT -->
+<rect x="32" y="1115" width="696" height="270" rx="20" fill="#f7f4fd" stroke="#cfbee9" stroke-width="2"/>
+<text x="55" y="1160" class="h" fill="#5c2a95">Edge, IoT &amp; Distributed Systems</text>
+<path d="M280 1210 C310 1175 365 1180 375 1220 C405 1222 420 1246 410 1268 H245 C235 1240 250 1218 280 1210z" fill="#65a9de"/>
+<line x1="330" y1="1270" x2="330" y2="1305" stroke="#315c72" stroke-width="5"/>
+<rect x="300" y="1305" width="60" height="32" rx="6" fill="#315c72"/>
+<path d="M330 1337 C275 1337 235 1348 195 1360 M330 1337 C385 1337 425 1348 465 1360" fill="none" stroke="#6f42c1" stroke-width="4" stroke-dasharray="8 8"/>
+<text x="55" y="1360" class="q" fill="#5c2a95">Strategic question:</text>
+<text x="245" y="1360" class="qt">What to offload, where, and when?</text>
 
-<rect x="32" y="1275" width="696" height="105" rx="20" fill="#f4f7f9" stroke="#d8e0e7"/>
-<text x="55" y="1320" font-family="Arial" font-size="25" font-weight="700" fill="#102133">Impact</text>
-<text x="160" y="1320" class="cs">Sustainable infrastructure · Safer communities</text>
-<text x="160" y="1352" class="cs">Efficient resource use · Real-world impact</text>
+<!-- Impact -->
+<rect x="32" y="1415" width="696" height="125" rx="20" fill="#f4f7f9" stroke="#d8e0e7"/>
+<text x="55" y="1460" font-family="Arial" font-size="25" font-weight="700" fill="#102133">Impact</text>
+<text x="160" y="1460" class="cs">Sustainable infrastructure · Safer communities</text>
+<text x="160" y="1492" class="cs">Efficient resource use · Real-world impact</text>
 </svg>
