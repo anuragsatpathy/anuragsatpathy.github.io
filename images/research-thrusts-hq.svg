@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1540" role="img" aria-labelledby="title desc">
+<title id="title">Research Thrusts</title>
+<desc id="desc">Four research thrusts in cyber-physical systems: EV charging and intelligent mobility, mechanism design and reassignment, public safety and healthcare CPS, and edge IoT and distributed systems.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#eaf6ff"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+  <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ecfbf2"/><stop offset="1" stop-color="#f8fffb"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#edf5ff"/><stop offset="1" stop-color="#f9fbff"/></linearGradient>
+  <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0f0"/><stop offset="1" stop-color="#fffafa"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f3efff"/><stop offset="1" stop-color="#fcfbff"/></linearGradient>
+  <linearGradient id="road" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#53616d"/><stop offset="1" stop-color="#28333d"/></linearGradient>
+  <linearGradient id="fire" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffd15c"/><stop offset=".55" stop-color="#ff6b35"/><stop offset="1" stop-color="#d61f1f"/></linearGradient>
+  <linearGradient id="cloud" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8dd4ff"/><stop offset="1" stop-color="#2378db"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#12324b" flood-opacity=".12"/></filter>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="16"/></filter>
+  <style>
+    text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif}
+    .serif{font-family:Georgia,"Times New Roman",serif}
+    .navy{fill:#08184c}.muted{fill:#466078}.tiny{font-size:17px}.small{font-size:21px}.body{font-size:23px}.paneltitle{font:700 31px Georgia,serif}.label{font-size:18px;font-weight:650}.method{font-size:22px;font-weight:550}.question{font-size:22px;font-weight:750}.qbody{font-size:21px}.impact{font-size:22px;font-weight:650}
+  </style>
+  <symbol id="target" viewBox="0 0 64 64"><circle cx="28" cy="36" r="20" fill="none" stroke="currentColor" stroke-width="6"/><circle cx="28" cy="36" r="10" fill="none" stroke="currentColor" stroke-width="6"/><path d="M29 35 52 12M43 12h9v9" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="car" viewBox="0 0 120 55"><path d="M20 38h82l-7-21-19-8H43L28 18z" fill="#f8fbff" stroke="#19324a" stroke-width="3"/><rect x="34" y="16" width="52" height="14" rx="4" fill="#90c5e7"/><circle cx="38" cy="41" r="8" fill="#17324a"/><circle cx="88" cy="41" r="8" fill="#17324a"/><path d="M18 34h88" stroke="#17324a" stroke-width="3"/></symbol>
+  <symbol id="server" viewBox="0 0 80 92"><rect x="9" y="7" width="62" height="78" rx="7" fill="#173b70"/><path d="M16 29h48M16 51h48M16 73h48" stroke="#89d8ff" stroke-width="3"/><circle cx="56" cy="18" r="3" fill="#63e6be"/><circle cx="56" cy="40" r="3" fill="#63e6be"/><circle cx="56" cy="62" r="3" fill="#63e6be"/></symbol>
+  <symbol id="wifi" viewBox="0 0 80 60"><path d="M8 18Q40-7 72 18M18 31Q40 13 62 31M29 43Q40 34 51 43" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round"/><circle cx="40" cy="53" r="5" fill="currentColor"/></symbol>
+</defs>
+
+<rect width="1200" height="1540" fill="#fff"/>
+<path d="M0 0h230l125 110H0z" fill="#edf7ff"/><path d="M1200 0H970l-125 110h355z" fill="#edf7ff"/>
+<text x="600" y="64" text-anchor="middle" class="serif navy" font-size="58" font-weight="700">Research Thrusts</text>
+<text x="600" y="104" text-anchor="middle" class="navy" font-size="27">Strategic coordination in cyber-physical systems</text>
+<g fill="#355e93" font-size="14" letter-spacing="2.4"><text x="35" y="34">REAL SYSTEMS</text><text x="35" y="58">STRATEGIC MODELS</text><text x="35" y="82">ALGORITHMS</text><text x="35" y="106">IMPLEMENTATION</text><text x="35" y="130">REAL-WORLD IMPACT</text></g>
+<g fill="#355e93" font-size="14" letter-spacing="2.2"><text x="1040" y="34">PEOPLE</text><text x="1040" y="58">VEHICLES</text><text x="1040" y="82">DEVICES</text><text x="1040" y="106">INFRASTRUCTURE</text><text x="1040" y="130">DATA</text><text x="1040" y="154">DECISIONS</text></g>
+
+<g transform="translate(160 145)" class="navy">
+  <g transform="translate(0 0)"><ellipse cx="40" cy="31" rx="26" ry="8" fill="none" stroke="currentColor" stroke-width="4"/><path d="M14 31v24c0 11 52 11 52 0V31M14 43c0 11 52 11 52 0" fill="none" stroke="currentColor" stroke-width="4"/><text x="40" y="88" text-anchor="middle" class="method">Allocation</text></g>
+  <line x1="154" y1="2" x2="154" y2="86" stroke="#b6c7db" stroke-width="2"/>
+  <g transform="translate(215 0)"><circle cx="40" cy="20" r="8" fill="none" stroke="currentColor" stroke-width="4"/><circle cx="21" cy="38" r="7" fill="none" stroke="currentColor" stroke-width="4"/><circle cx="59" cy="38" r="7" fill="none" stroke="currentColor" stroke-width="4"/><path d="M12 57c1-12 18-12 19 0M31 57c1-14 18-14 19 0M50 57c1-12 18-12 19 0" fill="none" stroke="currentColor" stroke-width="4"/><text x="40" y="88" text-anchor="middle" class="method">Matching</text></g>
+  <line x1="370" y1="2" x2="370" y2="86" stroke="#b6c7db" stroke-width="2"/>
+  <g transform="translate(435 0)"><rect x="8" y="17" width="60" height="45" rx="6" fill="none" stroke="currentColor" stroke-width="4"/><path d="M8 32h60M22 10v14M54 10v14" stroke="currentColor" stroke-width="4"/><circle cx="65" cy="55" r="17" fill="#fff" stroke="currentColor" stroke-width="4"/><path d="M65 45v10l8 5" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/><text x="40" y="88" text-anchor="middle" class="method">Scheduling</text></g>
+  <line x1="590" y1="2" x2="590" y2="86" stroke="#b6c7db" stroke-width="2"/>
+  <g transform="translate(650 0)"><circle cx="15" cy="26" r="8" fill="currentColor"/><circle cx="66" cy="12" r="8" fill="currentColor"/><path d="M17 29c20 25 31-2 47-14" fill="none" stroke="currentColor" stroke-width="4" stroke-dasharray="7 7"/><path d="m58 15 8-3-2 8" fill="currentColor"/><text x="40" y="88" text-anchor="middle" class="method">Routing</text></g>
+  <line x1="805" y1="2" x2="805" y2="86" stroke="#b6c7db" stroke-width="2"/>
+  <g transform="translate(865 0)"><path d="M19 31a25 25 0 0 1 41-9M61 15v14H47M61 41a25 25 0 0 1-41 9M19 57V43h14" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><text x="40" y="88" text-anchor="middle" class="method">Reassignment</text></g>
+</g>
+
+<!-- EV panel -->
+<g transform="translate(22 252)">
+  <rect width="567" height="475" rx="16" fill="url(#green)" stroke="#2d9d68" stroke-width="2"/>
+  <text x="22" y="39" class="paneltitle" fill="#0d663f">EV Charging &amp; Intelligent Mobility</text>
+  <text x="22" y="67" class="small" fill="#285f4b">Strategic charging and routing for sustainable transportation</text>
+  <rect x="16" y="84" width="535" height="286" rx="13" fill="url(#sky)"/>
+  <g opacity=".95">
+    <path d="M15 262Q105 225 180 240T335 226T550 239V370H15z" fill="#75b96f"/>
+    <g fill="#86a8bf"><rect x="55" y="155" width="24" height="65"/><rect x="84" y="143" width="30" height="79"/><rect x="121" y="162" width="22" height="58"/><rect x="152" y="126" width="31" height="98"/><rect x="191" y="153" width="28" height="72"/><rect x="225" y="139" width="25" height="84"/><rect x="260" y="161" width="28" height="65"/><rect x="297" y="133" width="25" height="94"/><rect x="333" y="152" width="29" height="75"/><rect x="371" y="121" width="33" height="108"/></g>
+    <path d="M221 370C260 319 290 285 349 250c42-25 97-44 180-56l19 176z" fill="url(#road)"/>
+    <path d="M254 370c32-48 63-76 112-104 45-26 96-43 170-54" fill="none" stroke="#57f09b" stroke-width="6"/>
+    <path d="M286 370c29-43 57-67 99-91 41-23 86-38 148-48" fill="none" stroke="#fff" stroke-width="3" stroke-dasharray="16 16"/>
+    <g transform="translate(25 205)"><rect width="205" height="60" rx="6" fill="#2d3f46"/><path d="M18 60V24h173v36" fill="#4d5e64"/><rect x="15" y="60" width="185" height="9" fill="#27343a"/><g fill="#19a861"><rect x="28" y="50" width="20" height="65" rx="5"/><rect x="65" y="50" width="20" height="65" rx="5"/><rect x="102" y="50" width="20" height="65" rx="5"/><rect x="139" y="50" width="20" height="65" rx="5"/></g><g fill="#dfffee"><rect x="33" y="57" width="10" height="21" rx="2"/><rect x="70" y="57" width="10" height="21" rx="2"/><rect x="107" y="57" width="10" height="21" rx="2"/><rect x="144" y="57" width="10" height="21" rx="2"/></g></g>
+    <use href="#car" x="65" y="313" width="110" height="50"/><use href="#car" x="340" y="304" width="92" height="42"/><use href="#car" x="438" y="265" width="73" height="34"/>
+    <g transform="translate(355 116)"><path d="M20 0c18 0 32 14 32 32 0 25-32 52-32 52S-12 57-12 32C-12 14 2 0 20 0z" fill="#1aab6d" stroke="#fff" stroke-width="5"/><circle cx="20" cy="31" r="10" fill="#fff"/></g>
+  </g>
+  <g transform="translate(383 94)" filter="url(#shadow)">
+    <rect width="154" height="185" rx="14" fill="#fff" opacity=".95"/>
+    <g class="label" fill="#284a63"><path d="M18 30c24-4 27-20 42-22-2 25-11 38-34 38 6-12 14-19 26-27-17 7-25 16-34 28z" fill="#2fa95f"/><text x="67" y="31">Grid constraints</text><path d="m28 57-14 30h17l-7 27 27-39H34l9-18z" fill="#10a46d"/><text x="67" y="83">Charging demand</text><path d="M15 117h40l-9 40H24z" fill="#315b85"/><path d="M35 120v35" stroke="#fff" stroke-width="3" stroke-dasharray="8 6"/><text x="67" y="139">Route planning</text><rect x="17" y="164" width="8" height="16" fill="#315b85"/><rect x="31" y="153" width="8" height="27" fill="#315b85"/><rect x="45" y="140" width="8" height="40" fill="#315b85"/><text x="67" y="171">Dynamic pricing</text></g>
+  </g>
+  <g transform="translate(14 382)" color="#0d7b4c"><rect width="539" height="78" rx="13" fill="#effaf3"/><use href="#target" x="14" y="11" width="55" height="55"/><text x="77" y="30" class="question" fill="#0d663f">Strategic decision:</text><text x="77" y="57" class="qbody" fill="#284a63">Which vehicles to charge, at which stations, and when?</text></g>
+</g>
+
+<!-- Mechanism panel -->
+<g transform="translate(611 252)">
+  <rect width="567" height="475" rx="16" fill="url(#blue)" stroke="#4386e8" stroke-width="2"/>
+  <text x="22" y="39" class="paneltitle" fill="#1555bd">Mechanism Design &amp; Reassignment</text>
+  <text x="22" y="67" class="small" fill="#315f9a">Incentive-aware resource allocation in strategic environments</text>
+  <rect x="16" y="84" width="535" height="286" rx="13" fill="url(#sky)"/>
+  <g fill="#8daac1" opacity=".75"><rect x="175" y="145" width="35" height="127"/><rect x="216" y="126" width="43" height="147"/><rect x="266" y="154" width="35" height="119"/><rect x="308" y="119" width="48" height="154"/><rect x="365" y="138" width="39" height="136"/><rect x="414" y="111" width="49" height="162"/></g>
+  <g transform="translate(205 148)" filter="url(#shadow)"><rect width="150" height="135" rx="18" fill="#f8fbff" stroke="#5ba2ff" stroke-width="2"/><rect x="43" y="40" width="13" height="41" fill="#194eaf"/><rect x="66" y="29" width="13" height="52" fill="#194eaf"/><rect x="89" y="16" width="13" height="65" fill="#194eaf"/><text x="75" y="103" text-anchor="middle" font-size="22" font-weight="750" fill="#123b87">Mechanism</text><text x="75" y="126" text-anchor="middle" font-size="22" font-weight="750" fill="#123b87">Design Platform</text></g>
+  <g class="label" fill="#214f8b">
+    <g transform="translate(20 102)"><rect width="156" height="53" rx="12" fill="#fff" opacity=".95"/><circle cx="27" cy="23" r="11" fill="#315d8b"/><path d="M13 48c2-18 29-18 30 0" fill="#315d8b"/><text x="52" y="24">People</text><text x="52" y="44" font-size="15">(travelers)</text></g>
+    <g transform="translate(20 163)"><rect width="156" height="53" rx="12" fill="#fff" opacity=".95"/><use href="#car" x="9" y="10" width="54" height="30"/><text x="67" y="24">Vehicles</text><text x="67" y="44" font-size="15">(ride requests)</text></g>
+    <g transform="translate(20 224)"><rect width="156" height="53" rx="12" fill="#fff" opacity=".95"/><use href="#server" x="14" y="6" width="34" height="40"/><text x="57" y="24">Compute</text><text x="57" y="44" font-size="15">(jobs/tasks)</text></g>
+    <g transform="translate(20 285)"><rect width="156" height="53" rx="12" fill="#fff" opacity=".95"/><circle cx="34" cy="27" r="14" fill="none" stroke="#315d8b" stroke-width="5"/><path d="M46 17l16-12M22 37 8 49" stroke="#315d8b" stroke-width="6"/><text x="66" y="24">Services</text><text x="66" y="44" font-size="15">(resource requests)</text></g>
+  </g>
+  <g class="label" fill="#214f8b">
+    <g transform="translate(387 102)"><rect width="150" height="53" rx="12" fill="#fff" opacity=".95"/><text x="19" y="23">⚙</text><text x="51" y="22">Efficient</text><text x="51" y="42">allocation</text></g>
+    <g transform="translate(387 163)"><rect width="150" height="53" rx="12" fill="#fff" opacity=".95"/><text x="16" y="32" font-size="27">👥</text><text x="51" y="23">Fair outcomes</text></g>
+    <g transform="translate(387 224)"><rect width="150" height="53" rx="12" fill="#fff" opacity=".95"/><text x="14" y="32" font-size="26">🤝</text><text x="51" y="22">Incentive</text><text x="51" y="42">compatibility</text></g>
+    <g transform="translate(387 285)"><rect width="150" height="53" rx="12" fill="#fff" opacity=".95"/><path d="M20 18a14 14 0 0 1 25-4M46 8v12H34M46 35a14 14 0 0 1-25 4M20 45V33h12" fill="none" stroke="#214f8b" stroke-width="4"/><text x="56" y="22">Dynamic</text><text x="56" y="42">reassignment</text></g>
+  </g>
+  <g stroke="#246dde" stroke-width="3.5" fill="none"><path d="M176 128c20 0 20 46 29 46"/><path d="M176 189c20 0 20 27 29 27"/><path d="M176 250c20 0 20 3 29 3"/><path d="M176 311c20 0 20-22 29-22"/><path d="M355 174c22 0 15-46 32-46"/><path d="M355 207c22 0 15-18 32-18"/><path d="M355 243c22 0 15 8 32 8"/><path d="M355 278c22 0 15 34 32 34"/></g>
+  <g transform="translate(14 382)" color="#1659ce"><rect width="539" height="78" rx="13" fill="#eff5ff"/><use href="#target" x="14" y="11" width="55" height="55"/><text x="77" y="30" class="question" fill="#1555bd">Strategic decision:</text><text x="77" y="55" class="qbody" fill="#284a63">How to design rules for truthful participation</text><text x="77" y="76" class="qbody" fill="#284a63">and efficient, fair outcomes?</text></g>
+</g>
+
+<!-- Public safety -->
+<g transform="translate(22 746)">
+  <rect width="567" height="475" rx="16" fill="url(#red)" stroke="#ef5858" stroke-width="2"/>
+  <text x="22" y="39" class="paneltitle" fill="#b31f25">Public Safety &amp; Healthcare CPS</text>
+  <text x="22" y="67" class="small" fill="#6c4a4a">Timely and reliable resource coordination in critical situations</text>
+  <rect x="16" y="84" width="535" height="286" rx="13" fill="url(#sky)"/>
+  <path d="M16 236Q75 198 142 221t137-2q94-43 272 15v136H16z" fill="#75a66e"/>
+  <g fill="#718da0" opacity=".78"><rect x="315" y="172" width="65" height="112"/><rect x="391" y="151" width="72" height="133"/><rect x="474" y="188" width="51" height="96"/></g>
+  <g transform="translate(70 142)"><path d="M0 180c25-58 13-91 51-139 11 50 39 79 33 139z" fill="url(#fire)"/><path d="M49 180c25-67 31-95 70-150 7 64 36 96 23 150z" fill="url(#fire)"/><path d="M101 180c18-41 15-67 49-112 8 45 34 70 28 112z" fill="url(#fire)"/></g>
+  <g transform="translate(188 112)" stroke="#233c54" stroke-width="5" fill="none"><path d="M0 20h91M16 20 45 0l29 20M45 0v126M21 126l24-106 25 106M6 126h80"/><path d="M13 53h65M10 82h70" stroke-width="3"/></g>
+  <g transform="translate(82 105)"><path d="M0 23h90M30 23 45 9l15 14M45 23v23M17 20 4 7M73 20 87 7" stroke="#173b55" stroke-width="5" fill="none"/><ellipse cx="45" cy="23" rx="19" ry="7" fill="#2a5f7f"/><path d="M45 31 29 55M45 31l18 24" stroke="#52b8e5" stroke-width="2"/></g>
+  <g transform="translate(385 122)"><path d="M0 20h95" stroke="#173b55" stroke-width="5"/><ellipse cx="48" cy="20" rx="22" ry="9" fill="#d94747"/><path d="M28 20 14 38M67 20l16 17" stroke="#173b55" stroke-width="4"/></g>
+  <g transform="translate(344 248)"><rect x="0" y="23" width="98" height="46" rx="5" fill="#fff" stroke="#33485e" stroke-width="3"/><rect x="15" y="12" width="49" height="38" rx="4" fill="#fff" stroke="#33485e" stroke-width="3"/><rect x="25" y="22" width="16" height="16" fill="#e13e3e"/><path d="M33 18v24M21 30h24" stroke="#e13e3e" stroke-width="5"/><circle cx="22" cy="70" r="8" fill="#20384f"/><circle cx="79" cy="70" r="8" fill="#20384f"/></g>
+  <g transform="translate(25 254)"><rect width="142" height="47" rx="18" fill="#cf2424"/><circle cx="25" cy="23" r="15" fill="#fff"/><path d="M25 10c6 10-6 12 2 24-11-1-15-14-2-24z" fill="#e13e3e"/><text x="50" y="30" class="label" fill="#fff">Incident site</text></g>
+  <g transform="translate(300 143)"><rect width="144" height="48" rx="11" fill="#fff" opacity=".95"/><text x="14" y="22" class="label" fill="#31506a">Communication</text><text x="14" y="41" class="label" fill="#31506a">infrastructure</text></g>
+  <g transform="translate(404 229)"><rect width="137" height="44" rx="11" fill="#fff" opacity=".95"/><text x="12" y="29" class="label" fill="#31506a">Healthcare facilities</text></g>
+  <g transform="translate(350 306)"><rect width="116" height="39" rx="10" fill="#fff" opacity=".95"/><text x="17" y="26" class="label" fill="#31506a">Ground units</text></g>
+  <path d="M165 275C230 255 260 197 300 177M170 282c75 11 116 14 180 44" fill="none" stroke="#e52f39" stroke-width="3" stroke-dasharray="8 6"/>
+  <path d="M279 174c48-5 91 22 125 72" fill="none" stroke="#2c6bc7" stroke-width="3" stroke-dasharray="8 6"/>
+  <g transform="translate(20 342)" class="tiny" fill="#31506a"><rect width="527" height="38" rx="10" fill="#fff" opacity=".94"/><text x="45" y="25">✈ UAVs</text><text x="150" y="25">🚒 First responders</text><text x="304" y="25">📡 Networks</text><text x="424" y="25">✚ Hospitals</text></g>
+  <g transform="translate(14 388)" color="#c51d27"><rect width="539" height="72" rx="13" fill="#fff0f0"/><use href="#target" x="14" y="9" width="55" height="55"/><text x="77" y="28" class="question" fill="#b31f25">Strategic decision:</text><text x="77" y="55" class="qbody" fill="#5c4650">Which resources to deploy, where, and when?</text></g>
+</g>
+
+<!-- Edge -->
+<g transform="translate(611 746)">
+  <rect width="567" height="475" rx="16" fill="url(#violet)" stroke="#7e55db" stroke-width="2"/>
+  <text x="22" y="39" class="paneltitle" fill="#5a29b5">Edge, IoT &amp; Distributed Systems</text>
+  <text x="22" y="67" class="small" fill="#584c82">Intelligent offloading and resource management</text><text x="22" y="91" class="small" fill="#584c82">across the edge–cloud continuum</text>
+  <rect x="16" y="108" width="535" height="262" rx="13" fill="url(#sky)"/>
+  <g fill="#9db2c7" opacity=".7"><rect x="195" y="158" width="26" height="102"/><rect x="228" y="137" width="35" height="123"/><rect x="272" y="170" width="26" height="90"/><rect x="306" y="145" width="40" height="115"/><rect x="355" y="121" width="45" height="139"/></g>
+  <g transform="translate(20 119)"><rect width="142" height="218" rx="14" fill="#fff" opacity=".95"/><text x="71" y="27" text-anchor="middle" class="label" fill="#4d328c">Edge devices</text><text x="71" y="47" text-anchor="middle" font-size="15" fill="#4d328c">(IoT/IIoT)</text><rect x="20" y="70" width="38" height="24" rx="5" fill="#29475f"/><circle cx="39" cy="98" r="7" fill="#29475f"/><use href="#wifi" x="69" y="64" width="48" height="36" color="#2475dc"/><use href="#car" x="18" y="112" width="72" height="35"/><rect x="26" y="159" width="32" height="50" rx="5" fill="#23394e"/><rect x="31" y="165" width="22" height="35" fill="#4ea9e7"/><circle cx="101" cy="169" r="15" fill="#2e5e82"/><circle cx="101" cy="169" r="7" fill="#65c8ff"/></g>
+  <g transform="translate(194 119)"><rect width="150" height="55" rx="12" fill="#fff" opacity=".95"/><text x="75" y="25" text-anchor="middle" class="label" fill="#4d328c">Edge layer</text><text x="75" y="45" text-anchor="middle" font-size="15" fill="#4d328c">(edge nodes)</text></g>
+  <g transform="translate(365 119)"><rect width="171" height="55" rx="12" fill="#fff" opacity=".95"/><text x="86" y="35" text-anchor="middle" class="label" fill="#4d328c">Cloud / Data center</text></g>
+  <g transform="translate(224 216)"><use href="#server" width="74" height="85"/><use href="#server" x="86" y="42" width="74" height="85"/><use href="#server" x="172" y="16" width="74" height="85"/></g>
+  <g transform="translate(409 190)" filter="url(#shadow)"><path d="M24 70c-20 0-29-17-22-31 5-11 15-15 24-13 4-18 20-29 38-25 14 3 23 13 26 25 17-1 30 9 31 23 2 12-8 21-22 21z" fill="url(#cloud)"/><use href="#server" x="15" y="60" width="105" height="122"/></g>
+  <g color="#2584e5"><use href="#wifi" x="165" y="188" width="55" height="40"/><use href="#wifi" x="300" y="181" width="55" height="40"/><use href="#wifi" x="322" y="276" width="55" height="40"/></g>
+  <g fill="none" stroke="#36a7ff" stroke-width="4" opacity=".9"><path d="M162 240c35-11 47-17 62-5"/><path d="M300 257c35-23 75-38 116-25"/><path d="M382 299c32-13 49-25 73-52"/><path d="M275 330c79 15 136 10 180-42"/></g>
+  <g transform="translate(20 337)" class="tiny" fill="#4e4b78"><rect width="527" height="36" rx="10" fill="#fff" opacity=".95"/><text x="42" y="24">Low latency</text><text x="190" y="24">Computation &amp; storage continuum</text><text x="437" y="24">High scalability</text></g>
+  <g transform="translate(14 388)" color="#6a2bc5"><rect width="539" height="72" rx="13" fill="#f2edff"/><use href="#target" x="14" y="9" width="55" height="55"/><text x="77" y="28" class="question" fill="#5a29b5">Strategic decision:</text><text x="77" y="55" class="qbody" fill="#554875">What to offload, where, and when?</text></g>
+</g>
+
+<!-- Impact -->
+<g transform="translate(0 1240)">
+  <path d="M0 0c134-19 212 24 343 1s208 17 322 1 214-17 535 9v290H0z" fill="#f4faff"/>
+  <line x1="210" y1="49" x2="505" y2="49" stroke="#2e6498" stroke-width="2"/><line x1="695" y1="49" x2="990" y2="49" stroke="#2e6498" stroke-width="2"/>
+  <text x="600" y="61" text-anchor="middle" class="serif navy" font-size="40" font-weight="700">Impact</text>
+  <g transform="translate(58 100)">
+    <g transform="translate(0 0)"><path d="M10 50c35-4 58-30 62-66-33 5-58 21-62 66z" fill="#3cab4e"/><path d="M14 51c17-21 31-35 54-56" stroke="#167a31" stroke-width="3"/><text x="85" y="26" class="impact" fill="#184f8a">Sustainable</text><text x="85" y="51" class="impact" fill="#184f8a">infrastructure</text></g>
+    <line x1="255" y1="-10" x2="255" y2="80" stroke="#c2d2e2" stroke-width="2"/>
+    <g transform="translate(300 0)"><circle cx="18" cy="14" r="11" fill="#27679b"/><circle cx="48" cy="9" r="13" fill="#27679b"/><circle cx="78" cy="14" r="11" fill="#27679b"/><path d="M0 55c0-20 36-20 36 0M26 58c0-27 44-27 44 0M60 55c0-20 36-20 36 0" fill="#27679b"/><text x="115" y="26" class="impact" fill="#184f8a">Safer</text><text x="115" y="51" class="impact" fill="#184f8a">communities</text></g>
+    <line x1="600" y1="-10" x2="600" y2="80" stroke="#c2d2e2" stroke-width="2"/>
+    <g transform="translate(646 0)"><rect x="0" y="37" width="18" height="23" fill="#27679b"/><rect x="28" y="22" width="18" height="38" fill="#27679b"/><rect x="56" y="2" width="18" height="58" fill="#27679b"/><text x="101" y="26" class="impact" fill="#184f8a">Efficient</text><text x="101" y="51" class="impact" fill="#184f8a">resource use</text></g>
+    <line x1="865" y1="-10" x2="865" y2="80" stroke="#c2d2e2" stroke-width="2"/>
+    <g transform="translate(905 0)"><circle cx="32" cy="32" r="29" fill="none" stroke="#27679b" stroke-width="4"/><path d="M3 32h58M32 3c-12 14-12 44 0 58M32 3c12 14 12 44 0 58M12 14c13 7 27 7 40 0M12 50c13-7 27-7 40 0" fill="none" stroke="#27679b" stroke-width="3"/><text x="78" y="26" class="impact" fill="#184f8a">Real-world</text><text x="78" y="51" class="impact" fill="#184f8a">impact</text></g>
+  </g>
+  <text x="600" y="252" text-anchor="middle" fill="#7698bd" font-size="14" letter-spacing="4">ALGORITHMS FOR A MORE CONNECTED, RESILIENT, AND SUSTAINABLE WORLD</text>
+</g>
+</svg>
