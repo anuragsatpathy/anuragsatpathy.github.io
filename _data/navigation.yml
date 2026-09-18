@@ -10,5 +10,7 @@ main:
     url: /funding/
   - title: "Service"
     url: /service/
+  - title: "News & Media"
+    url: /news-media/
   - title: "CV"
     url: /cv/
