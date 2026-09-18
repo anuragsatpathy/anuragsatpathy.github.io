@@ -36,6 +36,13 @@ classes: wide service-modern
   </div>
 
   <div class="service-year">
+    <h3>2027</h3>
+    <div class="service-chip-list">
+      <span>AIoT</span><span><a href="https://cs3-lab.github.io/icdcn/organization.html" target="_blank" rel="noopener">ICDCN — Distributed Computing Track</a></span><span><a href="https://warwick.ac.uk/fac/sci/dcs/aamas2027/" target="_blank" rel="noopener">AAMAS</a></span><span><a href="https://aaai.org/conference/aaai/aaai-27/" target="_blank" rel="noopener">AAAI</a></span>
+    </div>
+  </div>
+
+  <div class="service-year">
     <h3>2026</h3>
     <div class="service-chip-list">
       <span>IEEE/ACM IWQoS</span><span>IEEE MASS</span><span>IEEE SmartGridComm</span><span>IEEE GlobeCom SAC</span><span>GameSec</span><span>IEEE CONNECT</span><span><a href="https://archive.comsnets.org/archive/2026/poster_session.php" target="_blank" rel="noopener">IEEE COMSNETS</a></span><span>IEEE PerCom Workshops</span><span><a href="https://widroit2026.github.io/" target="_blank" rel="noopener">DCOSS-IoT Wi-DroIT</a></span><span><a href="https://networking.ifip.org/2026/index.php/workshops/creative.html" target="_blank" rel="noopener">IFIP Networking CREATIVE</a></span><span><a href="https://events.vtsociety.org/vtc2026-spring/conference-sessions/workshops-currently-available/w16-lpwan-based-terrestrial-non-terrestrial-integration-for-vehicular-networks-ai-driven-hardware-platforms-testbeds-and-6g-directions/" target="_blank" rel="noopener">VTC Workshops</a></span><span><a href="https://jwwthu.github.io/ICCCN2026.html" target="_blank" rel="noopener">ICCCN Workshop</a></span><span><a href="https://www.iaria.org/conferences2026/ComUBICOMM26.html" target="_blank" rel="noopener">UBICOMM</a></span><span>ICFAT</span>
