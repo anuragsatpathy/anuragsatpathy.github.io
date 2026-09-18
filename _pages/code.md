@@ -1,78 +1,29 @@
 ---
 layout: archive
-title: "Research Projects"
+title: ""
 permalink: /code/
-author_profile: true
-classes: wide
+author_profile: false
+classes: wide projects-modern
 ---
 
-This page highlights research projects connected to my faculty research agenda in intelligent Cyber-Physical Systems, mechanism design, optimization, learning-enabled resource coordination, mobility, EV charging, UAV logistics, public safety, and edge/IoT computing. Funding and proposal details are summarized separately on the <a href="/funding/">Funding</a> page, while committee work and leadership roles are listed on the <a href="/service/">Service</a> page.
+<section class="academic-hero">
+  <p class="academic-kicker">Research Portfolio</p>
+  <h1>Projects</h1>
+  <p class="academic-lead">Selected research projects connecting mechanism design, optimization, learning, and distributed systems to EV charging, mobility, healthcare logistics, public safety, edge computing, and cloud infrastructure.</p>
+</section>
 
-## Current and Recent Research Projects
-
-<div class="project-list">
-  <section>
-    <h3>I-Haul: Intelligent Aerial Logistics for Organ Transport</h3>
-    <p>
-      This project studies autonomous aerial logistics for emergency organ transport. The work combines UAV routing, clinical workflow constraints, cold-chain requirements, regulatory considerations, stakeholder discovery, and technology-readiness planning for time-sensitive healthcare logistics.
-    </p>
-    <p><strong>Research themes:</strong> UAV-assisted healthcare logistics, public safety CPS, time-critical routing, commercialization translation.</p>
-  </section>
-
-  <section>
-    <h3>SPICE: Subscription-based Platform for Intelligent Charging of Electric Vehicles</h3>
-    <p>
-      SPICE develops behavior-aware EV charging assignment policies for fair and predictable charging access under congestion. The project models uncertainty, strategic user behavior, misuse, and the way charging delays propagate through mobility and logistics systems.
-    </p>
-    <p><strong>Research themes:</strong> EV charging coordination, strategic behavior, fairness, intelligent transportation.</p>
-  </section>
-
-  <section>
-    <h3>Strategic Lightweight Reassignment of Shared Resources in Large-Scale CPS</h3>
-    <p>
-      This project designs scalable reassignment mechanisms for strategic agents sharing constrained resources under noncompliance, uncertainty, and dynamic preferences. The work studies stability, equilibrium conditions, multi-quota exchange, and parallel reassignment in large CPS deployments.
-    </p>
-    <p><strong>Research themes:</strong> mechanism design, equilibrium analysis, Top Trading Cycles, shared-resource CPS.</p>
-  </section>
-
-  <section>
-    <h3>SOTERIA: Satisfaction- and Behavior-Aware Dynamic Resource Allocation in Public Safety Systems</h3>
-    <p><strong>Role:</strong> Lead contributor during postdoctoral research.</p>
-    <p>
-      This NSF-supported research develops coalition-formation and regret-learning methods for UAV-assisted emergency communication under uncertain demand and network conditions. The goal is to support adaptive, behavior-aware coordination for public safety systems.
-    </p>
-    <p><strong>Research themes:</strong> emergency response, public safety systems, UAV-assisted communication, learning under uncertainty.</p>
-  </section>
-
-  <section>
-    <h3>EV Charging, Routing, and Mobility Coordination</h3>
-    <p>
-      This research line includes stable matching and co-optimization frameworks for EV charging assignment and goods-delivery logistics, including SMART-CHARGE, SMEVCA, and CARGO. The work studies subscription-based charging, strategic user choices, charging-point assignment, and integrated charging-routing decisions.
-    </p>
-    <p><strong>Research themes:</strong> intelligent transportation, EV charging, routing, matching theory, sustainable mobility.</p>
-  </section>
-
-  <section>
-    <h3>Emergency Routing and Wildfire Evacuation</h3>
-    <p>
-      This project direction studies routing under evolving stochastic congestion, uncertain hazard spread, and selfish mobility behavior. The work targets emergency response settings where routing decisions must be robust, timely, and sensitive to changing network conditions.
-    </p>
-    <p><strong>Research themes:</strong> wildfire evacuation, stochastic congestion, emergency response, public safety CPS.</p>
-  </section>
-
-  <section>
-    <h3>Vehicular Edge and IoT-Fog Offloading</h3>
-    <p>
-      This work develops mobility-aware and fairness-aware offloading mechanisms for vehicular edge, IoT, and fog systems. Representative projects include MIME, MOVE, LBA, LETO, A-DAFTO, M-DAFTO, and Fair-Match.
-    </p>
-    <p><strong>Research themes:</strong> vehicular edge computing, IoT-fog systems, task offloading, fairness-aware matching.</p>
-  </section>
-
-  <section>
-    <h3>Cloud, Edge, and Serverless Resource Management</h3>
-    <p>
-      My earlier research developed matching-theoretic, coalition-based, and meta-heuristic methods for virtual data center re-embedding, virtual network remapping, virtual machine placement, workload migration, and serverless-edge resource orchestration.
-    </p>
-    <p><strong>Research themes:</strong> virtual data centers, cloud-edge systems, serverless computing, resource reallocation.</p>
-  </section>
+<div class="academic-body">
+<section class="academic-section">
+  <div class="project-modern-grid">
+    <article class="academic-card project-modern-card"><span class="academic-label">Healthcare CPS</span><h3>I-HAUL</h3><p>Intelligent aerial logistics for time-critical organ transportation, combining UAV routing, clinical workflow constraints, stakeholder discovery, and technology-readiness planning.</p><a href="/funding/">Funding &amp; translation →</a></article>
+    <article class="academic-card project-modern-card"><span class="academic-label">EV Infrastructure</span><h3>SPICE</h3><p>Behavior-aware EV charging assignment for fair and predictable access under congestion, uncertainty, strategic behavior, and mobility-dependent delay.</p><a href="/funding/">Proposal details →</a></article>
+    <article class="academic-card project-modern-card"><span class="academic-label">Mechanism Design</span><h3>Strategic Resource Reassignment</h3><p>Scalable reassignment mechanisms for strategic agents sharing constrained resources under noncompliance, uncertainty, and dynamic preferences.</p></article>
+    <article class="academic-card project-modern-card"><span class="academic-label">Public Safety</span><h3>SOTERIA</h3><p>Coalition-formation and learning-based coordination for UAV-assisted emergency communication and behavior-aware resource allocation.</p></article>
+    <article class="academic-card project-modern-card"><span class="academic-label">Mobility</span><h3>EV Charging, Routing &amp; Logistics</h3><p>Stable matching and co-optimization frameworks including SMART-CHARGE, SMEVCA, and CARGO for charging assignment and delivery logistics.</p></article>
+    <article class="academic-card project-modern-card"><span class="academic-label">Emergency Response</span><h3>Wildfire Routing</h3><p>Routing under evolving stochastic congestion, uncertain hazard spread, and selfish mobility behavior in time-critical evacuation settings.</p></article>
+    <article class="academic-card project-modern-card"><span class="academic-label">Edge &amp; IoT</span><h3>Vehicular and IoT-Fog Offloading</h3><p>Mobility-aware and fairness-aware offloading mechanisms including MIME, MOVE, LBA, LETO, A-DAFTO, M-DAFTO, and Fair-Match.</p></article>
+    <article class="academic-card project-modern-card"><span class="academic-label">Cloud Systems</span><h3>Cloud, Edge &amp; Serverless Resource Management</h3><p>Matching, coalition, and meta-heuristic approaches for VDC re-embedding, VM placement, workload migration, and serverless-edge scheduling.</p></article>
+  </div>
+</section>
+<p class="academic-cta">For outputs from these projects, see <a href="/publications/">Publications</a>. For awarded and submitted support, see <a href="/funding/">Funding</a>.</p>
 </div>
