@@ -2905,20 +2905,29 @@
 
 @media (max-width: 720px) {
   .research-figure-block {
-    width: min(100% - 1rem, 1180px);
+    width: min(100% - 2rem, 1180px);
     margin-top: 1.15rem;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
+    overflow: hidden;
   }
 
   .research-figure {
-    min-width: 760px;
+    width: 100%;
+    min-width: 0;
     padding: .45rem;
     border-radius: 12px;
+    box-sizing: border-box;
+  }
+
+  .research-figure img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain;
   }
 
   .research-figure figcaption {
-    text-align: left;
+    text-align: center;
     font-size: .74rem;
   }
 }
