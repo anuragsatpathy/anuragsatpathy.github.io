@@ -24,6 +24,12 @@ classes: wide publications-vishesh
   <h2>2026</h2>
   <ol class="vish-pub-list">
     <li class="vish-pub" data-category="journal">
+      <div class="vish-pub__title"><a href="https://ieeexplore.ieee.org/document/11735305/">FLARES: Flight Time and Route Optimization for Efficient Solar Harnessing in Urban Air Mobility</a></div>
+      <div class="vish-pub__authors">Debjyoti Sengupta, <b>Anurag Satpathy</b>, and Sajal K. Das</div>
+      <div class="vish-pub__venue">in <b>IEEE Transactions on Intelligent Transportation Systems</b>, 2026.</div>
+      <div class="vish-pub__kind">Journal</div>
+    </li>
+    <li class="vish-pub" data-category="journal">
       <div class="vish-pub__title"><a href="https://doi.org/10.1016/j.pmcj.2026.102197">SMART-CHARGE: Stable Matching Algorithm for Electric Vehicle Charging in Subscription-Based Models</a></div>
       <div class="vish-pub__authors">Arindam Khanda<sup>*</sup>, <b>Anurag Satpathy</b><sup>*</sup>, and Sajal K. Das</div>
       <div class="vish-pub__venue">in <b>Pervasive and Mobile Computing</b>, vol. 118, article 102197, 2026.. <sup>*</sup>These authors contributed equally.</div>
