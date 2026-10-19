@@ -36,7 +36,7 @@ classes: wide publications-vishesh
       <div class="vish-pub__kind">Journal</div>
     </li>
     <li class="vish-pub" data-category="journal">
-      <div class="vish-pub__title">Fair-Match: Fairness-aware Matching Framework for Task Offloading in IoT--Fog Systems</div>
+      <div class="vish-pub__title"><a href="https://doi.org/10.1109/TCE.2026.3671824">Fair-Match: Fairness-aware Matching Framework for Task Offloading in IoT--Fog Systems</a></div>
       <div class="vish-pub__authors">Chittaranjan Swain, Manmath Narayan Sahoo, <b>Anurag Satpathy</b>, and Sambit Bakshi</div>
       <div class="vish-pub__venue">accepted for publication in <b>IEEE Transactions on Consumer Electronics</b>, 2026 (<b>IF-10.9</b>).</div>
       <div class="vish-pub__kind">Journal</div>
