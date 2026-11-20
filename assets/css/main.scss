@@ -1569,6 +1569,13 @@
   white-space: nowrap;
 }
 
+/* Long linked venue names must stay inside the publication column. */
+.vish-pub__venue b a,
+.vish-pub__venue strong a {
+  white-space: normal;
+  overflow-wrap: break-word;
+}
+
 .vish-pub__venue a:hover {
   text-decoration: underline !important;
   text-underline-offset: 2px;
