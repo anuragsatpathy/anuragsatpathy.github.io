@@ -13,7 +13,7 @@ classes: wide
     A mechanism-design approach for recovering shared cyber-physical systems when the original assignment is disrupted by human behavior, capacity limits, or changing preferences.
   </p>
   <div class="hero-actions">
-    <a class="btn-primary" href="https://arxiv.org/abs/2602.00859">Read paper</a>
+    <a class="btn-primary" href="https://dl.acm.org/doi/full/10.1145/3801146.3805679">Read published paper</a>
     <a class="btn-secondary" href="/files/react-ttc-iccps-2026-slides.pptx">Slides</a>
     <a class="btn-secondary" href="/publications/">Publications</a>
   </div>

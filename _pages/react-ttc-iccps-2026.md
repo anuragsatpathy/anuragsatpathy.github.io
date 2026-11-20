@@ -18,9 +18,8 @@ classes: wide
     <strong>Keywords:</strong> Cyber-Physical Systems, Top Trading Cycles, EV charging, non-compliance, mechanism design, human-in-the-loop CPS
   </p>
   <p class="hero-actions">
-    <a class="btn btn--primary" href="/files/react-ttc-iccps-2026.pdf">Paper PDF</a>
+    <a class="btn btn--primary" href="https://dl.acm.org/doi/full/10.1145/3801146.3805679">Published paper</a>
     <a class="btn btn--primary" href="/files/react-ttc-iccps-2026-slides.pptx">Slides</a>
-    <a class="btn btn--inverse" href="https://arxiv.org/abs/2602.00859">arXiv</a>
   </p>
 </section>
 
@@ -113,8 +112,7 @@ I presented this work at HSCC 2026 and ICCPS 2026 during CPS-IoT Week. The talk 
 
 <ul>
   <li><a href="/files/react-ttc-iccps-2026-slides.pptx">Download the CPS-IoT Week slides</a></li>
-  <li><a href="/files/react-ttc-iccps-2026.pdf">Download the paper PDF</a></li>
-  <li><a href="https://arxiv.org/abs/2602.00859">Read the arXiv version</a></li>
+  <li><a href="https://dl.acm.org/doi/full/10.1145/3801146.3805679">Read the published paper in the ACM Digital Library</a></li>
 </ul>
 
 ## How This Fits My Research Agenda
