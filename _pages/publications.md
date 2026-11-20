@@ -62,7 +62,7 @@ classes: wide publications-vishesh
     <li class="vish-pub" data-category="conference">
       <div class="vish-pub__title"><a href='/publications/react-ttc-iccps-2026/'>ReACT-TTC: Capacity-Aware Top Trading Cycles for Post-Choice Reassignment in Shared CPS</a></div>
       <div class="vish-pub__authors"><b>Anurag Satpathy</b><sup>*</sup>, Arindam Khanda<sup>*</sup>, Chittaranjan Swain, and Sajal K. Das</div>
-      <div class="vish-pub__venue">at the combined <b>29th ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2026) and 17th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2026)</b>, part of CPS-IoT Week, Saint-Malo, France. <a href="/files/react-ttc-iccps-2026.pdf">PDF</a> | <a href="/files/react-ttc-iccps-2026-slides.pptx">Slides</a>. <sup>*</sup>These authors contributed equally.</div>
+      <div class="vish-pub__venue">at the combined <b><a href="https://hscc.acm.org/2026/">29th ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2026) and 17th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2026)</a></b>, part of CPS-IoT Week, Saint-Malo, France. <a href="/files/react-ttc-iccps-2026.pdf">PDF</a> | <a href="/files/react-ttc-iccps-2026-slides.pptx">Slides</a>. <sup>*</sup>These authors contributed equally.</div>
       <div class="vish-pub__kind">Conference</div>
     </li>
     <li class="vish-pub" data-category="conference">
