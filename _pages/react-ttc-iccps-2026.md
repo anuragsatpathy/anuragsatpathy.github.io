@@ -7,14 +7,14 @@ classes: wide
 ---
 
 <section class="paper-spotlight">
-  <p class="eyebrow">Featured Paper | ICCPS 2026 | CPS-IoT Week</p>
+  <p class="eyebrow">Featured Paper | HSCC 2026 | ICCPS 2026 | CPS-IoT Week</p>
   <h1>ReACT-TTC: Capacity-Aware Top Trading Cycles for Post-Choice Reassignment in Shared Cyber-Physical Systems</h1>
   <p class="lead">
     A post-deviation reassignment framework for shared-resource CPS where human users may ignore assigned resources, update preferences, and require fast, voluntary, satisfaction-preserving reassignment.
   </p>
   <p class="spotlight-meta">
     <strong>Authors:</strong> Anurag Satpathy*, Arindam Khanda*, Chittaranjan Swain, and Sajal K. Das<br>
-    <strong>Venue:</strong> 17th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), CPS-IoT Week 2026, Saint-Malo, France<br>
+    <strong>Venue:</strong> 29th ACM International Conference on Hybrid Systems: Computation and Control (HSCC) and 17th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), CPS-IoT Week 2026, Saint-Malo, France<br>
     <strong>Keywords:</strong> Cyber-Physical Systems, Top Trading Cycles, EV charging, non-compliance, mechanism design, human-in-the-loop CPS
   </p>
   <p class="hero-actions">
@@ -109,7 +109,7 @@ We also incorporate a prospect-theoretic satisfaction model to better capture re
 
 ## CPS-IoT Week Presentation
 
-I presented this work at CPS-IoT Week 2026 as part of ICCPS. The talk introduces classical TTC, explains why it fails in capacity-constrained CPS, and walks through the ReACT-TTC framework, theoretical guarantees, and EV charging case study.
+I presented this work at HSCC 2026 and ICCPS 2026 during CPS-IoT Week. The talk introduces classical TTC, explains why it fails in capacity-constrained CPS, and walks through the ReACT-TTC framework, theoretical guarantees, and EV charging case study.
 
 <ul>
   <li><a href="/files/react-ttc-iccps-2026-slides.pptx">Download the CPS-IoT Week slides</a></li>
@@ -152,11 +152,11 @@ We formalize these structural cases, introduce capacity-aware cycle-detection ru
 @inproceedings{satpathy2026reactttc,
   title     = {ReACT-TTC: Capacity-Aware Top Trading Cycles for Post-Choice Reassignment in Shared CPS},
   author    = {Satpathy, Anurag and Khanda, Arindam and Swain, Chittaranjan and Das, Sajal K.},
-  booktitle = {Proceedings of the 17th ACM/IEEE International Conference on Cyber-Physical Systems},
-  series    = {ICCPS '26},
+  booktitle = {Proceedings of the 29th ACM International Conference on Hybrid Systems: Computation and Control},
+  series    = {HSCC '26},
   year      = {2026},
   address   = {Saint-Malo, France},
-  note      = {Accepted for publication}
+  note      = {Presented at HSCC 2026 and ICCPS 2026 during CPS-IoT Week}
 }
 ```
 

@@ -69,7 +69,7 @@ classes: wide research-modern
 
   <div class="research-project-list">
     <article>
-      <div><span>ICCPS 2026</span><h3>ReACT-TTC</h3></div>
+      <div><span>HSCC / ICCPS 2026</span><h3>ReACT-TTC</h3></div>
       <p>Capacity-aware Top Trading Cycles for post-choice reassignment in shared CPS, demonstrated through EV charging coordination.</p>
       <a href="/publications/react-ttc-iccps-2026/">Paper spotlight →</a>
     </article>

@@ -31,7 +31,7 @@ classes: wide homepage-modern
   <div><strong>50+</strong><span>Publications</span></div>
   <div><strong>780+</strong><span>Citations</span></div>
   <div><strong>$50K</strong><span>NSF I-Corps award</span></div>
-  <div><strong>ICCPS 2026</strong><span>Featured recent work</span></div>
+  <div><strong>HSCC / ICCPS 2026</strong><span>Featured recent work</span></div>
 </section>
 
 <section class="home-section">
@@ -73,7 +73,7 @@ classes: wide homepage-modern
 
   <div class="home-card-grid home-card-grid--three">
     <article class="home-card home-card--project">
-      <span class="home-tag">ICCPS 2026</span>
+      <span class="home-tag">HSCC / ICCPS 2026</span>
       <h3>ReACT-TTC</h3>
       <p>Capacity-aware Top Trading Cycles for post-choice reassignment in shared Cyber-Physical Systems, demonstrated through EV charging coordination.</p>
       <p class="home-project-result">≥43% improvement in user satisfaction under non-compliant behavior.</p>

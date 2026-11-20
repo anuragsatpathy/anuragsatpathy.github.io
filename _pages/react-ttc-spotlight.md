@@ -21,7 +21,7 @@ classes: wide
 
 <section class="spotlight-card">
   <div>
-    <span class="tag">ICCPS 2026</span>
+    <span class="tag">HSCC / ICCPS 2026</span>
     <h2>Why this problem matters</h2>
     <p>
       Shared CPS often rely on an initial assignment: an EV is routed to a charger, a user is assigned a resource, or a system reserves capacity for a task. In practice, users may change their decisions, resources may become unavailable, and the system must recover without restarting from scratch.
