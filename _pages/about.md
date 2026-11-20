@@ -28,8 +28,8 @@ classes: wide homepage-modern
 </section>
 
 <section class="home-metrics" aria-label="Research highlights">
-  <div><strong>40+</strong><span>Publications</span></div>
-  <div><strong>700+</strong><span>Citations</span></div>
+  <div><strong>50+</strong><span>Publications</span></div>
+  <div><strong>780+</strong><span>Citations</span></div>
   <div><strong>$50K</strong><span>NSF I-Corps award</span></div>
   <div><strong>ICCPS 2026</strong><span>Featured recent work</span></div>
 </section>

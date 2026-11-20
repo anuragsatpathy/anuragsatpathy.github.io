@@ -24,21 +24,33 @@ classes: wide publications-vishesh
   <h2>2026</h2>
   <ol class="vish-pub-list">
     <li class="vish-pub" data-category="journal">
-      <div class="vish-pub__title"><a href="https://ieeexplore.ieee.org/document/11735305/">FLARES: Flight Time and Route Optimization for Efficient Solar Harnessing in Urban Air Mobility</a></div>
+      <div class="vish-pub__title"><a href="https://doi.org/10.1016/j.sysarc.2026.103967">MARViC: Multi-attribute Driven Resource Allocation for Virtual Network Embedding in Cloud Networks</a></div>
+      <div class="vish-pub__authors">T. G. Keerthan Kumar, <b>Anurag Satpathy</b>, and Sourav Kanti Addya</div>
+      <div class="vish-pub__venue">in <b>Journal of Systems Architecture</b>, article 103967, 2026.</div>
+      <div class="vish-pub__kind">Journal</div>
+    </li>
+    <li class="vish-pub" data-category="journal">
+      <div class="vish-pub__title"><a href="https://doi.org/10.1109/TITS.2026.3740367">FLARES: Flight Time and Route Optimization for Efficient Solar Harnessing in Urban Air Mobility</a></div>
       <div class="vish-pub__authors">Debjyoti Sengupta, <b>Anurag Satpathy</b>, and Sajal K. Das</div>
       <div class="vish-pub__venue">in <b>IEEE Transactions on Intelligent Transportation Systems</b>, 2026.</div>
       <div class="vish-pub__kind">Journal</div>
     </li>
     <li class="vish-pub" data-category="journal">
+      <div class="vish-pub__title"><a href="https://doi.org/10.1016/j.adhoc.2025.103975">Edge and Serverless Computing for the Next Generation of Ad Hoc Networks</a></div>
+      <div class="vish-pub__authors">Sourav Kanti Addya, Shantanu Pal, <b>Anurag Satpathy</b>, and Dheryta Jaisinghani</div>
+      <div class="vish-pub__venue">in <b>Ad Hoc Networks</b>, vol. 187, article 103975, 2026.</div>
+      <div class="vish-pub__kind">Journal</div>
+    </li>
+    <li class="vish-pub" data-category="journal">
       <div class="vish-pub__title"><a href="https://doi.org/10.1016/j.pmcj.2026.102197">SMART-CHARGE: Stable Matching Algorithm for Electric Vehicle Charging in Subscription-Based Models</a></div>
       <div class="vish-pub__authors">Arindam Khanda<sup>*</sup>, <b>Anurag Satpathy</b><sup>*</sup>, and Sajal K. Das</div>
-      <div class="vish-pub__venue">in <b>Pervasive and Mobile Computing</b>, vol. 118, article 102197, 2026.. <sup>*</sup>These authors contributed equally.</div>
+      <div class="vish-pub__venue">in <b>Pervasive and Mobile Computing</b>, vol. 118, article 102197, 2026. <sup>*</sup>These authors contributed equally.</div>
       <div class="vish-pub__kind">Journal</div>
     </li>
     <li class="vish-pub" data-category="journal">
       <div class="vish-pub__title"><a href="https://doi.org/10.1109/TCE.2026.3671824">Fair-Match: Fairness-aware Matching Framework for Task Offloading in IoT--Fog Systems</a></div>
       <div class="vish-pub__authors">Chittaranjan Swain, Manmath Narayan Sahoo, <b>Anurag Satpathy</b>, and Sambit Bakshi</div>
-      <div class="vish-pub__venue">accepted for publication in <b>IEEE Transactions on Consumer Electronics</b>, 2026 (<b>IF-10.9</b>).</div>
+      <div class="vish-pub__venue">in <b>IEEE Transactions on Consumer Electronics</b>, vol. 72, no. 2, pp. 4441–4453, 2026 (<b>IF-10.9</b>).</div>
       <div class="vish-pub__kind">Journal</div>
     </li>
     <li class="vish-pub" data-category="conference">
@@ -56,13 +68,13 @@ classes: wide publications-vishesh
     <li class="vish-pub" data-category="conference">
       <div class="vish-pub__title"><a href="https://doi.org/10.1145/3772290.3772301">RESCUE: Routing under Evolving Stochastic Congestion and Uncertain Spread in Wildfire Emergencies</a></div>
       <div class="vish-pub__authors">Sowjanya Tammali, Arindam Khanda, <b>Anurag Satpathy</b>, S. M. Shovan, and Sajal K. Das</div>
-      <div class="vish-pub__venue">in <b>Proceedings of the 27th International Conference on Distributed Computing and Networking (ICDCN 2026)</b>, pp. 168–172, 2026..</div>
+      <div class="vish-pub__venue">in <b>Proceedings of the 27th International Conference on Distributed Computing and Networking (ICDCN 2026)</b>, pp. 168–172, 2026.</div>
       <div class="vish-pub__kind">Conference</div>
     </li>
     <li class="vish-pub" data-category="book">
       <div class="vish-pub__title">Strategic Decision-Making Architectures for 6G-Enabled Cyber-Physical Systems</div>
       <div class="vish-pub__authors"><b>Anurag Satpathy</b> and Chittaranjan Swain</div>
-      <div class="vish-pub__venue">in <b>Secure and Responsible AI in 6G Technology-Enabled IoT Systems</b>, CRC Press, Taylor &amp; Francis Group, 2026.</div>
+      <div class="vish-pub__venue">in <b>Secure and Responsible AI in 6G Technology-Enabled IoT Systems</b>, CRC Press, Taylor &amp; Francis Group, pp. 25–54, 2026.</div>
       <div class="vish-pub__kind">Book Chapter</div>
     </li>
   </ol>
@@ -74,19 +86,19 @@ classes: wide publications-vishesh
     <li class="vish-pub" data-category="conference">
       <div class="vish-pub__title"><a href="https://doi.org/10.1109/LCN65610.2025.11146292">CARGO: A Co-Optimization Framework for EV Charging and Routing in Goods Delivery Logistics</a></div>
       <div class="vish-pub__authors">Arindam Khanda<sup>*</sup>, <b>Anurag Satpathy</b><sup>*</sup>, Amit Jha, and Sajal K. Das</div>
-      <div class="vish-pub__venue">in <b>Proceedings of the 2025 IEEE 50th Conference on Local Computer Networks (LCN)</b>, pp. 1–9, 2025.. <br/> <sup>*</sup>These authors contributed equally.</div>
+      <div class="vish-pub__venue">in <b>Proceedings of the 2025 IEEE 50th Conference on Local Computer Networks (LCN)</b>, pp. 1–9, 2025. <br/> <sup>*</sup>These authors contributed equally.</div>
       <div class="vish-pub__kind">Conference</div>
     </li>
     <li class="vish-pub" data-category="journal">
       <div class="vish-pub__title"><a href="https://doi.org/10.1109/LNET.2025.3603863">RUSH: Rule-Based Scheduling for Low-Latency Serverless Computing</a></div>
       <div class="vish-pub__authors">Priyanka Ashok Birajdar, Kush Anchalia, <b>Anurag Satpathy</b>, and Sourav Kanti Addya</div>
-      <div class="vish-pub__venue"><b>IEEE Networking Letters</b>, 2025..</div>
+      <div class="vish-pub__venue"><b>IEEE Networking Letters</b>, 2025.</div>
       <div class="vish-pub__kind">Journal</div>
     </li>
     <li class="vish-pub" data-category="journal">
       <div class="vish-pub__title"><a href="https://doi.org/10.1016/j.jpdc.2025.105171">SEDViN: Secure Embedding for Dynamic Virtual Network Requests Using a Multi-Attribute Matching Game</a></div>
       <div class="vish-pub__authors">T.G. Keerthan Kumar, Rahul Kumar, Anirudh Munnur Achal, <b>Anurag Satpathy</b>, Sourav Kanti Addya</div>
-      <div class="vish-pub__venue"><b>Journal of Parallel and Distributed Computing</b>, vol. 206, pp. 105171, 2025..</div>
+      <div class="vish-pub__venue"><b>Journal of Parallel and Distributed Computing</b>, vol. 206, article 105171, 2025.</div>
       <div class="vish-pub__kind">Journal</div>
     </li>
     <li class="vish-pub" data-category="journal">
@@ -97,7 +109,7 @@ classes: wide publications-vishesh
     </li>
     <li class="vish-pub" data-category="conference">
       <div class="vish-pub__title"><a href="https://ieeexplore.ieee.org/document/11038741">CITRUS: Cost and Ischemia Time Reduction using Urban Air Mobility Solutions for Organ Transport</a></div>
-      <div class="vish-pub__authors">Debjyoti Sengupta, <b>Anurag Satpathy</b>, Arindam Khanda, Sajal. K. Das</div>
+      <div class="vish-pub__authors">Debjyoti Sengupta, <b>Anurag Satpathy</b>, Arindam Khanda, and Sajal K. Das</div>
       <div class="vish-pub__venue">in <b>1st Workshop on Emerging Intelligent eDGE for WELLbeing (EDGE-Well), in conjunction with IEEE PerCom</b> at Washington DC, USA, 2025, pp. 170-175,.</div>
       <div class="vish-pub__kind">Conference</div>
     </li>
@@ -127,25 +139,25 @@ classes: wide publications-vishesh
   <ol class="vish-pub-list">
     <li class="vish-pub" data-category="conference">
       <div class="vish-pub__title"><a href="https://ieeexplore.ieee.org/abstract/document/10639795">MIME: Mobility-Induced Dynamic Matching for Partial Offloading in Vehicular Edge Computing</a></div>
-      <div class="vish-pub__authors">Mahmuda Akter, Debjyoti Sengupta, <b>Anurag Satpathy</b>, Sajal. K. Das</div>
+      <div class="vish-pub__authors">Mahmuda Akter, Debjyoti Sengupta, <b>Anurag Satpathy</b>, and Sajal K. Das</div>
       <div class="vish-pub__venue"><b>in 49th IEEE Conference on Local Computer Networks (LCN)</b>, Caen, Normandy, France, Oct 2024, pp. 1-9, (<b>Core Rank: B</b>).</div>
       <div class="vish-pub__kind">Conference</div>
     </li>
     <li class="vish-pub" data-category="conference">
       <div class="vish-pub__title"><a href="https://ieeexplore.ieee.org/document/10622282">MOVE: Matching Game for Partial Offloading in Vehicular Edge Computing</a></div>
-      <div class="vish-pub__authors">Mahmuda Akter, Debjyoti Sengupta, <b>Anurag Satpathy</b>, Sajal. K. Das</div>
+      <div class="vish-pub__authors">Mahmuda Akter, Debjyoti Sengupta, <b>Anurag Satpathy</b>, and Sajal K. Das</div>
       <div class="vish-pub__venue">, <b>in IEEE International Conference on Communications (ICC), Next-Generation Networking and Internet Symposium (NGNI)</b>, Denver, Colorado, June 2024, pp. 3670-3675,.</div>
       <div class="vish-pub__kind">Conference</div>
     </li>
     <li class="vish-pub" data-category="conference">
       <div class="vish-pub__title"><a href="https://ieeexplore.ieee.org/document/10595671">POSCA: Path Optimization for Solar Cover Amelioration in Urban Air Mobility</a></div>
-      <div class="vish-pub__authors">Debjyoti Sengupta, <b>Anurag Satpathy</b>, Sajal. K. Das</div>
+      <div class="vish-pub__authors">Debjyoti Sengupta, <b>Anurag Satpathy</b>, and Sajal K. Das</div>
       <div class="vish-pub__venue"><b>in IEEE International Conference on Smart Computing (SMARTCOMP)</b>, Osaka, Japan, June 2024, pp. 6-13,.</div>
       <div class="vish-pub__kind">Conference</div>
     </li>
     <li class="vish-pub" data-category="conference">
       <div class="vish-pub__title"><a href="https://ieeexplore.ieee.org/document/10502788">LEASE: Leveraging Energy-Awareness in Serverless Edge for Latency-Sensitive IoT Services</a></div>
-      <div class="vish-pub__authors">Aastik Verma, <b>Anurag Satpathy</b>, Sajal. K. Das, and Sourav Kanti Addya</div>
+      <div class="vish-pub__authors">Aastik Verma, <b>Anurag Satpathy</b>, Sajal K. Das, and Sourav Kanti Addya</div>
       <div class="vish-pub__venue"><b>in 3rd Workshop on Serverless computing for pervasive cloud-edge-device systems and services (STARLESS), in conjunction with IEEE PerCom</b>, Biarritz, France, Mar 2024, pp. 302-307, (<b>Core Rank: A<sup>*</sup></b>).</div>
       <div class="vish-pub__kind">Conference</div>
     </li>
