@@ -1566,14 +1566,8 @@
   color: #276887;
   font-weight: 700;
   text-decoration: none !important;
-  white-space: nowrap;
-}
-
-/* Long linked venue names must stay inside the publication column. */
-.vish-pub__venue b a,
-.vish-pub__venue strong a {
   white-space: normal;
-  overflow-wrap: break-word;
+  overflow-wrap: anywhere;
 }
 
 .vish-pub__venue a:hover {
